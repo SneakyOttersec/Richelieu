@@ -527,7 +527,7 @@ const App = {
             badges.push({ label: 'Today', value: prices.change_pct });
         }
 
-        // 1W and 1M from history
+        // 1W, 1M, 1Y, 5Y from history
         if (history && history.length > 5) {
             const lastClose = history[history.length - 1].close;
 
@@ -544,6 +544,22 @@ const App = {
                 const monthClose = history[history.length - 23].close;
                 if (monthClose > 0) {
                     badges.push({ label: '1M', value: ((lastClose - monthClose) / monthClose) * 100 });
+                }
+            }
+
+            // 1Y (~252 trading days back)
+            if (history.length > 252) {
+                const yearClose = history[history.length - 253].close;
+                if (yearClose > 0) {
+                    badges.push({ label: '1Y', value: ((lastClose - yearClose) / yearClose) * 100 });
+                }
+            }
+
+            // 5Y (first data point if we have ~5 years of data, i.e. >1000 days)
+            if (history.length > 1000) {
+                const fiveYearClose = history[0].close;
+                if (fiveYearClose > 0) {
+                    badges.push({ label: '5Y', value: ((lastClose - fiveYearClose) / fiveYearClose) * 100 });
                 }
             }
         }

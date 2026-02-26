@@ -115,8 +115,8 @@ def fetch_history():
     all_companies = get_all_companies()
     tickers = [c["ticker"] for c in all_companies]
 
-    print(f"[...] Telechargement historique 1 an pour {len(tickers)} tickers...")
-    data = yf.download(tickers, period="1y", group_by="ticker", threads=True)
+    print(f"[...] Telechargement historique 5 ans pour {len(tickers)} tickers...")
+    data = yf.download(tickers, period="5y", group_by="ticker", threads=True)
 
     count = 0
     for company in all_companies:
