@@ -1,5 +1,12 @@
 [
   {
+    "title": "What is the \"Great Rotation\"?",
+    "link": "https://finance.yahoo.com/news/great-rotation-202500500.html",
+    "publisher": "Zacks",
+    "date": "2026-02-26T20:25:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "The Zacks Analyst Blog Highlights Nvidia, Barclays, FedEx and Tokio Marine",
     "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-152100852.html",
     "publisher": "Zacks",
@@ -60,13 +67,6 @@
     "link": "https://www.lifeinsuranceinternational.com/news/dual-europe-transactional-liability-leaders/",
     "publisher": "Life Insurance International",
     "date": "2025-12-15T10:58:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tokio Marine to acquire agriculture risk management company CIH",
-    "link": "https://www.lifeinsuranceinternational.com/news/tokio-marine-acquire-cih/",
-    "publisher": "Life Insurance International",
-    "date": "2025-11-24T10:17:42Z",
     "type": "STORY"
   }
 ]
