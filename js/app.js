@@ -427,25 +427,52 @@ const App = {
 
     renderQuarterly(fundamentals, currency) {
         const container = document.getElementById('quarterly-content');
+        const heading = document.getElementById('results-heading');
         if (!container) return;
 
-        if (!fundamentals || !fundamentals.quarterly_income) {
-            container.innerHTML = '<div class="no-data">Quarterly results unavailable</div>';
+        // Determine data source: quarterly if available, otherwise annual
+        const hasQuarterly = fundamentals && fundamentals.quarterly_income &&
+            Object.keys(fundamentals.quarterly_income).length > 0;
+        const hasAnnual = fundamentals && fundamentals.income_stmt &&
+            Object.keys(fundamentals.income_stmt).length > 0;
+
+        if (!hasQuarterly && !hasAnnual) {
+            container.innerHTML = '<div class="no-data">Results unavailable</div>';
+            if (heading) heading.textContent = 'Results';
             return;
         }
 
-        const qi = fundamentals.quarterly_income;
-        const periods = Object.keys(qi).sort().reverse().slice(0, 8);
+        const isQuarterly = hasQuarterly;
+        const data = isQuarterly ? fundamentals.quarterly_income : fundamentals.income_stmt;
 
-        if (periods.length === 0) {
-            container.innerHTML = '<div class="no-data">Quarterly results unavailable</div>';
+        if (heading) heading.textContent = isQuarterly ? 'Quarterly Results' : 'Annual Results';
+
+        // Filter to last 4 years and sort descending
+        const now = new Date();
+        const fourYearsAgo = new Date(now.getFullYear() - 4, 0, 1);
+        const periods = Object.keys(data)
+            .filter(p => { const d = new Date(p); return !isNaN(d.getTime()) && d >= fourYearsAgo; })
+            .sort().reverse();
+
+        // For quarterly, cap at 16 (4 years); for annual, cap at 4
+        const maxPeriods = isQuarterly ? 16 : 4;
+        const displayPeriods = periods.slice(0, maxPeriods);
+
+        if (displayPeriods.length === 0) {
+            container.innerHTML = '<div class="no-data">Results unavailable</div>';
             return;
         }
 
+        // Build period labels
         let html = '<table class="data-table"><thead><tr><th>Period</th>';
-        for (const p of periods) {
+        for (const p of displayPeriods) {
             const d = new Date(p);
-            const label = isNaN(d.getTime()) ? p : `Q${Math.ceil((d.getMonth() + 1) / 3)} ${d.getFullYear()}`;
+            let label;
+            if (isQuarterly) {
+                label = `Q${Math.ceil((d.getMonth() + 1) / 3)} ${d.getFullYear()}`;
+            } else {
+                label = `FY ${d.getFullYear()}`;
+            }
             html += `<th>${label}</th>`;
         }
         html += '</tr></thead><tbody>';
@@ -458,10 +485,38 @@ const App = {
         ];
 
         for (const row of rows) {
+            // Data row
             html += `<tr><td>${row.label}</td>`;
-            for (const p of periods) {
-                const val = qi[p] && qi[p][row.key];
+            for (const p of displayPeriods) {
+                const val = data[p] && data[p][row.key];
                 html += `<td>${Utils.formatLargeNumber(val, currency)}</td>`;
+            }
+            html += '</tr>';
+
+            // YoY growth row
+            html += `<tr class="yoy-row"><td>YoY</td>`;
+            for (const p of displayPeriods) {
+                const val = data[p] && data[p][row.key];
+                // Find the same period one year earlier
+                const d = new Date(p);
+                const yoyDate = new Date(d.getFullYear() - 1, d.getMonth(), d.getDate());
+                // Find closest match in data
+                let prevVal = null;
+                for (const pp of Object.keys(data)) {
+                    const pd = new Date(pp);
+                    if (Math.abs(pd - yoyDate) < 45 * 24 * 60 * 60 * 1000) {
+                        prevVal = data[pp] && data[pp][row.key];
+                        break;
+                    }
+                }
+                if (val != null && prevVal != null && prevVal !== 0) {
+                    const growth = ((val - prevVal) / Math.abs(prevVal)) * 100;
+                    const sign = growth >= 0 ? '+' : '';
+                    const cls = growth >= 0 ? 'positive' : 'negative';
+                    html += `<td class="${cls}">${sign}${growth.toFixed(1)}%</td>`;
+                } else {
+                    html += `<td>\u2014</td>`;
+                }
             }
             html += '</tr>';
         }
