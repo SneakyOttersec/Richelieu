@@ -1,5 +1,12 @@
 {
   "countries": {
+    "etf": {
+      "name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false
+    },
     "france": {
       "name": "France",
       "flag": "🇫🇷",
@@ -52,6 +59,156 @@
   },
   "companies": [
     {
+      "name": "SPDR S&P 500",
+      "ticker": "SPY",
+      "tv_ticker": "AMEX:SPY",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US78462F1030",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Vanguard S&P 500",
+      "ticker": "VOO",
+      "tv_ticker": "AMEX:VOO",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US9229083632",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "iShares Core S&P 500",
+      "ticker": "IVV",
+      "tv_ticker": "AMEX:IVV",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US4642872000",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Vanguard Total Stock",
+      "ticker": "VTI",
+      "tv_ticker": "AMEX:VTI",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US9229087690",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Invesco QQQ",
+      "ticker": "QQQ",
+      "tv_ticker": "NASDAQ:QQQ",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US46090E1038",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Vanguard FTSE Developed",
+      "ticker": "VEA",
+      "tv_ticker": "AMEX:VEA",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US9219438580",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "iShares Core MSCI EAFE",
+      "ticker": "IEFA",
+      "tv_ticker": "AMEX:IEFA",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US46434V7617",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "iShares Core US Aggregate Bond",
+      "ticker": "AGG",
+      "tv_ticker": "AMEX:AGG",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US4642872265",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Vanguard Total Bond",
+      "ticker": "BND",
+      "tv_ticker": "NASDAQ:BND",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US9219378356",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
+      "name": "Vanguard FTSE Emerging",
+      "ticker": "VWO",
+      "tv_ticker": "AMEX:VWO",
+      "country": "etf",
+      "country_name": "Index / ETF",
+      "flag": "📈",
+      "exchange": "NYSE/NASDAQ",
+      "currency": "USD",
+      "pea_eligible": false,
+      "isin": "US9220428588",
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
+    },
+    {
       "name": "LVMH",
       "ticker": "MC.PA",
       "tv_ticker": "EURONEXT:MC",
@@ -62,7 +219,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121014",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods"
     },
     {
       "name": "Hermès",
@@ -75,7 +234,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000052292",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods"
     },
     {
       "name": "L'Oréal",
@@ -88,7 +249,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120321",
-      "nominatif_benefit": "+10% dividend after 2 yrs registered"
+      "nominatif_benefit": "+10% dividend after 2 yrs registered",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
     },
     {
       "name": "Schneider Electric",
@@ -101,7 +264,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121972",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
     },
     {
       "name": "Safran",
@@ -114,7 +279,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000073272",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "TotalEnergies",
@@ -127,7 +294,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120271",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "EssilorLuxottica",
@@ -140,7 +309,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121667",
-      "nominatif_benefit": "+10% dividend after 2 yrs registered"
+      "nominatif_benefit": "+10% dividend after 2 yrs registered",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies"
     },
     {
       "name": "BNP Paribas",
@@ -153,7 +324,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000131104",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Air Liquide",
@@ -166,7 +339,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120073",
-      "nominatif_benefit": "+10% dividend & +10% free shares after 2 yrs registered"
+      "nominatif_benefit": "+10% dividend & +10% free shares after 2 yrs registered",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals"
     },
     {
       "name": "Sanofi",
@@ -179,7 +354,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120578",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Christian Dior",
@@ -192,7 +369,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000130403",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods"
     },
     {
       "name": "AXA",
@@ -205,7 +384,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120628",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
     },
     {
       "name": "Vinci",
@@ -218,7 +399,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000125486",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Engineering & Construction"
     },
     {
       "name": "ENGIE",
@@ -231,7 +414,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0010208488",
-      "nominatif_benefit": "+10% dividend after 2 yrs registered"
+      "nominatif_benefit": "+10% dividend after 2 yrs registered",
+      "sector": "Utilities",
+      "industry": "Utilities - Diversified"
     },
     {
       "name": "Crédit Agricole",
@@ -244,7 +429,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000045072",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Société Générale",
@@ -257,7 +444,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000130809",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Thales",
@@ -270,7 +459,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121329",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "Orange",
@@ -283,7 +474,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000133308",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "Danone",
@@ -296,7 +489,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000120644",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods"
     },
     {
       "name": "Saint-Gobain",
@@ -309,7 +504,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000125007",
-      "nominatif_benefit": "+10% dividend after 2 yrs registered"
+      "nominatif_benefit": "+10% dividend after 2 yrs registered",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment"
     },
     {
       "name": "Legrand",
@@ -322,7 +519,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0010307819",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts"
     },
     {
       "name": "Kering",
@@ -335,7 +534,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121485",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods"
     },
     {
       "name": "Dassault Aviation",
@@ -348,7 +549,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121725",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "Veolia",
@@ -361,7 +564,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000124141",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Waste Management"
     },
     {
       "name": "Michelin",
@@ -374,7 +579,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "FR0000121261",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
     },
     {
       "name": "NVIDIA",
@@ -387,7 +594,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US67066G1040",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "Apple",
@@ -400,7 +609,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US0378331005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
     },
     {
       "name": "Alphabet",
@@ -413,7 +624,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US02079K3059",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
     },
     {
       "name": "Microsoft",
@@ -426,7 +639,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US5949181045",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
     },
     {
       "name": "Amazon",
@@ -439,7 +654,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US0231351067",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail"
     },
     {
       "name": "Meta Platforms",
@@ -452,7 +669,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US30303M1027",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information"
     },
     {
       "name": "Tesla",
@@ -465,7 +684,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US88160R1014",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "Broadcom",
@@ -478,7 +699,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US11135F1012",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "Berkshire Hathaway",
@@ -491,7 +714,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US0846707026",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
     },
     {
       "name": "Walmart",
@@ -504,7 +729,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US9311421039",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores"
     },
     {
       "name": "Eli Lilly",
@@ -517,7 +744,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US5324571083",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "JPMorgan Chase",
@@ -530,7 +759,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US46625H1005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "ExxonMobil",
@@ -543,7 +774,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US30231G1022",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Visa",
@@ -556,7 +789,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US92826C8394",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Credit Services"
     },
     {
       "name": "Johnson & Johnson",
@@ -569,7 +804,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US4781601046",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Micron Technology",
@@ -582,7 +819,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US5951121038",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "Mastercard",
@@ -595,7 +834,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US57636Q1040",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Credit Services"
     },
     {
       "name": "Costco",
@@ -608,7 +849,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US22160K1051",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores"
     },
     {
       "name": "Oracle",
@@ -621,7 +864,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US68389X1054",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Software - Infrastructure"
     },
     {
       "name": "AbbVie",
@@ -634,7 +879,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US00287Y1091",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Procter & Gamble",
@@ -647,7 +894,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US7427181091",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
     },
     {
       "name": "Bank of America",
@@ -660,7 +909,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US0605051046",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Home Depot",
@@ -673,7 +924,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US4370761029",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail"
     },
     {
       "name": "Chevron",
@@ -686,7 +939,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US1667641005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "GE Aerospace",
@@ -699,7 +954,9 @@
       "currency": "USD",
       "pea_eligible": false,
       "isin": "US3696043013",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "HSBC",
@@ -712,7 +969,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0005405286",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "AstraZeneca",
@@ -725,7 +984,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0009895292",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Shell",
@@ -738,7 +999,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00BP6MXD84",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Rio Tinto",
@@ -751,7 +1014,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0007188757",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining"
     },
     {
       "name": "Unilever",
@@ -764,7 +1029,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B10RZP78",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
     },
     {
       "name": "Rolls-Royce",
@@ -777,7 +1044,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B63H8491",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "British American Tobacco",
@@ -790,7 +1059,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0002875804",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco"
     },
     {
       "name": "ARM Holdings",
@@ -803,7 +1074,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "US0420682058",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "GSK",
@@ -816,7 +1089,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00BN7SWP63",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "BP",
@@ -829,7 +1104,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0007980591",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "National Grid",
@@ -842,7 +1119,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00BDR05C01",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric"
     },
     {
       "name": "Barclays",
@@ -855,7 +1134,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0031348658",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Lloyds Banking",
@@ -868,7 +1149,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0008706128",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "BAE Systems",
@@ -881,7 +1164,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0002634946",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "NatWest",
@@ -894,7 +1179,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00BM8PJY71",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "RELX",
@@ -907,7 +1194,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B2B0DG97",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Business Services"
     },
     {
       "name": "LSEG",
@@ -920,7 +1209,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B0SWJX34",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges"
     },
     {
       "name": "Antofagasta",
@@ -933,7 +1224,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0000456144",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Copper"
     },
     {
       "name": "Standard Chartered",
@@ -946,7 +1239,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0004082847",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Reckitt",
@@ -959,7 +1254,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B24CGK77",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
     },
     {
       "name": "Anglo American",
@@ -972,7 +1269,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B1XZS820",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining"
     },
     {
       "name": "Compass Group",
@@ -985,7 +1284,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00BD6K4575",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants"
     },
     {
       "name": "Diageo",
@@ -998,7 +1299,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB0002374006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Wineries & Distilleries"
     },
     {
       "name": "Glencore",
@@ -1011,7 +1314,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "JE00B4T3BW64",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining"
     },
     {
       "name": "3i Group",
@@ -1024,7 +1329,9 @@
       "currency": "GBP",
       "pea_eligible": false,
       "isin": "GB00B1YW4409",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": null,
+      "industry": null
     },
     {
       "name": "SAP",
@@ -1037,7 +1344,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007164600",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Software - Application"
     },
     {
       "name": "Siemens",
@@ -1050,7 +1359,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007236101",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
     },
     {
       "name": "Deutsche Telekom",
@@ -1063,7 +1374,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0005557508",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "Allianz",
@@ -1076,7 +1389,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0008404005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
     },
     {
       "name": "Siemens Energy",
@@ -1089,7 +1404,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000ENER6Y0",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
     },
     {
       "name": "Rheinmetall",
@@ -1102,7 +1419,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007030009",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "Munich RE",
@@ -1115,7 +1434,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0008430026",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Reinsurance"
     },
     {
       "name": "Infineon",
@@ -1128,7 +1449,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0006231004",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "Deutsche Bank",
@@ -1141,7 +1464,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0005140008",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "DHL Group",
@@ -1154,7 +1479,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0005552004",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics"
     },
     {
       "name": "Merck KGaA",
@@ -1167,7 +1494,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0006599905",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic"
     },
     {
       "name": "BMW",
@@ -1180,7 +1509,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0005190003",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "Mercedes-Benz",
@@ -1193,7 +1524,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007100000",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "Volkswagen",
@@ -1206,7 +1539,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007664039",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "E.ON",
@@ -1219,7 +1554,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000ENAG999",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Diversified"
     },
     {
       "name": "Siemens Healthineers",
@@ -1232,7 +1569,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000SHL1006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Medical Devices"
     },
     {
       "name": "BASF",
@@ -1245,7 +1584,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000BASF111",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Chemicals"
     },
     {
       "name": "Deutsche Börse",
@@ -1258,7 +1599,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0005810055",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges"
     },
     {
       "name": "Bayer",
@@ -1271,7 +1614,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000BAY0017",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Commerzbank",
@@ -1284,7 +1629,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000CBK1001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "RWE",
@@ -1297,7 +1644,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0007037129",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Diversified"
     },
     {
       "name": "Porsche AG",
@@ -1310,7 +1659,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000PAG9113",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "Henkel",
@@ -1323,7 +1674,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0006048432",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products"
     },
     {
       "name": "HeidelbergCement",
@@ -1336,7 +1689,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE0006047004",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Building Materials"
     },
     {
       "name": "Daimler Truck",
@@ -1349,7 +1704,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "DE000DTR0CK8",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery"
     },
     {
       "name": "UniCredit",
@@ -1362,7 +1719,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0005239360",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Intesa Sanpaolo",
@@ -1375,7 +1734,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0000072618",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Enel",
@@ -1388,7 +1749,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003128367",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Diversified"
     },
     {
       "name": "ENI",
@@ -1401,7 +1764,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003132476",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Ferrari",
@@ -1414,7 +1779,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "NL0011585146",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "Generali",
@@ -1427,7 +1794,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0000062072",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
     },
     {
       "name": "Leonardo",
@@ -1440,7 +1809,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003856405",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
     },
     {
       "name": "Poste Italiane",
@@ -1453,7 +1824,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003796171",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Conglomerates"
     },
     {
       "name": "Prysmian",
@@ -1466,7 +1839,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0004176001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts"
     },
     {
       "name": "Monte dei Paschi",
@@ -1479,7 +1854,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0005508921",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "BPER Banca",
@@ -1492,7 +1869,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0000066123",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Snam",
@@ -1505,7 +1884,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003153415",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas"
     },
     {
       "name": "Terna",
@@ -1518,7 +1899,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003242622",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric"
     },
     {
       "name": "Banco BPM",
@@ -1531,7 +1914,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0005218380",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Moncler",
@@ -1544,7 +1929,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0004965148",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Manufacturing"
     },
     {
       "name": "Mediobanca",
@@ -1557,7 +1944,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0000062957",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Unipol",
@@ -1570,7 +1959,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0004810054",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified"
     },
     {
       "name": "Banca Mediolanum",
@@ -1583,7 +1974,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0004776628",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Telecom Italia",
@@ -1596,7 +1989,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003497168",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "FinecoBank",
@@ -1609,7 +2004,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0000072170",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Italgas",
@@ -1622,7 +2019,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0005211237",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas"
     },
     {
       "name": "Technoprobe",
@@ -1635,7 +2034,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0005482333",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductors"
     },
     {
       "name": "Edison",
@@ -1648,7 +2049,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003152417",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Recordati",
@@ -1661,7 +2064,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0003828271",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "Amplifon",
@@ -1674,7 +2079,9 @@
       "currency": "EUR",
       "pea_eligible": true,
       "isin": "IT0004056880",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Medical Distribution"
     },
     {
       "name": "Toyota",
@@ -1687,7 +2094,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3633400001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
     },
     {
       "name": "MUFJ",
@@ -1700,7 +2109,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3902900004",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "SoftBank Group",
@@ -1713,7 +2124,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3436100006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "Hitachi",
@@ -1726,7 +2139,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3788600009",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Conglomerates"
     },
     {
       "name": "SMFG",
@@ -1739,7 +2154,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3890350006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Sony",
@@ -1752,7 +2169,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3435000009",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
     },
     {
       "name": "Fast Retailing",
@@ -1765,7 +2184,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3802300008",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Retail"
     },
     {
       "name": "Tokyo Electron",
@@ -1778,7 +2199,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3571400005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials"
     },
     {
       "name": "Advantest",
@@ -1791,7 +2214,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3122400009",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials"
     },
     {
       "name": "Mitsubishi Corp",
@@ -1804,7 +2229,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3898400001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Conglomerates"
     },
     {
       "name": "Mizuho",
@@ -1817,7 +2244,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3885780001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Chugai Pharmaceutical",
@@ -1830,7 +2259,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3519400000",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General"
     },
     {
       "name": "MHI",
@@ -1843,7 +2274,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3900000005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
     },
     {
       "name": "Mitsui & Co",
@@ -1856,7 +2289,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3893600001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Conglomerates"
     },
     {
       "name": "Keyence",
@@ -1869,7 +2304,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3236200006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments"
     },
     {
       "name": "ITOCHU",
@@ -1882,7 +2319,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3143600009",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Conglomerates"
     },
     {
       "name": "NTT",
@@ -1895,7 +2334,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3735400008",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "Tokio Marine",
@@ -1908,7 +2349,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3910660004",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Property & Casualty"
     },
     {
       "name": "Mitsubishi Electric",
@@ -1921,7 +2364,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3902400005",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts"
     },
     {
       "name": "Shin-Etsu Chemical",
@@ -1934,7 +2379,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3371200001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Chemicals"
     },
     {
       "name": "Japan Post Bank",
@@ -1947,7 +2394,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3946750001",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Regional"
     },
     {
       "name": "Japan Tobacco",
@@ -1960,7 +2409,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3726800000",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco"
     },
     {
       "name": "Nintendo",
@@ -1973,7 +2424,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3756600007",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia"
     },
     {
       "name": "KDDI",
@@ -1986,7 +2439,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3496400007",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
     },
     {
       "name": "Hoya",
@@ -1999,7 +2454,9 @@
       "currency": "JPY",
       "pea_eligible": false,
       "isin": "JP3837800006",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies"
     },
     {
       "name": "Royal Bank of Canada",
@@ -2012,7 +2469,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA7800871021",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "TD Bank",
@@ -2025,7 +2484,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA8911605092",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Shopify",
@@ -2038,7 +2499,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA82509L1076",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Technology",
+      "industry": "Software - Application"
     },
     {
       "name": "Agnico Eagle Mines",
@@ -2051,7 +2514,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA0084741085",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Gold"
     },
     {
       "name": "Enbridge",
@@ -2064,7 +2529,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA29250N1050",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream"
     },
     {
       "name": "BMO",
@@ -2077,7 +2544,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA0636711016",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Brookfield Corp",
@@ -2090,7 +2559,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA11271J1075",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Asset Management"
     },
     {
       "name": "CIBC",
@@ -2103,7 +2574,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA1360691010",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Scotiabank",
@@ -2116,7 +2589,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA0641491075",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Canadian National Railway",
@@ -2129,7 +2604,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA1363751027",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Railroads"
     },
     {
       "name": "Barrick Gold",
@@ -2142,7 +2619,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA0679011084",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Gold"
     },
     {
       "name": "Brookfield Asset Mgmt",
@@ -2155,7 +2634,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA1130041058",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Asset Management"
     },
     {
       "name": "CPKC",
@@ -2168,7 +2649,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA13645T1003",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Railroads"
     },
     {
       "name": "Wheaton Precious Metals",
@@ -2181,7 +2664,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA9628791027",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Gold"
     },
     {
       "name": "Suncor Energy",
@@ -2194,7 +2679,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA8672241079",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Nutrien",
@@ -2207,7 +2694,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA67077M1086",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs"
     },
     {
       "name": "TC Energy",
@@ -2220,7 +2709,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA87807B1076",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream"
     },
     {
       "name": "Manulife",
@@ -2233,7 +2724,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA56501R1064",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Insurance - Life"
     },
     {
       "name": "Imperial Oil",
@@ -2246,7 +2739,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA4530384086",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
     },
     {
       "name": "Couche-Tard",
@@ -2259,7 +2754,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA0225001045",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail"
     },
     {
       "name": "Loblaw",
@@ -2272,7 +2769,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA5394681027",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Consumer Defensive",
+      "industry": "Grocery Stores"
     },
     {
       "name": "National Bank",
@@ -2285,7 +2784,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA6330671034",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified"
     },
     {
       "name": "Franco-Nevada",
@@ -2298,7 +2799,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA3518581051",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Basic Materials",
+      "industry": "Gold"
     },
     {
       "name": "Cameco",
@@ -2311,7 +2814,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA13321L1085",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Energy",
+      "industry": "Uranium"
     },
     {
       "name": "Thomson Reuters",
@@ -2324,7 +2829,9 @@
       "currency": "CAD",
       "pea_eligible": false,
       "isin": "CA8849037095",
-      "nominatif_benefit": null
+      "nominatif_benefit": null,
+      "sector": "Industrials",
+      "industry": "Specialty Business Services"
     }
   ]
 }

@@ -122,6 +122,77 @@ a:hover {
     color: var(--accent1);
 }
 
+/* Sidebar search */
+.sidebar-search {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+}
+
+.sidebar-search input {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    font-family: var(--font);
+    font-size: 0.75rem;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.sidebar-search input:focus {
+    border-color: var(--accent1);
+}
+
+.sidebar-search input::placeholder {
+    color: var(--border);
+}
+
+.search-results {
+    display: none;
+    position: absolute;
+    left: 0.5rem;
+    right: 0.5rem;
+    top: 100%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 110;
+}
+
+.search-results a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.75rem;
+    color: var(--text);
+    border-bottom: 1px solid rgba(102, 102, 102, 0.2);
+}
+
+.search-results a:hover {
+    background: rgba(43, 188, 138, 0.1);
+    color: var(--accent1);
+}
+
+.search-match-type {
+    font-size: 0.65rem;
+    color: var(--border);
+    background: var(--bg);
+    padding: 0.1rem 0.4rem;
+    white-space: nowrap;
+}
+
+.search-no-results {
+    padding: 0.6rem;
+    font-size: 0.75rem;
+    color: var(--border);
+    text-align: center;
+    font-style: italic;
+}
+
 .sidebar-nav {
     padding: 0.5rem 0;
 }
@@ -274,6 +345,36 @@ a:hover {
     font-size: 0.7rem;
 }
 
+/* Index chart (dashboard) */
+.indices-chart {
+    height: 450px;
+    border: 1px solid var(--border);
+    overflow: hidden;
+}
+
+.indices-legend {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.8rem;
+}
+
+.index-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+    color: var(--text);
+}
+
+.index-legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
 /* Stats grid (company page) */
 .stats-grid {
     display: grid;
@@ -307,6 +408,56 @@ a:hover {
 }
 
 .stat-card .value.negative {
+    color: var(--red);
+}
+
+.stat-yoy {
+    font-size: 0.7rem;
+    margin-top: 0.2rem;
+}
+
+.stat-yoy.positive {
+    color: var(--accent1);
+}
+
+.stat-yoy.negative {
+    color: var(--red);
+}
+
+/* Price performance badges */
+.price-performance {
+    display: flex;
+    gap: 0.8rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.perf-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid var(--border);
+    background: var(--bg-secondary);
+}
+
+.perf-label {
+    font-size: 0.7rem;
+    color: var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.perf-value {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.perf-value.positive {
+    color: var(--accent1);
+}
+
+.perf-value.negative {
     color: var(--red);
 }
 
@@ -757,6 +908,19 @@ a:hover {
     .price-info {
         margin-left: 0;
         text-align: left;
+    }
+
+    .indices-chart {
+        height: 300px;
+    }
+
+    .indices-legend {
+        gap: 0.5rem;
+    }
+
+    .price-performance {
+        flex-direction: column;
+        gap: 0.5rem;
     }
 }
 

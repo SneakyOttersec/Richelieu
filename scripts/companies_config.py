@@ -1,9 +1,16 @@
 """
-Configuration des 175 entreprises du G7.
+Configuration des 185 entreprises du G7 + ETFs.
 Source unique pour les tickers yfinance et TradingView.
 """
 
 COUNTRIES = {
+    "etf": {
+        "name": "Index / ETF",
+        "flag": "\U0001f4c8",
+        "exchange": "NYSE/NASDAQ",
+        "currency": "USD",
+        "pea_eligible": False,
+    },
     "france": {
         "name": "France",
         "flag": "\U0001f1eb\U0001f1f7",
@@ -57,6 +64,18 @@ COUNTRIES = {
 
 # Chaque entreprise : (nom, ticker_yfinance, ticker_tradingview)
 COMPANIES = {
+    "etf": [
+        ("SPDR S&P 500", "SPY", "AMEX:SPY"),
+        ("Vanguard S&P 500", "VOO", "AMEX:VOO"),
+        ("iShares Core S&P 500", "IVV", "AMEX:IVV"),
+        ("Vanguard Total Stock", "VTI", "AMEX:VTI"),
+        ("Invesco QQQ", "QQQ", "NASDAQ:QQQ"),
+        ("Vanguard FTSE Developed", "VEA", "AMEX:VEA"),
+        ("iShares Core MSCI EAFE", "IEFA", "AMEX:IEFA"),
+        ("iShares Core US Aggregate Bond", "AGG", "AMEX:AGG"),
+        ("Vanguard Total Bond", "BND", "NASDAQ:BND"),
+        ("Vanguard FTSE Emerging", "VWO", "AMEX:VWO"),
+    ],
     "france": [
         ("LVMH", "MC.PA", "EURONEXT:MC"),
         ("Herm\u00e8s", "RMS.PA", "EURONEXT:RMS"),
@@ -250,6 +269,11 @@ COMPANIES = {
 
 
 ISINS = {
+    # ETFs
+    "SPY": "US78462F1030", "VOO": "US9229083632", "IVV": "US4642872000",
+    "VTI": "US9229087690", "QQQ": "US46090E1038", "VEA": "US9219438580",
+    "IEFA": "US46434V7617", "AGG": "US4642872265", "BND": "US9219378356",
+    "VWO": "US9220428588",
     # France
     "MC.PA": "FR0000121014", "RMS.PA": "FR0000052292", "OR.PA": "FR0000120321",
     "SU.PA": "FR0000121972", "SAF.PA": "FR0000073272", "TTE.PA": "FR0000120271",
@@ -320,6 +344,17 @@ ISINS = {
     "IMO.TO": "CA4530384086", "ATD.TO": "CA0225001045", "L.TO": "CA5394681027",
     "NA.TO": "CA6330671034", "FNV.TO": "CA3518581051", "CCO.TO": "CA13321L1085",
     "TRI.TO": "CA8849037095",
+}
+
+INDICES = {
+    "^FCHI": {"name": "CAC 40", "country": "france", "color": "#2bbc8a"},
+    "^GSPC": {"name": "S&P 500", "country": "usa", "color": "#6699cc"},
+    "^FTSE": {"name": "FTSE 100", "country": "uk", "color": "#e06c75"},
+    "^GDAXI": {"name": "DAX", "country": "germany", "color": "#e6c07b"},
+    "FTSEMIB.MI": {"name": "FTSE MIB", "country": "italy", "color": "#d19a66"},
+    "^N225": {"name": "Nikkei 225", "country": "japan", "color": "#c678dd"},
+    "^GSPTSE": {"name": "S&P/TSX", "country": "canada", "color": "#56b6c2"},
+    "URTH": {"name": "MSCI World", "country": "world", "color": "#d480aa"},
 }
 
 # Nominatif benefits for French companies (prime de fidelite)

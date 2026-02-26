@@ -1,4 +1,74 @@
 {
+  "SPY": {
+    "price": 689.3,
+    "change": -3.85,
+    "change_pct": -0.56,
+    "volume": 67867592,
+    "currency": "USD"
+  },
+  "VOO": {
+    "price": 633.95,
+    "change": -3.58,
+    "change_pct": -0.56,
+    "volume": 9406058,
+    "currency": "USD"
+  },
+  "IVV": {
+    "price": 692.41,
+    "change": -3.84,
+    "change_pct": -0.55,
+    "volume": 6238013,
+    "currency": "USD"
+  },
+  "VTI": {
+    "price": 340.49,
+    "change": -1.34,
+    "change_pct": -0.39,
+    "volume": 4967065,
+    "currency": "USD"
+  },
+  "QQQ": {
+    "price": 609.24,
+    "change": -7.44,
+    "change_pct": -1.21,
+    "volume": 94512312,
+    "currency": "USD"
+  },
+  "VEA": {
+    "price": 70.31,
+    "change": 0.05,
+    "change_pct": 0.07,
+    "volume": 19688868,
+    "currency": "USD"
+  },
+  "IEFA": {
+    "price": 98.43,
+    "change": -0.13,
+    "change_pct": -0.13,
+    "volume": 15179394,
+    "currency": "USD"
+  },
+  "AGG": {
+    "price": 101.2,
+    "change": 0.16,
+    "change_pct": 0.16,
+    "volume": 8920386,
+    "currency": "USD"
+  },
+  "BND": {
+    "price": 75.02,
+    "change": 0.11,
+    "change_pct": 0.15,
+    "volume": 14873300,
+    "currency": "USD"
+  },
+  "VWO": {
+    "price": 58.27,
+    "change": -0.74,
+    "change_pct": -1.25,
+    "volume": 10223702,
+    "currency": "USD"
+  },
   "MC.PA": {
     "price": 551.6,
     "change": -1.4,
@@ -178,42 +248,42 @@
     "price": 184.89,
     "change": -10.67,
     "change_pct": -5.46,
-    "volume": 351096715,
+    "volume": 357990754,
     "currency": "USD"
   },
   "AAPL": {
     "price": 272.95,
     "change": -1.28,
     "change_pct": -0.47,
-    "volume": 29069282,
+    "volume": 32123760,
     "currency": "USD"
   },
   "GOOGL": {
     "price": 307.38,
     "change": -5.52,
     "change_pct": -1.76,
-    "volume": 34052712,
+    "volume": 36036891,
     "currency": "USD"
   },
   "MSFT": {
     "price": 401.72,
     "change": 1.12,
     "change_pct": 0.28,
-    "volume": 33545783,
+    "volume": 33954921,
     "currency": "USD"
   },
   "AMZN": {
     "price": 207.92,
     "change": -2.72,
     "change_pct": -1.29,
-    "volume": 43590552,
+    "volume": 47437875,
     "currency": "USD"
   },
   "META": {
     "price": 657.01,
     "change": 3.32,
     "change_pct": 0.51,
-    "volume": 9320866,
+    "volume": 10575279,
     "currency": "USD"
   },
   "TSLA": {
@@ -227,14 +297,14 @@
     "price": 321.7,
     "change": -10.61,
     "change_pct": -3.19,
-    "volume": 31743632,
+    "volume": 32760599,
     "currency": "USD"
   },
   "BRK-B": {
     "price": 502.67,
     "change": 8.68,
     "change_pct": 1.76,
-    "volume": 4208997,
+    "volume": 3426122,
     "currency": "USD"
   },
   "WMT": {
@@ -255,14 +325,14 @@
     "price": 306.13,
     "change": 2.83,
     "change_pct": 0.93,
-    "volume": 5181241,
+    "volume": 6984105,
     "currency": "USD"
   },
   "XOM": {
     "price": 148.54,
     "change": -0.52,
     "change_pct": -0.35,
-    "volume": 14707942,
+    "volume": 15597364,
     "currency": "USD"
   },
   "V": {
@@ -290,21 +360,21 @@
     "price": 514.77,
     "change": 5.38,
     "change_pct": 1.06,
-    "volume": 4114744,
+    "volume": 4842702,
     "currency": "USD"
   },
   "COST": {
     "price": 986.74,
     "change": -8.02,
     "change_pct": -0.81,
-    "volume": 1550138,
+    "volume": 1800418,
     "currency": "USD"
   },
   "ORCL": {
     "price": 150.31,
     "change": 2.42,
     "change_pct": 1.64,
-    "volume": 20323237,
+    "volume": 20422615,
     "currency": "USD"
   },
   "ABBV": {
@@ -318,7 +388,7 @@
     "price": 163.75,
     "change": 0.36,
     "change_pct": 0.22,
-    "volume": 5825959,
+    "volume": 6373357,
     "currency": "USD"
   },
   "BAC": {
@@ -339,14 +409,14 @@
     "price": 184.16,
     "change": -0.06,
     "change_pct": -0.03,
-    "volume": 6086198,
+    "volume": 5357643,
     "currency": "USD"
   },
   "GE": {
     "price": 340.84,
     "change": -2.05,
     "change_pct": -0.6,
-    "volume": 2861213,
+    "volume": 4447401,
     "currency": "USD"
   },
   "HSBA.L": {
@@ -402,7 +472,7 @@
     "price": 129.26,
     "change": -2.48,
     "change_pct": -1.88,
-    "volume": 4119680,
+    "volume": 4120533,
     "currency": "GBP"
   },
   "GSK.L": {

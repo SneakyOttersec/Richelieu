@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Richelieu - G7 Finance</title>
-    <meta name="description" content="Financial tracking of the 175 largest G7 companies">
+    <meta name="description" content="Financial tracking of the 185 largest G7 companies + ETFs">
     <meta property="og:title" content="Richelieu - G7 Finance">
-    <meta property="og:description" content="Financial tracking of the 175 largest G7 companies">
+    <meta property="og:description" content="Financial tracking of the 185 largest G7 companies + ETFs">
     <meta property="og:type" content="website">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
     <link rel="stylesheet" href="css/style.css">
@@ -22,7 +22,11 @@
                     <h1><a href="index.html">RICHELIEU</a></h1>
                     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">&#9790;</button>
                 </div>
-                <p>G7 Finance &middot; 175 companies</p>
+                <p>G7 Finance &middot; 185 companies</p>
+            </div>
+            <div class="sidebar-search">
+                <input type="text" id="search-input" placeholder="Search company, sector..." autocomplete="off">
+                <div class="search-results" id="search-results"></div>
             </div>
             <nav class="sidebar-nav" id="sidebar-nav"></nav>
         </aside>
@@ -31,6 +35,12 @@
             <div class="header">
                 <h1>G7 Dashboard</h1>
                 <p>The 25 largest companies from each G7 country</p>
+            </div>
+
+            <div class="section" id="section-indices">
+                <h2>G7 Stock Market Indices <span style="font-weight:400;font-size:0.8rem;color:var(--border)">(20 years, base 100)</span></h2>
+                <div id="indices-chart-container" class="indices-chart"></div>
+                <div class="indices-legend" id="indices-legend"></div>
             </div>
 
             <div class="country-grid" id="country-grid">
@@ -43,8 +53,10 @@
         </main>
     </div>
 
+    <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
     <script src="js/theme.js"></script>
     <script src="js/utils.js"></script>
+    <script src="js/index-chart.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

@@ -46,6 +46,9 @@ const Theme = {
         if (typeof PieCharts !== 'undefined' && PieCharts.refresh) {
             PieCharts.refresh();
         }
+        if (typeof IndexChart !== 'undefined' && IndexChart.refresh) {
+            IndexChart.refresh();
+        }
     },
 };
 

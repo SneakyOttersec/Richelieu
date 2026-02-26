@@ -11,7 +11,7 @@ from pathlib import Path
 
 import yfinance as yf
 
-from companies_config import COMPANIES, COUNTRIES, get_all_companies, ticker_to_filename
+from companies_config import COMPANIES, COUNTRIES, INDICES, get_all_companies, ticker_to_filename
 
 # Chemins
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -27,8 +27,26 @@ HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def generate_companies_json():
-    """Genere data/companies.json depuis la config Python."""
+    """Genere data/companies.json depuis la config Python, enrichi avec sector/industry."""
     companies = get_all_companies()
+
+    # Enrich each company with sector/industry from its fundamentals file
+    for company in companies:
+        filename = ticker_to_filename(company["ticker"])
+        fund_path = FUNDAMENTALS_DIR / f"{filename}.json"
+        if fund_path.exists():
+            try:
+                with open(fund_path, "r", encoding="utf-8") as f:
+                    fund = json.load(f)
+                company["sector"] = fund.get("sector")
+                company["industry"] = fund.get("industry")
+            except Exception:
+                company["sector"] = None
+                company["industry"] = None
+        else:
+            company["sector"] = None
+            company["industry"] = None
+
     output = {
         "countries": {},
         "companies": companies,
@@ -137,6 +155,57 @@ def fetch_history():
             print(f"  [ERREUR] Historique {ticker}: {e}")
 
     print(f"[OK] Historique genere ({count} fichiers)")
+
+
+def fetch_indices():
+    """Recupere 20 ans d'historique mensuel pour les indices G7 + MSCI World."""
+    tickers = list(INDICES.keys())
+    print(f"[...] Telechargement indices ({len(tickers)} tickers, 20 ans mensuel)...")
+
+    try:
+        data = yf.download(tickers, period="20y", interval="1mo", group_by="ticker", threads=True)
+
+        indices_data = {}
+        for ticker in tickers:
+            try:
+                if len(tickers) == 1:
+                    ticker_data = data
+                else:
+                    ticker_data = data[ticker]
+
+                df = ticker_data.dropna(how="all")
+                if df.empty:
+                    print(f"  [SKIP] {ticker}: pas de donnees")
+                    continue
+
+                series = []
+                for date, row in df.iterrows():
+                    close = row.get("Close")
+                    if close is None or (hasattr(close, '__float__') and str(close) == 'nan'):
+                        continue
+                    series.append({
+                        "time": date.strftime("%Y-%m-%d"),
+                        "value": round(float(close), 2),
+                    })
+
+                info = INDICES[ticker]
+                indices_data[ticker] = {
+                    "name": info["name"],
+                    "country": info["country"],
+                    "color": info["color"],
+                    "data": series,
+                }
+                print(f"  [OK] {ticker} ({info['name']}): {len(series)} points")
+            except Exception as e:
+                print(f"  [ERREUR] {ticker}: {e}")
+
+        path = DATA_DIR / "indices.json"
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(indices_data, f, ensure_ascii=False)
+        print(f"[OK] indices.json genere ({len(indices_data)} indices)")
+
+    except Exception as e:
+        print(f"[ERREUR] Telechargement indices: {e}")
 
 
 def safe_convert(value):
@@ -289,6 +358,61 @@ def fetch_company_fundamentals(company):
         except Exception:
             fundamentals["revenue_forecasts"] = None
 
+        # Compute YoY changes for profit margin and ROE
+        try:
+            income = ticker.income_stmt
+            balance = ticker.balance_sheet
+            if income is not None and not income.empty and balance is not None and not balance.empty:
+                # Get the two most recent annual periods
+                inc_cols = sorted(income.columns, reverse=True)
+                bal_cols = sorted(balance.columns, reverse=True)
+
+                if len(inc_cols) >= 2:
+                    # Profit margin YoY
+                    margin_current = None
+                    margin_prev = None
+                    for year_idx in [0, 1]:
+                        col = inc_cols[year_idx]
+                        ni = income.loc["Net Income", col] if "Net Income" in income.index else None
+                        rev = income.loc["Total Revenue", col] if "Total Revenue" in income.index else None
+                        if ni is not None and rev is not None and rev != 0:
+                            margin = float(ni) / float(rev)
+                            if year_idx == 0:
+                                margin_current = margin
+                            else:
+                                margin_prev = margin
+
+                    if margin_current is not None and margin_prev is not None:
+                        fundamentals["profit_margin_yoy_change"] = round((margin_current - margin_prev) * 100, 2)
+                    else:
+                        fundamentals["profit_margin_yoy_change"] = None
+                else:
+                    fundamentals["profit_margin_yoy_change"] = None
+
+                if len(bal_cols) >= 2 and len(inc_cols) >= 2:
+                    # ROE YoY
+                    roe_vals = []
+                    for year_idx in [0, 1]:
+                        ni = income.loc["Net Income", inc_cols[year_idx]] if "Net Income" in income.index else None
+                        eq = balance.loc["Stockholders Equity", bal_cols[year_idx]] if "Stockholders Equity" in balance.index else None
+                        if ni is not None and eq is not None and eq != 0:
+                            roe_vals.append(float(ni) / float(eq))
+                        else:
+                            roe_vals.append(None)
+
+                    if roe_vals[0] is not None and roe_vals[1] is not None:
+                        fundamentals["roe_yoy_change"] = round((roe_vals[0] - roe_vals[1]) * 100, 2)
+                    else:
+                        fundamentals["roe_yoy_change"] = None
+                else:
+                    fundamentals["roe_yoy_change"] = None
+            else:
+                fundamentals["profit_margin_yoy_change"] = None
+                fundamentals["roe_yoy_change"] = None
+        except Exception:
+            fundamentals["profit_margin_yoy_change"] = None
+            fundamentals["roe_yoy_change"] = None
+
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(fundamentals, f, ensure_ascii=False, indent=2)
         print(f"  [OK] {ticker_str}")
@@ -354,6 +478,10 @@ def main():
     # 2b. Historique 1 an (pour les graphiques)
     print("\n--- Recuperation historique 1 an ---")
     fetch_history()
+
+    # 2c. Indices G7 (20 ans mensuel pour le dashboard)
+    print("\n--- Recuperation indices G7 ---")
+    fetch_indices()
 
     # 3. Fondamentaux (avec delai entre chaque)
     print("\n--- Recuperation des fondamentaux ---")

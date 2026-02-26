@@ -59,7 +59,13 @@ const App = {
 
             this.companiesData = await companiesResp.json();
             this.buildSidebar();
+            this.setupSearch();
             this.buildCountryGrid();
+
+            // Init index chart
+            if (typeof IndexChart !== 'undefined') {
+                IndexChart.init(this.basePath);
+            }
 
             if (lastUpdatedResp && lastUpdatedResp.ok) {
                 const lu = await lastUpdatedResp.json();
@@ -86,7 +92,7 @@ const App = {
         }
 
         let html = '';
-        const countryOrder = ['france', 'usa', 'uk', 'germany', 'italy', 'japan', 'canada'];
+        const countryOrder = ['etf', 'france', 'usa', 'uk', 'germany', 'italy', 'japan', 'canada'];
 
         for (const countryId of countryOrder) {
             const country = countries[countryId];
@@ -124,7 +130,7 @@ const App = {
 
         const countries = this.companiesData.countries;
         const companies = this.companiesData.companies;
-        const countryOrder = ['france', 'usa', 'uk', 'germany', 'italy', 'japan', 'canada'];
+        const countryOrder = ['etf', 'france', 'usa', 'uk', 'germany', 'italy', 'japan', 'canada'];
 
         let html = '';
         for (const countryId of countryOrder) {
@@ -150,6 +156,75 @@ const App = {
     },
 
     // ========================================
+    // SEARCH
+    // ========================================
+
+    setupSearch() {
+        const input = document.getElementById('search-input');
+        const resultsEl = document.getElementById('search-results');
+        if (!input || !resultsEl || !this.companiesData) return;
+
+        const companies = this.companiesData.companies;
+
+        input.addEventListener('input', () => {
+            const query = input.value.trim().toLowerCase();
+            if (query.length < 2) {
+                resultsEl.innerHTML = '';
+                resultsEl.style.display = 'none';
+                return;
+            }
+
+            const matches = [];
+            for (const c of companies) {
+                if (matches.length >= 15) break;
+                const matchType = this.getMatchType(c, query);
+                if (matchType) {
+                    matches.push({ company: c, matchType });
+                }
+            }
+
+            if (matches.length === 0) {
+                resultsEl.innerHTML = '<div class="search-no-results">No results</div>';
+                resultsEl.style.display = 'block';
+                return;
+            }
+
+            resultsEl.innerHTML = matches.map(m => {
+                const c = m.company;
+                return `<a href="company.html?ticker=${encodeURIComponent(c.ticker)}">
+                    <span>${c.name}</span>
+                    <span class="search-match-type">${m.matchType}</span>
+                </a>`;
+            }).join('');
+            resultsEl.style.display = 'block';
+        });
+
+        // Close on click outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.sidebar-search')) {
+                resultsEl.style.display = 'none';
+            }
+        });
+
+        // Close on Escape
+        input.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                resultsEl.style.display = 'none';
+                input.blur();
+            }
+        });
+    },
+
+    getMatchType(company, query) {
+        if (company.name.toLowerCase().includes(query)) return company.ticker;
+        if (company.ticker.toLowerCase().includes(query)) return 'Ticker';
+        if (company.sector && company.sector.toLowerCase().includes(query)) return company.sector;
+        if (company.industry && company.industry.toLowerCase().includes(query)) return company.industry;
+        if (company.country_name && company.country_name.toLowerCase().includes(query)) return company.country_name;
+        return null;
+    },
+
+    // ========================================
     // COMPANY PAGE
     // ========================================
 
@@ -157,15 +232,17 @@ const App = {
         const filename = Utils.tickerToFilename(ticker);
 
         try {
-            const [companiesResp, pricesResp, fundResp, newsResp] = await Promise.all([
+            const [companiesResp, pricesResp, fundResp, newsResp, historyResp] = await Promise.all([
                 fetch(`${this.basePath}data/companies.json`),
                 fetch(`${this.basePath}data/prices.json`).catch(() => null),
                 fetch(`${this.basePath}data/fundamentals/${filename}.json`).catch(() => null),
                 fetch(`${this.basePath}data/news/${filename}.json`).catch(() => null),
+                fetch(`${this.basePath}data/history/${filename}.json`).catch(() => null),
             ]);
 
             this.companiesData = await companiesResp.json();
             this.buildSidebar(ticker);
+            this.setupSearch();
 
             const company = this.companiesData.companies.find(c => c.ticker === ticker);
             if (!company) {
@@ -189,9 +266,14 @@ const App = {
                 news = await newsResp.json();
             }
 
+            let history = null;
+            if (historyResp && historyResp.ok) {
+                history = await historyResp.json();
+            }
+
             this.renderCompanyHeader(company, fundamentals);
             this.renderSummary(fundamentals);
-            this.renderTickerBar(company, prices);
+            this.renderTickerBar(company, prices, history);
             this.renderNominatifInfo(company);
             this.renderStats(fundamentals, company.currency);
             this.renderProjections(fundamentals, company.currency);
@@ -265,14 +347,20 @@ const App = {
             { label: 'Net Income', value: Utils.formatLargeNumber(fundamentals.net_income, currency), colorVal: fundamentals.net_income },
             { label: 'P/E', value: fundamentals.pe_ratio != null ? Utils.formatNumber(fundamentals.pe_ratio, 1) : '\u2014' },
             { label: 'Dividend', value: this.formatDividend(fundamentals, currency) },
-            { label: 'Net Margin', value: Utils.formatPercent(fundamentals.profit_margin) },
-            { label: 'ROE', value: Utils.formatPercent(fundamentals.roe) },
+            { label: 'Net Margin', value: Utils.formatPercent(fundamentals.profit_margin), yoy: fundamentals.profit_margin_yoy_change },
+            { label: 'ROE', value: Utils.formatPercent(fundamentals.roe), yoy: fundamentals.roe_yoy_change },
             { label: 'Debt/Equity', value: fundamentals.debt_to_equity != null ? Utils.formatNumber(fundamentals.debt_to_equity, 1) : '\u2014' },
         ];
 
         grid.innerHTML = stats.map(s => {
             const cls = s.colorVal !== undefined ? Utils.valueClass(s.colorVal) : '';
-            return `<div class="stat-card"><div class="label">${s.label}</div><div class="value ${cls}">${s.value}</div></div>`;
+            let yoyHtml = '';
+            if (s.yoy != null) {
+                const sign = s.yoy >= 0 ? '+' : '';
+                const yoyCls = s.yoy >= 0 ? 'positive' : 'negative';
+                yoyHtml = `<div class="stat-yoy ${yoyCls}">${sign}${s.yoy.toFixed(2)}pp YoY</div>`;
+            }
+            return `<div class="stat-card"><div class="label">${s.label}</div><div class="value ${cls}">${s.value}</div>${yoyHtml}</div>`;
         }).join('');
     },
 
@@ -394,7 +482,7 @@ const App = {
         container.innerHTML = html;
     },
 
-    renderTickerBar(company, prices) {
+    renderTickerBar(company, prices, history) {
         const symbolEl = document.getElementById('ticker-symbol');
         const badgeEl = document.getElementById('pea-badge');
         const priceEl = document.getElementById('price-current');
@@ -423,6 +511,56 @@ const App = {
             if (priceEl) priceEl.textContent = '\u2014';
             if (changeEl) changeEl.textContent = 'Price unavailable';
         }
+
+        // Price performance badges
+        this.renderPricePerformance(prices, history);
+    },
+
+    renderPricePerformance(prices, history) {
+        const container = document.getElementById('price-performance');
+        if (!container) return;
+
+        const badges = [];
+
+        // Today
+        if (prices && prices.change_pct != null) {
+            badges.push({ label: 'Today', value: prices.change_pct });
+        }
+
+        // 1W and 1M from history
+        if (history && history.length > 5) {
+            const lastClose = history[history.length - 1].close;
+
+            // 1W (~5 trading days back)
+            if (history.length > 5) {
+                const weekClose = history[history.length - 6].close;
+                if (weekClose > 0) {
+                    badges.push({ label: '1W', value: ((lastClose - weekClose) / weekClose) * 100 });
+                }
+            }
+
+            // 1M (~22 trading days back)
+            if (history.length > 22) {
+                const monthClose = history[history.length - 23].close;
+                if (monthClose > 0) {
+                    badges.push({ label: '1M', value: ((lastClose - monthClose) / monthClose) * 100 });
+                }
+            }
+        }
+
+        if (badges.length === 0) {
+            container.style.display = 'none';
+            return;
+        }
+
+        container.innerHTML = badges.map(b => {
+            const sign = b.value >= 0 ? '+' : '';
+            const cls = b.value >= 0 ? 'positive' : 'negative';
+            return `<div class="perf-badge">
+                <span class="perf-label">${b.label}</span>
+                <span class="perf-value ${cls}">${sign}${b.value.toFixed(2)}%</span>
+            </div>`;
+        }).join('');
     },
 
     renderQuarterly(fundamentals, currency) {
