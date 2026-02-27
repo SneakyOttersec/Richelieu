@@ -345,6 +345,79 @@ a:hover {
     font-size: 0.7rem;
 }
 
+/* Rankings grid (dashboard) */
+.rankings-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.ranking-card {
+    border: 1px solid var(--border);
+    padding: 1.2rem;
+    background: var(--bg-secondary);
+}
+
+.ranking-card h3 {
+    color: var(--accent1);
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.ranking-list {
+    list-style: none;
+}
+
+.ranking-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid rgba(102, 102, 102, 0.2);
+    font-size: 0.8rem;
+}
+
+.ranking-list li:last-child {
+    border-bottom: none;
+}
+
+.ranking-list .rank {
+    color: var(--border);
+    font-size: 0.7rem;
+    width: 1.5rem;
+    flex-shrink: 0;
+}
+
+.ranking-list .rank-name {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ranking-list .rank-flag {
+    font-size: 0.7rem;
+    margin-right: 0.3rem;
+}
+
+.ranking-list .rank-value {
+    font-weight: 700;
+    color: var(--accent2);
+    margin-left: 0.8rem;
+    white-space: nowrap;
+}
+
+.ranking-list .rank-value.positive {
+    color: var(--accent1);
+}
+
+.ranking-list .rank-value.negative {
+    color: var(--red);
+}
+
 /* Index chart (dashboard) */
 .indices-chart {
     height: 450px;
@@ -886,6 +959,10 @@ a:hover {
 
     .stats-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .rankings-grid {
+        grid-template-columns: 1fr;
     }
 
     .country-grid {

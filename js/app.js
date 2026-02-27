@@ -67,6 +67,9 @@ const App = {
                 IndexChart.init(this.basePath);
             }
 
+            // Load fundamentals for rankings (non-blocking)
+            this.loadRankings();
+
             if (lastUpdatedResp && lastUpdatedResp.ok) {
                 const lu = await lastUpdatedResp.json();
                 this.showLastUpdated(lu);
@@ -76,6 +79,86 @@ const App = {
             document.getElementById('country-grid').innerHTML =
                 '<div class="error-message">Failed to load data. Check that JSON files exist in data/.</div>';
         }
+    },
+
+    async loadRankings() {
+        const grid = document.getElementById('rankings-grid');
+        if (!grid || !this.companiesData) return;
+
+        // Exclude ETFs from rankings
+        const companies = this.companiesData.companies.filter(c => c.country !== 'etf');
+
+        // Fetch all fundamentals in parallel
+        const fundPromises = companies.map(c => {
+            const filename = Utils.tickerToFilename(c.ticker);
+            return fetch(`${this.basePath}data/fundamentals/${filename}.json`)
+                .then(r => r.ok ? r.json() : null)
+                .catch(() => null);
+        });
+
+        const allFundamentals = await Promise.all(fundPromises);
+
+        // Merge company info with fundamentals
+        const merged = companies.map((c, i) => ({ company: c, fund: allFundamentals[i] }))
+            .filter(m => m.fund);
+
+        // 1. Lowest P/E (positive only)
+        const lowestPE = merged
+            .filter(m => m.fund.pe_ratio != null && m.fund.pe_ratio > 0)
+            .sort((a, b) => a.fund.pe_ratio - b.fund.pe_ratio)
+            .slice(0, 10);
+
+        // 2. Biggest revenue growth YoY
+        const revenueGrowth = merged.map(m => {
+            const inc = m.fund.income_stmt;
+            if (!inc) return null;
+            const cols = Object.keys(inc).sort().reverse();
+            if (cols.length < 2) return null;
+            const rev1 = inc[cols[0]] && inc[cols[0]]['Total Revenue'];
+            const rev2 = inc[cols[1]] && inc[cols[1]]['Total Revenue'];
+            if (rev1 == null || rev2 == null || rev2 === 0) return null;
+            const growth = ((rev1 - rev2) / Math.abs(rev2)) * 100;
+            return { ...m, revenueGrowth: growth };
+        }).filter(Boolean).sort((a, b) => b.revenueGrowth - a.revenueGrowth).slice(0, 10);
+
+        // 3. Biggest dividend yield
+        const biggestDividend = merged
+            .filter(m => m.fund.dividend_yield != null && m.fund.dividend_yield > 0)
+            .sort((a, b) => b.fund.dividend_yield - a.fund.dividend_yield)
+            .slice(0, 10);
+
+        // 4. Lowest debt/equity (positive only)
+        const lowestDebt = merged
+            .filter(m => m.fund.debt_to_equity != null && m.fund.debt_to_equity >= 0)
+            .sort((a, b) => a.fund.debt_to_equity - b.fund.debt_to_equity)
+            .slice(0, 10);
+
+        // Render
+        grid.innerHTML = this.renderRankingCard('Lowest P/E Ratio', lowestPE, m => Utils.formatNumber(m.fund.pe_ratio, 1))
+            + this.renderRankingCard('Top Revenue Growth (YoY)', revenueGrowth, m => {
+                const sign = m.revenueGrowth >= 0 ? '+' : '';
+                return `${sign}${m.revenueGrowth.toFixed(1)}%`;
+            }, m => m.revenueGrowth)
+            + this.renderRankingCard('Highest Dividend Yield', biggestDividend, m => Utils.formatPercent(m.fund.dividend_yield, false), () => 1)
+            + this.renderRankingCard('Lowest Debt/Equity', lowestDebt, m => Utils.formatNumber(m.fund.debt_to_equity, 1));
+    },
+
+    renderRankingCard(title, items, formatValue, colorFn) {
+        let html = `<div class="ranking-card"><h3>${title}</h3><ul class="ranking-list">`;
+        items.forEach((m, i) => {
+            const val = formatValue(m);
+            const colorVal = colorFn ? colorFn(m) : undefined;
+            const cls = colorVal !== undefined ? Utils.valueClass(colorVal) : '';
+            html += `<li>
+                <span class="rank">${i + 1}.</span>
+                <a class="rank-name" href="company.html?ticker=${encodeURIComponent(m.company.ticker)}">
+                    <span class="rank-flag">${m.company.flag}</span>${m.company.name}
+                </a>
+                <span class="rank-value ${cls}">${val}</span>
+            </li>`;
+        });
+        html += '</ul></div>';
+        return html;
     },
 
     buildSidebar(activeTicker) {
