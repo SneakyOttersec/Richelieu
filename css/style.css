@@ -94,18 +94,7 @@ a:hover {
     letter-spacing: 2px;
 }
 
-.sidebar-header h1 a {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
 
-.sidebar-logo {
-    width: 80px;
-    height: 80px;
-    object-fit: contain;
-    flex-shrink: 0;
-}
 
 .sidebar-header p {
     font-size: 0.75rem;
