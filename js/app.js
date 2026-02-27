@@ -221,6 +221,10 @@ const App = {
         if (company.sector && company.sector.toLowerCase().includes(query)) return company.sector;
         if (company.industry && company.industry.toLowerCase().includes(query)) return company.industry;
         if (company.country_name && company.country_name.toLowerCase().includes(query)) return company.country_name;
+        if (company.nominatif_benefit) {
+            const benefitTerms = ['nominatif', 'benefit', 'loyalty', 'bonus', 'registered', 'fidel'];
+            if (benefitTerms.some(t => t.includes(query) || query.includes(t))) return 'Nominatif';
+        }
         return null;
     },
 
