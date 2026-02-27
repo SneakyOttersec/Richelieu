@@ -12,10 +12,14 @@ const App = {
         this.basePath = this.detectBasePath();
         this.setupHamburger();
 
-        const isCompanyPage = window.location.pathname.endsWith('company.html');
+        const path = window.location.pathname;
+        const isCompanyPage = path.endsWith('company.html');
+        const isSettingsPage = path.endsWith('settings.html');
         const ticker = Utils.getUrlParam('ticker');
 
-        if (isCompanyPage && ticker) {
+        if (isSettingsPage) {
+            await this.loadSettingsPage();
+        } else if (isCompanyPage && ticker) {
             await this.loadCompanyPage(ticker);
         } else {
             await this.loadIndexPage();
@@ -47,6 +51,39 @@ const App = {
     },
 
     // ========================================
+    // SETTINGS PAGE
+    // ========================================
+
+    async loadSettingsPage() {
+        try {
+            const companiesResp = await fetch(`${this.basePath}data/companies.json`);
+            this.companiesData = await companiesResp.json();
+            this.buildSidebar();
+            this.setupSearch();
+            this.setupSettings();
+        } catch (e) {
+            console.error('Error loading settings:', e);
+        }
+    },
+
+    setupSettings() {
+        const settings = [
+            { id: 'setting-currency', key: 'setting-currency', defaultVal: 'native' },
+            { id: 'setting-news', key: 'setting-news', defaultVal: 'yfinance' },
+            { id: 'setting-financial', key: 'setting-financial', defaultVal: 'yfinance' },
+        ];
+
+        for (const s of settings) {
+            const el = document.getElementById(s.id);
+            if (!el) continue;
+            el.value = localStorage.getItem(s.key) || s.defaultVal;
+            el.addEventListener('change', () => {
+                localStorage.setItem(s.key, el.value);
+            });
+        }
+    },
+
+    // ========================================
     // INDEX PAGE
     // ========================================
 
@@ -60,7 +97,6 @@ const App = {
             this.companiesData = await companiesResp.json();
             this.buildSidebar();
             this.setupSearch();
-            this.buildCountryGrid();
 
             // Init index chart
             if (typeof IndexChart !== 'undefined') {
@@ -76,8 +112,6 @@ const App = {
             }
         } catch (e) {
             console.error('Error loading index:', e);
-            document.getElementById('country-grid').innerHTML =
-                '<div class="error-message">Failed to load data. Check that JSON files exist in data/.</div>';
         }
     },
 
@@ -96,11 +130,17 @@ const App = {
                 .catch(() => null);
         });
 
-        const allFundamentals = await Promise.all(fundPromises);
+        const [allFundamentals, pricesResp] = await Promise.all([
+            Promise.all(fundPromises),
+            fetch(`${this.basePath}data/prices.json`).then(r => r.ok ? r.json() : {}).catch(() => ({})),
+        ]);
 
-        // Merge company info with fundamentals
-        const merged = companies.map((c, i) => ({ company: c, fund: allFundamentals[i] }))
+        // Merge company info with fundamentals + price
+        const merged = companies.map((c, i) => ({ company: c, fund: allFundamentals[i], price: pricesResp[c.ticker] }))
             .filter(m => m.fund);
+
+        // === Top 5 Composite Picks ===
+        this.computeAndRenderTopPicks(merged);
 
         // 1. Lowest P/E (positive only)
         const lowestPE = merged
@@ -139,8 +179,8 @@ const App = {
                 const sign = m.revenueGrowth >= 0 ? '+' : '';
                 return `${sign}${m.revenueGrowth.toFixed(1)}%`;
             }, m => m.revenueGrowth)
-            + this.renderRankingCard('Highest Dividend Yield', biggestDividend, m => Utils.formatPercent(m.fund.dividend_yield, false), () => 1)
-            + this.renderRankingCard('Lowest Debt/Equity', lowestDebt, m => Utils.formatNumber(m.fund.debt_to_equity, 1));
+            + this.renderDividendCard(biggestDividend)
+            + this.renderRankingCard('Lowest Debt/Equity', lowestDebt, m => Utils.formatNumber(m.fund.debt_to_equity / 100, 2));
     },
 
     renderRankingCard(title, items, formatValue, colorFn) {
@@ -159,6 +199,134 @@ const App = {
         });
         html += '</ul></div>';
         return html;
+    },
+
+    renderDividendCard(items) {
+        let html = `<div class="ranking-card"><h3 class="dividend-title">Highest Dividend Yield<span class="col-labels"><span>Yield</span><span>Div.</span><span>Price</span><span>Chg</span></span></h3>`;
+        html += `<ul class="ranking-list">`;
+        items.forEach((m, i) => {
+            const yld = Utils.formatPercent(m.fund.dividend_yield, false);
+            const rate = m.fund.dividend_rate || m.fund.trailing_dividend_rate;
+            const rawDiv = rate != null ? Utils.formatCurrency(rate, m.company.currency) : '\u2014';
+            const stockPrice = m.price != null ? Utils.formatCurrency(m.price, m.company.currency) : '\u2014';
+            let chg = '\u2014';
+            let chgCls = '';
+            const fwd = m.fund.dividend_rate;
+            const trail = m.fund.trailing_dividend_rate;
+            if (fwd && trail && trail > 0) {
+                const growth = ((fwd - trail) / trail) * 100;
+                const sign = growth >= 0 ? '+' : '';
+                chg = `${sign}${growth.toFixed(1)}%`;
+                chgCls = growth >= 0 ? 'positive' : 'negative';
+            }
+            html += `<li>
+                <span class="rank">${i + 1}.</span>
+                <a class="rank-name" href="company.html?ticker=${encodeURIComponent(m.company.ticker)}">
+                    <span class="rank-flag">${m.company.flag}</span>${m.company.name}
+                </a>
+                <span class="rank-value positive">${yld}</span>
+                <span class="rank-col">${rawDiv}</span>
+                <span class="rank-col">${stockPrice}</span>
+                <span class="rank-col ${chgCls}">${chg}</span>
+            </li>`;
+        });
+        html += '</ul></div>';
+        return html;
+    },
+
+    computeAndRenderTopPicks(merged) {
+        const grid = document.getElementById('top-picks-grid');
+        if (!grid) return;
+
+        // Compute metrics for each company
+        const withMetrics = merged.map(m => {
+            // Revenue growth YoY
+            const inc = m.fund.income_stmt;
+            let revenueGrowth = null;
+            let netIncomeGrowth = null;
+            if (inc) {
+                const cols = Object.keys(inc).sort().reverse();
+                if (cols.length >= 2) {
+                    const rev1 = inc[cols[0]] && inc[cols[0]]['Total Revenue'];
+                    const rev2 = inc[cols[1]] && inc[cols[1]]['Total Revenue'];
+                    if (rev1 != null && rev2 != null && rev2 !== 0) {
+                        revenueGrowth = ((rev1 - rev2) / Math.abs(rev2)) * 100;
+                    }
+                    const ni1 = inc[cols[0]] && inc[cols[0]]['Net Income'];
+                    const ni2 = inc[cols[1]] && inc[cols[1]]['Net Income'];
+                    if (ni1 != null && ni2 != null && ni2 !== 0) {
+                        netIncomeGrowth = ((ni1 - ni2) / Math.abs(ni2)) * 100;
+                    }
+                }
+            }
+
+            // P/E (positive only)
+            const pe = (m.fund.pe_ratio != null && m.fund.pe_ratio > 0) ? m.fund.pe_ratio : null;
+
+            // Profit margin
+            const margin = m.fund.profit_margin != null ? m.fund.profit_margin : null;
+
+            return { ...m, revenueGrowth, pe, margin, netIncomeGrowth };
+        });
+
+        // Filter to companies with all 4 metrics
+        const eligible = withMetrics.filter(m =>
+            m.revenueGrowth != null && m.pe != null && m.margin != null && m.netIncomeGrowth != null
+        );
+
+        if (eligible.length < 5) {
+            grid.innerHTML = '<div class="no-data">Not enough data for composite ranking</div>';
+            return;
+        }
+
+        // Rank helper: assigns rank 1..N. sortFn determines order.
+        const assignRanks = (arr, getValue, ascending) => {
+            const sorted = [...arr].sort((a, b) => ascending
+                ? getValue(a) - getValue(b)
+                : getValue(b) - getValue(a)
+            );
+            const rankMap = new Map();
+            sorted.forEach((item, i) => rankMap.set(item, i + 1));
+            return rankMap;
+        };
+
+        const growthRanks = assignRanks(eligible, m => m.revenueGrowth, false);
+        const peRanks = assignRanks(eligible, m => m.pe, true);
+        const marginRanks = assignRanks(eligible, m => m.margin, false);
+        const niGrowthRanks = assignRanks(eligible, m => m.netIncomeGrowth, false);
+
+        // Compute average rank
+        const scored = eligible.map(m => ({
+            ...m,
+            avgRank: (growthRanks.get(m) + peRanks.get(m) + marginRanks.get(m) + niGrowthRanks.get(m)) / 4,
+        }));
+
+        scored.sort((a, b) => a.avgRank - b.avgRank);
+        const top5 = scored.slice(0, 5);
+
+        this.renderTopPicks(grid, top5);
+    },
+
+    renderTopPicks(grid, picks) {
+        grid.innerHTML = picks.map((m, i) => {
+            const revSign = m.revenueGrowth >= 0 ? '+' : '';
+            const niSign = m.netIncomeGrowth >= 0 ? '+' : '';
+            return `<div class="pick-card">
+                <div class="pick-rank">#${i + 1}</div>
+                <div class="pick-name">
+                    <a href="company.html?ticker=${encodeURIComponent(m.company.ticker)}">
+                        <span class="pick-flag">${m.company.flag}</span>${m.company.name}
+                    </a>
+                </div>
+                <div class="pick-ticker">${m.company.ticker}</div>
+                <div class="pick-metrics">
+                    <div class="pick-metric"><span class="pick-metric-label">Rev Growth</span><span class="pick-metric-value ${Utils.valueClass(m.revenueGrowth)}">${revSign}${m.revenueGrowth.toFixed(1)}%</span></div>
+                    <div class="pick-metric"><span class="pick-metric-label">P/E</span><span class="pick-metric-value">${Utils.formatNumber(m.pe, 1)}</span></div>
+                    <div class="pick-metric"><span class="pick-metric-label">Margin</span><span class="pick-metric-value ${Utils.valueClass(m.margin)}">${Utils.formatPercent(m.margin)}</span></div>
+                    <div class="pick-metric"><span class="pick-metric-label">NI Growth</span><span class="pick-metric-value ${Utils.valueClass(m.netIncomeGrowth)}">${niSign}${m.netIncomeGrowth.toFixed(1)}%</span></div>
+                </div>
+            </div>`;
+        }).join('');
     },
 
     buildSidebar(activeTicker) {
@@ -196,6 +364,9 @@ const App = {
             html += `</div></div>`;
         }
 
+        const isSettings = window.location.pathname.endsWith('settings.html');
+        html += `<a href="settings.html" class="sidebar-settings-link${isSettings ? ' active' : ''}">&#9881; Settings</a>`;
+
         nav.innerHTML = html;
 
         nav.querySelectorAll('.sidebar-country-btn').forEach(btn => {
@@ -205,37 +376,6 @@ const App = {
                 list.classList.toggle('open');
             });
         });
-    },
-
-    buildCountryGrid() {
-        const grid = document.getElementById('country-grid');
-        if (!grid || !this.companiesData) return;
-
-        const countries = this.companiesData.countries;
-        const companies = this.companiesData.companies;
-        const countryOrder = ['etf', 'france', 'usa', 'uk', 'germany', 'italy', 'japan', 'canada'];
-
-        let html = '';
-        for (const countryId of countryOrder) {
-            const country = countries[countryId];
-            if (!country) continue;
-            const countryCompanies = companies.filter(c => c.country === countryId);
-
-            html += `<div class="country-card">`;
-            html += `<h2><span class="flag">${country.flag}</span>${country.name}</h2>`;
-            html += `<ul class="company-list">`;
-
-            for (const c of countryCompanies) {
-                html += `<li><a href="company.html?ticker=${encodeURIComponent(c.ticker)}">`;
-                html += `<span>${c.name}</span>`;
-                html += `<span class="ticker">${c.ticker}</span>`;
-                html += `</a></li>`;
-            }
-
-            html += `</ul></div>`;
-        }
-
-        grid.innerHTML = html;
     },
 
     // ========================================
@@ -436,7 +576,7 @@ const App = {
             { label: 'Dividend', value: this.formatDividend(fundamentals, currency) },
             { label: 'Net Margin', value: Utils.formatPercent(fundamentals.profit_margin), yoy: fundamentals.profit_margin_yoy_change },
             { label: 'ROE', value: Utils.formatPercent(fundamentals.roe), yoy: fundamentals.roe_yoy_change },
-            { label: 'Debt/Equity', value: fundamentals.debt_to_equity != null ? Utils.formatNumber(fundamentals.debt_to_equity, 1) : '\u2014' },
+            { label: 'Debt/Equity', value: fundamentals.debt_to_equity != null ? Utils.formatNumber(fundamentals.debt_to_equity / 100, 2) : '\u2014' },
         ];
 
         grid.innerHTML = stats.map(s => {

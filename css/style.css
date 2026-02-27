@@ -106,22 +106,6 @@ a:hover {
     justify-content: space-between;
 }
 
-.theme-toggle {
-    background: none;
-    border: 1px solid var(--border);
-    color: var(--text);
-    font-size: 1.1rem;
-    cursor: pointer;
-    padding: 0.2rem 0.4rem;
-    line-height: 1;
-    transition: border-color 0.2s, color 0.2s;
-}
-
-.theme-toggle:hover {
-    border-color: var(--accent1);
-    color: var(--accent1);
-}
-
 /* Sidebar search */
 .sidebar-search {
     padding: 0.6rem 1rem;
@@ -191,6 +175,60 @@ a:hover {
     color: var(--border);
     text-align: center;
     font-style: italic;
+}
+
+/* Sidebar settings link */
+.sidebar-settings-link {
+    display: block;
+    padding: 0.6rem 1rem;
+    font-size: 0.85rem;
+    color: var(--text);
+    border-top: 1px solid var(--border);
+    transition: background 0.2s, color 0.2s;
+}
+
+.sidebar-settings-link:hover {
+    background: rgba(43, 188, 138, 0.1);
+    color: var(--accent1);
+}
+
+.sidebar-settings-link.active {
+    color: var(--accent1);
+}
+
+/* Settings page */
+.settings-page {
+    max-width: 400px;
+}
+
+.setting-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.setting-group label {
+    font-size: 0.7rem;
+    color: var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.3rem;
+}
+
+.setting-group select {
+    background: var(--bg-secondary);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 0.4rem 0.6rem;
+    font-family: var(--font);
+    font-size: 0.8rem;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.setting-group select:focus {
+    border-color: var(--accent1);
 }
 
 .sidebar-nav {
@@ -301,50 +339,6 @@ a:hover {
 }
 
 /* Country grid (index page) */
-.country-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 1.5rem;
-}
-
-.country-card {
-    border: 1px solid var(--border);
-    padding: 1.2rem;
-    background: var(--bg-secondary);
-}
-
-.country-card h2 {
-    color: var(--accent2);
-    font-size: 1.1rem;
-    margin-bottom: 0.8rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--border);
-}
-
-.country-card h2 .flag {
-    margin-right: 0.5rem;
-}
-
-.company-list {
-    list-style: none;
-}
-
-.company-list li {
-    padding: 0.2rem 0;
-}
-
-.company-list li a {
-    font-size: 0.8rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.company-list li a .ticker {
-    color: var(--border);
-    font-size: 0.7rem;
-}
-
 /* Rankings grid (dashboard) */
 .rankings-grid {
     display: grid;
@@ -418,6 +412,45 @@ a:hover {
     color: var(--red);
 }
 
+/* Dividend card extra columns */
+.dividend-title {
+    display: flex;
+    align-items: baseline;
+}
+
+.col-labels {
+    margin-left: auto;
+    display: flex;
+    font-size: 0.65rem;
+    font-weight: 400;
+    color: var(--border);
+    letter-spacing: 0;
+}
+
+.col-labels span {
+    width: 4rem;
+    text-align: right;
+    padding-left: 0.5rem;
+}
+
+.ranking-list .rank-col {
+    width: 4rem;
+    text-align: right;
+    font-size: 0.75rem;
+    white-space: nowrap;
+    padding-left: 0.5rem;
+    border-left: 1px solid rgba(102, 102, 102, 0.2);
+    flex-shrink: 0;
+}
+
+.ranking-list .rank-col.positive {
+    color: var(--accent1);
+}
+
+.ranking-list .rank-col.negative {
+    color: var(--red);
+}
+
 /* Index chart (dashboard) */
 .indices-chart {
     height: 450px;
@@ -439,6 +472,12 @@ a:hover {
     gap: 0.4rem;
     font-size: 0.75rem;
     color: var(--text);
+    cursor: pointer;
+    user-select: none;
+    transition: opacity 0.2s;
+}
+.index-legend-item.hidden {
+    opacity: 0.3;
 }
 
 .index-legend-dot {
@@ -937,6 +976,106 @@ a:hover {
     border-top: 1px solid var(--border);
 }
 
+/* Top 5 Picks */
+.top-picks-section {
+    margin-bottom: 2rem;
+}
+
+.top-picks-section h2 {
+    color: var(--accent1);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.top-picks-grid {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.5rem;
+}
+
+.pick-card {
+    flex: 1 0 180px;
+    min-width: 180px;
+    border: 1px solid var(--border);
+    padding: 1rem;
+    background: var(--bg-secondary);
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.pick-rank {
+    font-size: 0.75rem;
+    color: var(--accent1);
+    font-weight: 700;
+}
+
+.pick-name {
+    font-size: 0.85rem;
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.pick-name a {
+    color: var(--accent2);
+}
+
+.pick-name a:hover {
+    color: var(--accent1);
+}
+
+.pick-flag {
+    margin-right: 0.3rem;
+    font-size: 0.75rem;
+}
+
+.pick-ticker {
+    font-size: 0.7rem;
+    color: var(--border);
+}
+
+.pick-metrics {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-top: 0.3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 0.5rem;
+}
+
+.pick-metric {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.7rem;
+}
+
+.pick-metric-label {
+    color: var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    font-size: 0.65rem;
+}
+
+.pick-metric-value {
+    font-weight: 700;
+    color: var(--accent2);
+}
+
+.pick-metric-value.positive {
+    color: var(--accent1);
+}
+
+.pick-metric-value.negative {
+    color: var(--red);
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .hamburger {
@@ -962,10 +1101,6 @@ a:hover {
     }
 
     .rankings-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .country-grid {
         grid-template-columns: 1fr;
     }
 
