@@ -65,16 +65,16 @@ COUNTRIES = {
 # Chaque entreprise : (nom, ticker_yfinance, ticker_tradingview)
 COMPANIES = {
     "etf": [
-        ("SPDR S&P 500", "SPY", "AMEX:SPY"),
         ("Vanguard S&P 500", "VOO", "AMEX:VOO"),
-        ("iShares Core S&P 500", "IVV", "AMEX:IVV"),
         ("Vanguard Total Stock", "VTI", "AMEX:VTI"),
         ("Invesco QQQ", "QQQ", "NASDAQ:QQQ"),
         ("Vanguard FTSE Developed", "VEA", "AMEX:VEA"),
         ("iShares Core MSCI EAFE", "IEFA", "AMEX:IEFA"),
-        ("iShares Core US Aggregate Bond", "AGG", "AMEX:AGG"),
+        ("Vanguard Growth", "VUG", "AMEX:VUG"),
+        ("Vanguard Value", "VTV", "AMEX:VTV"),
+        ("SPDR Gold Shares", "GLD", "AMEX:GLD"),
         ("Vanguard Total Bond", "BND", "NASDAQ:BND"),
-        ("Vanguard FTSE Emerging", "VWO", "AMEX:VWO"),
+        ("iShares Core MSCI EM", "IEMG", "AMEX:IEMG"),
     ],
     "france": [
         ("LVMH", "MC.PA", "EURONEXT:MC"),
@@ -270,10 +270,10 @@ COMPANIES = {
 
 ISINS = {
     # ETFs
-    "SPY": "US78462F1030", "VOO": "US9229083632", "IVV": "US4642872000",
-    "VTI": "US9229087690", "QQQ": "US46090E1038", "VEA": "US9219438580",
-    "IEFA": "US46434V7617", "AGG": "US4642872265", "BND": "US9219378356",
-    "VWO": "US9220428588",
+    "VOO": "US9229083632", "VTI": "US9229087690", "QQQ": "US46090E1038",
+    "VEA": "US9219438580", "IEFA": "US46434V7617", "VUG": "US9229087443",
+    "VTV": "US9229087369", "GLD": "US78463V1070", "BND": "US9219378356",
+    "IEMG": "US46434G1031",
     # France
     "MC.PA": "FR0000121014", "RMS.PA": "FR0000052292", "OR.PA": "FR0000120321",
     "SU.PA": "FR0000121972", "SAF.PA": "FR0000073272", "TTE.PA": "FR0000120271",

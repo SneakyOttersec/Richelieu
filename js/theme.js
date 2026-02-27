@@ -15,7 +15,7 @@ const Theme = {
         this.current = theme;
         document.documentElement.setAttribute('data-theme', theme);
         localStorage.setItem('theme', theme);
-        this.updateButton();
+        this.updateSelect();
     },
 
     toggle() {
@@ -24,18 +24,21 @@ const Theme = {
         this.refreshCharts();
     },
 
-    updateButton() {
-        const btn = document.getElementById('theme-toggle');
-        if (btn) {
-            btn.textContent = this.current === 'dark' ? '\u2600' : '\u263E';
-            btn.title = this.current === 'dark' ? 'Light theme' : 'Dark theme';
+    updateSelect() {
+        const sel = document.getElementById('setting-theme');
+        if (sel) {
+            sel.value = this.current;
         }
     },
 
     setupToggle() {
-        const btn = document.getElementById('theme-toggle');
-        if (btn) {
-            btn.addEventListener('click', () => this.toggle());
+        const sel = document.getElementById('setting-theme');
+        if (sel) {
+            sel.value = this.current;
+            sel.addEventListener('change', () => {
+                this.apply(sel.value);
+                this.refreshCharts();
+            });
         }
     },
 

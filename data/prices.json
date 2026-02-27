@@ -1,23 +1,9 @@
 {
-  "SPY": {
-    "price": 689.3,
-    "change": -3.85,
-    "change_pct": -0.56,
-    "volume": 67867592,
-    "currency": "USD"
-  },
   "VOO": {
     "price": 633.95,
     "change": -3.58,
     "change_pct": -0.56,
     "volume": 9406058,
-    "currency": "USD"
-  },
-  "IVV": {
-    "price": 692.41,
-    "change": -3.84,
-    "change_pct": -0.55,
-    "volume": 6238013,
     "currency": "USD"
   },
   "VTI": {
@@ -48,25 +34,11 @@
     "volume": 15179394,
     "currency": "USD"
   },
-  "AGG": {
-    "price": 101.2,
-    "change": 0.16,
-    "change_pct": 0.16,
-    "volume": 8920386,
-    "currency": "USD"
-  },
   "BND": {
     "price": 75.02,
     "change": 0.11,
     "change_pct": 0.15,
     "volume": 14873300,
-    "currency": "USD"
-  },
-  "VWO": {
-    "price": 58.27,
-    "change": -0.74,
-    "change_pct": -1.25,
-    "volume": 10223702,
     "currency": "USD"
   },
   "MC.PA": {
@@ -1293,5 +1265,33 @@
     "change_pct": 0.43,
     "volume": 1466039,
     "currency": "CAD"
+  },
+  "VUG": {
+    "price": 465.46,
+    "change": -4.86,
+    "change_pct": -1.03,
+    "volume": 1321400,
+    "currency": "USD"
+  },
+  "VTV": {
+    "price": 206.93,
+    "change": 0.28,
+    "change_pct": 0.14,
+    "volume": 4142000,
+    "currency": "USD"
+  },
+  "GLD": {
+    "price": 477.48,
+    "change": 4.06,
+    "change_pct": 0.86,
+    "volume": 12347900,
+    "currency": "USD"
+  },
+  "IEMG": {
+    "price": 76.82,
+    "change": -0.75,
+    "change_pct": -0.97,
+    "volume": 14817200,
+    "currency": "USD"
   }
 }

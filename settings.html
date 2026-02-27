@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Richelieu - Settings</title>
+    <meta name="description" content="Settings for Richelieu G7 Finance">
+    <meta property="og:title" content="Richelieu - Settings">
+    <meta property="og:type" content="website">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <button class="hamburger" id="hamburger" aria-label="Menu">&#9776;</button>
+    <div class="overlay" id="overlay"></div>
+
+    <div class="layout">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-header-row">
+                    <h1><a href="index.html">RICHELIEU</a></h1>
+                </div>
+                <p>G7 Finance &middot; 185 companies</p>
+            </div>
+            <div class="sidebar-search">
+                <input type="text" id="search-input" placeholder="Search company, sector..." autocomplete="off">
+                <div class="search-results" id="search-results"></div>
+            </div>
+            <nav class="sidebar-nav" id="sidebar-nav"></nav>
+        </aside>
+
+        <main class="main">
+            <div class="header">
+                <h1>Settings</h1>
+                <p>Preferences &amp; data sources</p>
+            </div>
+
+            <div class="settings-page">
+                <div class="setting-group">
+                    <label for="setting-theme">Theme</label>
+                    <select id="setting-theme">
+                        <option value="dark">Dark</option>
+                        <option value="light">Light</option>
+                    </select>
+                </div>
+                <div class="setting-group">
+                    <label for="setting-currency">Currency</label>
+                    <select id="setting-currency">
+                        <option value="native">Native</option>
+                        <option value="EUR">EUR (&euro;)</option>
+                        <option value="USD">USD ($)</option>
+                        <option value="GBP">GBP (&pound;)</option>
+                        <option value="JPY">JPY (&yen;)</option>
+                        <option value="CAD">CAD (CA$)</option>
+                    </select>
+                </div>
+                <div class="setting-group">
+                    <label for="setting-news">News Source</label>
+                    <select id="setting-news">
+                        <option value="yfinance">Yahoo Finance</option>
+                        <option value="google">Google News</option>
+                        <option value="marketaux">Marketaux</option>
+                    </select>
+                </div>
+                <div class="setting-group">
+                    <label for="setting-financial">Financial Data</label>
+                    <select id="setting-financial">
+                        <option value="yfinance">Yahoo Finance</option>
+                        <option value="alphavantage">Alpha Vantage</option>
+                        <option value="fmp">Financial Modeling Prep</option>
+                    </select>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/theme.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

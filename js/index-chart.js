@@ -129,16 +129,26 @@ const IndexChart = {
                 crosshairMarkerVisible: true,
             });
             lineSeries.setData(s.data);
-            this.seriesList.push({ series: lineSeries, ...s });
+            this.seriesList.push({ series: lineSeries, visible: true, ...s });
         }
 
         this.chart.timeScale().fitContent();
 
-        // Build legend
+        // Build legend with toggle
         if (legendEl) {
-            legendEl.innerHTML = allSeries.map(s =>
-                `<span class="index-legend-item"><span class="index-legend-dot" style="background:${s.color}"></span>${s.name}</span>`
-            ).join('');
+            legendEl.innerHTML = '';
+            allSeries.forEach((s, i) => {
+                const item = document.createElement('span');
+                item.className = 'index-legend-item';
+                item.innerHTML = `<span class="index-legend-dot" style="background:${s.color}"></span>${s.name}`;
+                item.addEventListener('click', () => {
+                    const entry = this.seriesList[i];
+                    entry.visible = !entry.visible;
+                    entry.series.applyOptions({ visible: entry.visible });
+                    item.classList.toggle('hidden', !entry.visible);
+                });
+                legendEl.appendChild(item);
+            });
         }
 
         // Responsive resize
