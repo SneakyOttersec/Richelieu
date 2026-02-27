@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Stock Investors Are Hedging a Drop. Strategists See a Buy Signal",
-    "link": "https://finance.yahoo.com/news/stock-investors-hedging-drop-strategists-103000052.html",
-    "publisher": "Bloomberg",
-    "date": "2026-02-26T10:30:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "French Insurer AXA Reports Profit Rise After Asset Manager Sale",
     "link": "https://www.wsj.com/business/earnings/french-insurer-axa-reports-profit-rise-after-asset-manager-sale-f57df49c?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/microsoft-stock-ticks-openai-deals-180533808.html",
     "publisher": "GuruFocus.com",
     "date": "2026-02-24T18:05:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "What Makes BNP Paribas SA (BNPQY) a Strong Momentum Stock: Buy Now?",
+    "link": "https://finance.yahoo.com/news/makes-bnp-paribas-sa-bnpqy-170004879.html",
+    "publisher": "Zacks",
+    "date": "2026-02-24T17:00:04Z",
     "type": "STORY"
   }
 ]
