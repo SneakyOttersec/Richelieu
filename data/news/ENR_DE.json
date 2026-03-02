@@ -1,5 +1,19 @@
 [
   {
+    "title": "This foreign energy stock is 'a great way to play the AI boom'",
+    "link": "https://finance.yahoo.com/video/foreign-energy-stock-great-way-110028133.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-03-02T11:00:28Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Oklo Meta Deal And Radioisotopes Open New Paths To Cash Flow",
+    "link": "https://finance.yahoo.com/news/oklo-meta-deal-radioisotopes-open-042554118.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-02-28T04:25:54Z",
+    "type": "STORY"
+  },
+  {
     "title": "Shareholder Push Puts Siemens Energy Wind Turnaround At Center Of Story",
     "link": "https://finance.yahoo.com/news/shareholder-push-puts-siemens-energy-021106301.html",
     "publisher": "Simply Wall St.",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/news/siemens-energy-ag-smegf-q1-170103769.html",
     "publisher": "GuruFocus.com",
     "date": "2026-02-11T17:01:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Fermi (FRMI) Soars 8% After Raising $500 Million in Fresh Funds",
-    "link": "https://finance.yahoo.com/news/fermi-frmi-soars-8-raising-164845259.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-02-11T16:48:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Siemens Energy trebles profit as AI boosts power demand",
-    "link": "https://finance.yahoo.com/news/siemens-energy-trebles-profit-ai-103118499.html",
-    "publisher": "AFP",
-    "date": "2026-02-11T10:31:18Z",
     "type": "STORY"
   }
 ]

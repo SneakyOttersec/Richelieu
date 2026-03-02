@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Irish Tycoon Proposes Major UK Gas Storage Expansion",
-    "link": "https://finance.yahoo.com/news/irish-tycoon-proposes-major-uk-180000689.html",
-    "publisher": "Oilprice.com",
-    "date": "2025-09-22T18:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Energy tycoon to build giant gas storage site to prevent UK blackouts",
     "link": "https://uk.finance.yahoo.com/news/energy-tycoon-build-giant-gas-043000326.html",
     "publisher": "The Telegraph",
@@ -64,9 +57,16 @@
   },
   {
     "title": "Novartis to acquire Tourmaline Bio for $1.4 billion",
-    "link": "https://uk.finance.yahoo.com/news/novartis-acquire-tourmaline-bio-deal-051452583.html",
+    "link": "https://finance.yahoo.com/news/novartis-acquire-tourmaline-bio-deal-051452361.html",
     "publisher": "Reuters",
     "date": "2025-09-09T05:14:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BlackRock's GIP to take stake in Eni's carbon capture business",
+    "link": "https://finance.yahoo.com/news/blackrocks-gip-stake-enis-carbon-140813172.html",
+    "publisher": "Reuters",
+    "date": "2025-08-18T14:08:13Z",
     "type": "STORY"
   }
 ]
