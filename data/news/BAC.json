@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bank of America drops blunt message on the economy",
+    "link": "https://www.thestreet.com/economy/bank-of-america-drops-blunt-message-on-the-economy",
+    "publisher": "TheStreet",
+    "date": "2026-03-03T18:33:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Northeast Bank Lands New $3 Million Investor as Stock Climbs 15% This Past Year",
+    "link": "https://www.fool.com/coverage/filings/2026/03/03/northeast-bank-lands-new-usd3-million-investor-as-stock-climbs-15-this-past-year/",
+    "publisher": "Motley Fool",
+    "date": "2026-03-03T17:48:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is Bancorp Stock a Buy as One Investor Adds $3 Million to Position?",
+    "link": "https://www.fool.com/coverage/filings/2026/03/03/is-bancorp-stock-a-buy-as-one-investor-adds-usd3-million-to-position/",
+    "publisher": "Motley Fool",
+    "date": "2026-03-03T17:16:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Russell 2000: how exposed is it to the Iran shock?",
+    "link": "https://finance.yahoo.com/news/russell-2000-exposed-iran-shock-141310994.html",
+    "publisher": "Investing.com",
+    "date": "2026-03-03T14:13:10Z",
+    "type": "STORY"
+  },
+  {
     "title": "Bank, Brokerage Stocks Recover Lost Ground After Last Week’s Selloff—Despite Iran Conflict",
     "link": "https://www.barrons.com/articles/bank-brokerage-stocks-be3b0772?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/news/bofa-lifts-pt-kinross-gold-092803683.html",
     "publisher": "Insider Monkey",
     "date": "2026-03-01T09:28:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank Of America Art Consulting Aims To Deepen Ties With Undervalued Stock",
-    "link": "https://finance.yahoo.com/news/bank-america-art-consulting-aims-080854743.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-01T08:08:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank of America revamps gold stock price target for 2026",
-    "link": "https://www.thestreet.com/investing/bank-of-america-revamps-gold-stock-price-target-for-2026",
-    "publisher": "TheStreet",
-    "date": "2026-03-01T03:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BofA sees a number of AI-related risks that could challenge rally in EU stocks",
-    "link": "https://finance.yahoo.com/news/bofa-sees-number-ai-related-005454749.html",
-    "publisher": "Investing.com",
-    "date": "2026-03-01T00:54:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BofA Lifts PT on Apollo Global Management (APO) to $167 From $161 – Here’s Why",
-    "link": "https://finance.yahoo.com/news/bofa-lifts-pt-apollo-global-071821729.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-02-28T07:18:21Z",
     "type": "STORY"
   }
 ]
