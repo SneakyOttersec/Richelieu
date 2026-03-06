@@ -1,16 +1,23 @@
 [
   {
+    "title": "Long-Trusted Haven Trades Are Failing as Gold, Treasuries Fall",
+    "link": "https://finance.yahoo.com/news/long-trusted-haven-trades-failing-234716432.html",
+    "publisher": "Bloomberg",
+    "date": "2026-03-05T23:47:16Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The WSJ Dollar Index Rises 0.29% to 95.86",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-05T22:38:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Stocks Fall Sharply After Wednesday Rebound as Middle East War Escalation Lifts Oil",
     "link": "https://finance.yahoo.com/news/european-stocks-fall-sharply-wednesday-170256083.html",
     "publisher": "MT Newswires",
     "date": "2026-03-05T17:02:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Dollar Lifted by Expected Boost to U.S. Terms of Trade",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-05T15:33:00Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/news/commerzbank-overight-news-112647576.html",
     "publisher": "MT Newswires",
     "date": "2026-02-24T11:26:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Dollar Recovers From Falls on Tariff Ruling",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-022426/card/dollar-recovers-from-falls-on-tariff-ruling-4FnIk66dTL65NuEYMIkJ?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-02-24T09:08:01Z",
     "type": "STORY"
   }
 ]
