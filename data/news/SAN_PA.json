@@ -1,5 +1,12 @@
 [
   {
+    "title": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-fa7d94f2?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-11T16:40:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "How The Sanofi (ENXTPA:SAN) Investment Story Is Shifting Around The €98.49 Fair Value",
     "link": "https://finance.yahoo.com/news/sanofi-enxtpa-san-investment-story-210825413.html",
     "publisher": "Simply Wall St.",
@@ -60,13 +67,6 @@
     "link": "https://www.clinicaltrialsarena.com/features/sanofi-head-of-clinical-supply-chain-operations-on-evolving-the-clinical-trial-supply-model/",
     "publisher": "Clinical Trials Arena",
     "date": "2026-03-05T19:11:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal",
-    "link": "https://www.pharmaceutical-technology.com/news/sanofi-1-5bn-licensing-deal-sino-biopharm-rovadicitinib-gvhd/",
-    "publisher": "Pharmaceutical Technology",
-    "date": "2026-03-04T19:02:16Z",
     "type": "STORY"
   }
 ]
