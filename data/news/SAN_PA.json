@@ -1,9 +1,16 @@
 [
   {
     "title": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-fa7d94f2?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-0b15cb66?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-03-11T16:40:00Z",
+    "date": "2026-03-12T11:35:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Poolbeg Pharma adds CAR-T therapy expert to scientific advisory board",
+    "link": "https://www.proactiveinvestors.com/companies/news/1088771/poolbeg-pharma-adds-car-t-therapy-expert-to-scientific-advisory-board-1088771.html",
+    "publisher": "Proactive",
+    "date": "2026-03-12T07:33:00Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/news/euroapi-sa-eapif-full-2025-010249589.html",
     "publisher": "GuruFocus.com",
     "date": "2026-03-06T01:02:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Podcast: Sanofi’s head of clinical supply chain operations on evolving the clinical trial supply model",
-    "link": "https://www.clinicaltrialsarena.com/features/sanofi-head-of-clinical-supply-chain-operations-on-evolving-the-clinical-trial-supply-model/",
-    "publisher": "Clinical Trials Arena",
-    "date": "2026-03-05T19:11:12Z",
     "type": "STORY"
   }
 ]

@@ -1,9 +1,16 @@
 [
   {
-    "title": "Commerzbank on Overnight News",
-    "link": "https://finance.yahoo.com/news/commerzbank-overnight-news-102913161.html",
+    "title": "European Stocks Decline in Thursday Trading Amid Investor Concern of Prolonged Middle East War as Oil Prices Surge",
+    "link": "https://finance.yahoo.com/news/european-stocks-decline-thursday-trading-160330470.html",
     "publisher": "MT Newswires",
-    "date": "2026-03-11T10:29:13Z",
+    "date": "2026-03-12T16:03:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Commerzbank on Overnight News",
+    "link": "https://finance.yahoo.com/news/commerzbank-overnight-news-103327618.html",
+    "publisher": "MT Newswires",
+    "date": "2026-03-12T10:33:27Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-03-05T22:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Fall Sharply After Wednesday Rebound as Middle East War Escalation Lifts Oil",
-    "link": "https://finance.yahoo.com/news/european-stocks-fall-sharply-wednesday-170256083.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-05T17:02:56Z",
     "type": "STORY"
   }
 ]
