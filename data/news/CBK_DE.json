@@ -1,16 +1,30 @@
 [
   {
-    "title": "European Stocks Decline in Thursday Trading Amid Investor Concern of Prolonged Middle East War as Oil Prices Surge",
-    "link": "https://finance.yahoo.com/news/european-stocks-decline-thursday-trading-160330470.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-12T16:03:30Z",
+    "title": "Treasury Yields Rose This Week on Oil, Inflation Jitters",
+    "link": "https://www.wsj.com/finance/jgbs-fall-as-inflation-concerns-weigh-amid-mideast-conflict-d77edd79?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-13T20:27:00Z",
     "type": "STORY"
   },
   {
     "title": "Commerzbank on Overnight News",
-    "link": "https://finance.yahoo.com/news/commerzbank-overnight-news-103327618.html",
+    "link": "https://finance.yahoo.com/news/commerzbank-overnight-news-102448289.html",
     "publisher": "MT Newswires",
-    "date": "2026-03-12T10:33:27Z",
+    "date": "2026-03-13T10:24:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Dollar Rises to 3.5-Month High Amid Growing Middle East Conflict",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-031326/card/dollar-rises-to-3-5-month-high-amid-growing-middle-east-conflict-zhezH2kwZM6geTeydug4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-03-13T08:41:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Stocks Decline in Thursday Trading Amid Investor Concern of Prolonged Middle East War as Oil Prices Surge",
+    "link": "https://finance.yahoo.com/news/european-stocks-decline-thursday-trading-160330470.html",
+    "publisher": "MT Newswires",
+    "date": "2026-03-12T16:03:30Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/news/commerzbank-apos-overnight-news-summary-100234637.html",
     "publisher": "MT Newswires",
     "date": "2026-03-09T10:02:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Long-Trusted Haven Trades Are Failing as Gold, Treasuries Fall",
-    "link": "https://finance.yahoo.com/news/long-trusted-haven-trades-failing-234716432.html",
-    "publisher": "Bloomberg",
-    "date": "2026-03-05T23:47:16Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The WSJ Dollar Index Rises 0.29% to 95.86",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-05T22:38:00Z",
     "type": "STORY"
   }
 ]

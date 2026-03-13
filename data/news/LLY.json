@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sector Update: Health Care Stocks Mixed Late Afternoon",
+    "link": "https://finance.yahoo.com/news/sector-health-care-stocks-mixed-194942171.html",
+    "publisher": "MT Newswires",
+    "date": "2026-03-13T19:49:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Health Care Stocks Advance Friday Afternoon",
+    "link": "https://finance.yahoo.com/news/sector-health-care-stocks-advance-174945533.html",
+    "publisher": "MT Newswires",
+    "date": "2026-03-13T17:49:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nektar Q4 Earnings & Revenues Trump Estimates, Pipeline in Focus",
+    "link": "https://finance.yahoo.com/news/nektar-q4-earnings-revenues-trump-152500584.html",
+    "publisher": "Zacks",
+    "date": "2026-03-13T15:25:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jim Cramer on Eli Lilly: “We’re Not Budging, We’d Buy More If It Really Got Hit”",
+    "link": "https://finance.yahoo.com/news/jim-cramer-eli-lilly-not-151558749.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-03-13T15:15:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Here's Why Eli Lilly (LLY) is a Strong Growth Stock",
+    "link": "https://finance.yahoo.com/news/heres-why-eli-lilly-lly-134503689.html",
+    "publisher": "Zacks",
+    "date": "2026-03-13T13:45:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Advil Maker’s CEO Aims to Play in Weight-Loss Market From Sidelines",
+    "link": "https://www.wsj.com/health/pharma/advil-makers-ceo-aims-to-play-in-weight-loss-market-from-sidelines-c1536f9a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-13T12:27:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Keytruda’s reign continues; pharma’s megadeal drought",
+    "link": "https://www.pharmavoice.com/news/keytruda-pharma-sandoz-biosimilar-fda-deal-servier/814607/",
+    "publisher": "Pharma Voice",
+    "date": "2026-03-13T08:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Novo regained weight loss footing in the pill arena — but Lilly is coming",
+    "link": "https://www.pharmavoice.com/news/novo-lilly-weight-loss-glp-1-pill/814604/",
+    "publisher": "Pharma Voice",
+    "date": "2026-03-13T08:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Sector Update: Health Care Stocks Retreat Late Afternoon",
     "link": "https://finance.yahoo.com/news/sector-health-care-stocks-retreat-195540829.html",
     "publisher": "MT Newswires",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/news/eli-lilly-warns-tirzepatide-b12-192110661.html",
     "publisher": "GuruFocus.com",
     "date": "2026-03-12T19:21:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eli Lilly Stock Slips After Warning on Compounded GLP-1 Drugs With Additives",
-    "link": "https://finance.yahoo.com/news/eli-lilly-stock-slips-warning-184814514.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-03-12T18:48:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lilly Flags Safety Risk In Compounded GLP 1",
-    "link": "https://finance.yahoo.com/news/lilly-flags-safety-risk-compounded-181749175.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-03-12T18:17:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Health Care Stocks Lower in Afternoon Trading",
-    "link": "https://finance.yahoo.com/news/sector-health-care-stocks-lower-180038248.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-12T18:00:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eli Lilly’s China Obesity Bet And What It Means For Valuation",
-    "link": "https://finance.yahoo.com/news/eli-lilly-china-obesity-bet-171315878.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-12T17:13:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Will Policy Shifts Accelerate Demand for Eli Lilly's GLP-1 Drugs?",
-    "link": "https://finance.yahoo.com/news/policy-shifts-accelerate-demand-eli-164800806.html",
-    "publisher": "Zacks",
-    "date": "2026-03-12T16:48:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Midday Fly By: IEA to release 400M oil barrels, Oracle reports Q3 beat",
-    "link": "https://finance.yahoo.com/news/midday-fly-iea-release-400m-160056411.html",
-    "publisher": "TipRanks",
-    "date": "2026-03-12T16:00:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Should You Chase the Rally in Hims & Hers Stock Today?",
-    "link": "https://www.barchart.com/story/news/715738/should-you-chase-the-rally-in-hims-hers-stock-today",
-    "publisher": "Barchart",
-    "date": "2026-03-12T14:57:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Does This Deal Make Novo Nordisk Stock a Buy?",
-    "link": "https://www.fool.com/investing/2026/03/12/does-this-deal-make-novo-nordisk-stock-a-buy/",
-    "publisher": "Motley Fool",
-    "date": "2026-03-12T14:35:00Z",
     "type": "STORY"
   }
 ]
