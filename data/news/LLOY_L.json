@@ -1,5 +1,19 @@
 [
   {
+    "title": "UBS faced brief incident that impacted trading business, source says",
+    "link": "https://finance.yahoo.com/news/ubs-faced-technology-outage-impacted-180637828.html",
+    "publisher": "Reuters",
+    "date": "2026-03-17T18:06:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Lloyds faces questions from Treasury Committee about recent banking app glitch",
+    "link": "https://uk.finance.yahoo.com/news/lloyds-faces-questions-treasury-committee-123856653.html",
+    "publisher": "PA Media: Money",
+    "date": "2026-03-17T13:46:26Z",
+    "type": "STORY"
+  },
+  {
     "title": "Lloyds Data Breach Tests Digital Trust And Long Term Investment Thesis",
     "link": "https://finance.yahoo.com/news/lloyds-data-breach-tests-digital-031227645.html",
     "publisher": "Simply Wall St.",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/news/lloyds-banking-group-lse-lloy-121128638.html",
     "publisher": "Simply Wall St.",
     "date": "2026-03-10T12:11:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lloyds Banking Group Links Data Monetisation To Major IT Overhaul",
-    "link": "https://finance.yahoo.com/news/lloyds-banking-group-links-data-011004382.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-10T01:10:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lloyds to boost data commercialisation and governance automation- report",
-    "link": "https://www.retailbankerinternational.com/news/lloyds-data-commercialisation-governance-automation/",
-    "publisher": "Retail Banker International",
-    "date": "2026-03-09T11:53:35Z",
     "type": "STORY"
   }
 ]

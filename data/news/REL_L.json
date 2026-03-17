@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "AI Risk Is Dominating Conference Calls as Investors Dump Stocks",
-    "link": "https://finance.yahoo.com/news/ai-risk-dominating-conference-calls-100000266.html",
-    "publisher": "Bloomberg",
-    "date": "2026-02-15T10:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "RELX (LON:REL) Is Increasing Its Dividend To £0.48",
     "link": "https://finance.yahoo.com/news/relx-lon-rel-increasing-dividend-073144663.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.marketbeat.com/instant-alerts/relx-q4-earnings-call-highlights-2026-02-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-02-12T11:14:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights RELX and Yelp",
+    "link": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-relx-102400215.html",
+    "publisher": "Zacks",
+    "date": "2026-02-10T10:24:00Z",
     "type": "STORY"
   }
 ]

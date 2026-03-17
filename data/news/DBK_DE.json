@@ -1,5 +1,33 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-b779c330?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-17T21:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oracle (ORCL) Earnings Beat Expectations as Cloud Revenue Surges, Deutsche Bank Reaffirms Buy",
+    "link": "https://finance.yahoo.com/news/oracle-orcl-earnings-beat-expectations-124225271.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-03-17T12:42:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank Says Canadian Dollar's Resilience Faces A Challenge",
+    "link": "https://finance.yahoo.com/news/deutsche-bank-says-canadian-dollar-121228007.html",
+    "publisher": "MT Newswires",
+    "date": "2026-03-17T12:12:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank signals $30B risk to private credit",
+    "link": "https://www.thestreet.com/latest-news/deutsche-bank-signals-30b-risk-to-private-credit",
+    "publisher": "TheStreet",
+    "date": "2026-03-17T02:03:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Shifting Story For SLM (SLM) As Credit Risks And AI Questions Meet Buybacks",
     "link": "https://finance.yahoo.com/news/shifting-story-slm-slm-credit-011139900.html",
     "publisher": "Simply Wall St.",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/news/evolving-story-verra-mobility-vrrm-101001627.html",
     "publisher": "Simply Wall St.",
     "date": "2026-03-13T10:10:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Rank Group (LSE:RNK) Narrative Is Shifting With Mixed Analyst Signals",
-    "link": "https://finance.yahoo.com/news/rank-group-lse-rnk-narrative-090940240.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-13T09:09:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How Evoke (LSE:EVOK) Is Repricing Execution Risk While Its Long Term Story Stays Intact",
-    "link": "https://finance.yahoo.com/news/evoke-lse-evok-repricing-execution-011013124.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-13T01:10:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Netcompany Group (CPSE:NETC) Investment Story Is Shifting As Analyst Views Diverge",
-    "link": "https://finance.yahoo.com/news/netcompany-group-cpse-netc-investment-181325608.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-12T18:13:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Bank Previews Next Week's ECB Policy Meeting",
-    "link": "https://finance.yahoo.com/news/deutsche-bank-previews-next-week-144046101.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-12T14:40:46Z",
     "type": "STORY"
   }
 ]
