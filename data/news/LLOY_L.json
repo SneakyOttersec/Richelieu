@@ -1,5 +1,26 @@
 [
   {
+    "title": "Tech outage halts trading at UBS",
+    "link": "https://www.financial-planning.com/news/tech-outage-halts-trading-at-ubs",
+    "publisher": "Financial Planning",
+    "date": "2026-03-18T20:46:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Treasury Committee seeks answers on Lloyd’s Bank data breach",
+    "link": "https://www.retailbankerinternational.com/news/treasury-seeks-answers-lloyds-data-breach/",
+    "publisher": "Retail Banker International",
+    "date": "2026-03-18T12:15:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Best credit card deals of the week",
+    "link": "https://uk.finance.yahoo.com/news/best-credit-card-deals-lloyds-tsb-barclays-073339470.html",
+    "publisher": "Yahoo Finance UK",
+    "date": "2026-03-18T10:11:19Z",
+    "type": "STORY"
+  },
+  {
     "title": "UBS faced brief incident that impacted trading business, source says",
     "link": "https://finance.yahoo.com/news/ubs-faced-technology-outage-impacted-180637828.html",
     "publisher": "Reuters",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/news/britains-lloyds-apologises-customers-able-120136072.html",
     "publisher": "Reuters",
     "date": "2026-03-12T12:01:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What are share buybacks?",
-    "link": "https://uk.finance.yahoo.com/news/what-are-share-buybacks-150055252.html",
-    "publisher": "Yahoo Finance UK",
-    "date": "2026-03-11T10:56:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Best credit card deals of the week",
-    "link": "https://uk.finance.yahoo.com/news/best-credit-card-deals-lloyds-tsb-barclays-073339470.html",
-    "publisher": "Yahoo Finance UK",
-    "date": "2026-03-11T10:19:55Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lloyds Banking Group (LSE:LLOY) Valuation Check After Recent Share Price Pullback",
-    "link": "https://finance.yahoo.com/news/lloyds-banking-group-lse-lloy-121128638.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-10T12:11:28Z",
     "type": "STORY"
   }
 ]
