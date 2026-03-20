@@ -1,5 +1,54 @@
 [
   {
+    "title": "Stocks end week in red as Brent price retreats",
+    "link": "https://uk.finance.yahoo.com/news/stocks-end-week-red-brent-174012554.html",
+    "publisher": "PA Media: Money",
+    "date": "2026-03-20T17:40:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "HSBC upgrades CVX, BP as Middle East shock drives earnings revisions",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/hsbc-upgrades-cvx-bp-middle-151521906.html",
+    "publisher": "Investing.com",
+    "date": "2026-03-20T15:15:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Shell's Pearl GTL Is Halted After Qatar Energy Facility Attack",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/shells-pearl-gtl-halted-qatar-141100916.html",
+    "publisher": "Zacks",
+    "date": "2026-03-20T14:11:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Shell (SHEL) is a Top Value Stock for the Long-Term",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-shell-shel-top-value-134004736.html",
+    "publisher": "Zacks",
+    "date": "2026-03-20T13:40:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Non-US Markets Are Ripping, and These 3 ETFs Are The Best Way To Ride The Boom",
+    "link": "https://247wallst.com/investing/2026/03/20/non-us-markets-are-ripping-and-these-3-etfs-are-the-best-way-to-ride-the-boom/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-03-20T12:06:10Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Gas Facility Damage Will Reduce Qatar’s Export Capacity by 17%",
+    "link": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/gas-facility-damage-will-reduce-qatar-s-export-capacity-by-17--T3Yp8KDOMvQiL97RwkS5?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-20T02:43:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Review & Preview: Fog of War",
+    "link": "https://www.barrons.com/articles/stocks-today-oil-natural-gas-metaverse-6f7b0d3d?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-03-19T23:55:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "How The Shell (LSE:SHEL) Story Is Shifting On LNG Growth, Oil Views And War Risks",
     "link": "https://finance.yahoo.com/sectors/energy/articles/shell-lse-shel-story-shifting-220533971.html",
     "publisher": "Simply Wall St.",
@@ -14,59 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "TTE's Global Presence in LNG Expands, New Production Begins in Angola",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/ttes-global-presence-lng-expands-175200152.html",
-    "publisher": "Zacks",
-    "date": "2026-03-19T17:52:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Stocks to Watch Today: Tesla, Micron, FedEx, Alibaba",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026/card/stocks-to-watch-today-micron-fedex-hsbc-ETzlNrWiXEvjLUjqo4Cr?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-03-19T17:25:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exxon, Shell Now in the Line of Fire in Iran War",
-    "link": "https://www.barrons.com/articles/shell-exxon-iran-attacks-stocks-0ab1cecb?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-03-19T17:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gas prices soar as Shell plant damaged in attack on Qatar energy site",
-    "link": "https://uk.finance.yahoo.com/news/gas-prices-soar-shell-plant-093832003.html",
-    "publisher": "PA Media: Money",
-    "date": "2026-03-19T17:08:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell Says Production at Pearl GTL Plant in Qatar Halted After Iranian Attack",
-    "link": "https://www.wsj.com/world/middle-east/shell-assesses-attack-damage-to-gas-to-liquids-plant-in-qatars-ras-laffan-18d318a4?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-19T14:51:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell Stock Dips as Iranian Missile Hits World's Largest GTL Facility",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/shell-stock-dips-iranian-missile-144422567.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-03-19T14:44:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Energy Stocks Advance Premarket Thursday",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-advance-premarket-132530017.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-19T13:25:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BP moves back to central London as it chooses Bankside development for new global HQ",
-    "link": "https://www.standard.co.uk/business/bp-moves-back-central-london-chooses-bankside-global-hq-b1275584.html",
-    "publisher": "Evening Standard",
-    "date": "2026-03-19T10:32:30Z",
+    "date": "2026-03-19T21:12:07Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,61 @@
 [
   {
+    "title": "Market Madness: Palantir, Walmart, & other hot stock picks",
+    "link": "https://finance.yahoo.com/video/market-madness-palantir-walmart-other-211331593.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-03-20T21:13:31Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Walmart, Ross Stores, and Other ‘Defensive’ Retail Stocks",
+    "link": "https://www.barrons.com/articles/walmart-ross-stores-five-below-stock-a4294ab9?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-03-20T18:39:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Retail giant Walmart issues economic warning",
+    "link": "https://www.thestreet.com/retail/retail-giant-walmart-issues-economic-warning",
+    "publisher": "TheStreet",
+    "date": "2026-03-20T16:47:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Costco Membership Income Jumps Double Digits: What Is Driving Growth?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/costco-membership-income-jumps-double-133600245.html",
+    "publisher": "Zacks",
+    "date": "2026-03-20T13:36:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sazerac snaps up US RTD brand Dirty Shirley",
+    "link": "https://www.just-drinks.com/news/sazerac-snaps-up-us-rtd-brand-dirty-shirley/",
+    "publisher": "Just Drinks",
+    "date": "2026-03-20T09:59:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Flipkart group CFO quits as Walmart‑owned firm gears up for India IPO",
+    "link": "https://sg.finance.yahoo.com/news/flipkarts-group-finance-chief-sriram-080300722.html",
+    "publisher": "Reuters",
+    "date": "2026-03-20T09:17:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Prediction: This Will Be Amazon's Stock Price in 5 Years",
+    "link": "https://www.fool.com/investing/2026/03/20/prediction-this-will-be-amazons-stock-price-in-5-y/",
+    "publisher": "Motley Fool",
+    "date": "2026-03-20T07:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Walmart (WMT) Is Rewriting Its Story With AI Hype And Valuation Questions",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-rewriting-story-ai-031044534.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-03-20T03:10:44Z",
+    "type": "STORY"
+  },
+  {
     "title": "The hidden bottleneck slowing down modern payments",
     "link": "https://www.thestreet.com/crypto/innovation/blitz-ceo-says-legacy-systems-slowing-enterprise-payments-despite-instant-tech",
     "publisher": "TheStreet",
@@ -11,62 +67,6 @@
     "link": "https://www.usatoday.com/story/money/personalfinance/real-estate/2026/03/19/grocery-stores-home-prices-economy/89211516007/",
     "publisher": "USA TODAY",
     "date": "2026-03-19T18:39:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Rubi Raises $7.5M for Carbon Capture Cellulose; Paradise Textiles Plans $102M Egypt Hub: Sustainability Scene",
-    "link": "https://wwd.com/sustainability/business/rubi-funding-paradise-textiles-egypt-sustainable-hub-1238683028/",
-    "publisher": "WWD",
-    "date": "2026-03-19T16:59:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Walmart is quietly becoming a go-to for designer brands",
-    "link": "https://www.thestreet.com/retail/walmart-is-quietly-becoming-a-go-to-for-designer-brands",
-    "publisher": "TheStreet",
-    "date": "2026-03-19T16:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Long-only funds are buying non-US stocks, BofA says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/long-only-funds-buying-non-153907468.html",
-    "publisher": "Investing.com",
-    "date": "2026-03-19T15:39:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Alphabet’s X has a new spinout, and it’s going after one of the world’s most expensive bureaucratic nightmares",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/anori-alphabet-x-spinout-tackling-140000697.html",
-    "publisher": "TechCrunch",
-    "date": "2026-03-19T14:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Target launches another generous deal to win back shoppers' trust",
-    "link": "https://www.thestreet.com/retail/target-launches-another-generous-deal-target-circle-deal-day-to-win-back-shoppers",
-    "publisher": "TheStreet",
-    "date": "2026-03-19T04:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
-    "link": "https://finance.yahoo.com/news/sector-consumer-stocks-fall-afternoon-194119096.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-18T19:41:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Walmart wins patents to give algorithms more sway over prices",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/walmart-wins-patents-algorithms-more-161845520.html",
-    "publisher": "Financial Times",
-    "date": "2026-03-18T16:18:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Fees Are Rising Much Faster Than Gig Worker Pay—Here Are The Top-Paying Apps",
-    "link": "https://www.investopedia.com/how-much-gig-workers-earn-per-hour-and-how-wages-compare-across-apps-11927475",
-    "publisher": "Investopedia",
-    "date": "2026-03-18T15:49:59Z",
     "type": "STORY"
   }
 ]
