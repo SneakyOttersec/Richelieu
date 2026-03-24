@@ -1,5 +1,54 @@
 [
   {
+    "title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/arm-unveils-ai-chip-expects-184052597.html",
+    "publisher": "Reuters",
+    "date": "2026-03-24T18:40:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI's Biggest Backer May Also Be A Risk",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/openais-biggest-backer-may-risk-131035686.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-03-24T13:10:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Valuation Check After Recent Share Price Weakness",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-valuation-100719484.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-03-24T10:07:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "NextEra to develop 9.5 GW of gas in Texas, Pennsylvania",
+    "link": "https://www.utilitydive.com/news/nextera-gas-generation-doe-softbank-texas-pennsylvania/815541/",
+    "publisher": "Utility Dive",
+    "date": "2026-03-24T10:02:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank’s Ohio AI Data Center And Power Deal Reshape Investment Case",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-ohio-ai-data-center-042524606.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-03-24T04:25:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "PayPay (PAYP) Climbs 21% on Strong Investor Confidence",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/paypay-payp-climbs-21-strong-042312613.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-03-24T04:23:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/air-street-becomes-one-largest-223639182.html",
+    "publisher": "TechCrunch",
+    "date": "2026-03-23T22:36:39Z",
+    "type": "STORY"
+  },
+  {
     "title": "Jeff Bezos Reportedly Seeks $100 Billion To Supercharge AI-Driven Automation, Bernie Sanders Says 'Oligarchs Waging All Out War Against Workers'",
     "link": "https://finance.yahoo.com/sectors/technology/articles/jeff-bezos-reportedly-seeks-100-123107041.html",
     "publisher": "Benzinga",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/news/softbank-planning-giant-ohio-ai-181426990.html",
     "publisher": "Bloomberg",
     "date": "2026-03-20T21:58:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jeff Bezos wants to buy manufacturers for a disturbing reason",
-    "link": "https://www.thestreet.com/retail/jeff-bezos-wants-to-buy-manufacturers-for-a-disturbing-reason",
-    "publisher": "TheStreet",
-    "date": "2026-03-20T19:37:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Massive $33 billion energy hub for data centers announced in Pike County",
-    "link": "https://www.dispatch.com/story/business/2026/03/20/data-centers-aep-ohio-us-department-of-energy/89245648007/",
-    "publisher": "The Columbus Dispatch",
-    "date": "2026-03-20T17:08:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings eyes full-chiplet CPUs, but analysts warn near-term headwinds remain",
-    "link": "https://www.proactiveinvestors.com/companies/news/1089258/arm-holdings-eyes-full-chiplet-cpus-but-analysts-warn-near-term-headwinds-remain-1089258.html",
-    "publisher": "Proactive",
-    "date": "2026-03-20T16:27:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "DOE taps SoftBank arm to develop 9.2 GW of gas generation in Ohio",
-    "link": "https://www.utilitydive.com/news/doe-taps-softbank-arm-to-develop-92-gw-of-gas-generation-in-ohio/815328/",
-    "publisher": "Utility Dive",
-    "date": "2026-03-20T11:39:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund",
-    "link": "https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-19T19:42:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan rebels over $6bn fee for SoftBank under US trade deal",
-    "link": "https://finance.yahoo.com/news/japan-rebels-over-6bn-fee-010002625.html",
-    "publisher": "Financial Times",
-    "date": "2026-03-19T16:57:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cathie Wood Is Buying PAYP Stock After the PayPay IPO. Should You?",
-    "link": "https://www.barchart.com/story/news/801533/cathie-wood-is-buying-payp-stock-after-the-paypay-ipo-should-you",
-    "publisher": "Barchart",
-    "date": "2026-03-17T18:41:50Z",
     "type": "STORY"
   }
 ]
