@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Goldman Team Says Asset-Heavy Stocks Outperform on AI Fears",
-    "link": "https://finance.yahoo.com/news/goldman-strategists-asset-heavy-stocks-101843233.html",
-    "publisher": "Bloomberg",
-    "date": "2026-02-24T11:14:56Z",
-    "type": "STORY"
-  },
-  {
     "title": "Siemens Healthineers Q1: Imaging, Precision Therapy drive growth as China weighs on Diagnostics",
     "link": "https://www.marketbeat.com/instant-alerts/siemens-healthineers-q1-imaging-precision-therapy-drive-growth-as-china-weighs-on-diagnostics-2026-02-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/health/health-care-roundup-market-talk-8d80cc86?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-02-05T22:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Siemens Healthineers Deepens Diagnostics Focus With Ireland Hub And MASLD Push",
+    "link": "https://finance.yahoo.com/news/siemens-healthineers-deepens-diagnostics-focus-191348498.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-02-05T19:13:48Z",
     "type": "STORY"
   }
 ]

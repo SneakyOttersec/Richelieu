@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Goldman Team Says Asset-Heavy Stocks Outperform on AI Fears",
-    "link": "https://finance.yahoo.com/news/goldman-strategists-asset-heavy-stocks-101843233.html",
-    "publisher": "Bloomberg",
-    "date": "2026-02-24T11:14:56Z",
-    "type": "STORY"
-  },
-  {
     "title": "Air Liquide SA (AIQUF) Full Year 2025 Earnings Call Highlights: Strong Financial Performance ...",
     "link": "https://finance.yahoo.com/news/air-liquide-sa-aiquf-full-010139842.html",
     "publisher": "GuruFocus.com",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/basf-launches-key-steam-cracker-120300747.html",
     "publisher": "Zacks",
     "date": "2026-01-08T12:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Hyundai and Air Liquide extend hydrogen partnership",
+    "link": "https://www.just-auto.com/news/hyundai-air-liquide-extend-hydrogen-partnership/",
+    "publisher": "Just Auto",
+    "date": "2025-12-08T12:31:24Z",
     "type": "STORY"
   }
 ]
