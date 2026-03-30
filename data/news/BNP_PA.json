@@ -1,5 +1,54 @@
 [
   {
+    "title": "Mistral's $830 Million Move Reveals AI Reality",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/mistrals-830-million-move-reveals-160213308.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-03-30T16:02:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mistral raises $830M in debt for Paris AI data center of Nvidia chips",
+    "link": "https://qz.com/mistral-830-million-debt-ai-data-center",
+    "publisher": "Quartz",
+    "date": "2026-03-30T15:20:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center",
+    "link": "https://www.wsj.com/tech/ai/mistral-ai-raises-830-million-in-debt-for-nvidia-powered-data-center-deef4822",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-03-30T09:46:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "France's Mistral raises $830 million in debt for AI data centre build-up",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/frances-mistral-raises-830-million-060341046.html",
+    "publisher": "Reuters",
+    "date": "2026-03-30T06:03:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BNP Paribas Rolls Out 6 Crypto ETNs Under Strict Retail Access Rules",
+    "link": "https://beincrypto.com/bnp-paribas-crypto-etn-launch/",
+    "publisher": "BeInCrypto",
+    "date": "2026-03-29T13:02:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jefferies Bullish on The Home Depot (HD) Following Mingledorff Acquisition",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-bullish-home-depot-hd-205452289.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-03-28T20:54:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oracle’s (ORCL) Backlog Drives Its Bull Thesis According To Analysts",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-backlog-drives-bull-151844148.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-03-28T15:18:44Z",
+    "type": "STORY"
+  },
+  {
     "title": "Goldman Sachs-Backed Canton Crypto Chain Adds LayerZero Interoperability",
     "link": "https://cryptonews.com/news/canton-chain-layerzero-interoperability-integration/",
     "publisher": "Cryptonews",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/markets/crypto/articles/european-payments-initiative-ceo-says-130517824.html",
     "publisher": "Reuters",
     "date": "2026-03-26T13:05:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Climb in Wednesday Trading; Investors More Optimistic About End to Middle East Conflict",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-climb-wednesday-trading-160030665.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-25T16:00:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SWIFT Blockchain Pivot Puts XRP Back in Cross-Border Spotlight",
-    "link": "https://cryptonews.com/news/swift-blockchain-pivot-xrp-cross-border-spotlight/",
-    "publisher": "Cryptonews",
-    "date": "2026-03-25T09:29:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lumentum (LITE) Soars to All-Time High on 66% PT Hike",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-soars-time-high-022403654.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-03-25T02:24:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Tracking Higher in Monday Trading After Trump Reprieve; Bank, Automotive, Mining Shares Rally",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-tracking-higher-monday-160957467.html",
-    "publisher": "MT Newswires",
-    "date": "2026-03-23T16:09:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Banks begin $4.7bn loan sale for Sealed Air buyout – report",
-    "link": "https://www.packaging-gateway.com/news/banks-loan-sale-sealed-air-buyout/",
-    "publisher": "Packaging Gateway",
-    "date": "2026-03-23T14:41:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This Is How Atlassian (TEAM) Prepares Itself for OpenAI Framework Integration",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/atlassian-team-prepares-itself-openai-221745924.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-03-20T22:17:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is BNP Paribas (ENXTPA:BNP) Still Attractive After Multi Year Share Price Gains?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-enxtpa-bnp-still-030814922.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-20T03:08:14Z",
     "type": "STORY"
   }
 ]
