@@ -1,10 +1,24 @@
 [
   {
-    "title": "Dow skyrockets by over 1,100 points, stocks rally to end Q1 2026",
-    "link": "https://finance.yahoo.com/video/dow-skyrockets-by-over-1100-points-stocks-rally-to-end-q1-2026-200847906.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-03-31T20:08:47Z",
-    "type": "VIDEO"
+    "title": "Home Depot sets sights on AI with CTO appointment",
+    "link": "https://www.ciodive.com/news/home-depot-ai-cto-appointment/816390/",
+    "publisher": "CIO Dive",
+    "date": "2026-04-01T14:55:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "RH Q4 Earnings Lag Estimates, Revenues Up Y/Y, Stock Down 17%",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rh-q4-earnings-lag-estimates-133300139.html",
+    "publisher": "Zacks",
+    "date": "2026-04-01T13:33:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jefferies Reiterates Buy on Home Depot (HD) After Mingledorff’s Deal",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-reiterates-buy-home-depot-114223067.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-04-01T11:42:23Z",
+    "type": "STORY"
   },
   {
     "title": "Home Depot’s New AI-Focused CTO Appointment Could Be A Game Changer For Home Depot (HD)",
@@ -12,6 +26,13 @@
     "publisher": "Simply Wall St.",
     "date": "2026-03-31T21:12:37Z",
     "type": "STORY"
+  },
+  {
+    "title": "Dow skyrockets by over 1,100 points, stocks rally to end Q1 2026",
+    "link": "https://finance.yahoo.com/video/dow-skyrockets-by-over-1100-points-stocks-rally-to-end-q1-2026-200847906.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-03-31T20:08:47Z",
+    "type": "VIDEO"
   },
   {
     "title": "3 of Wall Street’s Favorite Stocks That Fall Short",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/ai-shopping-shift-puts-amazon-182012788.html",
     "publisher": "GuruFocus.com",
     "date": "2026-03-30T18:20:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "A Look At Home Depot (HD) Valuation After Recent Share Price Pullback",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/look-home-depot-hd-valuation-110827970.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-30T11:08:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "3 Cash-Producing Stocks That Concern Us",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-concern-071018017.html",
-    "publisher": "StockStory",
-    "date": "2026-03-30T07:10:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "With AI Washing, C-Suite Lets Tech Take the Credit (and the Blame)",
-    "link": "https://www.thedailyupside.com/technology/artificial-intelligence/with-ai-washing-c-suite-lets-tech-take-the-credit-and-the-blame/",
-    "publisher": "The Daily Upside",
-    "date": "2026-03-29T04:01:00Z",
     "type": "STORY"
   }
 ]

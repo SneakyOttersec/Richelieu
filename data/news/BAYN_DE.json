@@ -1,5 +1,19 @@
 [
   {
+    "title": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-0f10a4b7?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-01T16:27:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer Weighs U.S. Pharma Expansion as Turnaround Picks Up Speed",
+    "link": "https://www.wsj.com/business/bayer-weighs-u-s-pharma-expansion-as-turnaround-picks-up-speed-545703fb?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-01T11:46:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "$2 Billion Bayer Verdict: What the Roundup Decision Means for MAHA",
     "link": "https://finance.yahoo.com/sectors/healthcare/articles/2-billion-bayer-verdict-roundup-194517794.html",
     "publisher": "Exec Edge",
@@ -49,24 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-1f3fe416?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-16T21:02:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Bayer eyes label expansion on Phase III non-diabetic CKD win",
     "link": "https://www.clinicaltrialsarena.com/news/bayer-kerendia-non-diabetic-ckd-phase-iii-find-ckd-trial/",
     "publisher": "Clinical Trials Arena",
     "date": "2026-03-16T16:20:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sarepta tests new Elevidys safeguards; Sana advances diabetes cell therapy",
-    "link": "https://www.biopharmadive.com/news/sarepta-elevidys-sirolimus-sana-diabetes-bayer-inovio-unnatural/814773/",
-    "publisher": "BioPharma Dive",
-    "date": "2026-03-16T09:06:00Z",
     "type": "STORY"
   }
 ]
