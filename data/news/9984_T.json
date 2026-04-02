@@ -1,9 +1,23 @@
 [
   {
-    "title": "OpenAI just raised a historic amount of money. Here are 2 stunning numbers you shouldn't forget.",
-    "link": "https://finance.yahoo.com/news/openai-just-raised-a-historic-amount-of-money-here-are-2-stunning-numbers-you-shouldnt-forget-133202041.html",
-    "publisher": "Yahoo Finance",
-    "date": "2026-04-01T13:32:02Z",
+    "title": "Is OpenAI's $1 trillion IPO valuation realistic?",
+    "link": "https://finance.yahoo.com/video/is-openais-1-trillion-ipo-valuation-realistic-203801665.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-04-02T20:38:01Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Intel Doubles Down on AI. New SambaNova Bet Raises Strategic Stakes",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/intel-doubles-down-ai-sambanova-122335199.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-02T12:23:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Amazon Stock Climbs as It Bets a Jaw-Dropping $50 Billion on OpenAI’s Meteoric $852 Billion Rise",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-climbs-bets-jaw-121244554.html",
+    "publisher": "TipRanks",
+    "date": "2026-04-02T12:12:44Z",
     "type": "STORY"
   },
   {
@@ -18,6 +32,13 @@
     "link": "https://www.barrons.com/articles/openai-fund-raising-chatgpt-amazon-buy-3baac66a?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-04-01T13:41:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI just raised a historic amount of money. Here are 2 stunning numbers you shouldn't forget.",
+    "link": "https://finance.yahoo.com/news/openai-just-raised-a-historic-amount-of-money-here-are-2-stunning-numbers-you-shouldnt-forget-133202041.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-04-01T13:32:02Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://beincrypto.com/openai-122b-funding-round-852b-valuation/",
     "publisher": "BeInCrypto",
     "date": "2026-04-01T08:40:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI closes $122 billion funding round, biggest ever in Silicon Valley",
-    "link": "https://qz.com/openai-funding-round-valuation-ipo-chatgpt",
-    "publisher": "Quartz",
-    "date": "2026-04-01T01:09:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI raises $122 billion in boosted funding round",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-raises-122-billion-boosted-231515284.html",
-    "publisher": "AFP",
-    "date": "2026-03-31T23:15:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Top Investors Continue to Prize OpenAI",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/top-investors-continue-to-prize-openai-FsuXwhLTAe1mRRro1rnS?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-31T22:30:08Z",
     "type": "STORY"
   }
 ]

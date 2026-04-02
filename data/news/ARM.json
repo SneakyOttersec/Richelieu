@@ -1,9 +1,37 @@
 [
   {
-    "title": "Dow Jones Futures: Stock Market Rallies Into Trump's Iran Speech; Tesla Set To Reclaim EV Crown",
+    "title": "Chip Stocks Fall After Trump Iran Warning",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-fall-trump-iran-202219472.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-02T20:22:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "2 AI Pick-and-Shovel Stocks Poised to Be the Next NVIDIA",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/2-ai-pick-shovel-stocks-190000230.html",
+    "publisher": "Zacks",
+    "date": "2026-04-02T19:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "IBM, Arm Team Up For AI Flexibility Push",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/ibm-arm-team-ai-flexibility-134541947.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-02T13:45:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due",
     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-tesla-deliveries/?src=A00220&yptr=yahoo",
     "publisher": "Investor's Business Daily",
-    "date": "2026-04-01T22:16:31Z",
+    "date": "2026-04-02T12:08:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Amazon, Apple, and Nvidia Can't Make AI Chips Without This Company. Here's Why Its Growth Stock Could Soar.",
+    "link": "https://www.fool.com/investing/2026/04/02/amazon-apple-and-nvidia-cant-make-ai-chips-without/",
+    "publisher": "Motley Fool",
+    "date": "2026-04-02T08:05:00Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://www.investors.com/news/technology/micron-stock-memory-chip-pricing-strength/?src=A00220&yptr=yahoo",
     "publisher": "Investor's Business Daily",
     "date": "2026-03-30T20:14:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Amazon Just Lost a Key AI Chip Executive. Is That Bad News for AMZN Stock?",
-    "link": "https://www.barchart.com/story/news/1047413/amazon-just-lost-a-key-ai-chip-executive-is-that-bad-news-for-amzn-stock",
-    "publisher": "Barchart",
-    "date": "2026-03-30T19:32:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This 1 Tech Stock is Worth Buying Hand-Over-Fist, Even in This Environment",
-    "link": "https://247wallst.com/investing/2026/03/30/this-1-tech-stock-is-worth-buying-hand-over-fist-even-in-this-environment/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-03-30T18:30:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Meta Is a ‘Top Pick’ at Morgan Stanley. Why Wall Street Still Loves the Struggling Stock.",
-    "link": "https://www.barrons.com/articles/meta-stock-rough-year-top-pick-morgan-stanley-7f4049cd?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-03-30T17:50:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Intel Slides 5%, AMD Drops 3%: The Semiconductor Sector Is at a Crossroads",
-    "link": "https://247wallst.com/investing/2026/03/30/intel-slides-5-amd-drops-3-the-semiconductor-sector-is-at-a-crossroads/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-03-30T17:39:20Z",
     "type": "STORY"
   }
 ]
