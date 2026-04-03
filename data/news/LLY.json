@@ -1,9 +1,51 @@
 [
   {
+    "title": "Why Novo Nordisk's Pricing Shift Could Unlock a Much Larger Obesity Market",
+    "link": "https://www.fool.com/investing/2026/04/03/why-novo-nordisks-pricing-shift-could-unlock-a-muc/",
+    "publisher": "Motley Fool",
+    "date": "2026-04-03T21:22:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/health/health-care-roundup-market-talk-8158f818?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-64bad7c0?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-04-02T21:27:00Z",
+    "date": "2026-04-03T21:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eli Lilly (LLY) Receives FDA Approval for Foundayo Weight Management Pill",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-lly-receives-fda-180141552.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-04-03T18:01:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts",
+    "link": "https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-04-03T16:10:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "These 2 Medical Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/2-medical-stocks-could-beat-130004437.html",
+    "publisher": "Zacks",
+    "date": "2026-04-03T13:00:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Novo Nordisk Wegovy Data Challenges Foundayo And Resets Valuation Debate",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-wegovy-data-challenges-070955540.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-03T07:09:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eli Lilly (LLY) Stock Sinks As Market Gains: Here's Why",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-sinks-214502833.html",
+    "publisher": "Zacks",
+    "date": "2026-04-02T21:45:02Z",
     "type": "STORY"
   },
   {
@@ -14,59 +56,17 @@
     "type": "STORY"
   },
   {
+    "title": "Trump slaps steep tariffs on patented drug imports",
+    "link": "https://www.supplychaindive.com/news/trump-tariffs-patented-drug-imports/816550/",
+    "publisher": "Supply Chain Dive",
+    "date": "2026-04-02T20:05:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Trump Slaps 100% Tariffs on Some Drug Imports. What to Know.",
     "link": "https://www.barrons.com/articles/trump-tariffs-drug-imports-08543119?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-04-02T20:04:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Health Care Stocks Softer Late Afternoon",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-softer-195732302.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-02T19:57:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eli Lilly Is Ready to Break the Weight-Loss Drugs Market With a Pill",
-    "link": "https://app.moby.co/home/news/news-eli-lilly-is-ready-to-break-the-weight-loss-drugs-market-with-a-pill?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-04-02T19:51:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Novo Nordisk Releases Data Showing 3.2% Greater Weight Loss vs Lilly Pill",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-releases-data-showing-192646057.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-04-02T19:26:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Alkermes Starts Phase 3 Orexin Trials As Narcolepsy Story Builds",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/alkermes-starts-phase-3-orexin-181247379.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-02T18:12:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Health Care Stocks Softer Thursday Afternoon",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-softer-175549803.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-02T17:55:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stock Market Rebounds Even As Oil Prices Skyrocket On Trump's Iran War Comments; Tesla, SpaceX, Eli Lilly In Focus: Weekly Review",
-    "link": "https://www.investors.com/news/stock-market-oil-prices-skyrocket-trump-iran-war-comments-tesla-spacex-eli-lilly/?src=A00220&yptr=yahoo",
-    "publisher": "Investor's Business Daily",
-    "date": "2026-04-02T17:09:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank of America sees Eli Lilly’s Foundayo as preferred oral GLP-1",
-    "link": "https://www.proactiveinvestors.com/companies/news/1090030/bank-of-america-sees-eli-lilly-s-foundayo-as-preferred-oral-glp-1-1090030.html",
-    "publisher": "Proactive",
-    "date": "2026-04-02T16:55:00Z",
     "type": "STORY"
   }
 ]
