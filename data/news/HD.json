@@ -1,5 +1,54 @@
 [
   {
+    "title": "The Zacks Analyst Blog Highlights Broadcom, Visa, Home Depot and BayFirst Financial",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-broadcom-150500497.html",
+    "publisher": "Zacks",
+    "date": "2026-04-06T15:05:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Home Depot's Pro Business: Key Growth Lever Amid Slow Demand?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/home-depots-pro-business-key-124400049.html",
+    "publisher": "Zacks",
+    "date": "2026-04-06T12:44:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Optimistic on HD? This Bull Put Spread May Fit Perfectly",
+    "link": "https://www.barchart.com/story/news/1155804/optimistic-on-hd-this-bull-put-spread-may-fit-perfectly",
+    "publisher": "Barchart",
+    "date": "2026-04-06T11:00:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jim Cramer on Home Depot: “I Regard It Now as One of the Most Problematic Positions in My Portfolio”",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-regard-032344787.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-04-06T03:23:44Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Meet the Next Generation of Dividend Aristocrats",
+    "link": "https://www.barrons.com/articles/dividend-aristocrat-stocks-microsoft-cf97f726?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-04-05T17:50:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How The Home Depot (HD) Story Is Shifting After Q4 Rally And Mixed Macro Signals",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-story-shifting-230819779.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-04T23:08:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Home Depot's headquarters: Everything you need to know",
+    "link": "https://www.thestreet.com/retail/home-depot-headquarters",
+    "publisher": "TheStreet",
+    "date": "2026-04-04T15:33:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "49-year-old Home Depot rival closes hardware store, no bankruptcy",
     "link": "https://www.thestreet.com/retail/do-it-best-hardware-store-closes-no-bankruptcy",
     "publisher": "TheStreet",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-broadcom-visa-203300344.html",
     "publisher": "Zacks",
     "date": "2026-04-02T20:33:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Home Depot HVAC Deal Expands Market Reach And Shifts Investor Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hvac-deal-expands-191133994.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-02T19:11:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Home Depot sees worrisome shift in consumer behavior",
-    "link": "https://www.thestreet.com/retail/home-depot-sees-worrisome-shift-in-consumer-behavior",
-    "publisher": "TheStreet",
-    "date": "2026-04-02T15:07:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "2 S&P 500 Stocks with Exciting Potential and 1 We Ignore",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-exciting-140020868.html",
-    "publisher": "StockStory",
-    "date": "2026-04-02T14:00:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Meet the Next Generation of Dividend Aristocrats",
-    "link": "https://www.barrons.com/articles/stocks-dividend-aristocrats-cf97f726?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-04-02T05:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lowe's takes on Home Depot with upgraded shopping experience",
-    "link": "https://www.thestreet.com/retail/lowes-takes-on-home-depot-with-upgraded-shopping-experience",
-    "publisher": "TheStreet",
-    "date": "2026-04-02T00:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Home Depot sets sights on AI with CTO appointment",
-    "link": "https://www.ciodive.com/news/home-depot-ai-cto-appointment/816390/",
-    "publisher": "CIO Dive",
-    "date": "2026-04-01T14:55:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "RH Q4 Earnings Lag Estimates, Revenues Up Y/Y, Stock Down 17%",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/rh-q4-earnings-lag-estimates-133300139.html",
-    "publisher": "Zacks",
-    "date": "2026-04-01T13:33:00Z",
     "type": "STORY"
   }
 ]
