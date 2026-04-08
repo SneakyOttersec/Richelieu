@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Uniqlo Owner Posts Strong Quarterly Earnings, Boosts Guidance",
-    "link": "https://www.wsj.com/business/earnings/uniqlo-owner-posts-strong-quarterly-earnings-boosts-guidance-9183c8b7?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-01-08T13:27:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Fast Retailing boasts strong Q1 2026 with Uniqlo growing globally",
     "link": "https://www.just-style.com/news/fast-retailing-boasts-strong-q1-2026-with-uniqlo-growing-globally/",
     "publisher": "Just Style",
@@ -68,5 +61,12 @@
     "publisher": "MT Newswires",
     "date": "2025-10-10T10:58:27Z",
     "type": "STORY"
+  },
+  {
+    "title": "Ferrari, Jefferies, Alibaba, Las Vegas Sands: Trending Stocks",
+    "link": "https://finance.yahoo.com/video/ferrari-jefferies-alibaba-las-vegas-120929950.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2025-10-09T12:09:29Z",
+    "type": "VIDEO"
   }
 ]
