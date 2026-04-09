@@ -1,5 +1,26 @@
 [
   {
+    "title": "Factbox-From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
+    "link": "https://finance.yahoo.com/news/factbox-openai-nvidia-firms-channel-122400217.html",
+    "publisher": "Reuters",
+    "date": "2026-04-09T12:10:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Market Chatter: Arm Chief Haas to Direct SoftBank's Global Semiconductor Operations",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-arm-chief-haas-102519804.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-09T10:25:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/arm-ceo-haas-line-lead-044157503.html",
+    "publisher": "Reuters",
+    "date": "2026-04-09T04:41:57Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank Corp. Prepares First Euro Bond As Parent Explores $40 Billion Loan",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-corp-prepares-first-euro-195555584.html",
     "publisher": "GuruFocus.com",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-unveils-10-billion-japan-144614101.html",
     "publisher": "GuruFocus.com",
     "date": "2026-04-03T14:46:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Microsoft Doubles Down on Japan AI Expansion",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-doubles-down-japan-ai-130527753.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-04-03T13:05:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Microsoft AI Spending Accelerates With Japan Investment",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-ai-spending-accelerates-japan-130210110.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-04-03T13:02:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Microsoft Plots $10 Billion AI Push. This Stock Jumped 20% on the Plan.",
-    "link": "https://www.barrons.com/articles/microsoft-stock-price-sakura-internet-ai-15d335cd?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-04-03T10:52:00Z",
     "type": "STORY"
   }
 ]

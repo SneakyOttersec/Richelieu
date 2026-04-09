@@ -1,5 +1,40 @@
 [
   {
+    "title": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ef87fc19?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-09T21:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Barrick Plans North America Spin-Off As Output Falls 17% To 3.26M Ounces",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/barrick-plans-north-america-spin-152533029.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-09T15:25:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Will Falling Gold Production Weigh on Newmont's FY26 Performance?",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/falling-gold-production-weigh-newmonts-130300544.html",
+    "publisher": "Zacks",
+    "date": "2026-04-09T13:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Agnico Eagle Eclipses 50-day SMA: What Should Investors Do Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-eclipses-50-day-125900535.html",
+    "publisher": "Zacks",
+    "date": "2026-04-09T12:59:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Barrick Mining Corp (B): Outperform Rating Amid Global Gold Expansion",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/barrick-mining-corp-b-outperform-124647825.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-04-09T12:46:47Z",
+    "type": "STORY"
+  },
+  {
     "title": "Barrick Mining Reko Diq Slowdown Puts Growth Plans And Valuation In Focus",
     "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-reko-diq-slowdown-100946927.html",
     "publisher": "Simply Wall St.",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/markets/commodities/articles/barrick-mining-slow-reko-diq-120600587.html",
     "publisher": "Zacks",
     "date": "2026-04-07T12:06:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Barrick Mining Pops 136% in a Year: Should You Buy, Sell or Retain?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-pops-136-buy-120900146.html",
-    "publisher": "Zacks",
-    "date": "2026-04-06T12:09:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Assessing Barrick Mining (NYSE:B) Valuation After Strong Long Term Shareholder Returns",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-barrick-mining-nyse-b-100853119.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-04T10:08:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Persian Gulf crisis claims a corporate victim as gold stock resets plans",
-    "link": "https://www.thestreet.com/investing/stocks/persian-gulf-crisis-claims-a-corporate-victim-as-gold-stock-resets-plans",
-    "publisher": "TheStreet",
-    "date": "2026-04-03T17:07:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jim Cramer on Barrick Mining Corporation: “I Don’t Like That, But I Do Like Agnico”",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-barrick-mining-corporation-091044444.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-04-03T09:10:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Barrick Down 0.5% In US After Hours As Provides an Update on Reko Diq Project",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-down-0-5-us-213249641.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-02T21:32:49Z",
     "type": "STORY"
   }
 ]
