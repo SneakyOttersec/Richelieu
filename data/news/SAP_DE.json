@@ -1,5 +1,26 @@
 [
   {
+    "title": "Salesforce Plunges 35% YTD: Should You Buy, Sell or Hold the Stock?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-plunges-35-ytd-buy-131500903.html",
+    "publisher": "Zacks",
+    "date": "2026-04-10T13:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP SE (SAP) to Acquire Reltio to Support Business Data Cloud, AI Capabilities",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/sap-se-sap-acquire-reltio-050329119.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-04-10T05:03:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP Accelerates AI First Shift With Data Deals And Global Partnerships",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-accelerates-ai-first-shift-011939128.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-10T01:19:39Z",
+    "type": "STORY"
+  },
+  {
     "title": "Oracle's NetSuite Division in Focus: Will it Boost Revenue Growth?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/oracles-netsuite-division-focus-boost-142400710.html",
     "publisher": "Zacks",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/sap-xtra-sap-looking-interesting-120422324.html",
     "publisher": "Simply Wall St.",
     "date": "2026-03-31T12:04:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "WDAY Rides on Strong Cash Flow Growth: Will the Momentum Sustain?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wday-rides-strong-cash-flow-143400639.html",
-    "publisher": "Zacks",
-    "date": "2026-03-30T14:34:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP to acquire Reltio to boost master data management for AI",
-    "link": "https://www.verdict.co.uk/sap-to-acquire-reltio/",
-    "publisher": "Verdict",
-    "date": "2026-03-30T10:17:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "5 big analyst AI moves: Downgrades for SAP and Qualcomm; Arm lifted to Buy",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/5-big-analyst-ai-moves-093002954.html",
-    "publisher": "Investing.com",
-    "date": "2026-03-29T09:30:02Z",
     "type": "STORY"
   }
 ]
