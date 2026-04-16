@@ -1,5 +1,54 @@
 [
   {
+    "title": "Stocks to Watch: TSMC, Abbott Laboratories, Nvidia, Netflix",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-16-2026/card/stocks-to-watch-tsmc-pepsico-netflix-deJv1TDIyaKNqkGtQ3Kl?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-16T20:30:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Tesla, SpaceX Search For Suppliers For Elon Musk's Terafab Project: Report",
+    "link": "https://www.investors.com/news/tesla-spacex-terafab-elon-musk-semiconductor-lam-research-tokyo-electron-applied-materials-samsung/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-04-16T20:18:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Elon Musk Advances Terafab Plan Targeting $13 Trillion Chip Investment",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-advances-terafab-plan-125648951.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-16T12:56:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Musk's Chip Push Signals Bigger Ambitions",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/musks-chip-push-signals-bigger-124609279.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-04-16T12:46:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Market Chatter: Tesla, SpaceX Joint Venture Terafab Scrambling to Procure Chipmaking Gear",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-tesla-spacex-joint-093254640.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-16T09:32:54Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Musk Asks Suppliers to Move at ‘Light Speed’ on New Chipmaking Plan",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/musk-asks-suppliers-move-light-025431179.html",
+    "publisher": "Bloomberg",
+    "date": "2026-04-16T08:23:44Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Musk's staff reaches out to suppliers for Terafab project, Bloomberg News reports",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/musks-staff-reaches-suppliers-terafab-023532595.html",
+    "publisher": "Reuters",
+    "date": "2026-04-16T02:35:32Z",
+    "type": "STORY"
+  },
+  {
     "title": "Tokyo Electron Ltd. (TOELY) Is Up 16.55% in One Week: What You Should Know",
     "link": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-ltd-toely-16-160006341.html",
     "publisher": "Zacks",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-tokyo-electron-valuation-sharp-170815076.html",
     "publisher": "Simply Wall St.",
     "date": "2026-03-31T17:08:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The most innovative Asia-Pacific companies of 2026",
-    "link": "https://www.fastcompany.com/91497059/asia-pacific-most-innovative-companies-2026",
-    "publisher": "FastCompany",
-    "date": "2026-03-24T11:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tokyo Electron (TOELY) Upgraded to Buy: Here's What You Should Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-toely-upgraded-buy-160002150.html",
-    "publisher": "Zacks",
-    "date": "2026-03-20T16:00:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Belgium's imec secures rare ASML High NA EUV tool to drive next-generation chips",
-    "link": "https://finance.yahoo.com/news/belgiums-imec-secures-rare-asml-130951097.html",
-    "publisher": "Reuters",
-    "date": "2026-03-18T13:09:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asia Equities Gain Ahead of Fed, Oil Retreats But Stays High",
-    "link": "https://www.wsj.com/finance/asia-equities-make-cautious-gains-ahead-of-fed-oil-retreats-but-stays-high-e4251fdf?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-18T07:57:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tokyo Electron (TSE:8035) Valuation Check After Strong One Year Shareholder Return",
-    "link": "https://finance.yahoo.com/news/tokyo-electron-tse-8035-valuation-071127782.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-03-06T07:11:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asia Dividend Active ETF (ADVE) Touches New 52-Week High",
-    "link": "https://finance.yahoo.com/news/asia-dividend-active-etf-adve-165000979.html",
-    "publisher": "Zacks",
-    "date": "2026-02-26T16:50:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "These ‘safer’ chip stocks have boomed this year. Is it too late to buy in?",
-    "link": "https://www.marketwatch.com/story/these-safer-chip-stocks-have-boomed-this-year-is-it-too-late-to-buy-in-98a3e509",
-    "publisher": "MarketWatch",
-    "date": "2026-02-14T14:30:00Z",
     "type": "STORY"
   }
 ]
