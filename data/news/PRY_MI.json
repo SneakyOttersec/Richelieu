@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Prysmian Eyes New Texas Copper Mill Amid Data Center Boom",
-    "link": "https://finance.yahoo.com/news/prysmian-eyes-texas-copper-mill-101004380.html",
-    "publisher": "Bloomberg",
-    "date": "2026-03-19T10:10:04Z",
-    "type": "STORY"
-  },
-  {
     "title": "Prysmian’s Greener Cables Raise Questions On Valuation And Future Margins",
     "link": "https://finance.yahoo.com/news/prysmian-greener-cables-raise-questions-160850927.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/prysmian-bit-pry-valuation-check-002316502.html",
     "publisher": "Simply Wall St.",
     "date": "2026-02-04T00:23:16Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Prysmian secures $2.7bn contract for Eastern Green Link 4 project",
+    "link": "https://www.energymonitor.ai/news/prysmian-secures-contract-egl4/",
+    "publisher": "Energy Monitor",
+    "date": "2026-02-03T11:30:05Z",
     "type": "STORY"
   }
 ]
