@@ -1,5 +1,26 @@
 [
   {
+    "title": "Precious Metals Gain, But Appear Vulnerable to Downturn",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-after-trump-says-u-s-will-extend-cease-fire-deadline-c463e044?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-22T18:01:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "MUFG lending head signals further Asia dealmaking",
+    "link": "https://www.retailbankerinternational.com/news/mufg-lending-head-signals-further-asia-dealmaking/",
+    "publisher": "Retail Banker International",
+    "date": "2026-04-22T11:58:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Japan's financial watchdog to meet top banks to discuss Mythos AI model",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/japan-finance-minister-meet-banks-022035075.html",
+    "publisher": "Reuters",
+    "date": "2026-04-22T02:20:35Z",
+    "type": "STORY"
+  },
+  {
     "title": "Forêt Domaniale Wind Project secures financial close",
     "link": "https://www.power-technology.com/news/foret-domaniale-wind-financial-close/",
     "publisher": "Power Technology",
@@ -46,27 +67,6 @@
     "link": "https://www.power-technology.com/news/dimension-energy-community-solar-projects/",
     "publisher": "Power Technology",
     "date": "2026-04-02T11:03:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Assessing Mitsubishi UFJ Financial Group’s Valuation After A Sharply Higher One Day Share Price Move",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-mitsubishi-ufj-financial-group-091223928.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-01T09:12:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CoreWeave Closes $8.5 Billion GPU Loan Backed by Meta",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-closes-8-5-billion-155028785.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-03-31T15:50:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CoreWeave secures $8.5 billion loan to expand AI infrastructure",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/coreweave-secures-8-5-billion-130401875.html",
-    "publisher": "Reuters",
-    "date": "2026-03-31T13:04:01Z",
     "type": "STORY"
   }
 ]
