@@ -1,5 +1,19 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-4843f00a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-27T21:01:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BaFin orders UniCredit to stop “unobjective” ads targeting Commerzbank",
+    "link": "https://www.retailbankerinternational.com/news/unicredit-stop-unobjective-ads-commerzbank/",
+    "publisher": "Retail Banker International",
+    "date": "2026-04-27T11:34:55Z",
+    "type": "STORY"
+  },
+  {
     "title": "UniCredit reports 8.72% Generali holding",
     "link": "https://www.lifeinsuranceinternational.com/news/unicredit-8-72-generali-holding/",
     "publisher": "Life Insurance International",
@@ -49,24 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6431a523?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-04-20T21:01:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "UniCredit’s Commerzbank Push Just Turned Into a Banking Power Play",
     "link": "https://app.moby.co/home/news/news-unicredits-commerzbank-push-just-turned-into-a-banking-power-play?utm_source=yahoo_finance&utm_medium=rss",
     "publisher": "Moby",
     "date": "2026-04-20T18:42:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit woos Commerzbank shareholders in takeover battle",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/unicredit-woos-commerzbank-shareholders-takeover-121130403.html",
-    "publisher": "AFP",
-    "date": "2026-04-20T17:42:01Z",
     "type": "STORY"
   }
 ]

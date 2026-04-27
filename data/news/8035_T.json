@@ -1,5 +1,19 @@
 [
   {
+    "title": "Taiwan Court Hands Down Prison Sentences Over Leaks of TSMC Trade Secrets",
+    "link": "https://www.wsj.com/tech/taiwan-court-hands-down-prison-sentences-over-leaks-of-tsmc-trade-secrets-55d5bdf9?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-04-27T10:59:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Taiwan court sentences ex-Tokyo Electron staff to 10 years in TSMC trade secrets case",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/taiwan-court-sentences-ex-tokyo-091028497.html",
+    "publisher": "Associated Press",
+    "date": "2026-04-27T09:10:28Z",
+    "type": "STORY"
+  },
+  {
     "title": "Lam Research Stock Jumps on Strong Earnings",
     "link": "https://www.barrons.com/articles/lam-research-earnings-stock-price-9b703e37?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -21,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Musk Moving at “Light Speed” to Sign Up Suppliers for $25B Terafab Chip Dream",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/musk-moving-light-speed-sign-110616588.html",
-    "publisher": "TipRanks",
-    "date": "2026-04-17T11:06:16Z",
-    "type": "STORY"
-  },
-  {
     "title": "Stocks to Watch: TSMC, Abbott Laboratories, Nvidia, Netflix",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-16-2026/card/stocks-to-watch-tsmc-pepsico-netflix-deJv1TDIyaKNqkGtQ3Kl?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -42,6 +49,13 @@
     "type": "STORY"
   },
   {
+    "title": "Musk Moving at “Light Speed” to Sign Up Suppliers for $25B Terafab Chip Dream",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/musk-moving-light-speed-sign-110616588.html",
+    "publisher": "TipRanks",
+    "date": "2026-04-16T19:06:16Z",
+    "type": "STORY"
+  },
+  {
     "title": "Elon Musk Advances Terafab Plan Targeting $13 Trillion Chip Investment",
     "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-advances-terafab-plan-125648951.html",
     "publisher": "GuruFocus.com",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/musks-chip-push-signals-bigger-124609279.html",
     "publisher": "GuruFocus.com",
     "date": "2026-04-16T12:46:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Market Chatter: Tesla, SpaceX Joint Venture Terafab Scrambling to Procure Chipmaking Gear",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-tesla-spacex-joint-093254640.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-16T09:32:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Musk Asks Suppliers to Move at ‘Light Speed’ on New Chipmaking Plan",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/musk-asks-suppliers-move-light-025431179.html",
-    "publisher": "Bloomberg",
-    "date": "2026-04-16T08:23:44Z",
     "type": "STORY"
   }
 ]
