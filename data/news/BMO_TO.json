@@ -1,5 +1,61 @@
 [
   {
+    "title": "Home price growth is slowing down. Here's the latest.",
+    "link": "https://finance.yahoo.com/video/home-price-growth-is-slowing-down-heres-the-latest-200946039.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-04-28T20:09:46Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Treasuries Fall as Rising Oil Prices Lift Inflation Expectations",
+    "link": "https://finance.yahoo.com/economy/policy/articles/treasuries-fall-rising-oil-prices-141734979.html",
+    "publisher": "Bloomberg",
+    "date": "2026-04-28T19:40:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ARC Resources Downgraded to Market Perform at BMO Following Shell's Acquisition Offer; Price Target at C$32.00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arc-resources-downgraded-market-perform-133720175.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-28T13:37:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How The Investment Story For Bank Of Montreal (TSX:BMO) Is Shifting After Mixed Analyst Calls",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investment-story-bank-montreal-tsx-130657266.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-28T13:06:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Canada's Fiscal Update To Showcase \"Better-Than-Expected\" Deficits, says BMO",
+    "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-fiscal-showcase-better-120646145.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-28T12:06:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is It Too Late To Consider Bank Of Montreal (TSX:BMO) After Its Strong Share Price Run?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/too-consider-bank-montreal-tsx-110525355.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-28T11:05:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Inflation Still Bites in Canada Despite Levels Close to Target, Says BMO",
+    "link": "https://finance.yahoo.com/economy/articles/inflation-still-bites-canada-despite-101858209.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-28T10:18:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BMO’s Digital Push And AI Podcast Spark Fresh Investor Questions",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-digital-push-ai-podcast-101510675.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-28T10:15:10Z",
+    "type": "STORY"
+  },
+  {
     "title": "Is Bank Of Montreal (BMO) Stock Outpacing Its Finance Peers This Year?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bank-montreal-bmo-stock-outpacing-134004691.html",
     "publisher": "Zacks",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-revamps-alphabet-stock-124923328.html",
     "publisher": "GuruFocus.com",
     "date": "2026-04-27T12:49:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank of Canada expected to hold rates Wednesday, but economists split on whether cuts or hikes loom",
-    "link": "https://financialpost.com/news/economy/bank-of-canada-hold-rates-wednesday",
-    "publisher": "Financial Post",
-    "date": "2026-04-27T12:48:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BMO on The Day, Week Ahead in Canada",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bmo-day-week-ahead-canada-112828685.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-27T11:28:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BMO Trims IBM Target on Soft Growth, Wedbush Sees AI Tailwinds",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-trims-ibm-target-soft-163828621.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-04-26T16:38:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Bright Horizons (BFAM) Narrative Is Shifting As Analysts Temper Expectations",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bright-horizons-bfam-narrative-shifting-080428565.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-25T08:04:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Investment Story Is Shifting For Neo Performance Materials (TSX:NEO)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investment-story-shifting-neo-performance-011005573.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-25T01:10:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BMO on The Day Ahead in Canada",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bmo-day-ahead-canada-114238821.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-24T11:42:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Canada's Industrial Product Prices \"Well Behaved,\" Excluding Energy, Says BMO",
-    "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-industrial-product-prices-101307323.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-24T10:13:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Canada's Housing Market Still Under Pressure as Prices Weaken, Says BMO",
-    "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-housing-market-still-101732273.html",
-    "publisher": "MT Newswires",
-    "date": "2026-04-23T10:17:32Z",
     "type": "STORY"
   }
 ]
