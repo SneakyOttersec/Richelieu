@@ -1,16 +1,51 @@
 [
   {
+    "title": "Visa Stock Soars Because AI Agents Will Pay With Cards",
+    "link": "https://www.investors.com/news/visa-stock-soars-earnings-q2-dow-jones-ai-agents/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-04-29T20:58:51Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mastercard (MA) To Report Earnings Tomorrow: Here Is What To Expect",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-report-earnings-tomorrow-182055838.html",
+    "publisher": "StockStory",
+    "date": "2026-04-29T18:20:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "GuardCap Dumps Nearly Half Its Yum China (YUMC) Position",
+    "link": "https://www.fool.com/coverage/filings/2026/04/29/guardcap-dumps-3-6m-yum-china-yumc-shares-worth-usd186-million/",
+    "publisher": "Motley Fool",
+    "date": "2026-04-29T15:31:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "What's Behind GPN's Q1 Expectations: Will Cost Trends Worry Investors?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/whats-behind-gpns-q1-expectations-130300380.html",
+    "publisher": "Zacks",
+    "date": "2026-04-29T13:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Visa Q2 Earnings Beat Estimates on Payment Volume Strength",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-q2-earnings-beat-estimates-130000371.html",
+    "publisher": "Zacks",
+    "date": "2026-04-29T13:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mastercard Extends AI Agent And Crypto Payment Rails For Future Commerce",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/mastercard-extends-ai-agent-crypto-021105941.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-04-29T02:11:05Z",
+    "type": "STORY"
+  },
+  {
     "title": "8 Financial Stocks to Buy Ahead of Earnings",
     "link": "https://www.barrons.com/articles/financial-stocks-ai-earnings-e342f25f?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-04-28T20:28:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Visa Beats Expectations. What It Means for the Stock.",
-    "link": "https://www.barrons.com/articles/visa-earnings-stock-price-f91c9f0e?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-04-28T21:07:00Z",
     "type": "STORY"
   },
   {
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-paypal-pypl-q1-140030294.html",
     "publisher": "Zacks",
     "date": "2026-04-28T14:00:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Visa, Mastercard defend card fee settlement",
-    "link": "https://www.paymentsdive.com/news/visa-mastercard-defend-card-fee-settlement/818655/",
-    "publisher": "Payments Dive",
-    "date": "2026-04-28T11:02:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Wall Street Anticipates 28% Upside To Mastercard Incorporated (MA)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-anticipates-28-upside-043817839.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-04-28T04:38:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This CEF Appears Down From Its 1986 Prices, but It’s Hiding a Lovely Secret",
-    "link": "https://247wallst.com/investing/2026/04/27/this-cef-appears-down-from-its-1986-prices-but-its-hiding-a-lovely-secret/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-04-27T23:43:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "3 Financials Stocks to Keep an Eye On",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-keep-eye-171655782.html",
-    "publisher": "StockStory",
-    "date": "2026-04-27T17:16:55Z",
-    "type": "STORY"
-  },
-  {
-    "title": "PYPL Shares Slide 31.4% in 6 Months: Should You Buy the Dip or Sell?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/pypl-shares-slide-31-4-165400926.html",
-    "publisher": "Zacks",
-    "date": "2026-04-27T16:54:00Z",
     "type": "STORY"
   }
 ]
