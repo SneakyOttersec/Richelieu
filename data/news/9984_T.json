@@ -1,9 +1,37 @@
 [
   {
+    "title": "Intel clears regulatory hurdle for AI partnership",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/intel-clears-regulatory-hurdle-ai-201640552.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-01T20:16:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The OpenAI Selloff is Over",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026/card/the-openai-selloff-is-over-p9kbYphPmqD4LIe9460Q?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-01T18:29:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank-Tied Deal Raises Nearly $1 Billion for US Data Centers",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tied-deal-raises-nearly-140617622.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-01T14:06:17Z",
+    "type": "STORY"
+  },
+  {
     "title": "How SoftBank’s HAPS Materials Breakthrough Could Reshape its Long-Term Story for Investors (TSE:9434)",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-haps-materials-breakthrough-could-220813452.html",
     "publisher": "Simply Wall St.",
     "date": "2026-04-30T22:08:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI Debt Investors Show Fatigue After $300 Billion Binge",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-investors-show-fatigue-210729863.html",
+    "publisher": "Bloomberg",
+    "date": "2026-04-30T21:07:29Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-plans-ai-venture-big-121726058.html",
     "publisher": "GuruFocus.com",
     "date": "2026-04-30T12:17:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank plans IPO for AI robotics spinout Roze at $100 billion",
-    "link": "https://qz.com/softbank-roze-ai-robotics-ipo-100-billion-043026",
-    "publisher": "Quartz",
-    "date": "2026-04-30T11:57:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-creating-robotics-company-builds-035822549.html",
-    "publisher": "TechCrunch",
-    "date": "2026-04-30T03:58:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tether Proposes Mergers Involving Bitcoin Treasury Company",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/tether-proposes-mergers-involving-bitcoin-004703142.html",
-    "publisher": "Bloomberg",
-    "date": "2026-04-30T00:47:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Plots IPO for New Robotics Venture",
-    "link": "https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-04-29T23:44:00Z",
     "type": "STORY"
   }
 ]
