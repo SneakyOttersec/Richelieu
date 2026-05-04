@@ -1,5 +1,47 @@
 [
   {
+    "title": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-finalizes-10-billion-joint-123100557.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-04T15:03:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI, Anthropic Launch Separate PE Joint Ventures",
+    "link": "https://www.wealthmanagement.com/artificial-intelligence/openai-anthropic-launch-separate-joint-venture-pe-partnerships",
+    "publisher": "Wealth Management",
+    "date": "2026-05-04T14:48:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI secures $4 billion for new joint venture with PE giants, Bloomberg reports",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-secures-4-billion-joint-134629932.html",
+    "publisher": "Investing.com",
+    "date": "2026-05-04T13:46:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OPay seeks $4bn valuation in potential US IPO",
+    "link": "https://www.electronicpaymentsinternational.com/news/opay-us-ipo/",
+    "publisher": "Electronic Payments",
+    "date": "2026-05-04T06:04:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Maps Out $100 Billion Robotics Spinoff",
+    "link": "https://www.thedailyupside.com/technology/softbank-is-planning-a-100-billion-robotics-spinoff/",
+    "publisher": "The Daily Upside",
+    "date": "2026-05-04T04:01:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Spring Fever — Heard on the Street Recap",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026/card/spring-fever-heard-on-the-street-recap-eEGyeArgNovZHFOolmMw?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-01T21:57:23Z",
+    "type": "STORY"
+  },
+  {
     "title": "Intel clears regulatory hurdle for AI partnership",
     "link": "https://finance.yahoo.com/sectors/technology/articles/intel-clears-regulatory-hurdle-ai-201640552.html",
     "publisher": "GuruFocus.com",
@@ -7,7 +49,7 @@
     "type": "STORY"
   },
   {
-    "title": "The OpenAI Selloff is Over",
+    "title": "Stocks Recover From Tuesday OpenAI Selloff",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026/card/the-openai-selloff-is-over-p9kbYphPmqD4LIe9460Q?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-05-01T18:29:35Z",
@@ -25,48 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-haps-materials-breakthrough-could-220813452.html",
     "publisher": "Simply Wall St.",
     "date": "2026-04-30T22:08:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AI Debt Investors Show Fatigue After $300 Billion Binge",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-investors-show-fatigue-210729863.html",
-    "publisher": "Bloomberg",
-    "date": "2026-04-30T21:07:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Big Tech will spend nearly $700 billion on AI this year. No one knows where the buildout ends",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/big-tech-spend-nearly-700-182921276.html",
-    "publisher": "Fortune",
-    "date": "2026-04-30T18:29:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How SoftBank Can Give Tesla Stock a Boost",
-    "link": "https://www.barrons.com/articles/how-softbank-can-give-tesla-stock-a-boost-ad2d87f8?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-04-30T16:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tether pivots from stablecoin issuer to full-stack bitcoin player",
-    "link": "https://finance.yahoo.com/video/tether-pivots-from-stablecoin-issuer-to-full-stack-bitcoin-player-162820097.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-04-30T16:28:20Z",
-    "type": "VIDEO"
-  },
-  {
-    "title": "U.S. seizes $500M in Iranian crypto",
-    "link": "https://finance.yahoo.com/video/us-seizes-500m-in-iranian-crypto-162755639.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-04-30T16:27:55Z",
-    "type": "VIDEO"
-  },
-  {
-    "title": "SoftBank plans new AI venture with big IPO ambitions",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-plans-ai-venture-big-121726058.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-04-30T12:17:26Z",
     "type": "STORY"
   }
 ]

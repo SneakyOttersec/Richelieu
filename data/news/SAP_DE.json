@@ -1,5 +1,40 @@
 [
   {
+    "title": "SAP buys Dremio, Prior Labs for AI data push",
+    "link": "https://www.ciodive.com/news/sap-buys-dremio-prior-labs/819263/",
+    "publisher": "CIO Dive",
+    "date": "2026-05-04T16:13:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP acquires Dremio to power enterprise AI data platform",
+    "link": "https://qz.com/sap-acquires-dremio-enterprise-ai-data-platform-050426",
+    "publisher": "Quartz",
+    "date": "2026-05-04T13:48:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP to Acquire Dremio, Prior Labs to Boost Enterprise AI",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/sap-acquire-dremio-prior-labs-114339568.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-04T11:43:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP SE (ETR:SAP) Passed Our Checks, And It's About To Pay A €2.50 Dividend",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-se-etr-sap-passed-040025597.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-04T04:00:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is SAP (XTRA:SAP) Now Attractively Priced After Recent Share Price Pullback?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-xtra-sap-now-attractively-231107242.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-02T23:11:07Z",
+    "type": "STORY"
+  },
+  {
     "title": "Fortive Q1 Earnings & Sales Beat Estimates, Up Y/Y, Stock Rises",
     "link": "https://finance.yahoo.com/markets/stocks/articles/fortive-q1-earnings-sales-beat-143700575.html",
     "publisher": "Zacks",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/stx-q3-earnings-top-estimates-141300643.html",
     "publisher": "Zacks",
     "date": "2026-04-29T14:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Did SAP’s Strong Q1 2026 and New S3NS Sovereign Cloud Deal Just Shift SAP's (XTRA:SAP) Investment Narrative?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/did-sap-strong-q1-2026-210733052.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-28T21:07:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Verisk Stock and More Software Losers That Could Be AI Winners, According to Goldman Sachs",
-    "link": "https://www.barrons.com/articles/software-stock-losers-ai-winners-goldman-sachs-25b461e1?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-04-28T18:58:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cadence Q1 Earnings Top Estimates, 2026 Revenue Outlook Raised",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-q1-earnings-top-estimates-131700486.html",
-    "publisher": "Zacks",
-    "date": "2026-04-28T13:17:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Targets French Trusted Cloud Growth While Shares Trade Below Estimates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-targets-french-trusted-cloud-011138311.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-28T01:11:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Company News for Apr 27, 2026",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-apr-27-2026-132900420.html",
-    "publisher": "Zacks",
-    "date": "2026-04-27T13:29:00Z",
     "type": "STORY"
   }
 ]

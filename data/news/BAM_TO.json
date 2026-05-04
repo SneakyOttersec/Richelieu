@@ -1,5 +1,61 @@
 [
   {
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-openai-both-launching-joint-155924555.html",
+    "publisher": "TechCrunch",
+    "date": "2026-05-04T15:59:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-finalizes-10-billion-joint-123100557.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-04T15:03:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI, Anthropic Launch Separate PE Joint Ventures",
+    "link": "https://www.wealthmanagement.com/artificial-intelligence/openai-anthropic-launch-separate-joint-venture-pe-partnerships",
+    "publisher": "Wealth Management",
+    "date": "2026-05-04T14:48:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI secures $4 billion for new joint venture with PE giants, Bloomberg reports",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-secures-4-billion-joint-134629932.html",
+    "publisher": "Investing.com",
+    "date": "2026-05-04T13:46:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Market Chatter: OpenAI Forms $10 Billion AI Deployment Venture With Private Equity Backing",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-openai-forms-10-133900661.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-04T13:39:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jobs Report, Palantir, Pinterest, AMD, PayPal, Disney, and More to Watch This Week",
+    "link": "https://www.barrons.com/articles/jobs-report-palantir-pinterest-amd-paypal-disney-and-more-to-watch-this-week-83bd97e1?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-03T18:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "This 4.5%-Yielding Energy Stock's High-Powered Growth Makes it a No-Brainer Buy Right Now",
+    "link": "https://www.fool.com/investing/2026/05/03/this-45-yielding-energy-stocks-high-powered-growth/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-03T13:05:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "This Nearly 5%-Yielding Dividend Stock's Growth Accelerates as Its AI Infrastructure Investments Pay Off",
+    "link": "https://www.fool.com/investing/2026/05/03/this-nearly-5-yielding-dividend-stocks-growth-acce/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-03T10:35:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Does Brookfield Infrastructure (BIPC) Dividends Still Reflect Strength After First-Quarter Loss And Lower Sales?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/does-brookfield-infrastructure-bipc-dividends-201234358.html",
     "publisher": "Simply Wall St.",
@@ -11,62 +67,6 @@
     "link": "https://www.marketbeat.com/instant-alerts/brookfield-renewable-q1-earnings-call-highlights-2026-05-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-05-01T16:52:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brookfield Renewable Partners L.P. Q1 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-brookfield-renewable-partners-lp-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-05-01T16:47:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BFH or BAM: Which Is the Better Value Stock Right Now?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bfh-bam-better-value-stock-154001336.html",
-    "publisher": "Zacks",
-    "date": "2026-05-01T15:40:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brookfield Renewable Partners Q1 Earnings Call Highlights",
-    "link": "https://www.marketbeat.com/instant-alerts/brookfield-renewable-partners-q1-earnings-call-highlights-2026-05-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-05-01T15:28:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brookfield Asset Management (BAM) Earnings Expected to Grow: Should You Buy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-bam-earnings-140004648.html",
-    "publisher": "Zacks",
-    "date": "2026-05-01T14:00:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brookfield (TSX:BN) Valuation Check As Long Term Returns Contrast With Recent Share Weakness",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-tsx-bn-valuation-check-001546762.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-04-30T00:15:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bloom Energy Fueling Transition to Critical AI Infrastructure Provider",
-    "link": "https://247wallst.com/investing/2026/04/29/bloom-energy-fueling-transition-to-critical-ai-infrastructure-provider/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-04-29T16:24:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brookfield (BN) Has Quadrupled Its Capital Base in Three Years",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-bn-quadrupled-capital-three-172831123.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-04-28T17:28:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Brookfield Corporation (BN) A Good Stock To Buy Now?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-bn-good-stock-215429637.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-04-26T21:54:29Z",
     "type": "STORY"
   }
 ]
