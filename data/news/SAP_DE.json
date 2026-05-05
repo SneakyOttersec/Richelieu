@@ -1,5 +1,19 @@
 [
   {
+    "title": "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP’s $89 billion migration wave",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-nova-intelligence-raises-31-120000605.html",
+    "publisher": "Fortune",
+    "date": "2026-05-05T12:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP AI Data Push With Dremio And Prior Labs Raises Valuation Question",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-ai-data-push-dremio-101045991.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-05T10:10:45Z",
+    "type": "STORY"
+  },
+  {
     "title": "SAP buys Dremio, Prior Labs for AI data push",
     "link": "https://www.ciodive.com/news/sap-buys-dremio-prior-labs/819263/",
     "publisher": "CIO Dive",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/itrons-q1-earnings-sales-surpass-145400500.html",
     "publisher": "Zacks",
     "date": "2026-04-29T14:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sensata Q1 Earnings & Revenues Beat Estimates, Increase Y/Y",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sensata-q1-earnings-revenues-beat-141500393.html",
-    "publisher": "Zacks",
-    "date": "2026-04-29T14:15:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "STX Q3 Earnings Top Estimates, Revenues Up on AI-Led Storage Demand",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stx-q3-earnings-top-estimates-141300643.html",
-    "publisher": "Zacks",
-    "date": "2026-04-29T14:13:00Z",
     "type": "STORY"
   }
 ]

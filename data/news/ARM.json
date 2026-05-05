@@ -1,9 +1,37 @@
 [
   {
-    "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
-    "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
+    "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, Shopify tumbles",
+    "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
     "publisher": "Yahoo Finance",
     "date": "2026-05-04T10:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Much Is Arm Holdings Stock Expected to Move After Earnings?",
+    "link": "https://www.investopedia.com/how-much-is-arm-holdings-stock-expected-to-move-after-earnings-11967230",
+    "publisher": "Investopedia",
+    "date": "2026-05-05T20:30:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "UBS: Agentic AI shift signals massive expansion for server CPU market",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/ubs-agentic-ai-shift-signals-195528399.html",
+    "publisher": "Investing.com",
+    "date": "2026-05-05T19:55:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Arm Holdings Stock Jumped 39% in April",
+    "link": "https://www.fool.com/investing/2026/05/05/why-arm-holdings-stock-jumped-39-in-april/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-05T18:20:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "S&P 500, Nasdaq Climb Back to Record Highs. Earnings Are in Focus.",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-050526/card/s-p-500-nasdaq-climb-back-to-record-highs-earnings-are-in-focus--4sc2cxwwkoj0tBqWh76Q?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-05T15:56:12Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/ai-cpu-debate-rewriting-story-131716778.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-04T13:17:16Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Taiwan Semi Just Dumped Its Stake in ARM Stock. Why Investors Don’t Seem to Care.",
-    "link": "https://www.barchart.com/story/news/1684130/taiwan-semi-just-dumped-its-stake-in-arm-stock-why-investors-dont-seem-to-care",
-    "publisher": "Barchart",
-    "date": "2026-05-04T12:56:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US Equity Futures Slip Pre-Bell as Middle East Conflict Enters Third Month, Oil Prices Rise",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slip-pre-124944839.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-04T12:49:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US Equity Futures Slip as Middle East Conflict Enters Third Month, Oil Prices Rise",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slip-middle-115620495.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-04T11:56:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Option Volatility And Earnings Report For May 4 - 8",
-    "link": "https://www.barchart.com/story/news/1680701/option-volatility-and-earnings-report-for-may-4-8",
-    "publisher": "Barchart",
-    "date": "2026-05-04T11:00:02Z",
     "type": "STORY"
   }
 ]

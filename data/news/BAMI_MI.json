@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Credit Agricole Profit Slides on Banco BPM Stake Consolidation",
-    "link": "https://www.wsj.com/business/earnings/credit-agricole-profit-slides-on-banco-bpm-stake-consolidation-faacb52f?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-02-04T06:40:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "UniCredit said to explore Delfin’s stake in Monte dei Paschi and Generali",
     "link": "https://www.retailbankerinternational.com/news/unicredit-delfins-stake-monte-generali/",
     "publisher": "Retail Banker International",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/banco-bpm-fairly-priced-61-050850620.html",
     "publisher": "Simply Wall St.",
     "date": "2025-11-20T05:08:50Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Italy prioritises MPS-BPM merger to reduce stake in MPS – report",
+    "link": "https://www.retailbankerinternational.com/news/italy-prioritises-mps-bpm-merger/",
+    "publisher": "Retail Banker International",
+    "date": "2025-11-19T10:37:03Z",
     "type": "STORY"
   }
 ]

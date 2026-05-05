@@ -1,9 +1,23 @@
 [
   {
-    "title": "Earnings live updates: Palantir posts record Q1 revenue, Pinterest stock soars on ad-boosting AI tools, Tyson's high-protein bet pays off",
+    "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, Shopify tumbles",
     "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
     "publisher": "Yahoo Finance",
     "date": "2026-05-04T10:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "China's carmakers chase 'Yaris moment' to ignite overseas growth",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/chinas-carmakers-chase-yaris-moment-050414859.html",
+    "publisher": "Reuters",
+    "date": "2026-05-05T05:09:54Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Secret Team Blowing Up Ford’s Assembly Line to Make a $30,000 Electric Truck",
+    "link": "https://www.wsj.com/business/autos/ford-ev-electric-truck-7fdb0e0a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-05T01:00:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://sg.finance.yahoo.com/news/toyota-build-three-assembly-plants-231128021.html",
     "publisher": "Reuters",
     "date": "2026-04-30T23:11:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sonic Automotive, Inc. Q1 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sonic-automotive-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-04-30T16:50:50Z",
-    "type": "STORY"
-  },
-  {
-    "title": "‘Not all will survive’: Chinese EV giant delivers reality check to America. Is your portfolio in a dangerous position?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/not-survive-chinese-ev-giant-101000260.html",
-    "publisher": "Moneywise",
-    "date": "2026-04-30T10:10:00Z",
     "type": "STORY"
   }
 ]
