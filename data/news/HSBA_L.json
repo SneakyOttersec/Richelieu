@@ -1,5 +1,33 @@
 [
   {
+    "title": "HSBC’s ‘Back Leverage’ Problem",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-06-2026/card/hsbc-s-back-leverage-problem-nXYB9cbeKRBgZae0Xks1?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-06T17:45:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Bond Market Has Record Day as Rates Outlook Worsens",
+    "link": "https://finance.yahoo.com/markets/options/articles/companies-rush-sell-bonds-europe-110237657.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-06T15:40:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Opaque Private-Lending Deals That Left HSBC With a $400 Million Hole",
+    "link": "https://www.wsj.com/finance/the-opaque-private-lending-deals-that-left-hsbc-with-a-400-million-hole-1e270530?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-06T15:11:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Assessing HSBC (LSE:HSBA) Valuation As Shares Retreat Despite Strong Long Term Returns",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-hsbc-lse-hsba-valuation-061146306.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-06T06:11:46Z",
+    "type": "STORY"
+  },
+  {
     "title": "Stocks to Watch Recap: Palantir, AMD, Intel, HSBC",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/stocks-to-watch-palantir-hsbc-amd-1fUwly1EUKaIxZqN9PVm?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -39,34 +67,6 @@
     "link": "https://qz.com/hsbc-q1-2026-earnings-miss-fraud-charge-middle-east-050526",
     "publisher": "Quartz",
     "date": "2026-05-05T15:43:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Just Got Caught in a £1B Mess It Didn't See Coming",
-    "link": "https://app.moby.co/home/news/news-hsbc-just-got-caught-in-a-1b-mess-it-didnt-see-coming?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-05-05T15:28:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC profits hit by $400mn ‘fraud-related’ exposure",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-profits-hit-400mn-fraud-102645403.html",
-    "publisher": "Financial Times",
-    "date": "2026-05-05T14:00:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Results Disappoint With Shock $400 Million MFS Charge",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-results-disappoint-surprise-400-091813485.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-05T11:57:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Slides 6.25% As Profit Misses On $1.3 Billion Credit Losses",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-slides-6-25-profit-115026753.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-05T11:50:26Z",
     "type": "STORY"
   }
 ]
