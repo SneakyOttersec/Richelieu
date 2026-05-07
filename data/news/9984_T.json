@@ -1,9 +1,30 @@
 [
   {
-    "title": "Arm Warns of Phone Market Weakness, With AI Helping Offset Slump",
+    "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports",
+    "link": "https://ca.finance.yahoo.com/news/softbank-talks-nvidia-build-homegrown-180026735.html",
+    "publisher": "Reuters",
+    "date": "2026-05-07T18:41:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Slides After Smartphone Slowdown Overshadows AI Growth",
     "link": "https://finance.yahoo.com/sectors/technology/articles/arm-warns-phone-market-weakness-215750111.html",
     "publisher": "Bloomberg",
-    "date": "2026-05-06T21:57:50Z",
+    "date": "2026-05-07T15:37:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Stock Surges on Chip Optimism",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-07-2026/card/softbank-stock-surges-on-chip-optimism-4z7bObmJjg4Gx45XuEkN?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-07T09:21:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nikkei 225 Tops 62,000 as Major Japanese Stocks Post Double-Digit Gains",
+    "link": "https://beincrypto.com/nikkei-225-record-japan-stocks-rally/",
+    "publisher": "BeInCrypto",
+    "date": "2026-05-07T03:46:03Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://www.electronicpaymentsinternational.com/news/opay-us-ipo/",
     "publisher": "Electronic Payments",
     "date": "2026-05-04T06:04:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Maps Out $100 Billion Robotics Spinoff",
-    "link": "https://www.thedailyupside.com/technology/softbank-is-planning-a-100-billion-robotics-spinoff/",
-    "publisher": "The Daily Upside",
-    "date": "2026-05-04T04:01:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Spring Fever — Heard on the Street Recap",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026/card/spring-fever-heard-on-the-street-recap-eEGyeArgNovZHFOolmMw?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-01T21:57:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Intel clears regulatory hurdle for AI partnership",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/intel-clears-regulatory-hurdle-ai-201640552.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-01T20:16:40Z",
     "type": "STORY"
   }
 ]
