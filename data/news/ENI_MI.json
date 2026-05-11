@@ -1,5 +1,26 @@
 [
   {
+    "title": "Sunoco Q1 Earnings & Revenues Beat Estimates on Higher Sales Volume",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sunoco-q1-earnings-revenues-beat-172600218.html",
+    "publisher": "Zacks",
+    "date": "2026-05-11T17:26:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "MTDR Q1 Earnings Beat Estimates on Higher Production Volumes",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/mtdr-q1-earnings-beat-estimates-155400484.html",
+    "publisher": "Zacks",
+    "date": "2026-05-11T15:54:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eni’s Indonesia Gas Hub Discovery Adds New Dimension To LNG Story",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/eni-indonesia-gas-hub-discovery-101123825.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-10T10:11:23Z",
+    "type": "STORY"
+  },
+  {
     "title": "CHRD Q1 Earnings Top Estimates on Increased Output & Higher Prices",
     "link": "https://finance.yahoo.com/sectors/energy/articles/chrd-q1-earnings-top-estimates-163200064.html",
     "publisher": "Zacks",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/energy/articles/eni-confirms-size-giant-gas-115725798.html",
     "publisher": "Rigzone.com",
     "date": "2026-05-07T11:57:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eni Shareholders Back €4 Billion Buyback and Confirm New Board",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/eni-shareholders-back-4-billion-013413081.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-05-07T01:34:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Equities Traded in the US as American Depositary Receipts Climb Sharply Higher in Wednesday Trading",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151023653.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-06T15:10:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "VNOM Q1 Earnings Beat Estimates on Higher Production Volume",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/vnom-q1-earnings-beat-estimates-130600969.html",
-    "publisher": "Zacks",
-    "date": "2026-05-06T13:06:00Z",
     "type": "STORY"
   }
 ]

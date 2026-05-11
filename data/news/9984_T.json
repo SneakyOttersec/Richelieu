@@ -1,5 +1,47 @@
 [
   {
+    "title": "SoftBank's $100 Billion France AI Push Could Reshape Data Center Race",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/softbanks-100-billion-france-ai-214743251.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-11T21:47:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Eyes $100 Billion France AI Push",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-eyes-100-billion-france-213914349.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-11T21:39:14Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank's Son considers up to $100 billion investment in France, Bloomberg News reports",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/softbanks-son-weighs-100-billion-123709473.html",
+    "publisher": "Reuters",
+    "date": "2026-05-11T12:37:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Preps Forays Into AI Data Center Batteries and Chips",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/softbank-preps-forays-ai-data-092400763.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-11T09:24:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Launches Japan Battery Venture Amid AI Hardware Push",
+    "link": "https://www.wsj.com/tech/softbank-launches-japan-battery-venture-amid-ai-hardware-push-34dba5e8?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-11T08:45:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is It Too Late To Consider SoftBank Group (TSE:9984) After Its Sharp Share Price Rally?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/too-consider-softbank-group-tse-021935734.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-09T02:19:35Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank cuts target for OpenAI margin loan, Bloomberg News reports",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-cuts-target-openai-margin-072833044.html",
     "publisher": "Reuters",
@@ -25,48 +67,6 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-07-2026/card/softbank-stock-surges-on-chip-optimism-4z7bObmJjg4Gx45XuEkN?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-05-07T09:21:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nikkei 225 Tops 62,000 as Major Japanese Stocks Post Double-Digit Gains",
-    "link": "https://beincrypto.com/nikkei-225-record-japan-stocks-rally/",
-    "publisher": "BeInCrypto",
-    "date": "2026-05-07T03:46:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI, Anthropic JVs in discussions to acquire AI services firms, Reuters reports",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-anthropic-jvs-discussions-acquire-160707837.html",
-    "publisher": "Investing.com",
-    "date": "2026-05-05T16:07:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Grab Expects Another Strong Year Ahead Despite Headwinds",
-    "link": "https://www.wsj.com/business/c-suite/grab-expects-another-strong-year-ahead-despite-headwinds-3a7aa15f?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-05T10:51:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-finalizes-10-billion-joint-123100557.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-04T15:03:52Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI, Anthropic Launch Separate PE Joint Ventures",
-    "link": "https://www.wealthmanagement.com/artificial-intelligence/openai-anthropic-launch-separate-joint-venture-pe-partnerships",
-    "publisher": "Wealth Management",
-    "date": "2026-05-04T14:48:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI secures $4 billion for new joint venture with PE giants, Bloomberg reports",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/openai-secures-4-billion-joint-134629932.html",
-    "publisher": "Investing.com",
-    "date": "2026-05-04T13:46:29Z",
     "type": "STORY"
   }
 ]

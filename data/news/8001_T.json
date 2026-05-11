@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Warren Buffett’s Japanese Bets Keep Paying Off",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-09-2026/card/warren-buffett-s-japanese-bets-keep-paying-off-bFA45Z0A3PRqnBOJAELO?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-02-09T14:35:06Z",
-    "type": "STORY"
-  },
-  {
     "title": "How Recent Developments Are Reframing The Itochu (TSE:8001) Investment Story",
     "link": "https://finance.yahoo.com/news/recent-developments-reframing-itochu-tse-120854337.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/bank-japan-outlook-beijing-economic-104942845.html",
     "publisher": "MT Newswires",
     "date": "2025-12-29T10:49:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies SE (TTE) Signs a Joint Development Agreement With Japanese Companies",
+    "link": "https://finance.yahoo.com/news/totalenergies-se-tte-signs-joint-123251644.html",
+    "publisher": "Insider Monkey",
+    "date": "2025-12-11T12:32:51Z",
     "type": "STORY"
   }
 ]
