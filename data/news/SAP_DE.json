@@ -1,5 +1,26 @@
 [
   {
+    "title": "SAP Launches Unified AI, Automation Suite",
+    "link": "https://www.wsj.com/tech/ai/sap-launches-unified-ai-automation-suite-b02ac784?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-12T14:29:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP ramps up push to bring AI agents to finance teams",
+    "link": "https://www.cfodive.com/news/sap-ramps-push-autonomous-finance-agentic-ai/819929/",
+    "publisher": "CFO Dive",
+    "date": "2026-05-12T07:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP Puts Embodied AI Robots To Work And Undervaluation In Focus",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-puts-embodied-ai-robots-001911741.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-12T00:19:11Z",
+    "type": "STORY"
+  },
+  {
     "title": "Salesforce Trades at a Discounted Valuation: Time to Buy the Stock?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-trades-discounted-valuation-time-125400147.html",
     "publisher": "Zacks",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/ptc-q2-earnings-revenues-beat-144900886.html",
     "publisher": "Zacks",
     "date": "2026-05-07T14:49:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "A Look At SAP (XTRA:SAP) Valuation As Cloud Transition Creates A Potential Discount",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/look-sap-xtra-sap-valuation-181759896.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-06T18:17:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exclusive: Nova Intelligence raises $31.5 million to bring agentic AI to SAP’s $89 billion migration wave",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-nova-intelligence-raises-31-120000605.html",
-    "publisher": "Fortune",
-    "date": "2026-05-05T12:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP AI Data Push With Dremio And Prior Labs Raises Valuation Question",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-ai-data-push-dremio-101045991.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-05T10:10:45Z",
     "type": "STORY"
   }
 ]

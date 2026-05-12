@@ -1,5 +1,26 @@
 [
   {
+    "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+    "link": "https://finance.yahoo.com/news/sector-energy-stocks-rise-afternoon-195950170.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-12T19:59:50Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Is Dell (DELL) Stock Soaring Today",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-dell-dell-stock-soaring-194055553.html",
+    "publisher": "StockStory",
+    "date": "2026-05-12T19:40:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies Expands Energy Transition Projects While Shares Trade Below Target",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/totalenergies-expands-energy-transition-projects-181723779.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-12T18:17:23Z",
+    "type": "STORY"
+  },
+  {
     "title": "Is It Too Late To Consider TotalEnergies (ENXTPA:TTE) After Its 53.6% One-Year Surge?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/too-consider-totalenergies-enxtpa-tte-191508190.html",
     "publisher": "Simply Wall St.",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/energy/articles/soaring-energy-profits-reignite-calls-031705441.html",
     "publisher": "AFP",
     "date": "2026-05-10T03:17:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Dell’s Pangea 5 Win Highlights AI And Energy Computing Ambitions",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/dell-pangea-5-win-highlights-011259528.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-10T01:12:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Can Chevron's South Asian LNG Strategy Drive Long-Term Growth?",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/chevrons-south-asian-lng-strategy-143800648.html",
-    "publisher": "Zacks",
-    "date": "2026-05-08T14:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Pangea 5 Supercomputer Puts AI At Core Of Energy Plan",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/totalenergies-pangea-5-supercomputer-puts-081618338.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-08T08:16:18Z",
     "type": "STORY"
   }
 ]
