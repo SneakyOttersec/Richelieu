@@ -1,5 +1,26 @@
 [
   {
+    "title": "One of the Stock Market’s Biggest Bulls Sees a Historic Rally Coming",
+    "link": "https://www.barrons.com/articles/stock-market-morgan-stanley-rally-30c4edfd?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-13T16:14:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is CME Group Expanding Into the Compute Futures Market?",
+    "link": "https://finance.yahoo.com/news/cme-group-expanding-compute-futures-160000388.html",
+    "publisher": "Zacks",
+    "date": "2026-05-13T16:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals",
+    "link": "https://finance.yahoo.com/news/tower-semi-forecasts-upbeat-quarterly-120529496.html",
+    "publisher": "Reuters",
+    "date": "2026-05-13T12:05:29Z",
+    "type": "STORY"
+  },
+  {
     "title": "Zebra Technologies lifts annual sales forecast on strong automation demand",
     "link": "https://finance.yahoo.com/markets/stocks/articles/zebra-technologies-lifts-annual-sales-111518168.html",
     "publisher": "Reuters",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-forecasts-quarterly-revenue-above-211121969.html",
     "publisher": "Reuters",
     "date": "2026-05-05T21:11:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gartner raises profit forecast on strong AI service demand",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/gartner-raises-profit-forecast-strong-121050708.html",
-    "publisher": "Reuters",
-    "date": "2026-05-05T12:10:50Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Story Is Shifting For London Stock Exchange Group (LSE:LSEG) After Fresh Target Updates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/story-shifting-london-stock-exchange-191246490.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-04T19:12:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stryker maintains FY26 outlook despite cyberattack-impacted Q1",
-    "link": "https://www.medicaldevice-network.com/news/stryker-maintains-fy26-outlook-despite-cyberattack-impacted-q1/",
-    "publisher": "Medical Device Network",
-    "date": "2026-05-01T15:17:40Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,61 @@
 [
   {
+    "title": "ETF League Tables: Invesco Pulls In $4.9B",
+    "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-invesco-pulls-49b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+    "publisher": "etf.com",
+    "date": "2026-05-13T21:00:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stock Market Today: Nasdaq 100 Rises Despite Hot PPI, Nvidia Hits Record High",
+    "link": "https://finance.yahoo.com/news/stock-market-today-nasdaq-100-173846675.html",
+    "publisher": "Benzinga",
+    "date": "2026-05-13T17:38:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
+    "link": "https://finance.yahoo.com/news/exchange-traded-funds-us-equities-170927865.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-13T17:09:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Pressured by Signs of Resurgent Inflation",
+    "link": "https://www.barchart.com/story/news/1906486/stocks-pressured-by-signs-of-resurgent-inflation",
+    "publisher": "Barchart",
+    "date": "2026-05-13T14:10:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
+    "link": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-131321756.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-13T13:13:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
+    "link": "https://finance.yahoo.com/news/trade-strategy-spy-qqq-aapl-121548760.html",
+    "publisher": "Benzinga",
+    "date": "2026-05-13T12:15:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Caution Ahead: Will SpaceX Be the Next Figma IPO?",
+    "link": "http://www.etf.com/sections/podcasts/caution-ahead-will-spacex-be-next-figma-ipo?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+    "publisher": "etf.com",
+    "date": "2026-05-12T23:50:10Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Best ETFs to Buy After Hot Inflation Data",
+    "link": "http://www.etf.com/sections/news/best-etfs-buy-after-hot-inflation-data?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+    "publisher": "etf.com",
+    "date": "2026-05-12T23:34:21Z",
+    "type": "STORY"
+  },
+  {
     "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
     "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-171630730.html",
     "publisher": "MT Newswires",
@@ -11,62 +67,6 @@
     "link": "https://www.barrons.com/articles/chip-stocks-software-etf-investing-08e06f7f?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-05-12T16:27:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "4 Leveraged ETF Winners of Last Week",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/4-leveraged-etf-winners-last-160000903.html",
-    "publisher": "Zacks",
-    "date": "2026-05-12T16:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks Retreat as Oil Prices Surge and Inflation Accelerates",
-    "link": "https://www.barchart.com/story/news/1879893/stocks-retreat-as-oil-prices-surge-and-inflation-accelerates",
-    "publisher": "Barchart",
-    "date": "2026-05-12T15:16:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks Pressured by Rising Oil Prices and Accelerating Inflation",
-    "link": "https://www.barchart.com/story/news/1878324/stocks-pressured-by-rising-oil-prices-and-accelerating-inflation",
-    "publisher": "Barchart",
-    "date": "2026-05-12T14:08:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Biggest Mistake Beginner Investors Make, According to the Rich Habits Podcast",
-    "link": "https://247wallst.com/investing/2026/05/12/the-biggest-mistake-beginner-investors-make-according-to-the-rich-habits-podcast/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-05-12T13:25:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Tuesday Amid Consumer Inflation Report Release",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-124800218.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-12T12:48:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why JPMorgan Equity Premium Income ETF Limits Upside While JPMorgan Nasdaq Equity Premium Income ETF Sacrifices Growth for 11.98% Yields",
-    "link": "https://247wallst.com/investing/2026/05/12/why-jpmorgan-equity-premium-income-etf-limits-upside-while-jpmorgan-nasdaq-equity-premium-income-etf-sacrifices-growth-for-11-98-yields/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-05-12T09:40:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Zacks Analyst Blog  QQQ, DIA, DRAM, WGMI, EWY, DIME and BKCH",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-qqq-dia-081600680.html",
-    "publisher": "Zacks",
-    "date": "2026-05-12T08:16:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commonwealth Financial Services Adds to First Trust Smith Opportunistic Fixed Income ETF, According to Recent SEC Filing",
-    "link": "https://www.fool.com/coverage/filings/2026/05/11/commonwealth-loads-up-59k-fixd-shares-in-26-million-buy/",
-    "publisher": "Motley Fool",
-    "date": "2026-05-11T21:07:00Z",
     "type": "STORY"
   }
 ]

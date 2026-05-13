@@ -1,5 +1,33 @@
 [
   {
+    "title": "SAP’s AI push at Sapphire fails to spark stock rebound",
+    "link": "https://finance.yahoo.com/news/sap-ai-push-sapphire-fails-183231050.html",
+    "publisher": "Investing.com",
+    "date": "2026-05-13T18:32:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Levi’s migrates to standardized global ERP platform",
+    "link": "https://www.ciodive.com/news/levi-strauss-standardizes-global-erp-platform/820159/",
+    "publisher": "CIO Dive",
+    "date": "2026-05-13T15:11:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP invests in AI workflow orchestration company n8n at $5.2bn valuation",
+    "link": "https://www.verdict.co.uk/sap-invests-n8n/",
+    "publisher": "Verdict",
+    "date": "2026-05-13T08:30:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP’s Autonomous Enterprise Push Meets Valuation Gap And Execution Questions",
+    "link": "https://finance.yahoo.com/news/sap-autonomous-enterprise-push-meets-061630594.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-13T06:16:30Z",
+    "type": "STORY"
+  },
+  {
     "title": "SAP Launches Unified AI, Automation Suite",
     "link": "https://www.wsj.com/tech/ai/sap-launches-unified-ai-automation-suite-b02ac784?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/sap-ai-push-weighs-valuation-152115785.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-08T15:21:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Dnow Inc. Q1 2026 Earnings Call Summary",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-dnow-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-05-08T12:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP SE (SAP) to Acquire Dremio to Enhance Business Data Cloud, AI Capabilities",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/sap-se-sap-acquire-dremio-111709432.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-08T11:17:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Here’s Why ​SAP SE (SAP) is One of the Best Stocks to Buy Before the Next Bull Run",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-sap-se-sap-one-193941226.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-07T19:39:41Z",
-    "type": "STORY"
-  },
-  {
-    "title": "PTC Q2 Earnings & Revenues Beat on AI-Led ARR Strength, Shares Jump",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ptc-q2-earnings-revenues-beat-144900886.html",
-    "publisher": "Zacks",
-    "date": "2026-05-07T14:49:00Z",
     "type": "STORY"
   }
 ]
