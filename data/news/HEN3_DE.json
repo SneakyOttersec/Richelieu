@@ -7,13 +7,6 @@
     "type": "STORY"
   },
   {
-    "title": "This Week In Electric Vehicles - Charger Materials Surge with Demand for Fast Charging",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/week-electric-vehicles-charger-materials-103941346.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-11T10:39:41Z",
-    "type": "STORY"
-  },
-  {
     "title": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1913fa30?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://www.packaging-gateway.com/news/henkel-paper-packaging-coating/",
     "publisher": "Packaging Gateway",
     "date": "2026-04-09T09:39:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Olaplex to be acquired by Germany’s Henkel for $1.4B",
+    "link": "https://www.retaildive.com/news/olaplex-acquired-henkel-one-billion/816803/",
+    "publisher": "Retail Dive",
+    "date": "2026-04-07T11:51:00Z",
     "type": "STORY"
   }
 ]

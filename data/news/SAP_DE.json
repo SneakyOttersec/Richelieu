@@ -1,5 +1,33 @@
 [
   {
+    "title": "Palantir may have found its next growth engine outside Washington",
+    "link": "https://www.thestreet.com/investing/palantir-may-have-found-its-next-growth-engine-outside-washington",
+    "publisher": "TheStreet",
+    "date": "2026-05-14T17:47:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "NVIDIA (NVDA) And SAP Expand Collaboration To Bring Enterprise-Grade Trust And Governance To Specialized AI Agents",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-sap-expand-collaboration-165905629.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-05-14T16:59:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Adobe (ADBE) Integrates Agentic AI With Major Tech Platforms to Automate Customer Workflows",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-integrates-agentic-ai-145557783.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-05-14T14:55:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Salesforce (CRM), Moderna Partner to Unify Global Operations via Agentforce Life Sciences",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/salesforce-crm-moderna-partner-unify-145550935.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-05-14T14:55:50Z",
+    "type": "STORY"
+  },
+  {
     "title": "SAP’s AI push at Sapphire fails to spark stock rebound",
     "link": "https://finance.yahoo.com/news/sap-ai-push-sapphire-fails-183231050.html",
     "publisher": "Investing.com",
@@ -39,34 +67,6 @@
     "link": "https://www.cfodive.com/news/sap-ramps-push-autonomous-finance-agentic-ai/819929/",
     "publisher": "CFO Dive",
     "date": "2026-05-12T07:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Puts Embodied AI Robots To Work And Undervaluation In Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-puts-embodied-ai-robots-001911741.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-12T00:19:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Salesforce Trades at a Discounted Valuation: Time to Buy the Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-trades-discounted-valuation-time-125400147.html",
-    "publisher": "Zacks",
-    "date": "2026-05-11T12:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why SAP (SAP) Is Strengthening AI Governance With the Dremio Deal",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/why-sap-sap-strengthening-ai-063231946.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-10T06:32:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP AI Push Weighs On Valuation As Dremio And Prior Labs Deals Land",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-ai-push-weighs-valuation-152115785.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-08T15:21:15Z",
     "type": "STORY"
   }
 ]

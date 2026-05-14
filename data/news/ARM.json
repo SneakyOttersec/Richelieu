@@ -1,9 +1,58 @@
 [
   {
+    "title": "Intel Stock Is Falling for a Third Day. It’s Losing Ground to AMD and Arm.",
+    "link": "https://www.barrons.com/articles/intel-stock-price-amd-arm-b55bdc24?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-14T20:53:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Intel Stock Slumped Today",
+    "link": "https://www.fool.com/investing/2026/05/14/why-intel-stock-slumped-today/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-14T14:46:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AMD and ARM Extend Server Market Gains While Intel Loses Share (AMD)",
+    "link": "https://investorshub.advfn.com/market-news/article/28367/amd-and-arm-extend-server-market-gains-while-intel-loses-share-amd",
+    "publisher": "InvestorsHub",
+    "date": "2026-05-14T10:30:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "New report shows AMD and ARM continue server share gains at Intel’s expense",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/report-shows-amd-arm-continue-101226769.html",
+    "publisher": "Investing.com",
+    "date": "2026-05-14T10:12:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm’s Cerebras Bid Sheds Light On AI Chip Expansion Plans",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/arm-cerebras-bid-sheds-light-101130929.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-14T10:11:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm, SoftBank Tried To Buy Cerebras Before $34 Billion IPO",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-softbank-tried-buy-cerebras-034140178.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-14T03:41:40Z",
+    "type": "STORY"
+  },
+  {
     "title": "US Equity Indexes Mixed as Communication Services, Tech Help Outweigh Impact of Hot Producer Prices",
     "link": "https://finance.yahoo.com/news/us-equity-indexes-mixed-communication-210032980.html",
     "publisher": "MT Newswires",
     "date": "2026-05-13T21:00:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "S&P 500 and Nasdaq 100 Post New Record Highs on Chip Stock Strength",
+    "link": "https://www.barchart.com/story/news/1914958/s-p-500-and-nasdaq-100-post-new-record-highs-on-chip-stock-strength",
+    "publisher": "Barchart",
+    "date": "2026-05-13T20:37:40Z",
     "type": "STORY"
   },
   {
@@ -19,54 +68,5 @@
     "publisher": "Bloomberg",
     "date": "2026-05-13T16:33:36Z",
     "type": "VIDEO"
-  },
-  {
-    "title": "What's Going On With Arm Stock Wednesday?",
-    "link": "https://finance.yahoo.com/news/whats-going-arm-stock-wednesday-160653249.html",
-    "publisher": "Benzinga",
-    "date": "2026-05-13T16:06:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings (ARM) Price Target Raised to $300 on AI and Data Center Momentum",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-price-target-235809458.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-11T23:58:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Qualcomm Stock Is Rising. Why the Chip Stock Hit a Record High.",
-    "link": "https://www.barrons.com/articles/qualcomm-stock-record-high-ai-chip-rally-68912b88?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-05-11T20:55:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Arm Holdings Stock a Buy After Shares Dip Following a Huge Run?",
-    "link": "https://www.fool.com/investing/2026/05/11/is-arm-holdings-stock-a-buy-after-shares-dip/",
-    "publisher": "Motley Fool",
-    "date": "2026-05-11T12:50:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Prediction: Arm’s 117% Rally Has Run Too Far",
-    "link": "https://247wallst.com/investing/2026/05/11/prediction-arms-117-rally-has-run-too-far/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-05-11T12:48:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings (NasdaqGS:ARM) Valuation Check After Record AI-Driven Earnings And Post-Results Volatility",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-nasdaqgs-arm-valuation-191124818.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-09T19:11:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jim Cramer on Taiwan Semi: “They Have More Business Than They Can Handle”",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-taiwan-semi-more-183646491.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-09T18:36:46Z",
-    "type": "STORY"
   }
 ]
