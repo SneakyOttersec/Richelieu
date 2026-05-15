@@ -1,5 +1,54 @@
 [
   {
+    "title": "Jim Cramer Said 'Smell' — AI Stocks Heard 'Sell'",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-smell-ai-213034706.html",
+    "publisher": "Benzinga",
+    "date": "2026-05-15T21:30:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "US Equity Markets End Lower as Rising Oil, Bond Yields Stoke Inflation Concerns",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201939611.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-15T20:19:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel Stock Is Falling as Analyst Issues Chip-Stock Bubble Warning",
+    "link": "https://www.barrons.com/articles/intel-stock-price-amd-arm-chips-dab3ed2a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-15T18:48:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Holdings CEO Rene Haas Has a Big Warning for Intel and AMD",
+    "link": "https://www.fool.com/investing/2026/05/15/arm-holdings-ceo-rene-haas-has-a-big-warning-for-i/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-15T18:35:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ARM's Powerful Ecosystem Advantage Drives Market Leadership",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arms-powerful-ecosystem-advantage-drives-175900791.html",
+    "publisher": "Zacks",
+    "date": "2026-05-15T17:59:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Tumble on Inflation Jitters",
+    "link": "https://www.barchart.com/story/news/1958749/stocks-tumble-on-inflation-jitters",
+    "publisher": "Barchart",
+    "date": "2026-05-15T14:07:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Cerebras Raises $5.55 Billion IPO at $40 Billion Valuation",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-raises-5-55-billion-003314885.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-15T00:33:14Z",
+    "type": "STORY"
+  },
+  {
     "title": "Intel Stock Is Falling for a Third Day. It’s Losing Ground to AMD and Arm.",
     "link": "https://www.barrons.com/articles/intel-stock-price-amd-arm-b55bdc24?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -19,54 +68,5 @@
     "publisher": "InvestorsHub",
     "date": "2026-05-14T10:30:40Z",
     "type": "STORY"
-  },
-  {
-    "title": "New report shows AMD and ARM continue server share gains at Intel’s expense",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/report-shows-amd-arm-continue-101226769.html",
-    "publisher": "Investing.com",
-    "date": "2026-05-14T10:12:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm’s Cerebras Bid Sheds Light On AI Chip Expansion Plans",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/arm-cerebras-bid-sheds-light-101130929.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-14T10:11:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm, SoftBank Tried To Buy Cerebras Before $34 Billion IPO",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-softbank-tried-buy-cerebras-034140178.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-14T03:41:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US Equity Indexes Mixed as Communication Services, Tech Help Outweigh Impact of Hot Producer Prices",
-    "link": "https://finance.yahoo.com/news/us-equity-indexes-mixed-communication-210032980.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-13T21:00:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "S&P 500 and Nasdaq 100 Post New Record Highs on Chip Stock Strength",
-    "link": "https://www.barchart.com/story/news/1914958/s-p-500-and-nasdaq-100-post-new-record-highs-on-chip-stock-strength",
-    "publisher": "Barchart",
-    "date": "2026-05-13T20:37:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US Equity Indexes Mixed as Communication Services, Tech Gains Offset Impact of Hot Producer Prices",
-    "link": "https://finance.yahoo.com/news/us-equity-indexes-mixed-communication-195709058.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-13T19:57:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm, SoftBank Said to Have Tried to Buy Cerebras",
-    "link": "https://finance.yahoo.com/video/arm-softbank-said-tried-buy-163336392.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-13T16:33:36Z",
-    "type": "VIDEO"
   }
 ]

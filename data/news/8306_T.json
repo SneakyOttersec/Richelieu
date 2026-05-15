@@ -1,5 +1,47 @@
 [
   {
+    "title": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-0ed5e673?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-15T21:08:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oil Futures Settle Higher on Inventory Worries",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-higher-amid-limited-flows-through-strait-of-hormuz-2ac767e6?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-05-15T19:42:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Friday Trading",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143839611.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-15T14:38:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oil Heads for Weekly Gain After Trump-Xi Summit",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-051526/card/oil-heads-for-weekly-gain-after-trump-xi-summit-sPzabufX7Iic97XcBm3v?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-05-15T08:06:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Fermi Flags AI Power Push as Q1 Loss Widens on Expansion Costs",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/fermi-flags-ai-power-push-022103140.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-05-15T02:21:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Fermi Inc (FRMI) Q1 2026 Earnings Call Highlights: Strategic Moves Amid Financial Challenges",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fermi-inc-frmi-q1-2026-230606047.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-05-14T23:06:06Z",
+    "type": "STORY"
+  },
+  {
     "title": "Sunraycer Renewables Closes $901-Million Package to Support Three Solar Projects",
     "link": "https://www.powermag.com/sunraycer-renewables-closes-901-million-package-to-support-three-solar-projects/",
     "publisher": "POWER Magazine",
@@ -25,48 +67,6 @@
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-051426/card/gold-edges-higher-but-remains-pressured-by-inflation-concerns-JfCXjbq9mxkwJdaokKbN?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-05-14T08:11:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Anthropic's Most Controversial AI Is Expanding Fast",
-    "link": "https://finance.yahoo.com/news/anthropics-most-controversial-ai-expanding-151032249.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-13T15:10:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says",
-    "link": "https://finance.yahoo.com/news/japan-megabanks-gain-access-anthropics-051751251.html",
-    "publisher": "Reuters",
-    "date": "2026-05-13T05:17:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan's megabanks set to access Anthropic's Mythos as soon as this month, Nikkei says",
-    "link": "https://finance.yahoo.com/news/japans-megabanks-set-access-anthropics-040945338.html",
-    "publisher": "Reuters",
-    "date": "2026-05-13T04:09:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cerebras Systems upsizes IPO to $4.8 billion amid strong demand",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-upsizes-ipo-4-125005799.html",
-    "publisher": "Investing.com",
-    "date": "2026-05-11T12:50:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Fervo Energy now targets up to $7.37 billion valuation in upsized IPO",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/fervo-energy-now-targets-7-121659245.html",
-    "publisher": "Investing.com",
-    "date": "2026-05-11T12:16:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gold Falls 1% as U.S.-Iran Deadlock Fuels Oil-Driven Inflation Fears",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-051126/card/gold-falls-1-as-u-s-iran-deadlock-fuels-oil-driven-inflation-fears-WQr61V7B0kKbVTRhV76x?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-05-11T07:18:51Z",
     "type": "STORY"
   }
 ]
