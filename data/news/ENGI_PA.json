@@ -1,5 +1,19 @@
 [
   {
+    "title": "British Takeovers Up 250% as Global Buyers Bypass Political Flux",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/british-takeovers-250-global-buyers-040000841.html",
+    "publisher": "Bloomberg",
+    "date": "2026-05-18T04:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Engie Offshore Wind Progresses As Scotland Approval Supports Growth Story",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/engie-offshore-wind-progresses-scotland-190711224.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-16T19:07:11Z",
+    "type": "STORY"
+  },
+  {
     "title": "Caledonia and Buchan wind farms secure onshore consents",
     "link": "https://www.power-technology.com/news/caledonia-buchan-onshore-consents/",
     "publisher": "Power Technology",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/energy/articles/belgium-nuclear-talks-reshape-engie-050736033.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-02T05:07:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Belgium Moves to Take Control of Engie’s Nuclear Fleet",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/belgium-moves-control-engie-nuclear-071935612.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-04-30T07:19:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Final turbine installed at Ocean Winds’ EMYN offshore wind farm",
-    "link": "https://www.power-technology.com/news/final-turbine-installed-emyn-offshore-wind-farm/",
-    "publisher": "Power Technology",
-    "date": "2026-04-29T14:07:03Z",
     "type": "STORY"
   }
 ]
