@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "Land Grab for Data Centers Is One More Obstacle to Much-Needed Housing",
-    "link": "https://www.wsj.com/real-estate/data-center-land-deals-housing-shortage-81ea6e09?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-02-18T02:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Assessing NTT (TSE:9432) Valuation As Long Term Returns Contrast With Softer Recent Momentum",
     "link": "https://finance.yahoo.com/news/assessing-ntt-tse-9432-valuation-200840935.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.verdict.co.uk/trusted-tech-alliance-initiative/",
     "publisher": "Verdict",
     "date": "2026-02-16T11:22:53Z",
+    "type": "STORY"
+  },
+  {
+    "title": "NTT: Fiscal Q3 Earnings Snapshot",
+    "link": "https://finance.yahoo.com/news/ntt-fiscal-q3-earnings-snapshot-063301881.html",
+    "publisher": "Associated Press Finance",
+    "date": "2026-02-05T06:33:01Z",
     "type": "STORY"
   }
 ]

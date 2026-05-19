@@ -1,5 +1,26 @@
 [
   {
+    "title": "Regeneron & Parabilis Sign Oncology Collaboration Worth Up to $2.2B",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/regeneron-parabilis-sign-oncology-collaboration-182900406.html",
+    "publisher": "Zacks",
+    "date": "2026-05-19T18:29:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FDA Grants Priority Tag to Bayer's Oncology Drug for First-Line NSCLC",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/fda-grants-priority-tag-bayers-150100192.html",
+    "publisher": "Zacks",
+    "date": "2026-05-19T15:01:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer Gets FDA Priority Review for Asundexian NDA in Stroke Prevention",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/bayer-gets-fda-priority-review-142700387.html",
+    "publisher": "Zacks",
+    "date": "2026-05-19T14:27:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Microsoft Rides on Enterprise AI Advancements: More Upside Ahead?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rides-enterprise-ai-advancements-142400956.html",
     "publisher": "Zacks",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/bayer-q1-earnings-beat-estimates-152400636.html",
     "publisher": "Zacks",
     "date": "2026-05-12T15:24:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CPI Comes in Line With Expectations",
-    "link": "https://finance.yahoo.com/economy/articles/cpi-comes-line-expectations-150600430.html",
-    "publisher": "Zacks",
-    "date": "2026-05-12T15:06:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CPI Inflation Rate Heats Up to +3.8%",
-    "link": "https://finance.yahoo.com/economy/articles/cpi-inflation-rate-heats-3-143000915.html",
-    "publisher": "Zacks",
-    "date": "2026-05-12T14:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bayer Shares Climb After Earnings Beat Expectations",
-    "link": "https://www.wsj.com/business/earnings/bayer-net-profit-surges-driven-by-growth-in-agricultural-division-0ecd9f4b?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-12T11:17:00Z",
     "type": "STORY"
   }
 ]
