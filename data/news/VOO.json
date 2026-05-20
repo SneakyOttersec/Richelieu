@@ -1,5 +1,54 @@
 [
   {
+    "title": "Vanguard S&P 500 ETF (VOO): Graham Stephan Likes This Index Fund",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-etf-voo-194955585.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-05-20T19:49:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Vanguard 500 Index Fund (VFIAX): Top Stock Pick by Graham Stephan",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-500-index-fund-vfiax-194924160.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-05-20T19:49:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "IVV Beat VOO by 10 Basis Points Last Year and Securities Lending Is the Reason Most Investors Miss",
+    "link": "https://247wallst.com/investing/2026/05/20/ivv-beat-voo-by-10-basis-points-last-year-and-securities-lending-is-the-reason-most-investors-miss/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-05-20T19:30:16Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Vanguard’s 0.05% International Stock ETF Just Outpaced the S&P 500 for the First Time in Five Years",
+    "link": "https://247wallst.com/investing/2026/05/20/vanguards-0-05-international-stock-etf-just-outpaced-the-sp-500-for-the-first-time-in-five-years/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-05-20T17:41:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "DIA and VOO Track Almost the Same Market Yet VOO Returned 318.99% While DIA Made 176.86% Over Ten Years",
+    "link": "https://247wallst.com/investing/2026/05/20/dia-and-voo-track-almost-the-same-market-yet-voo-returned-318-99-while-dia-made-176-86-over-ten-years/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-05-20T15:10:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Which Is the Better Growth ETF, Vanguard's Large-Cap VOOG or State Street's Small-Cap SLYG?",
+    "link": "https://www.fool.com/coverage/etfs/2026/05/20/which-is-the-better-growth-etf-vanguard-s-large-cap-voog-or-state-street-s-small-cap-slyg/",
+    "publisher": "Motley Fool",
+    "date": "2026-05-20T14:01:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jeff Hook’s Blunt Warning: Private Equity Fees Are Destroying Returns for Retail Investors",
+    "link": "https://247wallst.com/investing/2026/05/19/jeff-hooks-blunt-warning-private-equity-fees-are-destroying-returns-for-retail-investors/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-05-20T00:25:31Z",
+    "type": "STORY"
+  },
+  {
     "title": "Japan ETFs Are Up 41%. Here’s How to Play the Takaichi Boom",
     "link": "http://www.etf.com/sections/news/japan-etfs-are-41-heres-how-play-takaichi-boom?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
     "publisher": "etf.com",
@@ -18,55 +67,6 @@
     "link": "https://www.fool.com/investing/2026/05/19/high-yield-vanguard-etf-belongs-in-every-portfolio/",
     "publisher": "Motley Fool",
     "date": "2026-05-19T15:11:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
-    "link": "https://www.fool.com/investing/2026/05/19/vti-vs-voo-which-one-is-the-smarter-buy-today/",
-    "publisher": "Motley Fool",
-    "date": "2026-05-19T10:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "ETF League Tables: Vanguard ETFs Haul In $3.6B",
-    "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-etfs-haul-36b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-    "publisher": "etf.com",
-    "date": "2026-05-18T21:00:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Earnings Wednesday: These ETFs Have the Most Riding on One Stock",
-    "link": "http://www.etf.com/sections/news/nvidia-earnings-wednesday-these-etfs-have-most-riding-one-stock?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-    "publisher": "etf.com",
-    "date": "2026-05-18T19:23:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
-    "link": "http://www.etf.com/sections/etf-basics/what-etf-everything-beginners-need-know-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-    "publisher": "etf.com",
-    "date": "2026-05-18T19:15:50Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Trump’s Stock-Trading Activity Rose Sharply in First Quarter",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/trump-s-stock-trading-activity-rose-sharply-in-first-quarter-ZUbhMecoZDU95am9G5Li?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-18T16:02:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Best Vanguard ETF to Invest $2,000 in This May",
-    "link": "https://www.fool.com/investing/2026/05/18/the-best-vanguard-etf-to-invest-2000-in-this-may/",
-    "publisher": "Motley Fool",
-    "date": "2026-05-18T12:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "At 33, They're Planning 2 Years Of 80 Hour Workweeks To Make Up For Lost Time. Some Say The Plan 'Sounds Absolutely Miserable'",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/33-theyre-planning-2-years-183109836.html",
-    "publisher": "Benzinga",
-    "date": "2026-05-17T18:31:09Z",
     "type": "STORY"
   }
 ]
