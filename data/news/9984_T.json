@@ -1,9 +1,30 @@
 [
   {
-    "title": "Stocks to Watch: Ferrari, Dell, Marvell Technology, AutoZone",
+    "title": "DigitalBridge acquires ArcLight Capital Partners for $1.05 billion",
+    "link": "https://qz.com/digitalbridge-arclight-capital-partners-acquisition-052726",
+    "publisher": "Quartz",
+    "date": "2026-05-27T17:21:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian Markets Mixed at Wednesday's Close Amid Tech Stock Rally, Uncertain US-Iran Peace Deal",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-wednesday-apos-103859489.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-27T10:38:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Japan's Nikkei retreats from record high as AI rally sparks caution",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/japans-nikkei-hits-record-high-022158874.html",
+    "publisher": "Reuters",
+    "date": "2026-05-27T07:37:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks to Watch: Zscaler, Ferrari, Dell, DuPont",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026/card/stocks-to-watch-ferrari-dell-marvell-technology-bQtUQvQJ7pXwYCLkbdAJ?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-05-26T20:20:35Z",
+    "date": "2026-05-26T22:25:34Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://www.barchart.com/story/news/2090998/softbank-stock-spikes-as-openai-prepares-for-historic-ipo",
     "publisher": "Barchart",
     "date": "2026-05-22T18:24:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Arm Holdings (ARM) the Best European Growth Stock to Buy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-best-european-105916939.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-05-22T10:59:16Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Surges 20% As OpenAI, SB Energy IPO Plans Advance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-surges-20-openai-sb-183212666.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-21T18:32:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia's AI Outlook Sends Asian Chipmakers Up 5.5%",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/nvidias-ai-outlook-sends-asian-173209656.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-21T17:32:09Z",
     "type": "STORY"
   }
 ]

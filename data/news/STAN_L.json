@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Zacks Analyst Blog Highlights Salesforce, Best Buy, Costco, Standard Chartered, JPMorgan, HSBC and Morgan Stanley",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-salesforce-072800069.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T07:28:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "JPMorgan Expands AI Push as Banking Jobs Enter Transition Phase",
     "link": "https://finance.yahoo.com/sectors/technology/articles/jpmorgan-expands-ai-push-banking-153700544.html",
     "publisher": "Zacks",
@@ -29,7 +36,7 @@
   },
   {
     "title": "Bank boss apologises for saying AI will replace ‘lower value’ humans",
-    "link": "https://www.telegraph.co.uk/business/2026/05/22/bank-boss-apologises-ai-will-replace-lower-value-humans/",
+    "link": "https://uk.finance.yahoo.com/news/bank-boss-apologises-saying-ai-111108385.html",
     "publisher": "The Telegraph",
     "date": "2026-05-22T11:11:08Z",
     "type": "STORY"
@@ -60,13 +67,6 @@
     "link": "https://www.bankingdive.com/news/standard-chartered-stanchart-winters-ai-job-cuts-lower-value-human-capital-dimon-venkat-elhedery/820889/",
     "publisher": "Banking Dive",
     "date": "2026-05-21T12:17:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC chief warns of AI-driven job cuts, urges staff to adapt",
-    "link": "https://www.retailbankerinternational.com/news/hsbc-ai-driven-job-cuts/",
-    "publisher": "Retail Banker International",
-    "date": "2026-05-21T11:27:58Z",
     "type": "STORY"
   }
 ]

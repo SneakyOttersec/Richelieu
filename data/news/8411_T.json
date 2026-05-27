@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Walmart Plans to Sell Investment-Grade Bonds on Monday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-plans-sell-investment-grade-144123317.html",
-    "publisher": "Bloomberg",
-    "date": "2026-04-27T19:26:14Z",
-    "type": "STORY"
-  },
-  {
     "title": "Intel Stock Is Dropping—and Analysts Are Getting Nervous",
     "link": "https://www.barrons.com/articles/intel-stock-price-analyst-estimates-targets-de3bdcee?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -67,6 +60,13 @@
     "link": "https://www.barrons.com/articles/sandisk-stock-price-analyst-target-750fe7ef?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-04-14T20:16:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Credit Markets Give CoreWeave a Thumbs Up. The Stock Is Soaring.",
+    "link": "https://www.barrons.com/articles/coreweave-stock-price-credit-default-swaps-anthropic-deal-0414338a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-04-10T16:24:00Z",
     "type": "STORY"
   }
 ]

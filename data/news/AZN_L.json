@@ -1,5 +1,61 @@
 [
   {
+    "title": "How Did AbbVie's Oncology Portfolio Perform in Q1 Despite Headwinds?",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/did-abbvies-oncology-portfolio-perform-162100653.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T16:21:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BDTX Broadens EGFR Reach into Glioblastoma, Adding a Fresh Catalyst",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/bdtx-broadens-egfr-reach-glioblastoma-151600368.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T15:16:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Black Diamond Stock Outlook After Q1 Beat and Cash Runway",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/black-diamond-stock-outlook-q1-151300076.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T15:13:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BDTX Silevertinib Data in EGFR NSCLC: What Investors Need to Know",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/bdtx-silevertinib-data-egfr-nsclc-151000967.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T15:10:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FDA delays decision on AstraZeneca breast cancer pill",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-camizestrant-fda-delay-breast-cancer/821193/",
+    "publisher": "BioPharma Dive",
+    "date": "2026-05-27T14:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FDA Extends Review Time for AZN's Camizestrant Combo in Breast Cancer",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/fda-extends-review-time-azns-135800308.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T13:58:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Pfizer Bets on New & Acquired Drugs to Offset Its LOE Pressure?",
+    "link": "https://finance.yahoo.com/sectors/healthcare/articles/pfizer-bets-acquired-drugs-offset-125100888.html",
+    "publisher": "Zacks",
+    "date": "2026-05-27T12:51:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "UK Value Opportunities: Serica Energy Among 3 Stocks Priced Below Intrinsic Estimates",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/uk-value-opportunities-serica-energy-063831802.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-27T06:38:31Z",
+    "type": "STORY"
+  },
+  {
     "title": "IEFA’s 22% Gain Hides a Currency Bet That Could Reverse in 2026",
     "link": "https://247wallst.com/investing/2026/05/26/iefas-22-gain-hides-a-currency-bet-that-could-reverse-in-2026/",
     "publisher": "24/7 Wall St.",
@@ -11,62 +67,6 @@
     "link": "https://www.biopharmadive.com/news/astellas-cuts-moderna-fda-datroway-tnbc-hepcludex-hepatitis/821055/",
     "publisher": "BioPharma Dive",
     "date": "2026-05-26T10:16:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AZN, Daiichi's Enhertu Gets Positive CHMP Opinion for Solid Tumors",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/azn-daiichis-enhertu-gets-positive-153700306.html",
-    "publisher": "Zacks",
-    "date": "2026-05-25T15:37:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AZN, Daiichi's Datroway Wins FDA Nod for Expanded Use in Breast Cancer",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/azn-daiichis-datroway-wins-fda-153000820.html",
-    "publisher": "Zacks",
-    "date": "2026-05-25T15:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Will Weak Gardasil Sales Continue to Ail MRK's Vaccines Sales in 2026?",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/weak-gardasil-sales-continue-ail-151400297.html",
-    "publisher": "Zacks",
-    "date": "2026-05-22T15:14:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca, Daiichi Sankyo Win US FDA Approval for Datroway to Treat Triple-Negative Breast Cancer",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/astrazeneca-daiichi-sankyo-win-us-143248617.html",
-    "publisher": "MT Newswires",
-    "date": "2026-05-22T14:32:48Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-0dd7edf7?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-21T21:11:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Lilly’s triple-acting obesity drug hits goal in Phase 3 trial",
-    "link": "https://www.biopharmadive.com/news/lillys-retatrutide-tripleG-phase3-obesity-data/820851/",
-    "publisher": "BioPharma Dive",
-    "date": "2026-05-21T09:38:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How VEPPANU Approval Frames Expectations For AstraZeneca’s Camizestrant In ESR1 Disease",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/veppanu-approval-frames-expectations-astrazeneca-011558581.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-05-21T01:15:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Pfizer Builds Oncology Growth Around Padcev and Pipeline Expansion",
-    "link": "https://finance.yahoo.com/sectors/healthcare/articles/pfizer-builds-oncology-growth-around-144300437.html",
-    "publisher": "Zacks",
-    "date": "2026-05-20T14:43:00Z",
     "type": "STORY"
   }
 ]
