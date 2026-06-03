@@ -1,9 +1,44 @@
 [
   {
+    "title": "SNPS Rises 8.2% YTD: Should Investors Hold or Fold the Stock?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/snps-rises-8-2-ytd-144900189.html",
+    "publisher": "Zacks",
+    "date": "2026-06-03T14:49:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel Racks Up AI Partnerships To Challenge Nvidia In Data Centers",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/intel-racks-ai-partnerships-challenge-140343711.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-03T14:03:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel Sparks AI Shockwave With New Chips and Mega Partnerships",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/intel-sparks-ai-shockwave-chips-123021184.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-03T12:30:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Does Fluence Energy’s (FLNC) Nvidia-Siemens Blueprint Tie Its Future to AI Data Center Power Needs?",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/does-fluence-energy-flnc-nvidia-061038088.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-03T06:10:38Z",
+    "type": "STORY"
+  },
+  {
     "title": "Siemens (XTRA:SIE) Valuation Check After Strong Recent Share Price Momentum",
     "link": "https://finance.yahoo.com/markets/stocks/articles/siemens-xtra-sie-valuation-check-220857326.html",
     "publisher": "Simply Wall St.",
     "date": "2026-06-02T22:08:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Fluence Energy Stock Is Soaring. Its Helping Nvidia Power a New Wave of Data Centers",
+    "link": "https://www.barchart.com/story/news/2268514/fluence-energy-stock-is-soaring-its-helping-nvidia-power-a-new-wave-of-data-centers",
+    "publisher": "Barchart",
+    "date": "2026-06-02T20:53:40Z",
     "type": "STORY"
   },
   {
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/energy/articles/fluence-jumps-42-ai-data-122111528.html",
     "publisher": "GuruFocus.com",
     "date": "2026-06-02T12:21:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Fluence (FLNC) Strengthens Foothold in AI, Soars 44%",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-flnc-strengthens-foothold-ai-041853580.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-02T04:18:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Fluence Energy (FLNC) Stock Trades Up, Here Is Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-trades-025651296.html",
-    "publisher": "StockStory",
-    "date": "2026-06-02T02:56:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "FLNC Stock Skyrockets as Fluence Energy Partners With Nvidia and Siemens",
-    "link": "https://www.barchart.com/story/news/2244621/flnc-stock-skyrockets-as-fluence-energy-partners-with-nvidia-and-siemens",
-    "publisher": "Barchart",
-    "date": "2026-06-01T21:23:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AI Data Center Supplier Fluence Soars On Nvidia Partnership",
-    "link": "https://www.investors.com/news/ai-data-center-supplier-fluence-soars-nvidia-partnership/?src=A00220&yptr=yahoo",
-    "publisher": "Investor's Business Daily",
-    "date": "2026-06-01T20:04:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Highlights New AI Products at Computex",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-highlights-ai-products-computex-180251006.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-06-01T18:02:51Z",
     "type": "STORY"
   }
 ]

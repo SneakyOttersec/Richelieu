@@ -1,5 +1,12 @@
 [
   {
+    "title": "RWE (XTRA:RWE) Valuation Check After Recent Share Price Cooldown",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rwe-xtra-rwe-valuation-check-121320696.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-03T12:13:20Z",
+    "type": "STORY"
+  },
+  {
     "title": "RWE to move Australia’s first eight-hour battery from commissioning to full operations",
     "link": "https://www.energyglobal.com/energy-storage/28052026/rwe-to-move-australias-first-eight-hour-battery-from-commissioning-to-full-operations/?yptr=yahoo",
     "publisher": "Energy Global",
@@ -43,8 +50,8 @@
   },
   {
     "title": "UK grants development consent for offshore wind farms",
-    "link": "https://www.power-technology.com/news/uk-grants-development-offshore-wind/",
-    "publisher": "Power Technology",
+    "link": "https://www.energymonitor.ai/news/uk-grants-development-offshore-wind/",
+    "publisher": "Energy Monitor",
     "date": "2026-05-15T11:10:02Z",
     "type": "STORY"
   },
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b93191b7?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-05-14T20:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "RWE AG (RWEOY) Q1 2026 Earnings Call Highlights: Strong Start with 25% EBITDA Growth",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/rwe-ag-rweoy-q1-2026-010302064.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-05-14T01:03:02Z",
     "type": "STORY"
   }
 ]
