@@ -1,5 +1,12 @@
 [
   {
+    "title": "Yahoo Finance test drives Mercedes' new electric G-Wagon",
+    "link": "https://finance.yahoo.com/video/yahoo-finance-test-drives-mercedes-new-electric-g-wagon-204806488.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-06-05T20:48:06Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "Tech’s Biggest Bull Was in Despair. An AI Spree Has Him Back on Top.",
     "link": "https://www.wsj.com/tech/ai/softbank-ceos-bad-bets-left-him-in-despair-an-ai-spree-has-him-back-on-top-e3f9ca06?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/cognition-ai-secures-1-billion-142638416.html",
     "publisher": "GuruFocus.com",
     "date": "2026-05-28T14:26:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AI Coding Startup Cognition Raises $1 Billion at $26 Billion Value",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/ai-coding-startup-cognition-raises-160127165.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-27T16:01:27Z",
     "type": "STORY"
   }
 ]
