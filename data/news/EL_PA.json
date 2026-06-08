@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Ray-Ban Heir Files Legal Challenge to €10 Billion Stake Sale",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ray-ban-heir-mounts-legal-100935029.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-08T16:46:59Z",
-    "type": "STORY"
-  },
-  {
     "title": "EssilorLuxottica heir buys out siblings in €10 billion deal",
     "link": "https://qz.com/essilorluxottica-del-vecchio-heir-sibling-buyout-delfin-042726",
     "publisher": "Quartz",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/business/essilorluxottica-shares-fall-as-investors-weigh-impact-of-smartglasses-0fa914a7?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-04-23T08:57:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "EssilorLuxottica posts 3rd straight quarter of double-digit growth, but shares dip",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-posts-3rd-straight-quarter-173006053.html",
+    "publisher": "Investing.com",
+    "date": "2026-04-22T17:30:06Z",
     "type": "STORY"
   }
 ]
