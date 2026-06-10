@@ -1,9 +1,23 @@
 [
   {
-    "title": "Commerzbank on Overnight News",
-    "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-overnight-news-105551641.html",
+    "title": "European Stocks Close Mixed in Wednesday Trading; Bank, Automotive Stocks Slump",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-153812761.html",
     "publisher": "MT Newswires",
-    "date": "2026-06-09T10:55:51Z",
+    "date": "2026-06-10T15:38:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Commerzbank on Overnight News",
+    "link": "https://finance.yahoo.com/economy/articles/commerzbank-overnight-news-104734937.html",
+    "publisher": "MT Newswires",
+    "date": "2026-06-10T10:47:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "UniCredit Says Commerzbank Stake Increased to 37.7% After Latest Acceptances",
+    "link": "https://www.wsj.com/business/unicredit-says-commerzbank-stake-increased-to-37-7-after-latest-acceptances-806e88bd?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-10T09:57:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/business/deals/unicredit-clears-key-30-threshold-in-commerzbank-takeover-bid-107d5a5f?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-06-02T16:06:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit says increased Commerzbank stake to 34% in hostile takeover",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/unicredit-says-increased-commerzbank-stake-150840011.html",
-    "publisher": "AFP",
-    "date": "2026-06-02T15:32:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit gets to 34% of Commerzbank as bid's take-up increases",
-    "link": "https://ca.finance.yahoo.com/news/unicredit-says-commerzbank-takeover-bid-132309860.html",
-    "publisher": "Reuters",
-    "date": "2026-06-02T13:51:38Z",
     "type": "STORY"
   }
 ]

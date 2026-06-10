@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "Italian Insurer Generali Posts Rise in Profit",
-    "link": "https://www.wsj.com/business/earnings/italian-insurer-generali-posts-rise-in-profit-on-growth-across-segments-f614331d?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-12T12:36:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Zurich to buy Generali’s Irish non-life unit for $389m",
     "link": "https://www.lifeinsuranceinternational.com/news/zurich-buy-generali-irish-non-life-unit/",
     "publisher": "Life Insurance International",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/assessing-assicurazioni-generali-bit-g-211221977.html",
     "publisher": "Simply Wall St.",
     "date": "2026-02-17T21:12:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Generali Core Tech Launch Puts Technology At Center Of Valuation Story",
+    "link": "https://finance.yahoo.com/news/generali-core-tech-launch-puts-090851783.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-02-17T09:08:51Z",
     "type": "STORY"
   }
 ]
