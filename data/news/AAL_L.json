@@ -1,5 +1,12 @@
 [
   {
+    "title": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0d547dbb?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-11T16:31:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Copper Price Rally Fades As Trump Tariff Bets Lose Steam; Mining Stocks Waver",
     "link": "https://www.investors.com/news/copper-price-trump-tariffs-loom-bhp-rio-fcx-mining-stocks-buy-points/?src=A00220&yptr=yahoo",
     "publisher": "Investor's Business Daily",
@@ -11,6 +18,13 @@
     "link": "https://www.mining-technology.com/analyst-comment/anglo-americans-coal-exit-reshapes-queenslands-metallurgical-coal-sector/",
     "publisher": "Mining Technology",
     "date": "2026-06-09T08:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 Live: London and Wall Street stocks dive, GSK deal 'too big' for some",
+    "link": "https://www.proactiveinvestors.com/companies/news/1093628/ftse-100-live-london-blue-chips-set-to-start-in-red-as-oil-prices-ease-1093628.html",
+    "publisher": "Proactive",
+    "date": "2026-06-09T06:17:00Z",
     "type": "STORY"
   },
   {
@@ -49,24 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-04added3?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-26T16:26:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "FCX Leads Metal And Mining Stocks Near Buy Points On Peace Hopes",
     "link": "https://www.investors.com/news/fcx-leads-metal-and-mining-stocks-near-buy-points-us-iran-peace-hopes/?src=A00220&yptr=yahoo",
     "publisher": "Investor's Business Daily",
     "date": "2026-05-26T13:33:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Endeavour, Rio Tinto and Glencore lead rebounding miners as metals prices seesaw",
-    "link": "https://www.proactiveinvestors.com/companies/news/1092867/endeavour-rio-tinto-and-glencore-lead-rebounding-miners-as-metals-prices-seesaw-1092867.html",
-    "publisher": "Proactive",
-    "date": "2026-05-26T07:51:00Z",
     "type": "STORY"
   }
 ]

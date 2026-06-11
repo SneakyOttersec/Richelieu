@@ -1,5 +1,61 @@
 [
   {
+    "title": "Gold Jumps After Trump Signals US-Iran Truce Deal Is Close",
+    "link": "https://finance.yahoo.com/news/gold-whipsaws-in-choppy-trading-as-us-completes-new-iran-strikes-022520731.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-11T21:53:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Microsoft Stock Gets Bullish Boost From BNP Paribas Note",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-gets-bullish-boost-183808002.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-11T18:38:08Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Digital Asset Raises $355M as Canton Pushes Deeper Into Capital Markets",
+    "link": "https://www.cryptoprowl.com/releases/digital-asset-raises-355m-as-canton-pushes-deeper-into-capital-markets-5847",
+    "publisher": "CryptoProwl",
+    "date": "2026-06-11T17:20:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Assessing BNP Paribas (ENXTPA:BNP) Valuation After Recent Share Price Consolidation",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-bnp-paribas-enxtpa-bnp-171244914.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-11T17:12:44Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SpaceX IPO Draws More Than $100 Billion in Retail Orders",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-draws-more-70-124106841.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-11T16:43:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Retail Is Cashing Out Of Micron, AMD, AI Stocks Ahead Of SpaceX IPO",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-cashing-micron-amd-ai-164022813.html",
+    "publisher": "Benzinga",
+    "date": "2026-06-11T16:40:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round",
+    "link": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
+    "publisher": "decrypt",
+    "date": "2026-06-11T15:05:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Retail Traders Dump Big Tech to Raise ‘Dry Powder’ to Buy SpaceX",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-traders-dump-big-tech-113518770.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-11T13:20:08Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Stocks Close Mixed in Wednesday Trading; Bank, Automotive Stocks Slump",
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-153812761.html",
     "publisher": "MT Newswires",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-banker-sees-mega-105632580.html",
     "publisher": "Investing.com",
     "date": "2026-06-10T10:56:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oracle's Cloud Growth Story Faces a Key Moment",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/oracles-cloud-growth-story-faces-170110437.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-06-09T17:01:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Microsoft Gets a Fresh AI Cloud Signal",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-gets-fresh-ai-cloud-170055364.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-06-09T17:00:55Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Here’s What Analysts Are Saying About Wise Group (WSE)",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-saying-wise-group-wse-164212483.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-09T16:42:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why CoreWeave (CRWV) is a Strategically Important firm in AI Infrastructure?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-crwv-strategically-important-133921455.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-09T13:39:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BNP Paribas AI Overhaul And US Court Case Shape Investment Outlook",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-ai-overhaul-us-102153394.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-09T10:21:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Treasuries Pare Drop in Oil-Driven Move Tied to Iran War",
-    "link": "https://finance.yahoo.com/economy/policy/articles/treasuries-drop-jobs-data-iran-053552607.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-08T19:57:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How The Molten Ventures (LSE:GROW) Narrative Is Shifting With New Fair Value Assumptions",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/molten-ventures-lse-grow-narrative-171617158.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-08T17:16:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nebius Group (NBIS) Up More Than 40% Over the Past Month, Here’s Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-more-40-161329376.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-08T16:13:29Z",
     "type": "STORY"
   }
 ]

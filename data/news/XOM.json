@@ -1,5 +1,54 @@
 [
   {
+    "title": "The Hidden Engine That Could Power Exxon Mobil Stock Higher",
+    "link": "https://www.trefis.com/articles/602483/the-hidden-engine-that-could-power-exxon-mobil-stock-higher/2026-06-11",
+    "publisher": "Trefis",
+    "date": "2026-06-11T18:56:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Investment in TCO Is Powering Chevron's Next Wave of Cash Growth",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/investment-tco-powering-chevrons-next-142700211.html",
+    "publisher": "Zacks",
+    "date": "2026-06-11T14:27:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How XOM Navigates Business Uncertainty Better Than Many Peers",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/xom-navigates-business-uncertainty-better-133900566.html",
+    "publisher": "Zacks",
+    "date": "2026-06-11T13:39:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Elevated Oil Prices are Boosting BP's Energy Business",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/elevated-oil-prices-boosting-bps-133500542.html",
+    "publisher": "Zacks",
+    "date": "2026-06-11T13:35:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Energy Stocks Are Back From the Dead: IYE Up 27% YTD",
+    "link": "https://247wallst.com/investing/2026/06/11/energy-stocks-are-back-from-the-dead-iye-up-27-ytd/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-06-11T13:23:54Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is CVE Positioned to Maintain Its Consistent Shareholders Returns?",
+    "link": "https://finance.yahoo.com/sectors/energy/articles/cve-positioned-maintain-consistent-shareholders-125600634.html",
+    "publisher": "Zacks",
+    "date": "2026-06-11T12:56:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is It Too Late To Consider Exxon Mobil (XOM) After Strong 1-Year Share Price Gains?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/too-consider-exxon-mobil-xom-121815672.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-11T12:18:15Z",
+    "type": "STORY"
+  },
+  {
     "title": "Wall Street CIO: The AI Trade is “Technically Unsustainable.” Buy These Two Industries Instead.",
     "link": "https://247wallst.com/investing/2026/06/10/wall-street-cio-the-ai-trade-is-technically-unsustainable-buy-these-two-industries-instead/",
     "publisher": "24/7 Wall St.",
@@ -14,59 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "ExxonMobil and Chevron Reported a Combined $7.6 Billion Profit in Guyana Last Year. What Energy Investors Need to Know.",
-    "link": "https://www.fool.com/investing/2026/06/10/exxonmobil-and-chevron-reported-a-combined-usd7-6-billion-profit-in-guyana-last-year-what-energy-investors-need-to-know/",
-    "publisher": "Motley Fool",
-    "date": "2026-06-10T20:27:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks Resume Decline as Chipmakers and AI Companies Fall",
-    "link": "https://www.barchart.com/story/news/2403295/stocks-resume-decline-as-chipmakers-and-ai-companies-fall",
+    "title": "Stocks Settle Sharply Lower on Escalating Middle East Tensions",
+    "link": "https://www.barchart.com/story/news/2408795/stocks-settle-sharply-lower-on-escalating-middle-east-tensions",
     "publisher": "Barchart",
-    "date": "2026-06-10T15:21:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Likely Sector ETF & Stock Winners From May Jobs Report",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/likely-sector-etf-stock-winners-140000180.html",
-    "publisher": "Zacks",
-    "date": "2026-06-10T14:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is ProPetro (PUMP) Using Its ESOP Shelf To Quietly Redraw Its Capital Allocation Priorities?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/propetro-pump-using-esop-shelf-051006385.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-10T05:10:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Broader Market Settles Lower as Chip Stocks Sink",
-    "link": "https://www.barchart.com/story/news/2387060/broader-market-pressured-as-chip-stocks-sink",
-    "publisher": "Barchart",
-    "date": "2026-06-09T20:34:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exxon Mobil Coral Norte LNG Win And What It Means For Valuation",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-coral-norte-lng-181204674.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-09T18:12:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks Erase Early Gains as Chipmakers Turn Lower",
-    "link": "https://www.barchart.com/story/news/2381403/stocks-erase-early-gains-as-chipmakers-turn-lower",
-    "publisher": "Barchart",
-    "date": "2026-06-09T15:23:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks Climb on an AI-Led Rebound",
-    "link": "https://www.barchart.com/story/news/2380053/stocks-climb-on-an-ai-led-rebound",
-    "publisher": "Barchart",
-    "date": "2026-06-09T14:08:17Z",
+    "date": "2026-06-10T20:38:17Z",
     "type": "STORY"
   }
 ]
