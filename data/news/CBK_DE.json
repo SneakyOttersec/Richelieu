@@ -1,16 +1,23 @@
 [
   {
+    "title": "Commerzbank on Overnight News",
+    "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-overnight-news-103855094.html",
+    "publisher": "MT Newswires",
+    "date": "2026-06-15T10:38:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "UniCredit Rejects Commerzbank’s Claims of Unusual Tender Behavior",
+    "link": "https://www.wsj.com/business/deals/unicredit-rejects-commerzbanks-claims-of-unusual-tender-behaviour-4442b268?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-15T07:09:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Commerzbank challenges UniCredit tender data",
     "link": "https://www.retailbankerinternational.com/news/commerzbank-challenges-unicredit-tender-data/",
     "publisher": "Retail Banker International",
     "date": "2026-06-12T11:51:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank on Overnight News",
-    "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-overnight-news-103704069.html",
-    "publisher": "MT Newswires",
-    "date": "2026-06-12T10:37:04Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7063cfda?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-06-04T16:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank CEO Touts AI-Driven 2030 Plan, Calls UniCredit Offer Unattractive",
-    "link": "https://www.marketbeat.com/instant-alerts/commerzbank-ceo-touts-ai-driven-2030-plan-calls-unicredit-offer-unattractive-2026-06-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-06-04T13:06:57Z",
     "type": "STORY"
   }
 ]

@@ -49,13 +49,6 @@
     "type": "STORY"
   },
   {
-    "title": "BNP Paribas Targets Asset-Management Growth Under 2030 Plan",
-    "link": "https://www.wsj.com/finance/banking/bnp-paribas-targets-asset-management-growth-under-2030-plan-4e1bae20?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-03-17T07:37:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "A Look At AXA (ENXTPA:CS) Valuation After Recent Share Price Momentum",
     "link": "https://finance.yahoo.com/news/look-axa-enxtpa-cs-valuation-080932076.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.lifeinsuranceinternational.com/news/axa-2025-earnings-growth/",
     "publisher": "Life Insurance International",
     "date": "2026-02-27T09:52:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AXA DCP partners with Planet Labs for near-real-time disaster monitoring",
+    "link": "https://www.lifeinsuranceinternational.com/news/axa-dcp-partners-planet-labs/",
+    "publisher": "Life Insurance International",
+    "date": "2026-02-13T11:33:33Z",
     "type": "STORY"
   }
 ]

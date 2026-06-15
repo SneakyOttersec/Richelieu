@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "Boeing Gets China Deal at Trump’s Visit, With Many Questions",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-gets-china-deal-trump-124040564.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-15T21:21:48Z",
-    "type": "STORY"
-  },
-  {
     "title": "Here's Why FTAI Aviation Popped Higher by More Than 15% Today",
     "link": "https://www.fool.com/investing/2026/04/30/heres-why-ftai-aviation-popped-higher-by-15-today/",
     "publisher": "Motley Fool",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/business/earnings/safran-posts-double-digit-revenue-growth-on-surge-in-engine-deliveries-fcc3e1ea?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-04-23T05:22:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Stocks Track Lower in Tuesday Trading; Euro Area Economic Sentiment Plunges",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-track-lower-tuesday-161422242.html",
+    "publisher": "MT Newswires",
+    "date": "2026-04-21T16:14:22Z",
     "type": "STORY"
   }
 ]
