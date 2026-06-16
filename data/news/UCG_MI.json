@@ -1,5 +1,47 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-50a80ab4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-16T20:53:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Berlin Swats Away UniCredit's Aggressive Commerzbank Bid",
+    "link": "https://app.moby.co/home/news/news-berlin-swats-away-unicredits-aggressive-commerzbank-bid?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-06-16T15:24:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Germany blocks UniCredit bid for Commerzbank but the share price soars",
+    "link": "https://www.euronews.com/2026/06/16/berlin-blocks-unicredit-bid-for-commerzbank-but-the-share-price-soars",
+    "publisher": "Euronews",
+    "date": "2026-06-16T14:16:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Germany formally rejects UniCredit's Commerzbank offer",
+    "link": "https://finance.yahoo.com/video/germany-formally-rejects-unicredits-commerzbank-131328390.html",
+    "publisher": "Reuters Videos",
+    "date": "2026-06-16T13:13:28Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Germany Rejects UniCredit’s Commerzbank Bid, Calling Out ‘Aggressive’ Approach",
+    "link": "https://www.wsj.com/finance/banking/unicredits-bid-for-shares-in-commerzbank-rejected-by-german-government-c90dee41?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-16T10:54:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deadline looms for UniCredit's hostile bid for Commerzbank",
+    "link": "https://www.euronews.com/2026/06/16/deadline-looms-for-unicredits-hostile-bid-for-commerzbank",
+    "publisher": "Euronews",
+    "date": "2026-06-16T10:16:50Z",
+    "type": "STORY"
+  },
+  {
     "title": "Fed Rate-Rise Bets Curb Dollar's Fall After U.S.-Iran Deal",
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-061526/card/fed-rate-rise-bets-curb-dollar-s-fall-after-u-s-iran-deal-ZWPgslrDICrPfx0O6GJa?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -25,48 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/unicredit-uncry-upgraded-buy-does-160003041.html",
     "publisher": "Zacks",
     "date": "2026-06-10T16:00:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Close Mixed in Wednesday Trading; Bank, Automotive Stocks Slump",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-153812761.html",
-    "publisher": "MT Newswires",
-    "date": "2026-06-10T15:38:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit Says Commerzbank Stake Increased to 37.7% After Latest Acceptances",
-    "link": "https://www.wsj.com/business/unicredit-says-commerzbank-stake-increased-to-37-7-after-latest-acceptances-806e88bd?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-10T09:57:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Intesa roils Italian banking with rival bid for MPS",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intesa-roils-italian-banking-rival-131028163.html",
-    "publisher": "AFP",
-    "date": "2026-06-08T15:57:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank CEO Touts AI-Driven 2030 Plan, Calls UniCredit Offer Unattractive",
-    "link": "https://www.marketbeat.com/instant-alerts/commerzbank-ceo-touts-ai-driven-2030-plan-calls-unicredit-offer-unattractive-2026-06-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-06-04T13:06:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank Asks German Regulator to Review UniCredit Offer Support Levels",
-    "link": "https://www.wsj.com/business/deals/commerzbank-asks-german-regulator-to-review-unicredit-offer-support-levels-ed3e727f?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-04T08:11:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit stake in Commerzbank reaches 34.4%",
-    "link": "https://www.retailbankerinternational.com/news/unicredit-stake-in-commerzbank-reaches-34-4/",
-    "publisher": "Retail Banker International",
-    "date": "2026-06-03T12:01:27Z",
     "type": "STORY"
   }
 ]

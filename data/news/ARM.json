@@ -1,9 +1,58 @@
 [
   {
+    "title": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
+    "link": "https://finance.yahoo.com/markets/article/spacex-becomes-retails-biggest-ipo-trade-chart-of-the-day-100000991.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-06-16T10:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Holdings' Licensing Momentum Continues to Power Revenue Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-licensing-momentum-continues-152000410.html",
+    "publisher": "Zacks",
+    "date": "2026-06-16T15:20:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Supported by Lower Crude Oil Prices and Bond Yields",
+    "link": "https://www.barchart.com/story/news/2495519/stocks-supported-by-lower-crude-oil-prices-and-bond-yields",
+    "publisher": "Barchart",
+    "date": "2026-06-16T14:18:10Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Focus on 5 AI Behemoths Carving a Niche in the Server CPU Chip Market",
+    "link": "https://finance.yahoo.com/technology/ai/articles/focus-5-ai-behemoths-carving-125200676.html",
+    "publisher": "Zacks",
+    "date": "2026-06-16T12:52:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Settle Sharply Higher as US-Iran Peace Deal Spurs Optimism",
+    "link": "https://www.barchart.com/story/news/2480274/stocks-settle-sharply-higher-as-us-iran-peace-deal-spurs-optimism",
+    "publisher": "Barchart",
+    "date": "2026-06-15T20:36:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Rally as US-Iran Peace Deal Sinks Oil and Bond Yields",
+    "link": "https://www.barchart.com/story/news/2474936/stocks-rally-as-us-iran-peace-deal-sinks-oil-and-bond-yields",
+    "publisher": "Barchart",
+    "date": "2026-06-15T15:19:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Chips Up 8.8% in One Week: 5 Semiconductor Names Breaking Into New Highs",
     "link": "https://247wallst.com/investing/2026/06/15/chips-up-8-8-in-one-week-5-semiconductor-names-breaking-into-new-highs/",
     "publisher": "24/7 Wall St.",
     "date": "2026-06-15T13:04:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks Set to Open Sharply Higher as Oil Sinks on U.S.-Iran Deal, Fed Meeting Awaited",
+    "link": "https://www.barchart.com/story/news/2468582/stocks-set-to-open-sharply-higher-as-oil-sinks-on-u-s-iran-deal-fed-meeting-awaited",
+    "publisher": "Barchart",
+    "date": "2026-06-15T10:39:29Z",
     "type": "STORY"
   },
   {
@@ -18,55 +67,6 @@
     "link": "https://www.fool.com/investing/2026/06/12/why-intel-amd-arm-ai-stocks-up-today/",
     "publisher": "Motley Fool",
     "date": "2026-06-13T01:09:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Billionaire Brad Gerstner Dumped All of His Alphabet Then Bought 2 Stocks Nobody Expected",
-    "link": "https://247wallst.com/investing/2026/06/12/billionaire-brad-gerstner-dumped-all-of-his-alphabet-then-bought-2-stocks-nobody-expected/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-06-12T18:56:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Rockets 11%, Qualcomm Rises 5%: Who’s Winning the Chip-Architecture Race?",
-    "link": "https://247wallst.com/investing/2026/06/12/arm-rockets-11-qualcomm-rises-5-whos-winning-the-chip-architecture-race/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-06-12T18:31:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Arm Holdings plc (ARM) A Good Stock To Buy Now?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-good-161406071.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-12T16:14:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks See Support from Hopes for a Near-term US-Iran Peace Agreement",
-    "link": "https://www.barchart.com/story/news/2443233/stocks-see-support-from-hopes-for-a-near-term-us-iran-peace-agreement",
-    "publisher": "Barchart",
-    "date": "2026-06-12T15:51:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Buy, Hold, or Sell: Arm Holdings Shed 25% to Clear the Air as the Warsh Fed Digs In. Is It a Buy at $342?",
-    "link": "https://247wallst.com/investing/2026/06/12/buy-hold-or-sell-arm-holdings-shed-25-to-clear-the-air-as-the-warsh-fed-digs-in-is-it-a-buy-at-342/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-06-12T15:45:16Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Best Semiconductor ETFs: How You Can Mine the AI Gold Rush",
-    "link": "https://www.kiplinger.com/investing/etfs/best-semiconductor-etfs",
-    "publisher": "Kiplinger",
-    "date": "2026-06-12T13:57:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "FTC Probe Puts Arm Licensing Model And AGI CPU Plans In Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ftc-probe-puts-arm-licensing-121353752.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-12T12:13:53Z",
     "type": "STORY"
   }
 ]
