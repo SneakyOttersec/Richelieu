@@ -1,5 +1,40 @@
 [
   {
+    "title": "SoftBank's LatAm Startup Hunt Tightens As Funding Falls 73%",
+    "link": "https://finance.yahoo.com/small-business/articles/softbanks-latam-startup-hunt-tightens-170518645.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-17T17:05:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Stock Looks Richer Than Its AI Narrative Suggests",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-120917786.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-17T12:09:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI’s Financials Leaked. They’re Not Bad, but They’re Not Great.",
+    "link": "https://app.moby.co/home/news/news-openais-financials-leaked-theyre-not-bad-but-theyre-not-great?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-06-17T11:38:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Stock After 229% Yearly Surge Is The Rally Getting Stretched",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-043439114.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-17T04:34:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
+    "link": "https://finance.yahoo.com/technology/ai/articles/startup-backed-ex-google-ceo-030704320.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-17T03:07:04Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank Group (TSE:9984) Stock Tops Toyota As OpenAI Tie Up Deepens",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-200849501.html",
     "publisher": "Simply Wall St.",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/tsmc-softbank-shares-jump-u-124200409.html",
     "publisher": "GuruFocus.com",
     "date": "2026-06-15T12:42:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Surges as Geopolitical Risk Cools",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-surges-geopolitical-risk-cools-124124343.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-06-15T12:41:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "PayPay (PAYP), T&D Holdings Form AI-Driven Insurance and Fintech Alliance",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/paypay-payp-t-d-holdings-183838021.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-13T18:38:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CoreWeave nets €7B orderbook for European bond debut",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-nets-7b-orderbook-european-144849075.html",
-    "publisher": "Pitchbook",
-    "date": "2026-06-12T14:48:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Kioxia Becomes Japan’s Most Valuable Firm as AI Mania Goes On",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/kioxia-becomes-japan-most-valuable-070022062.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-12T07:00:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank’s big OpenAI play faces critical new hurdle",
-    "link": "https://www.thestreet.com/investing/softbanks-big-openai-play-faces-critical-new-hurdle",
-    "publisher": "TheStreet",
-    "date": "2026-06-12T01:47:00Z",
     "type": "STORY"
   }
 ]

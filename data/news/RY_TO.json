@@ -1,5 +1,12 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-1e1d2067?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-17T21:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Oil Falls to Three-Month Low as US-Iran Deal Set to Add Supply",
     "link": "https://finance.yahoo.com/energy/articles/oil-steadies-traders-seek-clarity-003454584.html",
     "publisher": "Bloomberg",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/economy/policy/articles/treasury-market-telling-kevin-warsh-073000716.html",
     "publisher": "Bloomberg",
     "date": "2026-06-09T08:52:50Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Treasuries Pare Drop in Oil-Driven Move Tied to Iran War",
-    "link": "https://finance.yahoo.com/economy/policy/articles/treasuries-drop-jobs-data-iran-053552607.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-08T19:57:24Z",
     "type": "STORY"
   }
 ]

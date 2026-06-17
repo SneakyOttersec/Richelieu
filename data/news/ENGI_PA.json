@@ -56,17 +56,17 @@
     "type": "STORY"
   },
   {
-    "title": "British Takeovers Up 250% as Global Buyers Bypass Political Flux",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/british-takeovers-250-global-buyers-040000841.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-18T04:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Engie Offshore Wind Progresses As Scotland Approval Supports Growth Story",
     "link": "https://finance.yahoo.com/sectors/energy/articles/engie-offshore-wind-progresses-scotland-190711224.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-16T19:07:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Caledonia and Buchan wind farms secure onshore consents",
+    "link": "https://www.power-technology.com/news/caledonia-buchan-onshore-consents/",
+    "publisher": "Power Technology",
+    "date": "2026-05-15T09:05:13Z",
     "type": "STORY"
   }
 ]
