@@ -49,13 +49,6 @@
     "type": "STORY"
   },
   {
-    "title": "Reform UK Threatens Legal Challenges to National Grid Projects",
-    "link": "https://finance.yahoo.com/sectors/energy/articles/reform-uk-threatens-legal-challenges-130701983.html",
-    "publisher": "Bloomberg",
-    "date": "2026-05-19T13:07:01Z",
-    "type": "STORY"
-  },
-  {
     "title": "How batteries can help Britain beat a £300 surge in energy bills",
     "link": "https://www.telegraph.co.uk/business/2026/05/17/how-batteries-can-help-britain-beat-surge-in-energy-bills/",
     "publisher": "The Telegraph",
@@ -67,6 +60,13 @@
     "link": "https://www.marketbeat.com/instant-alerts/national-grid-transco-h2-earnings-call-highlights-2026-05-15/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-05-15T07:07:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Wasted wind threatens to cost Britain £12bn, warns National Grid",
+    "link": "https://www.telegraph.co.uk/business/2026/05/14/wasted-wind-threatens-cost-britain-12bn-national-grid/",
+    "publisher": "The Telegraph",
+    "date": "2026-05-14T13:59:55Z",
     "type": "STORY"
   }
 ]
