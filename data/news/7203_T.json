@@ -1,5 +1,33 @@
 [
   {
+    "title": "Global Auto Weighs Toronto IPO After $8 Billion Revenue Push",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/global-auto-weighs-toronto-ipo-132738598.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-22T13:27:38Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Momenta prepares $1bn Hong Kong IPO at $9bn valuation",
+    "link": "https://www.just-auto.com/news/momenta-prepares-1bn-hong-kong-ipo/",
+    "publisher": "Just Auto",
+    "date": "2026-06-22T11:25:53Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Archion replaces Hino, Fuso at CJPT",
+    "link": "https://www.just-auto.com/news/archion-replaces-hino-fuso-at-cjpt/",
+    "publisher": "Just Auto",
+    "date": "2026-06-22T09:07:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Driving an EV in These US States Saves You the Most Money",
+    "link": "https://finance.yahoo.com/energy/articles/driving-ev-us-states-saves-140016315.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-20T14:00:16Z",
+    "type": "STORY"
+  },
+  {
     "title": "Chinese Autonomous-Driving Unicorn Targets $1 Billion Hong Kong IPO",
     "link": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-us-documentary-puts-manufacturing-201315888.html",
     "publisher": "Simply Wall St.",
     "date": "2026-06-15T20:13:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Toyota Is No Longer Japan's Most Valuable Company: Is The Writing On The Wall For The World's Largest Car Maker",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-no-longer-japans-most-153053011.html",
-    "publisher": "Benzinga",
-    "date": "2026-06-15T15:30:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tariffs Have Crushed Toyota But We Say Buy the Dip",
-    "link": "https://247wallst.com/investing/2026/06/15/tariffs-have-crushed-toyota-but-we-say-buy-the-dip/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-06-15T12:25:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Toyota Europe CEO views company as a ‘European OEM’",
-    "link": "https://www.wardsauto.com/news/toyota-europe-ceo-views-company-as-a-european-oem/822759/",
-    "publisher": "Wards Auto",
-    "date": "2026-06-15T12:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Adapting AI to auto dealership operations is a work in progress",
-    "link": "https://www.wardsauto.com/news/adapting-ai-to-auto-dealership-operations-is-a-work-in-progress/822726/",
-    "publisher": "Wards Auto",
-    "date": "2026-06-15T11:06:00Z",
     "type": "STORY"
   }
 ]
