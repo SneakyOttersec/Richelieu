@@ -1,5 +1,61 @@
 [
   {
+    "title": "Marvell Technology, Himax, and IPG Photonics Stocks Trade Down, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-himax-ipg-photonics-201646708.html",
+    "publisher": "StockStory",
+    "date": "2026-06-23T20:16:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Applied Materials, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-teradyne-entegris-stocks-200846977.html",
+    "publisher": "StockStory",
+    "date": "2026-06-23T20:08:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Analog Devices and Microchip Technology Shares Plummet, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-microchip-technology-shares-200046150.html",
+    "publisher": "StockStory",
+    "date": "2026-06-23T20:00:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Vishay Intertechnology, Amtech, and FormFactor Shares Are Falling, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-intertechnology-amtech-formfactor-shares-195246082.html",
+    "publisher": "StockStory",
+    "date": "2026-06-23T19:52:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "KLA Corporation, onsemi, and Nova Shares Are Falling, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-onsemi-nova-shares-194446161.html",
+    "publisher": "StockStory",
+    "date": "2026-06-23T19:44:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Europe's STOXX 600 ends lower as tech selloff, rising Fed hike bets weigh",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-set-open-lower-064804708.html",
+    "publisher": "Reuters",
+    "date": "2026-06-23T16:21:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Tech Stocks Join Accelerating Global Selloff",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/european-tech-stocks-join-accelerating-global-selloff-BvJyPh8NM5jEBSfSgGqL?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-06-23T10:17:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Global chip stocks slump as rate and AI valuation fears trigger tech selloff",
+    "link": "https://finance.yahoo.com/technology/articles/global-chip-stocks-slump-rate-091128932.html",
+    "publisher": "Investing.com",
+    "date": "2026-06-23T09:11:28Z",
+    "type": "STORY"
+  },
+  {
     "title": "onsemi Trades at a Discount: Buy, Hold or Sell the Stock?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/onsemi-trades-discount-buy-hold-155400162.html",
     "publisher": "Zacks",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/sectors/technology/articles/much-impact-ai-cloud-demand-143200166.html",
     "publisher": "Zacks",
     "date": "2026-06-10T14:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Infineon Deepens NVIDIA Ties In Physical AI Security And Power Delivery",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/infineon-deepens-nvidia-ties-physical-120746401.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-07T12:07:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Photronics, Qorvo, and Texas Instruments Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/photronics-qorvo-texas-instruments-shares-045614097.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T04:56:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Semtech, Impinj, and Western Digital Stocks Trade Down, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-impinj-western-digital-stocks-043214281.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T04:32:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "MACOM, FormFactor, and Seagate Shares Are Falling, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/macom-formfactor-seagate-shares-falling-040014787.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T04:00:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Applied Materials, Lam Research, and Nova Stocks Trade Down, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-lam-research-nova-035214588.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T03:52:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Power Integrations and Microchip Technology Shares Plummet, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/power-integrations-microchip-technology-shares-034414129.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T03:44:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Polaris (PII) Stock Is Falling Today",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-polaris-pii-stock-falling-000814009.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T00:08:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Amkor and onsemi Shares Plummet, What You Need To Know",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-onsemi-shares-plummet-know-000014140.html",
-    "publisher": "StockStory",
-    "date": "2026-06-06T00:00:14Z",
     "type": "STORY"
   }
 ]

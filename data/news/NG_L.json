@@ -1,5 +1,19 @@
 [
   {
+    "title": "Balfour Beatty secures $160m contract for Bramford substation project",
+    "link": "https://www.power-technology.com/news/balfour-beatty-contract-bramford-substation/",
+    "publisher": "Power Technology",
+    "date": "2026-06-23T11:12:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "New York completes 100-mile Smart Path Connect project",
+    "link": "https://www.power-technology.com/news/new-york-completes-smart-path-connect-project/",
+    "publisher": "Power Technology",
+    "date": "2026-06-23T08:43:11Z",
+    "type": "STORY"
+  },
+  {
     "title": "Britain will need up to £240bn of net zero upgrades",
     "link": "https://uk.finance.yahoo.com/news/britain-240bn-net-zero-upgrades-182251435.html",
     "publisher": "The Telegraph",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/national-grids-lon-ng-profits-051008755.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-21T05:10:08Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How batteries can help Britain beat a £300 surge in energy bills",
-    "link": "https://uk.finance.yahoo.com/news/batteries-help-britain-beat-300-110000914.html",
-    "publisher": "The Telegraph",
-    "date": "2026-05-17T11:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "National Grid Transco H2 Earnings Call Highlights",
-    "link": "https://www.marketbeat.com/instant-alerts/national-grid-transco-h2-earnings-call-highlights-2026-05-15/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-05-15T07:07:52Z",
     "type": "STORY"
   }
 ]
