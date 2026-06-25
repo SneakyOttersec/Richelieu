@@ -1,10 +1,24 @@
 [
   {
-    "title": "What happens if another financial crisis hits?",
-    "link": "https://finance.yahoo.com/video/happens-another-financial-crisis-hits-205000500.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-06-24T20:50:00Z",
-    "type": "VIDEO"
+    "title": "ASOS (LSE:ASC) Stock Fair Value Edges Higher After Analyst Target Increases",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asos-lse-asc-stock-fair-160812059.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-06-25T16:08:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank’s Former CFO Has His Eye on a CEO Role",
+    "link": "https://www.wsj.com/cfo-journal/deutsche-banks-former-cfo-has-his-eye-on-a-ceo-role-a11b4825?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-25T10:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Gold Steadies Near $4,000 as Stronger Dollar, Rate Outlook Weigh",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-4-000-232606619.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-24T23:26:06Z",
+    "type": "STORY"
   },
   {
     "title": "IG Group (LSE:IGG) Stock Gets Fair Value Boost After Bullish Analyst Target Revisions",
@@ -12,6 +26,13 @@
     "publisher": "Simply Wall St.",
     "date": "2026-06-24T21:11:04Z",
     "type": "STORY"
+  },
+  {
+    "title": "What happens if another financial crisis hits?",
+    "link": "https://finance.yahoo.com/video/happens-another-financial-crisis-hits-205000500.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-06-24T20:50:00Z",
+    "type": "VIDEO"
   },
   {
     "title": "Deutsche Bank Flags $3,800 Gold Risk as Fed Turns Hawkish",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/commodities/articles/gold-bulls-gut-outlooks-deutsche-083246040.html",
     "publisher": "Bloomberg",
     "date": "2026-06-23T04:06:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gold Steadies as US and Iran Flag Early Progress in Peace Talks",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-us-iran-flag-000701656.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-22T23:19:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This Undervalued Medical-Devices Stock Is Poised for a Rebound",
-    "link": "https://www.barrons.com/articles/medtronic-stock-poised-to-rebound-627c5d01?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-06-22T15:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BofA, Deutsche Bank expect Fed to raise rates in September",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bofa-forecasts-75-bps-rate-112341828.html",
-    "publisher": "Reuters",
-    "date": "2026-06-22T14:27:18Z",
     "type": "STORY"
   }
 ]
