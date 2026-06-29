@@ -1,5 +1,19 @@
 [
   {
+    "title": "Wall Street Is Abandoning Bets on a Stronger Euro",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/wall-street-abandoning-bets-stronger-230001576.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-28T23:00:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bluebay-sees-near-term-risk-220007149.html",
+    "publisher": "Bloomberg",
+    "date": "2026-06-28T22:00:07Z",
+    "type": "STORY"
+  },
+  {
     "title": "Royal Bank (RY) Could Be a Great Choice",
     "link": "https://finance.yahoo.com/markets/stocks/articles/royal-bank-ry-could-great-154503858.html",
     "publisher": "Zacks",
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-1e1d2067?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-06-17T21:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Falls to Three-Month Low as US-Iran Deal Set to Add Supply",
-    "link": "https://finance.yahoo.com/energy/articles/oil-steadies-traders-seek-clarity-003454584.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-16T20:38:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Russia Hits Historic Kyiv Cathedral After Trump-Putin Call",
-    "link": "https://finance.yahoo.com/economy/policy/articles/kyiv-comes-under-russian-attack-235656083.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-15T11:51:59Z",
     "type": "STORY"
   }
 ]

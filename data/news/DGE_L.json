@@ -49,13 +49,6 @@
     "type": "VIDEO"
   },
   {
-    "title": "FTSE 100 Live: London stocks inch higher as Wall Street tech sells off",
-    "link": "https://www.proactiveinvestors.com/companies/news/1094305/ftse-100-live-european-stocks-called-steeply-lower-after-us-tech-selloff-1094305.html",
-    "publisher": "Proactive",
-    "date": "2026-06-23T06:18:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Should Carnival’s (CCL) Bulleit Bourbon Tie-Up Reveal a Deeper Shift in Onboard Profit Strategy?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/carnival-ccl-bulleit-bourbon-tie-051006023.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-173932708.html",
     "publisher": "MT Newswires",
     "date": "2026-06-18T17:39:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Equities Traded in the US as American Depositary Receipts Little Changed in Thursday Trading",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150604647.html",
+    "publisher": "MT Newswires",
+    "date": "2026-06-18T15:06:04Z",
     "type": "STORY"
   }
 ]

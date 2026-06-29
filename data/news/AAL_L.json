@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "FTSE 100 Live: London stocks inch higher as Wall Street tech sells off",
-    "link": "https://www.proactiveinvestors.com/companies/news/1094305/ftse-100-live-european-stocks-called-steeply-lower-after-us-tech-selloff-1094305.html",
-    "publisher": "Proactive",
-    "date": "2026-06-23T06:18:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Why Teck Resources (TECK) Could Become a Cleaner Copper Bet Through the Anglo-Teck Merger",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-teck-resources-teck-could-095722801.html",
     "publisher": "Insider Monkey",
@@ -67,6 +60,13 @@
     "link": "https://www.mining-technology.com/analyst-comment/anglo-americans-coal-exit-reshapes-queenslands-metallurgical-coal-sector/",
     "publisher": "Mining Technology",
     "date": "2026-06-09T08:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 Live: London and Wall Street stocks dive, GSK deal 'too big' for some",
+    "link": "https://www.proactiveinvestors.com/companies/news/1093628/ftse-100-live-london-blue-chips-set-to-start-in-red-as-oil-prices-ease-1093628.html",
+    "publisher": "Proactive",
+    "date": "2026-06-09T06:17:00Z",
     "type": "STORY"
   }
 ]
