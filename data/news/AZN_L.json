@@ -1,5 +1,33 @@
 [
   {
+    "title": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d6cffafe?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-06-30T21:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Imviva Biotech Granted FDA IDE Authorization for Cancer Treatment Trial",
+    "link": "https://www.yahoo.com/news/science/articles/imviva-biotech-granted-fda-ide-201059312.html",
+    "publisher": "Exec Edge",
+    "date": "2026-06-30T20:10:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
+    "link": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+    "publisher": "BioPharma Dive",
+    "date": "2026-06-30T16:57:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CoreWeave’s $1.4 billion bet just showed its first real payoff",
+    "link": "https://www.thestreet.com/technology/coreweave-aria-ai-agent-weights-biases-acquisition",
+    "publisher": "TheStreet",
+    "date": "2026-06-30T16:17:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Stocks Close Mixed in Monday Trading as Investors Stay on Sidelines, Weigh Tech Rout, Geopolitical Risks",
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-monday-155142133.html",
     "publisher": "MT Newswires",
@@ -40,33 +68,5 @@
     "publisher": "Proactive",
     "date": "2026-06-26T11:42:02Z",
     "type": "VIDEO"
-  },
-  {
-    "title": "Astrazeneca (AZN) Ascends While Market Falls: Some Facts to Note",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-azn-ascends-while-market-221505334.html",
-    "publisher": "Zacks",
-    "date": "2026-06-25T22:15:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Candel Therapeutics Designates Mark Sims as CCO",
-    "link": "https://finance.yahoo.com/healthcare/articles/candel-therapeutics-designates-mark-sims-195358874.html",
-    "publisher": "Exec Edge",
-    "date": "2026-06-25T19:53:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "FDA Expands IONS' Tryngolza Label to Treat Severe Hypertriglyceridemia",
-    "link": "https://finance.yahoo.com/healthcare/articles/fda-expands-ions-tryngolza-label-172900034.html",
-    "publisher": "Zacks",
-    "date": "2026-06-25T17:29:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "A $30 Billion Cancer Breakthrough Is Under Threat From Global Conflicts",
-    "link": "https://finance.yahoo.com/healthcare/articles/30-billion-cancer-breakthrough-under-210017405.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-24T21:00:17Z",
-    "type": "STORY"
   }
 ]
