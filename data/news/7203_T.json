@@ -1,5 +1,12 @@
 [
   {
+    "title": "Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback",
+    "link": "https://finance.yahoo.com/technology/articles/kioxia-readies-next-gen-memory-220229230.html",
+    "publisher": "Reuters",
+    "date": "2026-07-02T22:02:29Z",
+    "type": "STORY"
+  },
+  {
     "title": "Mixed US auto sales in Q2 amid high gas prices",
     "link": "https://finance.yahoo.com/energy/articles/mixed-us-auto-sales-2nd-180431416.html",
     "publisher": "AFP",
@@ -11,6 +18,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-tse-7203-joins-joby-171332734.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-01T17:13:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "GM's Q2 US sales fall on discontinued models, EV slump; trucks and SUVs hold the line",
+    "link": "https://finance.yahoo.com/markets/stocks/article/gms-q2-us-sales-fall-on-discontinued-models-ev-slump-trucks-and-suvs-hold-the-line-155934656.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-07-01T15:59:34Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/technology/articles/joby-aviation-creates-joint-venture-100000366.html",
     "publisher": "LA Times",
     "date": "2026-07-01T10:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Toyota, Joby set up flying taxi production JV",
-    "link": "https://www.just-auto.com/news/toyota-joby-set-up-flying-taxi-production-jv/",
-    "publisher": "Just Auto",
-    "date": "2026-07-01T09:23:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Joby, Toyota announce new pact on supply and IP ties",
-    "link": "https://www.daytondailynews.com/local/joby-toyota-announce-new-pact-on-supply-and-ip-ties/article_9acea9b7-ad19-5c46-a26b-9b35cd3bb609.html",
-    "publisher": "Dayton Daily News, Ohio",
-    "date": "2026-07-01T03:59:00Z",
     "type": "STORY"
   }
 ]

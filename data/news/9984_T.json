@@ -1,5 +1,47 @@
 [
   {
+    "title": "Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag",
+    "link": "https://www.barrons.com/articles/meta-stock-price-softbank-cloud-0f855abd?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-02T17:43:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock.",
+    "link": "https://www.barrons.com/articles/coreweave-stock-price-meta-cfb7120a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-02T17:27:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Launches New AI Compute Push",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-launches-ai-compute-push-160306572.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-02T16:03:06Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Google Loses EU Antitrust Fight; Softbank Moves on Computing Power | Stock Movers",
+    "link": "https://finance.yahoo.com/video/google-loses-eu-antitrust-fight-150344839.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-02T15:03:44Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Has Lip-Bu Tan’s Magic Worn Off? Intel Just Gave Back Its Gains",
+    "link": "https://247wallst.com/investing/2026/07/02/has-lip-bu-tans-magic-worn-off-intel-just-gave-back-its-gains/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-02T14:35:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-plans-ai-cloud-services-073106168.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-02T07:31:06Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake",
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-reportedly-reopens-talks-10bn-211430744.html",
     "publisher": "Investing.com",
@@ -25,48 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/tesla-faces-autonomy-challenger-121947795.html",
     "publisher": "GuruFocus.com",
     "date": "2026-06-30T12:19:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Softbank stock target raised at Citi on profit growth",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-stock-target-raised-citi-112742678.html",
-    "publisher": "Investing.com",
-    "date": "2026-06-30T11:27:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asian Stock Markets Gain as Tech Sector Stabilizes",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stock-markets-gain-tech-104656412.html",
-    "publisher": "MT Newswires",
-    "date": "2026-06-29T10:46:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
-    "link": "https://finance.yahoo.com/technology/ai/articles/bluebay-sees-near-term-risk-220007149.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-28T22:00:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-ceo-isn-t-only-204236037.html",
-    "publisher": "TechCrunch",
-    "date": "2026-06-27T20:42:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "South Korea’s Stock Market KOSPI Just Flashed a Global AI Warning",
-    "link": "https://beincrypto.com/ai-chip-panic-breaks-korea-stock-market/",
-    "publisher": "BeInCrypto",
-    "date": "2026-06-27T14:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Group (TSE:9984) Faces A Longer Wait As OpenAI IPO May Slip To 2027",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-faces-111434970.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-06-27T11:14:34Z",
     "type": "STORY"
   }
 ]
