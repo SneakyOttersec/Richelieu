@@ -1,5 +1,47 @@
 [
   {
+    "title": "Fiserv, service station operators including BP warn US stores on illegal vapes",
+    "link": "https://finance.yahoo.com/healthcare/articles/fiserv-station-operators-including-bp-155734839.html",
+    "publisher": "Reuters",
+    "date": "2026-07-03T15:57:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Can V's New Threat Intelligence Platform Strengthen Fraud Prevention?",
+    "link": "https://finance.yahoo.com/technology/articles/vs-threat-intelligence-platform-strengthen-141300388.html",
+    "publisher": "Zacks",
+    "date": "2026-07-03T14:13:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Which Stocks Win When Google AI Powers Walmart’s Checkout?",
+    "link": "https://247wallst.com/investing/2026/07/03/which-stocks-win-when-google-ai-powers-walmarts-checkout/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-03T14:05:10Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Open USD Stablecoin Hype Backfires as Samsung Denies Partnership Claims",
+    "link": "https://beincrypto.com/samsung-korean-firms-deny-open-usd-partnership/",
+    "publisher": "BeInCrypto",
+    "date": "2026-07-03T13:58:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "VEON (VEON) Backs Bangladesh Digital Push And Expands Mastercard Fintech Partnership",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/veon-veon-backs-bangladesh-digital-002126236.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-03T00:21:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Coinbase (COIN) Stock Is Up, What You Need To Know",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-coin-stock-know-230824413.html",
+    "publisher": "StockStory",
+    "date": "2026-07-02T23:08:24Z",
+    "type": "STORY"
+  },
+  {
     "title": "Top Research Reports for Applied Materials, Mastercard & AbbVie",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-applied-materials-204700852.html",
     "publisher": "Zacks",
@@ -26,47 +68,5 @@
     "publisher": "24/7 Wall St.",
     "date": "2026-07-02T15:11:30Z",
     "type": "STORY"
-  },
-  {
-    "title": "VEON and Mastercard join forces to broaden digital financial services across key markets (VEON)",
-    "link": "https://investorshub.advfn.com/market-news/article/31311/veon-and-mastercard-join-forces-to-broaden-digital-financial-services-across-key-markets-veon",
-    "publisher": "InvestorsHub",
-    "date": "2026-07-02T12:28:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Mastercard (MA) Trading At A Premium Despite Stablecoin Moves?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-trading-premium-despite-211635054.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-01T21:16:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Analyst predicts 200% upside for Circle stock despite fierce competition",
-    "link": "https://www.thestreet.com/crypto/markets/analyst-predicts-200-upside-for-circle-stock-despite-fierce-competition",
-    "publisher": "TheStreet",
-    "date": "2026-07-01T20:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Open USD Is Coming for Circle's Margins",
-    "link": "https://www.bankless.com/read/open-usd-is-coming-for-circles-margins",
-    "publisher": "Bankless",
-    "date": "2026-07-01T19:52:48Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Are Coinbase (COIN) Shares Soaring Today",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-coin-shares-soaring-191300902.html",
-    "publisher": "StockStory",
-    "date": "2026-07-01T19:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Circle stock plummeted because of this new stablecoin. Here's why.",
-    "link": "https://finance.yahoo.com/video/circle-stock-plummeted-because-stablecoin-190000768.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-07-01T19:00:00Z",
-    "type": "VIDEO"
   }
 ]
