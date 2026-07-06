@@ -1,5 +1,47 @@
 [
   {
+    "title": "Top Stock Reports for Eli Lilly, HSBC & Palantir",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-eli-lilly-202600616.html",
+    "publisher": "Zacks",
+    "date": "2026-07-06T20:26:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "UBS to Pilot U.S. Banking Services Ahead of Wealth Client Rollout",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-pilot-u-banking-services-160200641.html",
+    "publisher": "Zacks",
+    "date": "2026-07-06T16:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Factbox-Companies cutting jobs as investments shift toward AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/factbox-companies-cutting-jobs-investments-150818385.html",
+    "publisher": "Reuters",
+    "date": "2026-07-06T15:08:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "HSBC sees more upside in Intel stock on server CPU opportunity",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-sees-more-upside-intel-134545802.html",
+    "publisher": "Investing.com",
+    "date": "2026-07-06T13:45:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bankers Say Asia Loan Market to Stay Weak as War Saps Confidence",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/bankers-asia-loan-market-stay-000001263.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-06T00:00:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Chip Stock Bulls Count on Samsung to Soothe AI Trade Jitters",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-samsung-235318720.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-05T23:53:18Z",
+    "type": "STORY"
+  },
+  {
     "title": "HSBC Delivers Bullish AI Verdict After Micron Earnings Surprise",
     "link": "https://finance.yahoo.com/technology/ai/articles/hsbc-delivers-bullish-ai-verdict-165850655.html",
     "publisher": "GuruFocus.com",
@@ -25,48 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-adobes-ai-discount-180056395.html",
     "publisher": "GuruFocus.com",
     "date": "2026-07-02T18:00:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore'",
-    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-surged-233-this-year-hsbc-60-upside-too-good-to-ignore-bet/cZmeA5sR7SC",
-    "publisher": "Stocktwits",
-    "date": "2026-07-02T17:16:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Adobe gains after HSBC upgrades stock, says AI concerns are overstated (ADBE)",
-    "link": "https://investorshub.advfn.com/market-news/article/31299/adobe-gains-after-hsbc-upgrades-stock-says-ai-concerns-are-overstated-adbe",
-    "publisher": "InvestorsHub",
-    "date": "2026-07-02T09:41:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Morgan Stanley Among Banks Challenging Growing Dollar Optimism",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/morgan-stanley-among-banks-challenging-090000729.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-02T09:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AVDE’s 23.6% Annual Gain Shows International Dividends are Outpacing U.S. Markets",
-    "link": "https://247wallst.com/investing/2026/07/01/avdes-23-6-annual-gain-shows-international-dividends-are-outpacing-u-s-markets/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-07-02T01:31:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "DB to Offload India Retail Unit to Kotak Amid Global Hausbank Push",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/db-offload-india-retail-unit-144500540.html",
-    "publisher": "Zacks",
-    "date": "2026-07-01T14:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Weighs Turkey Exit as Emirates NBD Explores Acquisition Deal",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-weighs-turkey-exit-emirates-134100000.html",
-    "publisher": "Zacks",
-    "date": "2026-07-01T13:41:00Z",
     "type": "STORY"
   }
 ]

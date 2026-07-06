@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Chilling in Money-Market Funds is the Hot Retail Strategy Now",
-    "link": "https://finance.yahoo.com/markets/articles/chilling-money-market-funds-hot-110032424.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-05T11:00:32Z",
-    "type": "STORY"
-  },
-  {
     "title": "Sumitomo Mitsui Financial Group (TSE:8316) Valuation Check After Strong Recent Share Price Momentum",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-financial-group-tse-140832860.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-sumitomo-mitsui-financial-060540258.html",
     "publisher": "Simply Wall St.",
     "date": "2026-03-29T06:05:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jefferies Stock Gains as Takeover Speculation Builds on Lower Valuation",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-stock-gains-takeover-speculation-135900767.html",
+    "publisher": "Zacks",
+    "date": "2026-03-25T13:59:00Z",
     "type": "STORY"
   }
 ]

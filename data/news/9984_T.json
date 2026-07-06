@@ -1,16 +1,30 @@
 [
   {
+    "title": "European Indexes Edge Higher at Open",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-06T07:33:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Kospi Opens Over 2% as Samsung and SK Hynix Lead Chip Rally",
+    "link": "https://beincrypto.com/kospi-samsung-sk-hynix-chip-rally/",
+    "publisher": "BeInCrypto",
+    "date": "2026-07-06T01:27:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank (TSE:9984) Launches SB Neo As It Pursues $10 Billion OpenAI Loan",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9984-launches-sb-080946409.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-04T08:09:46Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank Group (TSE:9984) Stock Looks Near Fair Value While Earnings Sit Below Fair Value",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-091136426.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-03T09:11:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Rebound After Thursday Selloff",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-03T08:54:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-plans-ai-cloud-services-073106168.html",
     "publisher": "Bloomberg",
     "date": "2026-07-02T07:31:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank reportedly reopens talks for $10bn loan backed by OpenAI stake",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-reportedly-reopens-talks-10bn-211430744.html",
-    "publisher": "Investing.com",
-    "date": "2026-07-01T21:14:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exclusive-SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say",
-    "link": "https://finance.yahoo.com/technology/articles/exclusive-softbank-renews-talks-10-201406003.html",
-    "publisher": "Reuters",
-    "date": "2026-07-01T20:14:06Z",
     "type": "STORY"
   }
 ]
