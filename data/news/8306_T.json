@@ -1,5 +1,47 @@
 [
   {
+    "title": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e0cfe53e?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-07T21:01:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Crude Jumps As U.S. Revokes Iran Authorization to Sell Oil",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-07T19:37:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mitsubishi UFJ Financial (TSE:8306) Is Up 7.5% After Boosting Dividend And Retiring Shares - What's Changed",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-tse-8306-171343871.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-07T17:13:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia-Backed Nscale Secures $900 Million Credit Facility for AI Expansion",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-nscale-secures-900-170032178.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-07T17:00:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
+    "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-07T09:16:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oil Prices Rise After Ship Attacks Near Hormuz",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070726/card/oil-prices-rise-after-ship-attacks-near-hormuz-wKhEM6ijnAE7RV9vFxEh?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-07T08:21:22Z",
+    "type": "STORY"
+  },
+  {
     "title": "Oil Futures Slip While Holding Near Pre-Conflict Level",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -25,48 +67,6 @@
     "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-outlook-weakens-rate-111938028.html",
     "publisher": "MT Newswires",
     "date": "2026-07-06T11:19:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Falls on OPEC+ Output Hike, Hormuz Flows Recovery",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070626/card/oil-falls-on-opec-output-hike-hormuz-flows-recovery-huVPp4ggS5iE8LkU9Lv1?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-06T09:05:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Futures Edge Up Ahead of Long U.S. Weekend",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-supply-increases-amid-easing-mideast-tensions-518c2f51?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-02T19:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Prices Fall as Indirect U.S.-Iran Talks Advance",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070226/card/oil-prices-fall-as-indirect-u-s-iran-talks-advance-Yg9J9UQrpAmWMMfbJBBm?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-02T09:29:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan's yen jumps, with traders twitchy about intervention risk",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/japans-yen-jumps-traders-twitchy-082044925.html",
-    "publisher": "Reuters",
-    "date": "2026-07-02T08:20:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sliding Yen, Robust Economy Give BOJ More Grounds for Early Hike",
-    "link": "https://finance.yahoo.com/economy/policy/articles/sliding-yen-robust-economy-boj-031504611.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-02T03:15:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gold Backtracks Toward $4,000/oz Mark",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-souring-risk-sentiment-fbd7647f?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-29T18:15:00Z",
     "type": "STORY"
   }
 ]
