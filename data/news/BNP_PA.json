@@ -1,9 +1,16 @@
 [
   {
-    "title": "SpaceX is entering the Nasdaq 100 — here's what it could mean for the stock: Chart of the Day",
-    "link": "https://finance.yahoo.com/markets/article/spacex-is-entering-the-nasdaq-100--heres-what-it-could-mean-for-the-stock-chart-of-the-day-100000973.html",
-    "publisher": "Yahoo Finance",
-    "date": "2026-07-07T10:00:00Z",
+    "title": "Why a Tesla-SpaceX Merger Is No Sure Thing",
+    "link": "https://www.barrons.com/articles/tesla-spacex-merger-401e238b?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-08T20:26:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Opdenergy secures $227m for 371MW renewable portfolio in Chile",
+    "link": "https://www.power-technology.com/news/opdenergy-secures-227m-renewables-chile/",
+    "publisher": "Power Technology",
+    "date": "2026-07-08T08:17:27Z",
     "type": "STORY"
   },
   {
@@ -11,6 +18,13 @@
     "link": "https://www.euronews.com/2026/07/07/ecb-tells-europes-biggest-banks-to-prepare-for-ai-powered-cyber-threats",
     "publisher": "Euronews",
     "date": "2026-07-07T13:54:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SpaceX is entering the Nasdaq 100 — here's what it could mean for the stock: Chart of the Day",
+    "link": "https://finance.yahoo.com/markets/article/spacex-is-entering-the-nasdaq-100--heres-what-it-could-mean-for-the-stock-chart-of-the-day-100000973.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-07-07T10:00:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.thestreet.com/automotive/rivian-stock-spikes-following-increased-sales-guidance",
     "publisher": "TheStreet",
     "date": "2026-07-03T09:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks",
-    "link": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-sends-fresh-message-194010206.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-02T19:40:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Can PTC Inc. (PTC)’s New AI Strategy Drive a Comeback?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ptc-inc-ptc-ai-strategy-112819650.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-07-02T11:28:19Z",
     "type": "STORY"
   }
 ]
