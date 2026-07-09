@@ -1,5 +1,19 @@
 [
   {
+    "title": "Treasury Yields Retreat on Signs of U.S.-Iran De-Escalation",
+    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-c87454e8?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-09T19:51:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "HSBC lowers 2026-27 gold price forecasts on hawkish Fed tilt",
+    "link": "https://sg.finance.yahoo.com/news/hsbc-lowers-2026-27-gold-083728314.html",
+    "publisher": "Reuters",
+    "date": "2026-07-09T08:37:28Z",
+    "type": "STORY"
+  },
+  {
     "title": "Is Adobe Inc. (ADBE) the Best Beaten Down Technology Stock to Buy Now?",
     "link": "https://finance.yahoo.com/technology/articles/adobe-inc-adbe-best-beaten-155040660.html",
     "publisher": "Insider Monkey",
@@ -11,6 +25,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-tightens-private-credit-strategy-140700256.html",
     "publisher": "Zacks",
     "date": "2026-07-08T14:07:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "HSBC drops 'overweight' call on EM equities on AI spending fears",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-drops-overweight-call-em-120200560.html",
+    "publisher": "Reuters",
+    "date": "2026-07-08T12:02:00Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-lse-hsba-wealth-081427543.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-08T08:14:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Just Issued Wall Street’s Boldest Call on Intel Stock",
-    "link": "https://www.barchart.com/story/news/3170252/hsbc-just-issued-wall-streets-boldest-call-on-intel-stock",
-    "publisher": "Barchart",
-    "date": "2026-07-07T19:40:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hong Kong Launches Gold Clearing Trial as HSBC Expands Storage to 200 Tons",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/hong-kong-launches-gold-clearing-191615383.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-07T19:16:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Close Mixed in Tuesday Trading; Defense, Mining Stocks Fall, Luxury Stocks Rise",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-tuesday-154331260.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-07T15:43:31Z",
     "type": "STORY"
   }
 ]

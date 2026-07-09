@@ -1,5 +1,61 @@
 [
   {
+    "title": "TotalEnergies (ENXTPA:TTE) Could Be 22% Undervalued On Its LNG Growth Narrative",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-could-22-211340087.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-09T21:13:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "First U.S. LNG Ships To Asia From Mexico, Avoiding Hormuz Tensions",
+    "link": "https://www.investors.com/news/lng-stocks-u-s-gas-ships-asia-mexico-win-for-trump/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-07-09T20:24:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Should ECA Phase 1’s First LNG Cargo Shape Sempra’s (SRE) LNG-Led Cash Flow Story?",
+    "link": "https://finance.yahoo.com/energy/articles/eca-phase-1-first-lng-191234616.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-09T19:12:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies (ENXTPA:TTE) Ships First Mexico LNG Cargo And Exits European Rooftop Solar",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-ships-first-182118427.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-09T18:21:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies Sells 170 MW of European Solar Assets to Refocus Strategy",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-sells-170-mw-european-180030177.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-09T18:00:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ExxonMobil and partners commit $1bn to launch Usan Infill Project",
+    "link": "https://www.offshore-technology.com/news/exxonmobil-partners-1bn-usan-infill-project/",
+    "publisher": "Offshore Technology",
+    "date": "2026-07-09T10:18:53Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies Exits Distributed Solar in Seven European Countries",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-exits-distributed-solar-seven-075426829.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-07-09T07:54:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies Ships First LNG Cargo From Mexico's ECA Export Terminal",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-ships-first-lng-cargo-055500353.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-07-09T05:55:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b36f56f6?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-price-target-050508533.html",
     "publisher": "Insider Monkey",
     "date": "2026-07-08T05:05:08Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TD Cowen Cuts Price Target on TotalEnergies (TTE). Here is Why",
-    "link": "https://finance.yahoo.com/energy/articles/td-cowen-cuts-price-target-050039593.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-07-08T05:00:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Noble vs. Transocean: Which Off-Shore Drilling Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/07/07/noble-vs-transocean-which-off-shore-drilling-stock-is-a-better-buy-in-2026/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-07T15:49:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies (ENXTPA:TTE) Buys Into Abu Dhabi Gas And Launches MethaneLive",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-buys-abu-161243104.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-03T16:12:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Offers Millions Of Iraqi Barrels As Asia Supply Builds",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-offers-millions-iraqi-barrels-160949834.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-03T16:09:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-offers-millions-barrels-iraqi-153000890.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-07-03T15:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies sells 8.5% stake in Marjoram gas field to Inpex",
-    "link": "https://www.offshore-technology.com/news/totalenergies-sells-8-5-marjoram-gas-field-inpex/",
-    "publisher": "Offshore Technology",
-    "date": "2026-07-03T08:48:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tenaris (TEN) Stock Trades Up, Here Is Why",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tenaris-ten-stock-trades-why-014824612.html",
-    "publisher": "StockStory",
-    "date": "2026-07-03T01:48:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Top Research Reports for Applied Materials, Mastercard & AbbVie",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-applied-materials-204700852.html",
-    "publisher": "Zacks",
-    "date": "2026-07-02T20:47:00Z",
     "type": "STORY"
   }
 ]

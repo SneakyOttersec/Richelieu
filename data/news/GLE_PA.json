@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Banks Sell Out After Broadband Firms’ Land Grab Backfires",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadband-firms-land-grab-backfired-061500003.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-09T11:31:53Z",
-    "type": "STORY"
-  },
-  {
     "title": "XTransfer and Societe Generale team up on cross-border payments",
     "link": "https://www.electronicpaymentsinternational.com/news/xtransfer-societe-generale-cross-border-payments/",
     "publisher": "Electronic Payments",
@@ -67,6 +60,13 @@
     "link": "https://beincrypto.com/canton-network-bullish-rally-super-validator/",
     "publisher": "BeInCrypto",
     "date": "2026-05-15T12:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "McEwen Copper Appoints Societe Generale as Financial Advisor for Project Debt Financing of Los Azules",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-copper-appoints-societe-generale-202205403.html",
+    "publisher": "MT Newswires",
+    "date": "2026-05-14T20:22:05Z",
     "type": "STORY"
   }
 ]
