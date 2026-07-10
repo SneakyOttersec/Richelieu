@@ -1,5 +1,19 @@
 [
   {
+    "title": "What Meta's Muse AI image tool means for Instagram privacy",
+    "link": "https://finance.yahoo.com/video/what-metas-muse-ai-image-tool-means-for-instagram-privacy-203855526.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-07-10T20:38:55Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Why Microsoft is not this portfolio manager's stock pick",
+    "link": "https://finance.yahoo.com/video/why-microsoft-not-portfolio-managers-120000811.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-07-10T12:00:00Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "SK Hynix's US listing, Delta earnings, housing bill: What to Watch",
     "link": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
     "publisher": "Yahoo Finance Video",
@@ -7,66 +21,52 @@
     "type": "VIDEO"
   },
   {
-    "title": "The 'Magnificent 7' stocks are trading at their cheapest valuation in more than a decade",
-    "link": "https://finance.yahoo.com/markets/article/the-magnificent-7-stocks-are-trading-at-their-cheapest-valuation-in-more-than-a-decade-131922532.html",
-    "publisher": "Yahoo Finance",
-    "date": "2026-07-09T13:19:22Z",
+    "title": "Tesla Faces Possible Robotaxi Ban In New Jersey, But It Gains Market Share In China",
+    "link": "https://www.investors.com/news/tesla-robotaxi-china-auto-sales-electric-vehicles-elon-musk/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-07-10T21:01:34Z",
     "type": "STORY"
   },
   {
-    "title": "Alphabet vs. Meta: Which AI Stock Is the Better Buy Right Now?",
-    "link": "https://www.fool.com/investing/2026/07/09/alphabet-vs-meta-which-ai-stock-is-the-better-buy/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-09T22:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
-    "link": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
-    "publisher": "Quartz",
-    "date": "2026-07-09T20:51:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Meta set to overtake Google’s frontier AI models in six months, SemiAnalysis says",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meta-set-overtake-google-frontier-201958151.html",
-    "publisher": "Investing.com",
-    "date": "2026-07-09T20:19:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Musk calls rival Anthropic the current frontrunner in AI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/musk-calls-rival-anthropic-current-185914796.html",
-    "publisher": "Investing.com",
-    "date": "2026-07-09T18:59:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Meta Takes Aim at Google and OpenAI",
-    "link": "https://finance.yahoo.com/technology/ai/articles/meta-takes-aim-google-openai-185601327.html",
+    "title": "Amazon, Microsoft and Meta Among HSBC Earnings Picks",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html",
     "publisher": "GuruFocus.com",
-    "date": "2026-07-09T18:56:01Z",
+    "date": "2026-07-10T20:16:34Z",
     "type": "STORY"
   },
   {
-    "title": "$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances",
-    "link": "https://finance.yahoo.com/technology/ai/articles/35-billion-ai-credit-deal-184014429.html",
+    "title": "UK Brings Amazon Web Services Under Direct Financial Oversight",
+    "link": "https://finance.yahoo.com/technology/articles/uk-brings-amazon-services-under-200831873.html",
     "publisher": "GuruFocus.com",
-    "date": "2026-07-09T18:40:14Z",
+    "date": "2026-07-10T20:08:31Z",
     "type": "STORY"
   },
   {
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "link": "https://finance.yahoo.com/technology/ai/articles/paris-based-ai-voice-startup-183435804.html",
-    "publisher": "TechCrunch",
-    "date": "2026-07-09T18:34:35Z",
+    "title": "IBM's Quantum Upside Meets Valuation Risk",
+    "link": "https://finance.yahoo.com/technology/articles/ibms-quantum-upside-meets-valuation-200301436.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-10T20:03:01Z",
     "type": "STORY"
   },
   {
-    "title": "Alphabet (GOOGL) Backs Proxima Fusion In €411 Million Funding Round With RWE",
-    "link": "https://finance.yahoo.com/energy/articles/alphabet-googl-backs-proxima-fusion-182050645.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-09T18:20:50Z",
+    "title": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-giants-add-350-billion-195553515.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-10T19:55:53Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Adobe Stock's Cash Generation Changes The AI Debate",
+    "link": "https://www.trefis.com/articles/606623/how-adobe-stocks-cash-generation-changes-the-ai-debate/2026-07-10",
+    "publisher": "Trefis",
+    "date": "2026-07-10T19:18:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Top Wall Street Analyst Says AI Spending Is Delivering Real Returns: “When We Build a Data Center, It’s Already Pre-Sold”",
+    "link": "https://247wallst.com/investing/2026/07/10/top-wall-street-analyst-says-ai-spending-is-delivering-real-returns-when-we-build-a-data-center-its-already-pre-sold/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-10T19:09:12Z",
     "type": "STORY"
   }
 ]

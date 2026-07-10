@@ -1,5 +1,40 @@
 [
   {
+    "title": "SoftBank Eyes Seven & i Stake",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-eyes-seven-stake-173835709.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-10T17:38:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Steady Oil Prices, Rising Tech Shares Lift Asian Stock Markets",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/steady-oil-prices-rising-tech-103527004.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-10T10:35:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Update: Market Chatter: PayPay, SoftBank Eye Stake in Seven & i to Expand AI, Digital Payments",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-paypay-softbank-eye-102749231.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-10T10:27:49Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank, PayPay in talks to invest in Seven & i, Bloomberg reports",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-paypay-talks-invest-seven-095052586.html",
+    "publisher": "Reuters",
+    "date": "2026-07-10T09:50:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Considers Stake in Seven & i to Boost AI, Payments",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-considers-stake-seven-boost-084918612.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-10T08:49:18Z",
+    "type": "STORY"
+  },
+  {
     "title": "DeFi veteran Gauntlet raises $125 million from Japanese financial giant SBI Holdings",
     "link": "https://finance.yahoo.com/markets/crypto/articles/defi-veteran-gauntlet-raises-125-120000442.html",
     "publisher": "Fortune",
@@ -32,41 +67,6 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-06T07:33:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Kospi Opens Over 2% as Samsung and SK Hynix Lead Chip Rally",
-    "link": "https://beincrypto.com/kospi-samsung-sk-hynix-chip-rally/",
-    "publisher": "BeInCrypto",
-    "date": "2026-07-06T01:27:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank (TSE:9984) Launches SB Neo As It Pursues $10 Billion OpenAI Loan",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9984-launches-sb-080946409.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-04T08:09:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Group (TSE:9984) Stock Looks Near Fair Value While Earnings Sit Below Fair Value",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-091136426.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-03T09:11:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag",
-    "link": "https://www.barrons.com/articles/meta-stock-price-softbank-cloud-0f855abd?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-02T17:43:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock.",
-    "link": "https://www.barrons.com/articles/coreweave-stock-price-meta-cfb7120a?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-02T17:27:00Z",
     "type": "STORY"
   }
 ]

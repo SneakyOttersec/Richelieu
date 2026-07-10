@@ -1,5 +1,54 @@
 [
   {
+    "title": "Can AmEx's AI Investments Unlock the Next Phase of Growth?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amexs-ai-investments-unlock-next-162800289.html",
+    "publisher": "Zacks",
+    "date": "2026-07-10T16:28:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mastercard Stock Falls Below 200-Day SMA: Buy the Dip or Wait?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-falls-below-200-142900309.html",
+    "publisher": "Zacks",
+    "date": "2026-07-10T14:29:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Circle Jumps 14% on OCC Trust Bank Approval; Coinbase and Strategy Gain 5% as Bitcoin Bounces",
+    "link": "https://247wallst.com/investing/2026/07/10/circle-jumps-13-on-occ-trust-bank-approval-coinbase-and-strategy-gain-5-as-bitcoin-bounces/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-10T13:32:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Corpay, Jack Henry & Associates, Visa, Virtu Financial and JPMorgan Chase",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-corpay-071500823.html",
+    "publisher": "Zacks",
+    "date": "2026-07-10T07:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Your Income Compares With the Top 10% in the U.S.—Net Worth, Salaries, and Savings",
+    "link": "https://www.investopedia.com/how-your-income-compares-with-the-top-10-in-the-us-net-worth-salaries-and-savings-12009697",
+    "publisher": "Investopedia",
+    "date": "2026-07-10T04:26:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Tag Systems helps UK banks and fintechs prepare for the next generation of payment card security",
+    "link": "https://www.electronicpaymentsinternational.com/news/tag-systems-next-generation-payment-card-security/",
+    "publisher": "Electronic Payments",
+    "date": "2026-07-10T00:19:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European sovereignty is also a matter of payment infrastructure",
+    "link": "https://www.electronicpaymentsinternational.com/comment/european-sovereignty-also-matter-of-payment-infrastructure/",
+    "publisher": "Electronic Payments",
+    "date": "2026-07-09T23:40:17Z",
+    "type": "STORY"
+  },
+  {
     "title": "A Founding Father of Blockchain Is Out to Reinvent the Prediction Industry",
     "link": "https://www.entrepreneur.com/building-a-business/a-founding-father-of-blockchain-is-out-to-reinvent-the-prediction-industry",
     "publisher": "Entrepreneur",
@@ -14,59 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Sony To Set Up U.S. Stablecoin Trust Bank",
-    "link": "https://www.cryptoprowl.com/releases/sony-to-set-up-us-stablecoin-trust-bank-6108",
-    "publisher": "CryptoProwl",
-    "date": "2026-07-09T13:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why the Best Retirement Paycheck May Start Smaller Than You Expect",
-    "link": "https://247wallst.com/personal-finance/2026/07/09/why-the-best-retirement-paycheck-may-start-smaller-than-you-expect/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-07-09T13:05:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "EU parliament greenlights digital euro",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/eu-parliament-greenlights-digital-euro-121404375.html",
-    "publisher": "AFP",
-    "date": "2026-07-09T12:14:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Buy 5 Financial Transaction Stocks to Enhance Your Portfolio Returns",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-5-financial-transaction-stocks-120000923.html",
-    "publisher": "Zacks",
-    "date": "2026-07-09T12:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Visa (V) Is Being Pulled Into The Stablecoin Conversation. What’s Going On With The Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-being-pulled-stablecoin-115825391.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-07-09T11:58:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Case For Buying Smaller Dividends That Grow Faster",
-    "link": "https://247wallst.com/personal-finance/2026/07/09/the-case-for-buying-smaller-dividends-that-grow-faster/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-07-09T05:33:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Visa (V) Declines More Than Market: Some Information for Investors",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-declines-more-market-214503703.html",
-    "publisher": "Zacks",
-    "date": "2026-07-08T21:45:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Standoff Over PYPL Stock",
-    "link": "https://www.trefis.com/articles/606201/the-standoff-over-pypl-stock/2026-07-08",
-    "publisher": "Trefis",
-    "date": "2026-07-08T21:16:08Z",
+    "title": "Fiserv’s Debit Network Talks Raise a Bigger Question for Visa and Mastercard",
+    "link": "https://www.marketbeat.com/articles/fiservs-debit-network-talks-raise-a-bigger-question-for-visa-and-mastercard/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "publisher": "MarketBeat",
+    "date": "2026-07-09T14:25:00Z",
     "type": "STORY"
   }
 ]
