@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "European shares retreat after hitting record high; easyJet surges on takeover offer",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-pause-rally-easyjet-072039256.html",
-    "publisher": "Reuters",
-    "date": "2026-07-06T16:58:19Z",
-    "type": "STORY"
-  },
-  {
     "title": "Lockheed Martin paying $3.5 billion for naval defense-tech company",
     "link": "https://www.axios.com/2026/07/06/lockheed-martin-ultra-marine#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
     "publisher": "Axios",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/airbus-enxtpa-air-seeks-eu-061353630.html",
     "publisher": "Simply Wall St.",
     "date": "2026-06-24T06:13:53Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Europe Wants Its Own SpaceX Before SpaceX Eats the Whole Sky",
+    "link": "https://app.moby.co/home/news/news-europe-wants-its-own-spacex-before-spacex-eats-the-whole-sky?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-06-23T14:10:27Z",
     "type": "STORY"
   }
 ]

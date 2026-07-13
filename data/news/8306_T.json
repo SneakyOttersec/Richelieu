@@ -1,5 +1,12 @@
 [
   {
+    "title": "MUFG Hits $259 Billion, Overtakes Toyota as Japan's Most Valuable Company",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mufg-hits-259-billion-overtakes-132317211.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-13T13:23:17Z",
+    "type": "STORY"
+  },
+  {
     "title": "SWIFT's Blockchain Ledger Goes Live With HSBC, Citi and 15 Other Banks: Threat to XRP, XLM Cross-Border Plays?",
     "link": "https://www.ccn.com/news/crypto/swift-blockchain-ledger-live-17-banks-xrp-xlm-demand-risk/",
     "publisher": "CCN",
@@ -60,13 +67,6 @@
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070726/card/oil-prices-rise-after-ship-attacks-near-hormuz-wKhEM6ijnAE7RV9vFxEh?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-07-07T08:21:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Futures Slip While Holding Near Pre-Conflict Level",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-06T19:03:00Z",
     "type": "STORY"
   }
 ]

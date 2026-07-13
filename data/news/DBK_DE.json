@@ -1,5 +1,33 @@
 [
   {
+    "title": "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/wall-street-mounts-pushback-trillion-120311203.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-13T12:03:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank fined $2M by Australian regulator",
+    "link": "https://www.bankingdive.com/news/deutsche-bank-fined-2-million-australian-regulator-asic/825030/",
+    "publisher": "Banking Dive",
+    "date": "2026-07-13T09:05:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap",
+    "link": "https://finance.yahoo.com/energy/articles/oil-climbs-us-futures-dip-221028050.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-12T22:10:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank (XTRA:DBK) As Bond Funding And Revenue Guidance Leave Valuation Questions Open",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-xtra-dbk-bond-001702520.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-11T00:17:02Z",
+    "type": "STORY"
+  },
+  {
     "title": "PepsiCo (PEP) Stock Fair Value Edges Lower As Analysts Split On North America Execution",
     "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-stock-fair-value-200946365.html",
     "publisher": "Simply Wall St.",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/article/ai-disruption-is-the-hot-topic-of-earnings-calls-130609913.html",
     "publisher": "Yahoo Finance",
     "date": "2026-07-08T13:06:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "GM-Backed Momenta Rises in HK Debut After $752 Million IPO",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/gm-backed-momenta-rises-hk-012409563.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-08T01:24:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "First Solar Stock Got Upgraded to Buy. Why the Stock Keeps Falling.",
-    "link": "https://www.barrons.com/articles/first-solar-stock-price-upgrade-buy-3ec9e3f8?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-07T17:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "NTRS to Exit Guardianship Business With WTFC Deal in Strategic Pivot",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ntrs-exit-guardianship-business-wtfc-164700860.html",
-    "publisher": "Zacks",
-    "date": "2026-07-07T16:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Mag 7 Loses Market Swagger as AI Trade Spreads Beyond Behemoths",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/mag-7-loses-market-swagger-104934165.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-07T10:49:34Z",
     "type": "STORY"
   }
 ]

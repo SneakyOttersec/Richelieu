@@ -1,9 +1,30 @@
 [
   {
-    "title": "Nasdaq's hottest winners just fell behind: Chart of the Day",
-    "link": "https://finance.yahoo.com/markets/article/nasdaqs-hottest-winners-just-fell-behind-chart-of-the-day-100000829.html",
+    "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
+    "link": "https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
     "publisher": "Yahoo Finance",
-    "date": "2026-07-10T10:00:00Z",
+    "date": "2026-07-13T12:07:51Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
+    "link": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-07-13T20:49:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks",
+    "link": "https://247wallst.com/investing/2026/07/13/intel-amd-and-applied-materials-drop-4-as-sk-hynix-rout-and-oil-spike-hit-chip-stocks/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-13T14:22:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "5 Under the Radar AI Chip Stocks Powering the Data Center Boom",
+    "link": "https://247wallst.com/investing/2026/07/11/5-under-the-radar-ai-chip-stocks-powering-the-data-center-boom/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-11T13:00:07Z",
     "type": "STORY"
   },
   {
@@ -11,6 +32,13 @@
     "link": "https://www.barchart.com/story/news/3221207/stock-index-futures-slip-as-chip-rally-fades-sk-hynix-debut-in-focus",
     "publisher": "Barchart",
     "date": "2026-07-10T10:38:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nasdaq's hottest winners just fell behind: Chart of the Day",
+    "link": "https://finance.yahoo.com/markets/article/nasdaqs-hottest-winners-just-fell-behind-chart-of-the-day-100000829.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-07-10T10:00:00Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://www.barrons.com/articles/amd-stock-price-analyst-sell-intel-cd026a13?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-07-09T17:58:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Equities Traded in the US as American Depositary Receipts Rise Thursday",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151058291.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-09T15:10:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Markets News, July 9, 2026: Stocks End Higher, Powered by Chip Shares; Oil Pulls Back as Investors Downplay Fighting Between US, Iran",
-    "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07092026-12014853",
-    "publisher": "Investopedia",
-    "date": "2026-07-09T10:52:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings' Licensing Momentum Continues to Fuel Revenue Growth",
-    "link": "https://finance.yahoo.com/technology/articles/arm-holdings-licensing-momentum-continues-152600229.html",
-    "publisher": "Zacks",
-    "date": "2026-07-08T15:26:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "📉 Which Tech Stocks Fell the Most Today?",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026/card/-which-tech-stocks-are-falling-the-most-today--ZJ8L41EcRW26zRtVSy9v?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-07T20:53:46Z",
     "type": "STORY"
   }
 ]
