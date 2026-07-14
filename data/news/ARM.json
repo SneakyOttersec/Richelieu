@@ -1,9 +1,16 @@
 [
   {
-    "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
-    "link": "https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
-    "publisher": "Yahoo Finance",
-    "date": "2026-07-13T12:07:51Z",
+    "title": "Arm Holdings plc (ARM) CEO says US would have Difficulty Banning AI CPU chip Exports to China",
+    "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-plc-arm-ceo-185557648.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-07-14T18:55:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel, ARM face near-term pain while AMD rides server boom: BofA",
+    "link": "https://www.proactiveinvestors.com/companies/news/1095436/intel-arm-face-near-term-pain-while-amd-rides-server-boom-bofa-1095436.html",
+    "publisher": "Proactive",
+    "date": "2026-07-14T17:37:00Z",
     "type": "STORY"
   },
   {
@@ -18,6 +25,13 @@
     "link": "https://247wallst.com/investing/2026/07/13/intel-amd-and-applied-materials-drop-4-as-sk-hynix-rout-and-oil-spike-hit-chip-stocks/",
     "publisher": "24/7 Wall St.",
     "date": "2026-07-13T14:22:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns",
+    "link": "https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-07-13T12:07:51Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/arm-ai-driven-licensing-surge-032345910.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-10T03:23:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Arm Holdings Stock Soared 224.4% Through The First Half Of 2026",
-    "link": "https://www.fool.com/investing/2026/07/09/why-arm-holdings-stock-soared-2244-through-the-fir/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-10T01:32:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CPU Competition Gearing Up to Cool AMD’s Massive Run",
-    "link": "https://www.barrons.com/articles/amd-stock-price-analyst-sell-intel-cd026a13?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-09T17:58:00Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "IonQ and 3 More Stocks That Together Make a Better IBM",
+    "link": "https://www.barrons.com/articles/hsbc-downgrades-ibm-stock-02d5af86?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-14T19:45:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Masdar closes $6.1bn deal for first gigascale 24/7 renewable project",
+    "link": "https://www.power-technology.com/news/masdar-6-1bn-first-gigascale-renewable-project/",
+    "publisher": "Power Technology",
+    "date": "2026-07-14T08:42:49Z",
+    "type": "STORY"
+  },
+  {
     "title": "Masdar Secures $5.1 Billion for World’s Largest Solar-and-Battery Project",
     "link": "https://finance.yahoo.com/energy/articles/masdar-secures-5-1-billion-133000461.html",
     "publisher": "Oilprice.com",
@@ -53,20 +67,6 @@
     "link": "https://cryptonews.com/news/swift-crypto-blockchain-payments-tokenized-deposits-live/",
     "publisher": "Cryptonews",
     "date": "2026-07-10T10:24:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SWIFT's Blockchain Ledger Goes Live With HSBC, Citi and 15 Other Banks: Threat to XRP, XLM Cross-Border Plays?",
-    "link": "https://www.ccn.com/news/crypto/swift-blockchain-ledger-live-17-banks-xrp-xlm-demand-risk/",
-    "publisher": "CCN",
-    "date": "2026-07-10T08:54:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Swift readies blockchain ledger for tokenised cross-border payments",
-    "link": "https://www.electronicpaymentsinternational.com/news/swift-readies-blockchain-ledger-for-tokenised-cross-border-payments/",
-    "publisher": "Electronic Payments",
-    "date": "2026-07-10T06:13:26Z",
     "type": "STORY"
   }
 ]
