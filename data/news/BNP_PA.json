@@ -1,5 +1,33 @@
 [
   {
+    "title": "ServiceNow Seen Well Positioned for Q2",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-seen-well-positioned-q2-200142102.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-15T20:01:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ServiceNow Gets Constructive Earnings Setup",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-gets-constructive-earnings-setup-184431406.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-15T18:44:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arista, Seagate and Astera Lead AI Picks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/arista-seagate-astera-lead-ai-184248758.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-15T18:42:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "KKR Markets Debt Backed by PayPal’s Buy Now, Pay Later Loans",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-markets-debt-backed-paypal-095121369.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-15T09:51:21Z",
+    "type": "STORY"
+  },
+  {
     "title": "IonQ and 3 More Stocks That Together Make a Better IBM",
     "link": "https://www.barrons.com/articles/hsbc-downgrades-ibm-stock-02d5af86?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-tokenized-deposits-pilot-141639635.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-10T14:16:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SWIFT’s Blockchain Ledger Fires at Tether and Circle, But Will It Halt BRICS Payment Push?",
-    "link": "https://www.ccn.com/news/crypto/swifts-blockchain-ledger-fires-tether-circle-impact-brics-bloc/",
-    "publisher": "CCN",
-    "date": "2026-07-10T14:02:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Here’s Why Analysts Think Nebius (NBIS) Could Benefit From Amazon’s GPU Price Increase",
-    "link": "https://finance.yahoo.com/technology/ai/articles/why-analysts-think-nebius-nbis-135425147.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-07-10T13:54:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BNP Paribas (ENXTPA:BNP) Names New Americas Trading Head As Expansion Narrative Supports Valuation",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-enxtpa-bnp-names-131404036.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-10T13:14:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SWIFT Crypto Ledger Targets Settlement Dead Zones With 17-Bank Go-Live",
-    "link": "https://cryptonews.com/news/swift-crypto-blockchain-payments-tokenized-deposits-live/",
-    "publisher": "Cryptonews",
-    "date": "2026-07-10T10:24:18Z",
     "type": "STORY"
   }
 ]
