@@ -1,5 +1,40 @@
 [
   {
+    "title": "U.S. Stock Futures Lower as Chip Selloff Deepens",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-lower-as-chip-selloff-rocks-markets-aeac8c1b?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-17T10:41:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "‘Lehman Brothers of AI’: Why One Critic Thinks OpenAI Will Crash the Entire AI Industry",
+    "link": "https://247wallst.com/investing/2026/07/17/lehman-brothers-of-ai-why-one-critic-thinks-openai-will-crash-the-entire-ai-industry/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-17T10:17:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Sells Final Boston Dynamics Stake As Hyundai Takes Full Control",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-sells-060819997.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-17T06:08:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "As Nikkei Bleeds, Kioxia’s Boom-to-Bust Highlights Dangers of This AI Cycle",
+    "link": "https://beincrypto.com/nikkei-kioxia-ai-selloff-boom-bust/",
+    "publisher": "BeInCrypto",
+    "date": "2026-07-17T03:16:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia (NVDA) Deepens Japan AI Push With Factory Deal And Robotics Tie Ups",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-deepens-japan-ai-001838639.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-17T00:18:38Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nvidia Pushes Into a Big New AI Market That Could Rally the Stock",
     "link": "https://www.barrons.com/articles/nvidia-stock-price-today-ai-9af33ec6?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -32,41 +67,6 @@
     "link": "https://qz.com/hyundai-softbank-boston-dynamics-stake-acquisition-071626",
     "publisher": "Quartz",
     "date": "2026-07-16T15:11:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hyundai plans full ownership of US robotics firm Boston Dynamics",
-    "link": "https://www.just-auto.com/news/hyundai-full-ownership-boston-dynamics/",
-    "publisher": "Just Auto",
-    "date": "2026-07-16T12:00:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan to Buy Nvidia Chips to Power Its AI Push",
-    "link": "https://www.wsj.com/tech/ai/nvidia-noetra-to-build-ai-factory-to-power-japans-ai-ambitions-95e74210?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-16T11:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "ABB to Buy U.K.’s Rotork for $5.6 Billion",
-    "link": "https://www.wsj.com/business/deals/abb-to-buy-rotork-to-strengthen-electrification-business-7fac8604?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-16T09:55:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hyundai Motor Group to own Boston Dynamics in full with SoftBank stake buy",
-    "link": "https://finance.yahoo.com/technology/articles/hyundai-motor-group-boston-dynamics-031722587.html",
-    "publisher": "Reuters",
-    "date": "2026-07-16T03:17:22Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hyundai to Buy SoftBank’s Boston Dynamics Stake in Robot Push",
-    "link": "https://finance.yahoo.com/technology/ai/articles/hyundai-buy-softbank-boston-dynamics-025918660.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-16T02:59:18Z",
     "type": "STORY"
   }
 ]

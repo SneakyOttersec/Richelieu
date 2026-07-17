@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Bond Rally Fails to Allay Higher-for-Longer Rates Threat",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bond-rally-fails-allay-higher-090049114.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-17T13:45:18Z",
-    "type": "STORY"
-  },
-  {
     "title": "Generali Posts Lower Net Profit, Hit by Market Volatility",
     "link": "https://www.wsj.com/business/earnings/generali-posts-lower-net-profit-hit-by-market-volatility-cbfcc67c?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://www.lifeinsuranceinternational.com/news/zurich-buy-generali-irish-non-life-unit/",
     "publisher": "Life Insurance International",
     "date": "2026-03-10T09:25:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Del Vecchio Inheritance War Is Heading Toward a Billion-Dollar Deal",
+    "link": "https://app.moby.co/home/news/news-the-del-vecchio-inheritance-war-is-heading-toward-a-billion-dollar-deal?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-03-06T18:38:19Z",
     "type": "STORY"
   }
 ]

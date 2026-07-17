@@ -1,5 +1,19 @@
 [
   {
+    "title": "Comex Gold Ends the Week 2.23% Lower at $4012.70",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-central-bank-buying-likely-to-remain-structural-driver-f10d22c2?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-17T17:46:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CoreWeave launches $2.6B term loan to support acquisition of GPUs",
+    "link": "https://pitchbook.com/news/articles/coreweave-launches-2-6b-term-loan-to-support-acquisition-of-gpus",
+    "publisher": "Pitchbook",
+    "date": "2026-07-17T16:28:18Z",
+    "type": "STORY"
+  },
+  {
     "title": "Oil Futures Settle Lower in Choppy Trade",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -53,20 +67,6 @@
     "link": "https://uk.news.yahoo.com/swift-starts-blockchain-ledger-initial-123253667.html",
     "publisher": "Reuters",
     "date": "2026-07-09T12:32:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Swift starts blockchain ledger with initial set of 17 banks",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/swift-starts-blockchain-ledger-initial-123253617.html",
-    "publisher": "Reuters",
-    "date": "2026-07-09T12:32:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Crude Jumps As U.S. Revokes Iran Authorization to Sell Oil",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-07T19:37:00Z",
     "type": "STORY"
   }
 ]
