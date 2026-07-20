@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Ray-Ban Heir Escalates Fight for Control of Family Fortune",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ray-ban-heir-escalates-fight-144851860.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-20T14:48:51Z",
-    "type": "STORY"
-  },
-  {
     "title": "Stocks to Watch Recap: Marvell Technology, Apple, Broadcom, Strategy",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-08-2026/card/stocks-to-watch-marvell-technology-broadcom-strategy-TrCmO4Vya85LY4bC0hMM?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -65,6 +58,13 @@
   {
     "title": "Intesa counters Banco BPM’s proposal with Monte dei Paschi bid",
     "link": "https://www.retailbankerinternational.com/news/intesa-banco-bpm-monte-paschi-bid/",
+    "publisher": "Retail Banker International",
+    "date": "2026-06-08T11:55:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intesa counters Banco BPM with €30.6bn offer for Monte dei Paschi",
+    "link": "https://www.retailbankerinternational.com/news/intesa-monte-paschi-bid/",
     "publisher": "Retail Banker International",
     "date": "2026-06-08T11:55:37Z",
     "type": "STORY"

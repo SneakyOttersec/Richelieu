@@ -1,5 +1,12 @@
 [
   {
+    "title": "Germany prepares terms for Commerzbank bid talks – report",
+    "link": "https://www.retailbankerinternational.com/news/unicredit-commerzbank-bid-talks/",
+    "publisher": "Retail Banker International",
+    "date": "2026-07-20T11:28:43Z",
+    "type": "STORY"
+  },
+  {
     "title": "ECB picks 36 PSPs for digital euro pilot due to start next year",
     "link": "https://www.electronicpaymentsinternational.com/news/ecb-picks-36-psps-for-digital-euro-pilot-due-to-start-next-year/",
     "publisher": "Electronic Payments",
@@ -11,6 +18,13 @@
     "link": "https://beincrypto.com/ecb-digital-euro-pilot-stablecoins/",
     "publisher": "BeInCrypto",
     "date": "2026-07-14T16:47:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ECB picks 36 payment firms for digital euro pilot",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html",
+    "publisher": "Reuters",
+    "date": "2026-07-14T09:06:50Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/business/unicredit-nearly-secures-majority-control-in-commerzbank-d76b290c?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-08T11:19:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Credit Agricole eyes 29.9% stake in Banco BPM – report",
-    "link": "https://www.retailbankerinternational.com/news/credit-agricole-29-9-stake-banco-bpm/",
-    "publisher": "Retail Banker International",
-    "date": "2026-06-26T11:36:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank Says Some Institutional Investors Have Accepted UniCredit’s Offer",
-    "link": "https://www.wsj.com/finance/investing/commerzbank-says-some-institutional-investors-have-accepted-unicredits-offer-87372b67?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-25T08:49:00Z",
     "type": "STORY"
   }
 ]
