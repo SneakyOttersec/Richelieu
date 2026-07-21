@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sector Update: Energy",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-171628910.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-21T17:16:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ADNOC approves $6.2bn Umm Shaif gas cap development",
+    "link": "https://www.offshore-technology.com/news/adnoc-umm-shaif-gas-cap-development/",
+    "publisher": "Offshore Technology",
+    "date": "2026-07-21T13:45:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Seeking Clues to TotalEnergies (TTE) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-totalenergies-tte-q2-131509637.html",
+    "publisher": "Zacks",
+    "date": "2026-07-21T13:15:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ADNOC invests $6.2 billion in Umm Shaif offshore gas field",
+    "link": "https://qz.com/adnoc-umm-shaif-gas-field-investment-072126",
+    "publisher": "Quartz",
+    "date": "2026-07-21T12:03:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Adnoc to Proceed With $6.2 Billion Abu Dhabi Gas Project",
+    "link": "https://www.wsj.com/finance/commodities-futures/adnoc-partners-to-proceed-with-6-2-billion-umm-shaif-gas-cap-project-59a8199c",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-21T11:22:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "U.A.E.’s Adnoc Will Go Ahead With Gas Project Despite War",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/u-a-e-s-adnoc-will-go-ahead-with-gas-project-despite-war-VZfycyjx8iJuogf9sjdD?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-21T11:20:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Trump Promised He’d Reduce Electricity Prices By 50% In 18 Months. We Ran The Numbers.",
+    "link": "https://247wallst.com/investing/2026/07/21/trump-promised-hed-reduce-electricity-prices-by-50-in-18-months-we-ran-the-numbers/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-21T10:12:10Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ADNOC Approves $6.2 Billion Gas Project in Abu Dhabi",
+    "link": "https://finance.yahoo.com/energy/articles/adnoc-approves-6-2-billion-084900461.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-07-21T08:49:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "2 Buy calls, 1 Hold: Mizuho launches coverage on three Big Oil stocks",
     "link": "https://finance.yahoo.com/energy/articles/2-buy-calls-1-hold-134358660.html",
     "publisher": "Investing.com",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/thousands-trucks-haul-iraq-oil-113000900.html",
     "publisher": "Bloomberg",
     "date": "2026-07-18T11:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Can TotalEnergies (ENXTPA:TTE) Still Look Cheap After Its LNG Progress?",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-still-look-060910695.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-18T06:09:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CVX vs. TTE: Which Energy Giant Deserves a Place in Your Portfolio?",
-    "link": "https://finance.yahoo.com/energy/articles/cvx-vs-tte-energy-giant-142400514.html",
-    "publisher": "Zacks",
-    "date": "2026-07-17T14:24:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Antero Resources Is in Play: Which Energy Titan Will Acquire It?",
-    "link": "https://247wallst.com/investing/2026/07/17/antero-resources-is-in-play-which-energy-titan-will-acquire-it/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-07-17T11:15:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies and partners open hybrid renewable project in South Africa",
-    "link": "https://www.power-technology.com/news/totalenergies-open-hybrid-project-sa/",
-    "publisher": "Power Technology",
-    "date": "2026-07-17T09:20:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Shares Drop 2.5% Despite Strong Oil Trading Outlook",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-shares-drop-2-5-193639037.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-16T19:36:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Energy Stocks Edge Higher Premarket Thursday",
-    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132744423.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-16T13:27:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Sees Stronger Q2 Profit as Refining and Oil Trading Surge",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-sees-stronger-q2-profit-103000234.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-07-16T10:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies Sees Higher Q2 Upstream, Downstream Results as Oil Prices Rise",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-sees-higher-q2-upstream-091711442.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-16T09:17:11Z",
     "type": "STORY"
   }
 ]

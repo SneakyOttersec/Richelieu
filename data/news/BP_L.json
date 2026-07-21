@@ -1,5 +1,19 @@
 [
   {
+    "title": "Sector Update: Energy",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-171628910.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-21T17:16:28Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ADNOC Approves $6.2 Billion Gas Project in Abu Dhabi",
+    "link": "https://finance.yahoo.com/energy/articles/adnoc-approves-6-2-billion-084900461.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-07-21T08:49:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "ConocoPhillips to Participate in BP's Redevelopment Project in Iraq",
     "link": "https://finance.yahoo.com/energy/articles/conocophillips-participate-bps-redevelopment-project-144100486.html",
     "publisher": "Zacks",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/oil-gas-employment-hits-2026-150000486.html",
     "publisher": "Oilprice.com",
     "date": "2026-07-18T15:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why ConocoPhillips Stock Flew Higher on Friday",
-    "link": "https://www.fool.com/investing/2026/07/17/why-conocophillips-stock-flew-higher-on-friday/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-17T23:56:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BP (BP) Rises As Market Takes a Dip: Key Facts",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bp-bp-rises-market-takes-220003772.html",
-    "publisher": "Zacks",
-    "date": "2026-07-17T22:00:03Z",
     "type": "STORY"
   }
 ]
