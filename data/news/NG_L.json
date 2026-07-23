@@ -7,13 +7,6 @@
     "type": "STORY"
   },
   {
-    "title": "Wall Street plunges in AI ‘bloodbath’",
-    "link": "https://uk.finance.yahoo.com/news/global-stocks-plunge-ai-bloodbath-093710394.html",
-    "publisher": "The Telegraph",
-    "date": "2026-07-17T17:45:54Z",
-    "type": "STORY"
-  },
-  {
     "title": "National Grid plc (NGG) Targets Soaring US Power Demand with $1.75B Joulent Investment",
     "link": "https://finance.yahoo.com/energy/articles/national-grid-plc-ngg-targets-133253474.html",
     "publisher": "Insider Monkey",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/business/energy-oil/national-grid-to-invest-1-75-billion-in-joulent-in-u-s-energy-push-9d84d5b8?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-01T12:29:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Drone operator chaired by ex-GCHQ chief lands £15m funding boost",
+    "link": "https://uk.finance.yahoo.com/news/drone-operator-chaired-ex-gchq-065900344.html",
+    "publisher": "Sky News",
+    "date": "2026-07-01T06:59:00Z",
     "type": "STORY"
   }
 ]

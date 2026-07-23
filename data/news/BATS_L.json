@@ -1,12 +1,5 @@
 [
   {
-    "title": "Wall Street plunges in AI ‘bloodbath’",
-    "link": "https://uk.finance.yahoo.com/news/global-stocks-plunge-ai-bloodbath-093710394.html",
-    "publisher": "The Telegraph",
-    "date": "2026-07-17T17:45:54Z",
-    "type": "STORY"
-  },
-  {
     "title": "5 Solid Dividend Stocks to Buy in July",
     "link": "https://247wallst.com/investing/2026/07/10/5-solid-dividend-stocks-to-buy-in-july/",
     "publisher": "24/7 Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://app.moby.co/home/news/news-bat-cuts-deep-as-cigarettes-keep-fading?utm_source=yahoo_finance&utm_medium=rss",
     "publisher": "Moby",
     "date": "2026-06-29T18:14:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BAT Cuts Nearly 20% of Global Workforce in Cost-Saving Push",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bat-cuts-nearly-20-global-180425881.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-29T18:04:25Z",
     "type": "STORY"
   }
 ]

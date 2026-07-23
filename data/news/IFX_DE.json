@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Stock Indexes Fall as Tech Struggles Extend",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-chip-stocks-8cbbd234?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-23T07:28:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Japan's Power-Chip Giants Target September Deal to Challenge Infineon",
     "link": "https://finance.yahoo.com/technology/articles/japans-power-chip-giants-target-204956697.html",
     "publisher": "GuruFocus.com",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/infineon-xtra-ifx-stock-may-211446636.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-09T21:14:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Rise at Open as Tech, Banks Recover",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070926/card/european-stocks-rise-at-open-as-tech-banks-recover-Em6zyeyUrkaMHKZXf9uH?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-09T08:21:03Z",
     "type": "STORY"
   }
 ]
