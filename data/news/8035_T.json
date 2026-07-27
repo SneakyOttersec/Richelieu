@@ -14,13 +14,6 @@
     "type": "STORY"
   },
   {
-    "title": "Advanced chipmaking tool arrives at New York state innovation hub",
-    "link": "https://finance.yahoo.com/technology/articles/advanced-chipmaking-tool-arrives-york-120148994.html",
-    "publisher": "Reuters",
-    "date": "2026-07-21T12:01:48Z",
-    "type": "STORY"
-  },
-  {
     "title": "Tokyo Electron (TSE:8035) Could Be 10% Undervalued On Its AI Chip Demand Story",
     "link": "https://finance.yahoo.com/technology/ai/articles/tokyo-electron-tse-8035-could-140758672.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-boosts-teradyne-ter-price-134801547.html",
     "publisher": "Insider Monkey",
     "date": "2026-07-04T13:48:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian stocks rally after Dow sets fresh record, though chip weakness lingers",
+    "link": "https://www.euronews.com/2026/07/03/asian-stocks-rally-after-dow-sets-fresh-record-though-chip-weakness-lingers",
+    "publisher": "Euronews",
+    "date": "2026-07-03T08:11:40Z",
     "type": "STORY"
   }
 ]

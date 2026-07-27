@@ -1,9 +1,16 @@
 [
   {
     "title": "Critical minerals start-up threatens to quit Britain",
-    "link": "https://www.telegraph.co.uk/business/2026/07/24/critical-minerals-start-up-threatens-to-quit-britain/",
+    "link": "https://uk.finance.yahoo.com/news/critical-minerals-start-threatens-quit-172234700.html",
     "publisher": "The Telegraph",
     "date": "2026-07-24T17:22:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mitsubishi Motors to Invest Bt16bn in Thailand’s EV push by 2030 – report",
+    "link": "https://www.just-auto.com/news/mitsubishi-motors-invest-thailand/",
+    "publisher": "Just Auto",
+    "date": "2026-07-24T17:13:18Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-tse-8058-wins-saudi-061139849.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-14T06:11:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Mitsubishi Power wins contract for Saudi dual-fuel boiler project",
-    "link": "https://www.power-technology.com/news/mitsubishi-power-contract-dual-fuel-boiler/",
-    "publisher": "Power Technology",
-    "date": "2026-07-13T14:31:10Z",
     "type": "STORY"
   }
 ]

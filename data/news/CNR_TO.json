@@ -1,9 +1,30 @@
 [
   {
     "title": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-37ef43dc?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-be3e4aee?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-07-24T21:07:00Z",
+    "date": "2026-07-27T21:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Canadian National Q2 Earnings Beat on Grain and Energy Volume Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-national-q2-earnings-beat-170200872.html",
+    "publisher": "Zacks",
+    "date": "2026-07-27T17:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CN Rail Price Targets Raised at RBC, TD",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cn-rail-price-targets-raised-114611149.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-27T11:46:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CNI (CNI) Q2 2026 Earnings Call Transcript",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/07/24/cni-cni-q2-2026-earnings-call-transcript/",
+    "publisher": "Motley Fool",
+    "date": "2026-07-25T00:32:03Z",
     "type": "STORY"
   },
   {
@@ -18,6 +39,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-national-railway-reports-higher-170438315.html",
     "publisher": "MT Newswires",
     "date": "2026-07-24T17:04:38Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CN boosts outlook as volume growth tops expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cn-boosts-outlook-volume-growth-164400587.html",
+    "publisher": "FreightWaves",
+    "date": "2026-07-24T16:44:00Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://www.marketbeat.com/instant-alerts/canadian-national-railway-q2-earnings-call-highlights-2026-07-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-07-24T14:03:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Compared to Estimates, CN (CNI) Q2 Earnings: A Look at Key Metrics",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-cn-cni-q2-133003161.html",
-    "publisher": "Zacks",
-    "date": "2026-07-24T13:30:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Canadian National (CNI) Q2 Earnings and Revenues Top Estimates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-national-cni-q2-earnings-124501701.html",
-    "publisher": "Zacks",
-    "date": "2026-07-24T12:45:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Canadian National Railway Raises 2026 Volume Outlook",
-    "link": "https://www.wsj.com/business/logistics/canadian-national-railway-raises-2026-volume-outlook-39769778?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-24T12:25:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "New Home Sales: What to Watch Friday",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026/card/new-home-sales-what-to-watch-friday-q6J1AsPe8VtQWtnuAJon?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-24T07:55:31Z",
     "type": "STORY"
   }
 ]

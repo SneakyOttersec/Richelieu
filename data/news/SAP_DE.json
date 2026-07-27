@@ -1,5 +1,12 @@
 [
   {
+    "title": "SAP aims to ‘build AI at scale’ for the enterprise",
+    "link": "https://www.ciodive.com/news/SAP-build-ai-scale-enterprise/826284/",
+    "publisher": "CIO Dive",
+    "date": "2026-07-27T15:16:36Z",
+    "type": "STORY"
+  },
+  {
     "title": "Stocks to Watch: Bank of America, Intel, SAP, Oracle",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026/card/stocks-to-watch-intel-sap-oracle-volkswagen-QAXyap0AAf1RLcGzwJYI?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -60,13 +67,6 @@
     "link": "https://www.barrons.com/articles/oracle-stock-defense-department-deal-2f0a8b53?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-07-24T11:15:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Shares Jump After Strong Quarter Reassures Investors of Cloud Business Resilience",
-    "link": "https://www.wsj.com/business/earnings/sap-shares-jump-after-strong-quarter-reassures-investors-of-cloud-business-resilience-64125310?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-24T08:48:00Z",
     "type": "STORY"
   }
 ]

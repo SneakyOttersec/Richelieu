@@ -1,5 +1,19 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-ce54be61?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-27T21:04:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Commerzbank Says Brent Falls 7% as Mideast Tensions Ease, Dollar Weakens",
+    "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-brent-falls-7-101548169.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-27T10:15:48Z",
+    "type": "STORY"
+  },
+  {
     "title": "WSJ Dollar Index Rises 0.28% to 97.59",
     "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/oil-tops-90-us-iran-100131740.html",
     "publisher": "MT Newswires",
     "date": "2026-07-20T10:01:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank Says Equities, U.S. Stock Futures Slip on AI Exit, Treasuries Extend Gains, Brent Oil Steady",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/commerzbank-says-equities-u-stock-101336614.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-17T10:13:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Loonie's Moves Rest More on US Dollar Weakness Than Central Bank Policy, Commerzbank Says",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/loonie-apos-moves-rest-more-115358556.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-16T11:53:58Z",
     "type": "STORY"
   }
 ]
