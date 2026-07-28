@@ -1,9 +1,16 @@
 [
   {
-    "title": "SpaceX stock plunge sends a big reminder to those who want to get in on or near IPO day",
-    "link": "https://finance.yahoo.com/markets/article/spacex-stock-plunge-sends-a-big-reminder-to-those-who-want-to-get-in-on-or-near-ipo-day-174744909.html",
-    "publisher": "Yahoo Finance",
-    "date": "2026-07-27T17:47:44Z",
+    "title": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
+    "link": "https://247wallst.com/investing/2026/07/28/amd-sinks-8-marvell-sinks-7-intel-fall-6-as-ai-chip-trade-narrows-to-nvidia/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-07-28T15:28:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-28T06:36:42Z",
     "type": "STORY"
   },
   {
@@ -18,6 +25,13 @@
     "link": "https://www.fool.com/investing/2026/07/27/arm-holdings-next-earnings-report-on-july-29-could-send-the-stock-soaring-heres-why/",
     "publisher": "Motley Fool",
     "date": "2026-07-27T19:00:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SpaceX stock plunge sends a big reminder to those who want to get in on or near IPO day",
+    "link": "https://finance.yahoo.com/markets/article/spacex-stock-plunge-sends-a-big-reminder-to-those-who-want-to-get-in-on-or-near-ipo-day-174744909.html",
+    "publisher": "Yahoo Finance",
+    "date": "2026-07-27T17:47:44Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.barrons.com/advisor/articles/stocks-investing-ai-chip-healthcare-25045b18?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-07-27T15:44:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Update: US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125212777.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-27T12:52:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115715216.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-27T11:57:15Z",
     "type": "STORY"
   }
 ]

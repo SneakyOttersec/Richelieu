@@ -1,5 +1,40 @@
 [
   {
+    "title": "SoftBank Faces Balance-Sheet AI Test",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-faces-balance-sheet-ai-200505901.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-28T20:05:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jim Chanos Says Nvidia Is Effectively Financing Its Own AI Chip Sales in Reported OpenAI Deal",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-chanos-says-nvidia-effectively-163036179.html",
+    "publisher": "Benzinga",
+    "date": "2026-07-28T16:30:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia Stock Sinks After Report Raises Fresh AI Bubble Fears",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-sinks-report-raises-121123537.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-28T12:11:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Nvidia Stock Fell Today",
+    "link": "https://www.fool.com/investing/2026/07/27/why-nvidia-stock-nvda-fell-today/",
+    "publisher": "Motley Fool",
+    "date": "2026-07-28T03:38:44Z",
+    "type": "STORY"
+  },
+  {
+    "title": "KOSPI Crashes 8% as AI Chip Selloff Slams Asian Markets",
+    "link": "https://beincrypto.com/kospi-crash-ai-chip-selloff/",
+    "publisher": "BeInCrypto",
+    "date": "2026-07-28T02:13:33Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank's $40 Billion OpenAI Loan Adds 21 New Lenders",
     "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-40-billion-openai-loan-205628520.html",
     "publisher": "GuruFocus.com",
@@ -32,41 +67,6 @@
     "link": "https://247wallst.com/investing/2026/07/27/what-happened-to-tech-stocks-in-2000-that-many-investors-think-could-happen-to-nvidia-today/",
     "publisher": "24/7 Wall St.",
     "date": "2026-07-27T16:12:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia in talks to back OpenAI data center financing with $250B guarantee, WSJ reports",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096078/nvidia-in-talks-to-back-openai-data-center-financing-with-250b-guarantee-wsj-reports-1096078.html",
-    "publisher": "Proactive",
-    "date": "2026-07-27T14:15:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CoreWeave and Nebius gain after report links Nvidia to major OpenAI infrastructure financing",
-    "link": "https://investorshub.advfn.com/market-news/article/32717/coreweave-and-nebius-gain-after-report-links-nvidia-to-major-openai-infrastructure-financing",
-    "publisher": "InvestorsHub",
-    "date": "2026-07-27T13:27:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Eyes $500 Million+ Gravis Robotics Deal to Expand AI Push",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-eyes-500-million-gravis-130439113.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-27T13:04:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI's $500 Billion Campus Would Run on Nvidia's Balance Sheet",
-    "link": "https://finance.yahoo.com/technology/ai/articles/openais-500-billion-campus-run-123717867.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-27T12:37:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Weighs $250 Billion Backstop for OpenAI Data Center Project",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-weighs-250-billion-backstop-123626022.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-27T12:36:26Z",
     "type": "STORY"
   }
 ]
