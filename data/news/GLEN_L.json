@@ -1,5 +1,33 @@
 [
   {
+    "title": "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/glencore-sees-3-3-billion-163000552.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-07-29T16:30:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI Stocks’ Loss Is London’s Gain",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/ai-stocks-loss-is-london-s-gain-1Hrqq8JhCqsnhAZ6lsWN?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T15:07:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Glencore’s Traders Gain as Iran Conflict Upends Commodities Markets",
+    "link": "https://www.wsj.com/business/earnings/glencores-traders-to-report-bumper-first-half-7f4461bf?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T10:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 Live: London index hits new intraday high, but US in selling mode pre-Fed",
+    "link": "https://www.proactiveinvestors.com/companies/news/1096184/ftse-100-live-subdued-start-expected-as-gulf-tensions-break-out-greggs-and-reckitt-report-1096184.html",
+    "publisher": "Proactive",
+    "date": "2026-07-29T06:08:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Former oil refinery boss accused of £180m fraud",
     "link": "https://www.telegraph.co.uk/business/2026/07/28/former-lincolnshire-refinery-boss-accused-of-180m-oil-fraud/",
     "publisher": "The Telegraph",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/commodities/articles/why-congo-cobalt-quota-shift-120106567.html",
     "publisher": "Insider Monkey",
     "date": "2026-07-03T12:01:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Northern Star Names Glencore’s Suresh Vadnagra Next CEO",
-    "link": "https://www.wsj.com/business/northern-star-names-glencores-suresh-vadnagra-next-ceo-56e8babc?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-02T02:46:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Miners Hochschild and Fresnillo lead FTSE falls as gold pullback deepens",
-    "link": "https://www.proactiveinvestors.com/companies/news/1094487/miners-hochschild-and-fresnillo-lead-ftse-falls-as-gold-pullback-deepens-1094487.html",
-    "publisher": "Proactive",
-    "date": "2026-06-25T07:51:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bolivia declares state of emergency after weeks of road blockades",
-    "link": "https://www.yahoo.com/news/world/articles/bolivia-declares-state-emergency-weeks-074424848.html",
-    "publisher": "Investing.com",
-    "date": "2026-06-20T07:44:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Glencore (GLNCY) Remains a Strategic Copper Asset as AI and Electrification Demand Rise",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/why-glencore-glncy-remains-strategic-095648218.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-06-19T09:56:48Z",
     "type": "STORY"
   }
 ]

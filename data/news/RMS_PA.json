@@ -1,5 +1,54 @@
 [
   {
+    "title": "Stocks to Watch Recap: Ford, Caterpillar, Teva, Starbucks",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/stocks-to-watch-ford-hermes-microsoft-meta-lyOFMlJWUytxt6pa2PSq?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T22:42:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 sets new record ahead of US rate call",
+    "link": "https://uk.finance.yahoo.com/news/ftse-100-sets-record-ahead-164552680.html",
+    "publisher": "PA Media: Money",
+    "date": "2026-07-29T16:45:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Kering Shares Soar as Analysts Cheer Q2 Results",
+    "link": "https://wwd.com/business-news/financial/kering-share-reaction-second-quarter-results-1239086670/",
+    "publisher": "WWD",
+    "date": "2026-07-29T15:37:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Hermes Stock Is Tumbling. If You’re Wondering Why, Just Check Pork Prices.",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/hermes-stock-is-tumbling-if-you-re-wondering-why-just-check-pork-prices--aSDZyKbzfgLUeHQjZdqy?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T15:17:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Hermes Shares Fall After Sales Show Little China Pickup",
+    "link": "https://www.wsj.com/business/retail/hermes-sales-pick-up-as-luxury-sector-eyes-upswing-7829a5a6?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T09:37:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Hermès Q2 Sales Accelerate on Strong U.S. Demand and Leather Goods Growth",
+    "link": "https://wwd.com/business-news/financial/hermes-q2-sales-growth-us-demand-leather-goods-1239086312/",
+    "publisher": "WWD",
+    "date": "2026-07-29T07:26:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asia’s richest man Gautam Adani weighs bid for UK’s top port operator",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-richest-man-gautam-adani-064209494.html",
+    "publisher": "Financial Times",
+    "date": "2026-07-29T06:42:09Z",
+    "type": "STORY"
+  },
+  {
     "title": "3 Top-Ranked Diversified Bond Mutual Funds for Steady Gains",
     "link": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-diversified-bond-100000451.html",
     "publisher": "Zacks",
@@ -18,55 +67,6 @@
     "link": "https://www.wsj.com/finance/live/stock-market-today-dow-sp-500-nasdaq-07-15-2026-2a3dd235/card/stocks-to-watch-paypal-morgan-stanley-richemont-asml-41f3414a?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-15T20:52:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Richemont Surges After 20% Sales Growth Crushes 11% Forecast",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/richemont-surges-20-sales-growth-201006491.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-15T20:10:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cartier-owner Richemont's sales beat boosts luxury sector",
-    "link": "https://finance.yahoo.com/video/cartier-owner-richemonts-sales-beat-111817766.html",
-    "publisher": "Reuters Videos",
-    "date": "2026-07-15T11:18:17Z",
-    "type": "VIDEO"
-  },
-  {
-    "title": "Richemont’s Shares Surge After Sales Beat",
-    "link": "https://www.wsj.com/business/earnings/cartier-owner-richemont-posts-sales-beat-on-strong-jewelry-performance-403bb773?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-15T07:43:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "EXCLUSIVE: Hermès Sets Date for First Haute Couture Runway Show",
-    "link": "https://wwd.com/fashion-news/designer-luxury/hermes-nadege-vanhee-haute-couture-collection-launch-date-1239057805/",
-    "publisher": "WWD",
-    "date": "2026-07-09T05:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "LVMH Scores Highest in Top 25 Brands by Market Cap",
-    "link": "https://wwd.com/sourcing-journal/industry-news/lvmh-scores-highest-in-top-25-brands-by-market-capital-1239046026/",
-    "publisher": "Sourcing Journal",
-    "date": "2026-06-29T16:58:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "LVMH Fires Back at Hermès Heir Over His Missing Fortune",
-    "link": "https://www.wsj.com/business/lvmh-fires-back-at-hermes-heir-over-his-missing-fortune-6a7b90f1?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-25T00:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hermès can regain momentum despite China weakness, Jefferies says",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/herm-regain-momentum-despite-china-150205689.html",
-    "publisher": "Investing.com",
-    "date": "2026-06-22T15:02:05Z",
     "type": "STORY"
   }
 ]

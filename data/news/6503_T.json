@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "China Escalates Takaichi Feud by Blacklisting More Japan Firms",
-    "link": "https://finance.yahoo.com/economy/policy/articles/china-escalates-takaichi-feud-blacklisting-081256724.html",
-    "publisher": "Bloomberg",
-    "date": "2026-06-29T08:12:56Z",
-    "type": "STORY"
-  },
-  {
     "title": "This Space Stock Has Won Two Contracts This Week – A Look At The Key Details",
     "link": "https://stocktwits.com/news-articles/markets/equity/mda-space-won-two-major-contracts-japan-canada-satellite-program/cZ1GkKfR7XJ",
     "publisher": "Stocktwits",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9b2896db?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-05-25T12:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is Mitsubishi Electric (TSE:6503) Priced Too High After Doubling Over The Past Year?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-electric-tse-6503-priced-161014858.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-19T16:10:14Z",
     "type": "STORY"
   }
 ]

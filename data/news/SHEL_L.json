@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195450732.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-29T19:54:50Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies (TTE) Posts A War-Driven Earnings Surge, But The Real Test Is What Happens To LNG Once It Fades",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-posts-war-driven-165209577.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-07-29T16:52:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 sets new record ahead of US rate call",
+    "link": "https://uk.finance.yahoo.com/news/ftse-100-sets-record-ahead-164552680.html",
+    "publisher": "PA Media: Money",
+    "date": "2026-07-29T16:45:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+    "link": "https://finance.yahoo.com/media-advertising/articles/elon-musk-x-settles-multiyear-153648651.html",
+    "publisher": "TechCrunch",
+    "date": "2026-07-29T15:36:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI Stocks’ Loss Is London’s Gain",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/ai-stocks-loss-is-london-s-gain-1Hrqq8JhCqsnhAZ6lsWN?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T15:07:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Equities Traded in US as ADRs Ease in Wednesday Trading",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150507593.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-29T15:05:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Shell Discovers Oil at Mediterranean's Deepest-Ever Offshore Well",
+    "link": "https://finance.yahoo.com/energy/articles/shell-discovers-oil-mediterraneans-deepest-135600319.html",
+    "publisher": "Zacks",
+    "date": "2026-07-29T13:56:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Persian Gulf Outlook, Earnings Season Churn European Bourses Midday",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/persian-gulf-outlook-earnings-season-114508969.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-29T11:45:08Z",
+    "type": "STORY"
+  },
+  {
     "title": "Watch These 4 Energy Stocks for Q2 Earnings: Beat or Miss?",
     "link": "https://finance.yahoo.com/energy/articles/watch-4-energy-stocks-q2-135600698.html",
     "publisher": "Zacks",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/pre-q2-earnings-chevron-stock-123600509.html",
     "publisher": "Zacks",
     "date": "2026-07-28T12:36:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Apple, Microsoft, Amazon, LVMH, AstraZeneca, Shell, Airbus and UBS",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-091300766.html",
-    "publisher": "Zacks",
-    "date": "2026-07-28T09:13:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cenovus Energy's Q2 Earnings on Deck: Should You Bet on the Stock?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cenovus-energys-q2-earnings-deck-153500838.html",
-    "publisher": "Zacks",
-    "date": "2026-07-27T15:35:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096079/week-ahead-wall-street-s-biggest-summer-test-is-here-with-big-tech-fed-on-deck-1096079.html",
-    "publisher": "Proactive",
-    "date": "2026-07-27T14:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Energy Stocks Tumble After Oil Suffers Biggest Drop in Months",
-    "link": "https://finance.yahoo.com/energy/articles/energy-stocks-tumble-oil-suffers-121059763.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-27T12:10:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Rise After Pause in Mideast Fighting",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-airline-auto-stocks-d1be4dd3?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-27T09:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Global oil stocks tumble as crude prices retreat after U.S. halts Iran strikes",
-    "link": "https://finance.yahoo.com/energy/articles/global-oil-stocks-tumble-crude-091028096.html",
-    "publisher": "Investing.com",
-    "date": "2026-07-27T09:10:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BP, Shell and Harbour Energy led falls as oil prices retreat",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096057/bp-shell-and-harbour-energy-led-falls-as-oil-prices-retreat-1096057.html",
-    "publisher": "Proactive",
-    "date": "2026-07-27T08:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Vallourec to supply pipes for Atapu 2 offshore project in Brazil",
-    "link": "https://www.offshore-technology.com/news/vallourec-supply-pipes-atapu-2-offshore-brazil/",
-    "publisher": "Offshore Technology",
-    "date": "2026-07-23T08:18:37Z",
     "type": "STORY"
   }
 ]

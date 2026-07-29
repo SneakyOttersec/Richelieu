@@ -1,5 +1,19 @@
 [
   {
+    "title": "FTV Q2 Earnings Beat on Core Growth, Guidance Raised",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ftv-q2-earnings-beat-core-150000356.html",
+    "publisher": "Zacks",
+    "date": "2026-07-29T15:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FLEX Q1 Earnings Beat on CPI Strength, FY27 View Raised",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/flex-q1-earnings-beat-cpi-145700777.html",
+    "publisher": "Zacks",
+    "date": "2026-07-29T14:57:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "SAP (XTRA:SAP) Stock Looks Undervalued While 1 Year Returns Stay Weak",
     "link": "https://finance.yahoo.com/markets/stocks/articles/sap-xtra-sap-stock-looks-170804495.html",
     "publisher": "Simply Wall St.",
@@ -42,31 +56,17 @@
     "type": "STORY"
   },
   {
+    "title": "European Chip Stocks Rise After Pause in Mideast Fighting",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-airline-auto-stocks-d1be4dd3?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-27T09:20:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Stocks to Watch: Bank of America, Intel, SAP, Oracle",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026/card/stocks-to-watch-intel-sap-oracle-volkswagen-QAXyap0AAf1RLcGzwJYI?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-24T21:27:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
-    "link": "https://www.barrons.com/articles/stock-movers-cb742eac?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-24T20:25:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Stock Jumps as Earnings Beat Eases AI Fears",
-    "link": "https://www.barrons.com/articles/sap-earnings-stock-price-2f599ee2?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-24T18:37:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Mastercard expands virtual card platform with new controls and embedded ecosystem partnerships",
-    "link": "https://www.electronicpaymentsinternational.com/news/mastercard-expands-virtual-card-platform/",
-    "publisher": "Electronic Payments",
-    "date": "2026-07-24T15:24:08Z",
     "type": "STORY"
   }
 ]
