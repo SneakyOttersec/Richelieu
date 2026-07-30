@@ -1,10 +1,24 @@
 [
   {
-    "title": "Luxury brands, automakers signal consumer weakness from China",
-    "link": "https://finance.yahoo.com/video/luxury-brands-automakers-signal-consumer-140000431.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-07-29T14:00:00Z",
-    "type": "VIDEO"
+    "title": "BMW sends shocking letter to employees",
+    "link": "https://www.thestreet.com/employment/bmw-job-cut-layoff-8000",
+    "publisher": "TheStreet",
+    "date": "2026-07-30T22:07:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Americans are leasing fewer cars",
+    "link": "https://finance.yahoo.com/news/why-americans-leasing-fewer-cars-101037024.html",
+    "publisher": "Reuters",
+    "date": "2026-07-30T10:10:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stellantis Swings to Profit on Robust North America Shipments",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-swings-profit-robust-north-060000793.html",
+    "publisher": "Bloomberg",
+    "date": "2026-07-30T06:00:00Z",
+    "type": "STORY"
   },
   {
     "title": "Mercedes CEO says intense China competition is \"a new reality\"",
@@ -18,6 +32,13 @@
     "link": "https://finance.yahoo.com/video/german-audi-workers-seek-clarity-145115788.html",
     "publisher": "Reuters Videos",
     "date": "2026-07-29T14:51:15Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Luxury brands, automakers signal consumer weakness from China",
+    "link": "https://finance.yahoo.com/video/luxury-brands-automakers-signal-consumer-140000431.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-07-29T14:00:00Z",
     "type": "VIDEO"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/mercedes-earnings-beat-expectations-lifting-german-auto-stocks-Hn7XM2QY2ldBKq348UFm?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-07-28T17:31:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Rivian (RIVN) Stock Looks Weak On Returns Yet Rich On Sales",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-rivn-stock-looks-weak-160942197.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-07-28T16:09:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "From Penny Stock to Takeover Target: Who Will Snap Up QuantumScape?",
-    "link": "https://247wallst.com/investing/2026/07/28/from-penny-stock-to-takeover-target-who-will-snap-up-quantumscape/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-07-28T13:15:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Mercedes CEO urges German 'productivity offensive' as China woes hit profit",
-    "link": "https://finance.yahoo.com/economy/policy/articles/mercedes-ceo-urges-german-productivity-101953005.html",
-    "publisher": "AFP",
-    "date": "2026-07-28T10:19:53Z",
     "type": "STORY"
   }
 ]

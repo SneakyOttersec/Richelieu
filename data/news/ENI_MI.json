@@ -1,9 +1,30 @@
 [
   {
     "title": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd9a2385?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-40b6935a?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-07-29T21:20:00Z",
+    "date": "2026-07-30T21:22:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eni Q2 Earnings Miss Estimates Despite Strong Production Growth",
+    "link": "https://finance.yahoo.com/energy/articles/eni-q2-earnings-miss-estimates-185100580.html",
+    "publisher": "Zacks",
+    "date": "2026-07-30T18:51:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eni (BIT:ENI) Stock Could Be Pricey On Fresh UAE Gas Project News",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/eni-bit-eni-stock-could-050755774.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-30T05:07:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eni (E) Q2 2026 Earnings Call Transcript",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/07/29/eni-e-q2-2026-earnings-call-transcript/",
+    "publisher": "Motley Fool",
+    "date": "2026-07-30T00:42:35Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/eni-increases-2026-buybacks-production-093000528.html",
     "publisher": "Oilprice.com",
     "date": "2026-07-29T09:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eni Raises 2026 Output Forecast and Expands Share Buyback to €3.4 Billion",
-    "link": "https://finance.yahoo.com/energy/articles/eni-raises-2026-output-forecast-072000596.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-07-29T07:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eni Hikes Share Buyback Again After Conflict Gives Earnings Boost",
-    "link": "https://www.wsj.com/business/energy-oil/eni-hikes-share-buyback-again-after-conflict-gives-earnings-boost-4a1fc724?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-29T07:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies, Eni reach agreement to develop Cyprus’ Cronos gas field",
-    "link": "https://www.offshore-technology.com/news/totalenergies-eni-cronos-gas-field/",
-    "publisher": "Offshore Technology",
-    "date": "2026-07-28T14:11:32Z",
     "type": "STORY"
   }
 ]

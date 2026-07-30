@@ -1,5 +1,61 @@
 [
   {
+    "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-07-30T22:46:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+    "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194608510.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-30T19:46:08Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Healthcare Stocks Decline Thursday Afternoon",
+    "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-thursday-173531275.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-30T17:35:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Should You Buy, Sell or Hold Merck Stock Ahead of Q2 Earnings?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-merck-stock-171500419.html",
+    "publisher": "Zacks",
+    "date": "2026-07-30T17:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Lilly Boosts Diabetes and Obesity Capacity With $750 Million Deal",
+    "link": "https://finance.yahoo.com/healthcare/articles/lilly-boosts-diabetes-obesity-capacity-161957060.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-07-30T16:19:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Eli Lilly (LLY) Joins Illumina’s Billion Cell Atlas For AI Drug Discovery",
+    "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-joins-illumina-140733174.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-07-30T14:07:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Pfizer Inc. (PFE) vs. Eli Lilly and Company (LLY): The Growth vs. Value Play in Pharma",
+    "link": "https://finance.yahoo.com/healthcare/articles/pfizer-inc-pfe-vs-eli-111912084.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-07-30T11:19:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Telix landed a $2.1 billion radiopharma deal with Regeneron",
+    "link": "https://www.pharmavoice.com/news/telix-radiopharma-deal-regeneron-drug-pharma/826503/",
+    "publisher": "Pharma Voice",
+    "date": "2026-07-30T09:12:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "How Much Eli Lilly (LLY) Are You Really Betting On?",
     "link": "https://www.trefis.com/articles/609292/how-much-eli-lilly-lly-are-you-really-betting-on/2026-07-29",
     "publisher": "Trefis",
@@ -11,62 +67,6 @@
     "link": "https://www.fool.com/investing/2026/07/29/meet-the-stock-thats-obliterating-eli-lilly-johnso/",
     "publisher": "Motley Fool",
     "date": "2026-07-29T21:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hims & Hers Stock Plunges After FTC Sues Over Alleged Privacy Violations",
-    "link": "https://www.barrons.com/articles/hims-hers-stock-federal-lawsuit-3c25e68c?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-29T19:28:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Real Price of AbbVie Stock Is Cheaper Than You Think",
-    "link": "https://www.trefis.com/articles/609282/the-real-price-of-abbvie-stock-is-cheaper-than-you-think/2026-07-29",
-    "publisher": "Trefis",
-    "date": "2026-07-29T18:11:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How Will Ozempic and Wegovy Sales Aid NVO's Upcoming Q2 Results?",
-    "link": "https://finance.yahoo.com/healthcare/articles/ozempic-wegovy-sales-aid-nvos-153900197.html",
-    "publisher": "Zacks",
-    "date": "2026-07-29T15:39:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-earnings-expected-140026778.html",
-    "publisher": "Zacks",
-    "date": "2026-07-29T14:00:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
-    "link": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-29T12:26:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
-    "link": "https://www.fool.com/investing/2026/07/29/watch-out-eli-lilly-and-novo-nordisk-amgens-monthl/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-29T11:50:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Johnson & Johnson vs. Eli Lilly: Reliable Stability vs. Rapid Revenue Growth",
-    "link": "https://www.fool.com/coverage/charts/2026/07/29/johnson-and-johnson-vs-eli-lilly-reliable-stability-vs-rapid-revenue-growth/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-29T11:44:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eli Lilly Is Acquiring AtaiBeckley for $2.8 Billion. Cathie Wood Thinks Another Psychedelic Drug Stock Is an Even Better Bet.",
-    "link": "https://www.fool.com/investing/2026/07/29/eli-lilly-is-acquiring-ataibeckley-for-28-billion/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-29T09:20:00Z",
     "type": "STORY"
   }
 ]

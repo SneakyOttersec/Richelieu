@@ -1,5 +1,40 @@
 [
   {
+    "title": "Schneider Electric is helping develop AI infrastructure in a 'very responsible' way",
+    "link": "https://finance.yahoo.com/video/schneider-electric-helping-develop-ai-165840000.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-07-30T16:58:40Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Fears of an AI Spending Crash Aren’t Showing Up in Infrastructure Earnings, Far From It",
+    "link": "https://www.barrons.com/articles/ai-infrastructure-spending-crash-pwr-stock-10fcdde3?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-07-30T20:17:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-7280f1d8?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-30T16:52:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Earnings, Oil, Bank of England Boost European Bourses Midday",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/earnings-oil-bank-england-boost-114255715.html",
+    "publisher": "MT Newswires",
+    "date": "2026-07-30T11:42:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Schneider Electric Upgrades Targets After Record First-Half Performance",
+    "link": "https://www.wsj.com/business/retail/schneider-electric-upgrades-targets-after-record-first-half-performance-d05eb3e2?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-30T06:15:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Schneider Electric debuts streamlined EV charging for fleets, commercial facilities",
     "link": "https://www.facilitiesdive.com/news/schneider-electric-debuts-streamlined-ev-charging-for-fleets-commercial-fa/825985/",
     "publisher": "Facilities Dive",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/schneider-electric-enxtpa-su-buys-191207025.html",
     "publisher": "Simply Wall St.",
     "date": "2026-07-06T19:12:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Keel Infrastructure appoints former REIT executive Ganesh Aiyer as president amid 2.2 GW AI pipeline push",
-    "link": "https://blockspace.media/insight/keel-infrastructure-appoints-ganesh-aiyer/",
-    "publisher": "Blockspace",
-    "date": "2026-07-06T14:01:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How Cognex Corporation’s (CGNX) Machine Vision Focus Keeps It Close to AI-Enabled Factory Automation",
-    "link": "https://finance.yahoo.com/technology/ai/articles/cognex-corporation-cgnx-machine-vision-021811128.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-07-06T02:18:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European shares pause after rally as concerns over Fed rates, Iran peace deal linger",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-pause-rally-doubts-072341865.html",
-    "publisher": "Reuters",
-    "date": "2026-07-01T16:12:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Schneider Electric acquires Cognite in $3.1 billion deal",
-    "link": "https://qz.com/schneider-electric-cognite-acquisition-industrial-ai-070126",
-    "publisher": "Quartz",
-    "date": "2026-07-01T13:31:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-    "link": "https://finance.yahoo.com/technology/ai/articles/schneider-electric-buys-cognite-3-195056355.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-06-30T19:50:56Z",
     "type": "STORY"
   }
 ]

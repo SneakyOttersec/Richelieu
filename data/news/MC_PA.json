@@ -1,12 +1,5 @@
 [
   {
-    "title": "Luxury brands, automakers signal consumer weakness from China",
-    "link": "https://finance.yahoo.com/video/luxury-brands-automakers-signal-consumer-140000431.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-07-29T14:00:00Z",
-    "type": "VIDEO"
-  },
-  {
     "title": "LVMH CEO Bernard Arnault reveals he owned nearly 20% of Netflix, but cashed out too early—his stake could be worth up to $60 billion today",
     "link": "https://finance.yahoo.com/markets/stocks/articles/lvmh-ceo-bernard-arnault-reveals-153719246.html",
     "publisher": "Fortune",
@@ -19,6 +12,13 @@
     "publisher": "The Wall Street Journal",
     "date": "2026-07-29T14:28:00Z",
     "type": "STORY"
+  },
+  {
+    "title": "Luxury brands, automakers signal consumer weakness from China",
+    "link": "https://finance.yahoo.com/video/luxury-brands-automakers-signal-consumer-140000431.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-07-29T14:00:00Z",
+    "type": "VIDEO"
   },
   {
     "title": "LVMH sells SirDavis shares to Beyoncé",
@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "European shares rise as Unilever lifts consumer stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-subdued-earnings-boost-072259811.html",
-    "publisher": "Reuters",
-    "date": "2026-07-28T16:41:27Z",
-    "type": "STORY"
-  },
-  {
     "title": "Bernard Arnault slams claim his kids are feuding for control of the $142 billion LVMH empire: ‘They burst out laughing … It is the stuff of novels’",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bernard-arnault-slams-claim-kids-105502134.html",
     "publisher": "Fortune",
@@ -67,6 +60,13 @@
     "link": "https://www.retail-insight-network.com/news/lvmh-revenue-dips-3-h1-2026/",
     "publisher": "Retail Insight Network",
     "date": "2026-07-28T09:25:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Apple, Microsoft, Amazon, LVMH, AstraZeneca, Shell, Airbus and UBS",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-091300766.html",
+    "publisher": "Zacks",
+    "date": "2026-07-28T09:13:00Z",
     "type": "STORY"
   }
 ]

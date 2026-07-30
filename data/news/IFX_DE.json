@@ -1,12 +1,5 @@
 [
   {
-    "title": "U.S. Chip Stocks Suffering from Fragile Investor Sentiment",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-6-dragged-by-chip-metals-stocks-1bd06fc9?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-28T09:03:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Chip Stocks Rise After Pause in Middle East Fighting",
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/chip-stocks-rise-after-pause-in-middle-east-fighting-NHvhzWkak3XHX9TpfSou?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-stock-story-hinges-161000777.html",
     "publisher": "Zacks",
     "date": "2026-07-10T16:10:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Allegro MicroSystems Trends Point to Higher Chip Content Ahead",
+    "link": "https://finance.yahoo.com/technology/articles/allegro-microsystems-trends-point-higher-160700932.html",
+    "publisher": "Zacks",
+    "date": "2026-07-10T16:07:00Z",
     "type": "STORY"
   }
 ]
