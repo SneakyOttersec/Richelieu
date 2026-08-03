@@ -1,9 +1,23 @@
 [
   {
     "title": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-40b6935a?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-07-30T21:22:00Z",
+    "date": "2026-08-03T21:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Equities Traded in the US as American Depositary Receipts Decline in Monday Trading",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150539652.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-03T15:05:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Energy Stocks Fall as Oil Slumps on Renewed U.S.-Iran Diplomacy",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-4-dragged-by-electronics-auto-stocks-e85119b4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-03T07:54:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-155601666.html",
     "publisher": "MT Newswires",
     "date": "2026-07-29T15:56:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Equities Traded in US as ADRs Ease in Wednesday Trading",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150507593.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-29T15:05:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eni Q2 2026 net profit increases to $2.65bn",
-    "link": "https://www.offshore-technology.com/news/eni-q2-2026-net-profit-increases/",
-    "publisher": "Offshore Technology",
-    "date": "2026-07-29T13:53:09Z",
     "type": "STORY"
   }
 ]

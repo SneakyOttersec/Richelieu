@@ -1,5 +1,40 @@
 [
   {
+    "title": "SoftBank, Hitachi, LG back Zenity’s $125 million round to police AI agents",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-hitachi-lg-back-zenity-130000367.html",
+    "publisher": "Fortune",
+    "date": "2026-08-03T13:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Seven & i secures Y300bn from PayPay, SoftBank and Sumitomo Mitsui",
+    "link": "https://www.retail-insight-network.com/news/seven-i-softbank-paypay-sumitomo-mitsui/",
+    "publisher": "Retail Insight Network",
+    "date": "2026-08-03T09:04:08Z",
+    "type": "STORY"
+  },
+  {
+    "title": "James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn",
+    "link": "https://finance.yahoo.com/technology/ai/articles/james-dacombe-25-triples-ai-040013470.html",
+    "publisher": "Financial Times",
+    "date": "2026-08-03T04:00:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "German Robotics Startup Agile Robots Set to Double Revenue This Year",
+    "link": "https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-03T01:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Stock May Be 11% Undervalued On Robotics Deal Plans",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-031544162.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-01T03:15:44Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-could-backstop-250-163019894.html",
     "publisher": "Insider Monkey",
@@ -32,41 +67,6 @@
     "link": "https://www.fool.com/investing/2026/07/27/why-nvidia-stock-nvda-fell-today/",
     "publisher": "Motley Fool",
     "date": "2026-07-28T03:38:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "KOSPI Crashes 8% as AI Chip Selloff Slams Asian Markets",
-    "link": "https://beincrypto.com/kospi-crash-ai-chip-selloff/",
-    "publisher": "BeInCrypto",
-    "date": "2026-07-28T02:13:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank's $40 Billion OpenAI Loan Adds 21 New Lenders",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-40-billion-openai-loan-205628520.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-27T20:56:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.",
-    "link": "https://www.barrons.com/articles/nvidia-stock-price-openai-finance-deal-b9c8993b?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-07-27T20:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Stock Slumps After Data-Center Report",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-07-27T20:21:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Guarantees $250B for OpenAI So Everyone One Day Can Get Paid",
-    "link": "https://app.moby.co/home/news/news-nvidia-guarantees-250b-for-openai-so-everyone-one-day-can-get-paid?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-07-27T19:39:29Z",
     "type": "STORY"
   }
 ]

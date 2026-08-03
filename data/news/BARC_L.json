@@ -1,5 +1,61 @@
 [
   {
+    "title": "Former Barclays chief Jenkins raises £40m for tech platform 10x Banking",
+    "link": "https://uk.finance.yahoo.com/news/former-barclays-chief-jenkins-raises-161600255.html",
+    "publisher": "Sky News",
+    "date": "2026-08-03T16:16:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Barclays and Houlihan Lokey lead financial services M&A advisers in H1 2026",
+    "link": "https://www.privatebankerinternational.com/news/financial-services-ma-advisers-h1-2026/",
+    "publisher": "Private Banker International",
+    "date": "2026-08-03T13:46:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Yen Surge Will Drive Up Other Asian Currencies, Strategists Say",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/yen-surge-drive-other-asian-072607194.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-03T07:26:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
+    "link": "https://finance.yahoo.com/markets/options/articles/banks-offload-risk-leveraged-etfs-110000259.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-02T11:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-fair-value-002042933.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-02T00:20:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-01T12:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Walmex (BMV:WALMEX *) Stock Sees Modest Fair Value Cut On Softer Mexico Consumer Trends",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/walmex-bmv-walmex-stock-sees-111540865.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-01T11:15:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Veralto (VLTO) Stock Fair Value Edges Higher After Q2 Guidance And Analyst Target Lifts",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-stock-fair-value-081339914.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-01T08:13:39Z",
+    "type": "STORY"
+  },
+  {
     "title": "Amazon Stock Soars 15.2% as Analysts Race to Raise Targets",
     "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-soars-15-2-192413706.html",
     "publisher": "GuruFocus.com",
@@ -11,62 +67,6 @@
     "link": "https://uk.finance.yahoo.com/news/natwest-profits-fifth-ai-led-085451468.html",
     "publisher": "PA Media: Money",
     "date": "2026-07-31T08:54:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The 24-Hour Race to Salvage Situational Awareness’ Souring Bets",
-    "link": "https://finance.yahoo.com/technology/ai/articles/24-hour-race-salvage-situational-235919798.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-30T23:59:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Warsh Hints at New Inflation Roadmap, Stoking Investor Angst",
-    "link": "https://finance.yahoo.com/economy/policy/articles/warsh-hints-inflation-roadmap-stoking-194543740.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-30T19:45:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "‘Talk Is Cheap’: Wall Street Delivers Harsh Verdict on Warsh Fed",
-    "link": "https://finance.yahoo.com/economy/policy/articles/talk-cheap-wall-street-delivers-155120082.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-30T15:51:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Goldman, Barclays, Jefferies Cut Robinhood Targets Despite Earnings Beat",
-    "link": "https://beincrypto.com/robinhood-price-target-cuts-hood-q2/",
-    "publisher": "BeInCrypto",
-    "date": "2026-07-30T14:18:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US GDP Growth Softens Despite Strong Consumer, Investment",
-    "link": "https://finance.yahoo.com/news/us-gdp-growth-softens-despite-134637542.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-30T13:46:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UBS Group Q2 Earnings & Revenues Increase Y/Y Despite Higher Expenses",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-group-q2-earnings-revenues-175700720.html",
-    "publisher": "Zacks",
-    "date": "2026-07-29T17:57:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "DB Q2 Earnings Rise Y/Y on Higher Revenues, New Buyback Plan Announced",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/db-q2-earnings-rise-y-171400621.html",
-    "publisher": "Zacks",
-    "date": "2026-07-29T17:14:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Wall Street’s Trading Records Leave European Banks in Their Wake",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-trading-records-leave-110532874.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-29T11:05:32Z",
     "type": "STORY"
   }
 ]
