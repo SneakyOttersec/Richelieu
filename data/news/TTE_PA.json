@@ -1,5 +1,54 @@
 [
   {
+    "title": "BP profit more than doubles as Middle East conflict boosts oil prices",
+    "link": "https://www.euronews.com/2026/08/04/bp-profit-more-than-doubles-as-middle-east-conflict-boosts-oil-prices",
+    "publisher": "Euronews",
+    "date": "2026-08-04T17:18:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Energy Transfer Q2 Earnings Beat Estimates on NGL Growth, View Up",
+    "link": "https://finance.yahoo.com/energy/articles/energy-transfer-q2-earnings-beat-160800282.html",
+    "publisher": "Zacks",
+    "date": "2026-08-04T16:08:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BP profit soars as Mideast war roils energy prices",
+    "link": "https://finance.yahoo.com/energy/articles/bp-profit-soars-mideast-war-082500397.html",
+    "publisher": "AFP",
+    "date": "2026-08-04T12:57:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BP Q2 2026 earnings: Profit doubles amid Iran war as oil prices rise",
+    "link": "https://qz.com/bp-second-quarter-profit-doubles-iran-war-oil-prices-080426",
+    "publisher": "Quartz",
+    "date": "2026-08-04T12:01:59Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies to buy Shell's wind and solar businesses in Europe",
+    "link": "https://www.euronews.com/2026/08/04/totalenergies-to-buy-shells-wind-and-solar-business-in-europe",
+    "publisher": "Euronews",
+    "date": "2026-08-04T08:21:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Shell to Sell European Onshore Renewables Portfolio to TotalEnergies",
+    "link": "https://finance.yahoo.com/energy/articles/shell-sell-european-onshore-renewables-014000999.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-08-04T01:40:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "How Namibia Pulled Ahead In Africa’s Hottest Offshore Oil Basin",
+    "link": "https://finance.yahoo.com/energy/articles/namibia-pulled-ahead-africa-hottest-000000066.html",
+    "publisher": "Oilprice.com",
+    "date": "2026-08-04T00:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-buys-shell-141053512.html",
     "publisher": "Simply Wall St.",
     "date": "2026-08-03T14:10:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies buys all of Shell’s European renewable energy assets",
-    "link": "https://www.esgdive.com/news/totalenergies-buys-all-of-shells-european-renewable-energy-assets/826849/",
-    "publisher": "ESG Dive",
-    "date": "2026-08-03T12:41:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why are Shell and BP moving away from renewables?",
-    "link": "https://finance.yahoo.com/video/why-shell-bp-moving-away-121857802.html",
-    "publisher": "Reuters Videos",
-    "date": "2026-08-03T12:18:57Z",
-    "type": "VIDEO"
-  },
-  {
-    "title": "TotalEnergies acquires Shell's renewables business",
-    "link": "https://www.energyglobal.com/solar/03082026/totalenergies-acquires-shells-renewables-business/?yptr=yahoo",
-    "publisher": "Energy Global",
-    "date": "2026-08-03T12:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "POWER Digest [August 2026]",
-    "link": "https://www.powermag.com/power-digest-august-2026/",
-    "publisher": "POWER Magazine",
-    "date": "2026-08-03T11:31:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell Sells European Onshore Renewables Portfolio to TotalEnergies",
-    "link": "https://finance.yahoo.com/energy/articles/shell-sells-european-onshore-renewables-113000632.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-08-03T11:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies signs renewables deals with Shell and KKR in Europe",
-    "link": "https://www.power-technology.com/news/totalenergies-renewables-deals-shell-kkr/",
-    "publisher": "Power Technology",
-    "date": "2026-08-03T11:28:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell sells solar and wind operations to France's TotalEnergies",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096437/shell-sells-solar-and-wind-operations-to-france-s-totalenergies-1096437.html",
-    "publisher": "Proactive",
-    "date": "2026-08-03T10:59:00Z",
     "type": "STORY"
   }
 ]

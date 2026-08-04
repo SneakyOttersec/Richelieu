@@ -1,5 +1,26 @@
 [
   {
+    "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
+    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10-billion-computing-120000547.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-04T12:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank's AI funding plans to face reckoning at earnings",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html",
+    "publisher": "Reuters",
+    "date": "2026-08-04T06:14:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Japan Stocks Shrug Off Yen Shock, But Kioxia Signals More Pain Ahead",
+    "link": "https://beincrypto.com/kioxia-yen-intervention-nikkei-risk/",
+    "publisher": "BeInCrypto",
+    "date": "2026-08-04T02:50:22Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank, Hitachi, LG back Zenity’s $125 million round to police AI agents",
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-hitachi-lg-back-zenity-130000367.html",
     "publisher": "Fortune",
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-faces-balance-sheet-ai-200505901.html",
     "publisher": "GuruFocus.com",
     "date": "2026-07-28T20:05:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jim Chanos Says Nvidia Is Effectively Financing Its Own AI Chip Sales in Reported OpenAI Deal",
-    "link": "https://finance.yahoo.com/technology/ai/articles/jim-chanos-says-nvidia-effectively-163036179.html",
-    "publisher": "Benzinga",
-    "date": "2026-07-28T16:30:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Stock Sinks After Report Raises Fresh AI Bubble Fears",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-sinks-report-raises-121123537.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-28T12:11:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Nvidia Stock Fell Today",
-    "link": "https://www.fool.com/investing/2026/07/27/why-nvidia-stock-nvda-fell-today/",
-    "publisher": "Motley Fool",
-    "date": "2026-07-28T03:38:44Z",
     "type": "STORY"
   }
 ]

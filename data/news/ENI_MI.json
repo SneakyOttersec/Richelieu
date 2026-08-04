@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Equities Traded in US as ADRs Advance in Tuesday Trading",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150615834.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-04T15:06:15Z",
+    "type": "STORY"
+  },
+  {
     "title": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -11,6 +18,13 @@
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150539652.html",
     "publisher": "MT Newswires",
     "date": "2026-08-03T15:05:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "This fusion startup just raised another $1 billion for its first commercial power plant",
+    "link": "https://www.fastcompany.com/91583353/this-fusion-startup-just-raised-another-1-billion-for-its-first-commercial-power-plant",
+    "publisher": "FastCompany",
+    "date": "2026-08-03T12:11:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.marketbeat.com/instant-alerts/eni-q2-earnings-call-highlights-2026-07-29/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-07-29T21:04:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Eni SpA (E) Q2 2026 Earnings Call Highlights: Doubling Net Income and Strategic Growth Amidst ...",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/eni-spa-e-q2-2026-190330928.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-29T19:03:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Close Mixed Wednesday; Oil Stocks Surge on Middle East Fighting",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-155601666.html",
-    "publisher": "MT Newswires",
-    "date": "2026-07-29T15:56:01Z",
     "type": "STORY"
   }
 ]
