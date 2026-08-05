@@ -1,5 +1,61 @@
 [
   {
+    "title": "Micron Retreats From Earlier Gains After Musk Flagged Surging Memory Prices",
+    "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-9685ac02?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-08-05T21:28:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195238828.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-05T19:52:38Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-180105908.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-05T18:01:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nike Stock Falls 3.6% After JPMorgan Warns of $1 Billion Hit",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-falls-3-6-150800037.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-05T15:08:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Gold Fields (JSE:GFI) Stock Fair Value Falls After Analysts Cut Targets",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gold-fields-jse-gfi-stock-141023611.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-05T14:10:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Euroapi (ENXTPA:EAPI) Stock Sees Fair Value Cut As JPMorgan Rebased Expectations",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/euroapi-enxtpa-eapi-stock-sees-131041036.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-05T13:10:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Jamie Dimon Reportedly Wants Banks, Tech Giants, Utilities, And Other Sectors To Team Up Against AI Risks As Trump Finalizes Frontier AI Guidelines",
+    "link": "https://stocktwits.com/news-articles/markets/equity/jamie-dimon-banks-tech-utilities-team-up-against-ai-risks-trump-guidelines/cZo4o32RJIi",
+    "publisher": "Stocktwits",
+    "date": "2026-08-05T11:40:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Should JPMorgan Diversified Return U.S. Equity ETF (JPUS) Be on Your Investing Radar?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-diversified-return-u-equity-102002190.html",
+    "publisher": "Zacks",
+    "date": "2026-08-05T10:20:02Z",
+    "type": "STORY"
+  },
+  {
     "title": "JPMorgan Chase (JPM) Puts Housing First, But Is The Valuation Case Already Priced In?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-puts-housing-211147115.html",
     "publisher": "Simply Wall St.",
@@ -7,66 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195128226.html",
-    "publisher": "MT Newswires",
-    "date": "2026-08-04T19:51:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Financial Stocks Advance Tuesday Afternoon",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-tuesday-175156550.html",
-    "publisher": "MT Newswires",
-    "date": "2026-08-04T17:51:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "16 Investment Must Reads for This Week (Aug. 4, 2026)",
-    "link": "https://www.wealthmanagement.com/etfs/16-investment-must-reads-for-this-week-aug-4-2026-",
-    "publisher": "Wealth Management",
-    "date": "2026-08-04T15:30:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Goldman's AI Strategy: Transforming Operations & Unlocking New Growth",
-    "link": "https://finance.yahoo.com/technology/ai/articles/goldmans-ai-strategy-transforming-operations-145900408.html",
-    "publisher": "Zacks",
-    "date": "2026-08-04T14:59:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bond Dealers Expect US Will Avoid Signaling Auction Increases",
-    "link": "https://finance.yahoo.com/economy/policy/articles/bond-dealers-expect-us-avoid-135823089.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-04T13:58:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "JPMorgan to deploy $750B for affordable housing by 2035",
-    "link": "https://www.esgdive.com/news/jpmorgan-to-deploy-750b-for-affordable-housing-by-2035-american-dream-initiative/826966/",
-    "publisher": "ESG Dive",
-    "date": "2026-08-04T12:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "JPMorgan cuts Nike to Underweight, sees EPS well below consensus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cuts-nike-underweight-sees-121708338.html",
-    "publisher": "Investing.com",
-    "date": "2026-08-04T12:17:08Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jamie Dimon Just Said He Wouldn't Buy the S&P 500 or Long-Dated Treasuries at Current Prices, a Red Flag for Investors",
-    "link": "https://www.fool.com/investing/2026/08/04/jamie-dimon-buy-sp-500-treasuries-red-flag/",
-    "publisher": "Motley Fool",
-    "date": "2026-08-04T12:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "4 Non-Tech Stocks to Grab as Dow Hits New Milestone Amid AI Sell-off",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/4-non-tech-stocks-grab-115400652.html",
-    "publisher": "Zacks",
-    "date": "2026-08-04T11:54:00Z",
+    "title": "JPMorgan Says Bet NVDA, AMD, but Morgan Stanley Backs MSFT, GOOGL: What Is the Best AI Trade?",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/60932483/jpmorgan-says-bet-nvda-amd-but-morgan-stanley-backs-msft-googl-what-is-the-best-ai-trade?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+    "publisher": "Benzinga Prediction Markets",
+    "date": "2026-08-04T20:36:20Z",
     "type": "STORY"
   }
 ]
