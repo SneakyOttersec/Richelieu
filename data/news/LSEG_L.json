@@ -1,16 +1,44 @@
 [
   {
+    "title": "Atlassian beats quarterly estimates on strong cloud demand",
+    "link": "https://finance.yahoo.com/technology/articles/atlassian-beats-quarterly-estimates-strong-215239768.html",
+    "publisher": "Reuters",
+    "date": "2026-08-06T21:52:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
+    "link": "https://finance.yahoo.com/technology/articles/microchip-tech-forecasts-upbeat-quarterly-215115053.html",
+    "publisher": "Reuters",
+    "date": "2026-08-06T21:51:15Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Zoetis cuts annual forecasts as pet healthcare demand slows",
+    "link": "https://finance.yahoo.com/healthcare/articles/zoetis-cuts-annual-forecasts-pet-121132124.html",
+    "publisher": "Reuters",
+    "date": "2026-08-06T12:11:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Honeywell Aerospace shares tumble after company cuts 2026 guidance",
+    "link": "https://investorshub.advfn.com/market-news/article/33585/honeywell-aerospace-shares-tumble-after-company-cuts-2026-guidance",
+    "publisher": "InvestorsHub",
+    "date": "2026-08-06T10:17:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Honeywell Aerospace shares plunge as company cuts 2026 sales outlook",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-shares-plunge-company-092847220.html",
+    "publisher": "Investing.com",
+    "date": "2026-08-06T09:28:47Z",
+    "type": "STORY"
+  },
+  {
     "title": "Western Digital forecasts upbeat revenue but shares fall on lofty expectations",
     "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-forecasts-upbeat-revenue-205859177.html",
     "publisher": "Reuters",
     "date": "2026-08-05T20:58:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "EBay forecasts quarterly revenue above estimates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-forecasts-quarterly-revenue-above-201034791.html",
-    "publisher": "Reuters",
-    "date": "2026-08-05T20:10:34Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://app.moby.co/home/news/news-spacex-spends-184-billion-somehow-beats-estimates-in-first-quarter-ever?utm_source=yahoo_finance&utm_medium=rss",
     "publisher": "Moby",
     "date": "2026-08-04T20:32:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Waters lifts annual forecasts on strong lab-equipment and diagnostics demand",
-    "link": "https://ca.finance.yahoo.com/news/waters-lifts-annual-forecasts-strong-111505757.html",
-    "publisher": "Reuters",
-    "date": "2026-08-04T11:15:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "London Stock Exchange Group (LSE:LSEG) Stock Gets Fair Value Trim After Neutral Analyst Shift",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/london-stock-exchange-group-lse-070931741.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-03T07:09:31Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stryker nets $6.6bn revenue in Q2; highlights resilience following cyberattack",
-    "link": "https://www.medicaldevice-network.com/news/stryker-nets-6-bn-revenue-in-q2-highlights-resilience-following-cyberattack/",
-    "publisher": "Medical Device Network",
-    "date": "2026-07-31T11:23:48Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UK regulator moves to simplify access to share-market data",
-    "link": "https://www.proactiveinvestors.com/companies/news/1096354/uk-regulator-moves-to-simplify-access-to-share-market-data-1096354.html",
-    "publisher": "Proactive",
-    "date": "2026-07-31T10:01:00Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,54 @@
 [
   {
+    "title": "News of the day: Suncor CEO stepping down, GTA housing, Burger King dethrones Tim Hortons, quantum-imaging startup, investing regulations and more",
+    "link": "https://financialpost.com/uncategorized/news-of-the-day-suncor-ceo-stepping-down-gta-housing-burger-king-dethrones-tim-hortons-quantum-imaging-startup-investing-regulations-and-more",
+    "publisher": "Financial Post",
+    "date": "2026-08-06T21:34:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TSX Closer: Index Slips From Record High as Tech Weakness Offsets Oil-Driven Energy Gains",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-slips-record-203317614.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-06T20:33:17Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sector Update: Energy",
+    "link": "https://finance.yahoo.com/energy/articles/sector-energy-193602275.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-06T19:36:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Suncor CEO Rich Kruger stepping down in 2027",
+    "link": "https://financialpost.com/commodities/energy/oil-gas/suncor-ceo-rich-kruger-stepping-down-2027",
+    "publisher": "Financial Post",
+    "date": "2026-08-06T17:39:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Suncor to Promote Peter Zebedee to CEO",
+    "link": "https://www.wsj.com/business/c-suite/suncor-to-promote-peter-zebedee-to-ceo-3fe510b3?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-06T13:44:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Suncor Energy (TSX:SU) Stock Still Looks Cheap As Its 342% Run Continues",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/suncor-energy-tsx-su-stock-101520659.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-06T10:15:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is Suncor Energy (TSX:SU) Undervalued As Strong Q2 Results Keep The Story Moving?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/suncor-energy-tsx-su-undervalued-050946041.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-06T05:09:46Z",
+    "type": "STORY"
+  },
+  {
     "title": "Suncor Energy Inc (SU) (Q2 2026) Earnings Call Highlights: Record AFFO and Strategic Buyback ...",
     "link": "https://finance.yahoo.com/energy/articles/suncor-energy-inc-su-q2-210841847.html",
     "publisher": "GuruFocus.com",
@@ -18,55 +67,6 @@
     "link": "https://financialpost.com/commodities/energy/suncor-energy-second-quarter-results",
     "publisher": "Financial Post",
     "date": "2026-08-05T01:57:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Suncor Energy (SU) Q2 Earnings and Revenues Surpass Estimates",
-    "link": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q2-earnings-230019611.html",
-    "publisher": "Zacks",
-    "date": "2026-08-04T23:00:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Suncor Tops Profit Estimates as High Oil Prices Boost Refining Margins",
-    "link": "https://finance.yahoo.com/energy/articles/suncor-tops-profit-estimates-high-223156683.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-08-04T22:31:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Suncor Energy (SU) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-    "link": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q2-earnings-131506582.html",
-    "publisher": "Zacks",
-    "date": "2026-08-03T13:15:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Imperial Oil (IMO) Beats Q2 Earnings Estimates",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/imperial-oil-imo-beats-q2-130502715.html",
-    "publisher": "Zacks",
-    "date": "2026-07-31T13:05:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Seeking Clues to Suncor Energy (SU) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-    "link": "https://finance.yahoo.com/energy/articles/seeking-clues-suncor-energy-su-131509467.html",
-    "publisher": "Zacks",
-    "date": "2026-07-30T13:15:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Suncor Energy to Report Q2 Earnings: What's in Store for the Stock?",
-    "link": "https://finance.yahoo.com/energy/articles/suncor-energy-report-q2-earnings-135900108.html",
-    "publisher": "Zacks",
-    "date": "2026-07-29T13:59:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Suncor Energy (SU) Reports Next Week: Wall Street Expects Earnings Growth",
-    "link": "https://finance.yahoo.com/energy/articles/suncor-energy-su-reports-next-140004670.html",
-    "publisher": "Zacks",
-    "date": "2026-07-28T14:00:04Z",
     "type": "STORY"
   }
 ]

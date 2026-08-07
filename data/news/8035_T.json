@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Indexes Rise as Earnings Drive Markets",
+    "link": "https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-06T07:37:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nikkei 225 Jumps 3% as Chip Stocks Rally on Iran Deal Hopes",
     "link": "https://beincrypto.com/nikkei-225-chip-stocks-iran-deal/",
     "publisher": "BeInCrypto",
@@ -60,13 +67,6 @@
     "link": "https://beincrypto.com/kospi-crash-ai-chip-selloff/",
     "publisher": "BeInCrypto",
     "date": "2026-07-28T02:13:33Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AI Memory Stocks Lead Chip Selloff",
-    "link": "https://finance.yahoo.com/technology/articles/ai-memory-stocks-lead-chip-182413900.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-07-24T18:24:13Z",
     "type": "STORY"
   }
 ]
