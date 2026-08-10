@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "Monte dei Paschi Net Profit Rises on Mediobanca Contribution",
-    "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-net-profit-rises-on-mediobanca-contribution-735dd323?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-05-12T06:56:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "UniCredit reports 8.72% Generali holding",
     "link": "https://www.lifeinsuranceinternational.com/news/unicredit-8-72-generali-holding/",
     "publisher": "Life Insurance International",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-mediobanca-bit-mb-valuation-190557768.html",
     "publisher": "Simply Wall St.",
     "date": "2026-04-17T19:05:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Assessing Mediobanca (BIT:MB) Valuation After Recent Share Price Weakness And Mixed Fair Value Signals",
+    "link": "https://finance.yahoo.com/news/assessing-mediobanca-bit-mb-valuation-010729410.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-03-16T01:07:29Z",
     "type": "STORY"
   }
 ]

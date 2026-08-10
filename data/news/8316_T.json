@@ -56,17 +56,17 @@
     "type": "STORY"
   },
   {
-    "title": "SoftBank Considers Stake in Seven & i to Boost AI, Payments",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-considers-stake-seven-boost-084918612.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-10T08:49:18Z",
-    "type": "STORY"
-  },
-  {
     "title": "Japanese Banks Collaborate On New Stablecoin",
     "link": "https://www.cryptoprowl.com/releases/japanese-banks-collaborate-on-new-stablecoin-5831",
     "publisher": "CryptoProwl",
     "date": "2026-06-10T15:30:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sumitomo Mitsui Financial Group (TSE:8316) Valuation Check After Strong Recent Share Price Momentum",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-financial-group-tse-140832860.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-26T14:08:32Z",
     "type": "STORY"
   }
 ]
