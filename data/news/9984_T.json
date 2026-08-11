@@ -1,5 +1,40 @@
 [
   {
+    "title": "Intel's huge rally is helping pay for its AI comeback",
+    "link": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-08-11T16:11:30Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-show-financial-force-soothes-203808018.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-11T20:38:08Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI Gives Employees a $7 Billion Cash Exit",
+    "link": "https://finance.yahoo.com/technology/ai/articles/openai-gives-employees-7-billion-191856869.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-11T19:18:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Investors Hated Intel’s $15 Billion Stock Sale, but Wall Street Wanted $100 Billion Worth",
+    "link": "https://247wallst.com/investing/2026/08/11/investors-hated-intels-15-billion-stock-sale-but-wall-street-wanted-100-billion-worth/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-08-11T11:36:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI Skips Outside Buyers for $7 Billion Tender as IPO Preparation Ramps Up",
+    "link": "https://beincrypto.com/openai-employee-tender-buyback-ipo/",
+    "publisher": "BeInCrypto",
+    "date": "2026-08-10T22:49:18Z",
+    "type": "STORY"
+  },
+  {
     "title": "OpenAI Buys Back $7 Billion of Employee Shares in Tender Offer",
     "link": "https://finance.yahoo.com/technology/ai/articles/openai-buys-back-7-billion-202608285.html",
     "publisher": "Bloomberg",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/data-center-firm-switch-file-212300578.html",
     "publisher": "Bloomberg",
     "date": "2026-08-07T21:23:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Stock Drops 6.1% as AI Funding Pressure Intensifies",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-stock-drops-6-1-195054327.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-08-07T19:50:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/paypay-payp-unveils-capital-alliance-081303939.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-07T08:13:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Indexes Gain in Muted Early Trade",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-07T07:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "KOSPI, Nikkei Reverse Gains as SoftBank, SK Hynix Both Drop",
-    "link": "https://beincrypto.com/kospi-nikkei-softbank-sk-hynix-selloff/",
-    "publisher": "BeInCrypto",
-    "date": "2026-08-07T04:49:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is SoftBank Group (TSE:9984) Fully Valued On Its New ¥90b Bond Raise?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-fully-031950487.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-07T03:19:50Z",
     "type": "STORY"
   }
 ]

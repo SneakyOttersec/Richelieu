@@ -1,5 +1,54 @@
 [
   {
+    "title": "How Mastercard is boosting stablecoin infrastructure",
+    "link": "https://finance.yahoo.com/video/mastercard-boosting-stablecoin-infrastructure-120000059.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-08-11T12:00:00Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "Circle Internet Is Still Down 10% in 2026. What Will It Take to Get CRCL Stock Back Up to $100?",
+    "link": "https://247wallst.com/investing/2026/08/11/circle-internet-is-still-down-10-in-2026-what-will-it-take-to-get-crcl-stock-back-up-to-100/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-08-11T19:25:16Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Mastercard Stock Rises as Services Revenue Jumps 20%",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-services-revenue-191437142.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-11T19:14:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Visa Inc. (V) vs. Mastercard Incorporated (MA): Same Strong Spending Story, Very Different Stock Reactions",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-vs-mastercard-182054581.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-08-11T18:20:54Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Will Pismo-DPS Help Visa Capture More of the Banking Value Chain?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pismo-dps-help-visa-capture-160400693.html",
+    "publisher": "Zacks",
+    "date": "2026-08-11T16:04:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Visa's Cheaper Multiple Rests On A Margin Assumption",
+    "link": "https://www.trefis.com/articles/611005/visas-cheaper-multiple-rests-on-a-margin-assumption/2026-08-11",
+    "publisher": "Trefis",
+    "date": "2026-08-11T13:46:35Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Cloudflare Wants to Control the Identity and Money Layer for Agent Commerce",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cloudflare-wants-control-identity-money-061021630.html",
+    "publisher": "Forkast News",
+    "date": "2026-08-11T06:10:21Z",
+    "type": "STORY"
+  },
+  {
     "title": "What Wall Street Pushed MA To Explain",
     "link": "https://www.trefis.com/articles/610750/what-wall-street-pushed-ma-to-explain/2026-08-10",
     "publisher": "Trefis",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-cuts-2026-outlook-margin-142700571.html",
     "publisher": "Zacks",
     "date": "2026-08-10T14:27:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The Real Upside Case For Mastercard Stock Is In The Plumbing",
-    "link": "https://www.trefis.com/articles/610755/the-real-upside-case-for-mastercard-stock-is-in-the-plumbing/2026-08-10",
-    "publisher": "Trefis",
-    "date": "2026-08-10T13:56:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How Investors Are Reacting To Fiserv (FISV) Weaker Guidance Amid Portfolio Shift And Activist Pressure",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-fiserv-fisv-weaker-081328470.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-08T08:13:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Circle Internet Group (CRCL) Launches Arc As Its Growth Story Moves Beyond USDC",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-crcl-launches-041923139.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-08T04:19:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Mastercard (MA) Q2 2026 Earnings Call Transcript",
-    "link": "https://www.fool.com/earnings/call-transcripts/2026/08/07/mastercard-ma-q2-2026-earnings-call-transcript/",
-    "publisher": "Motley Fool",
-    "date": "2026-08-08T01:30:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "PYPL Showered Owners With Cash. The Stock Still Lagged The Market",
-    "link": "https://www.trefis.com/articles/610547/pypl-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-08-07",
-    "publisher": "Trefis",
-    "date": "2026-08-07T21:31:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What Does Fiserv (FISV) Gain From Its New Merchant Services Partnership?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-fiserv-fisv-gain-merchant-190936503.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-07T19:09:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Reading Between The Lines Of V's Latest Call",
-    "link": "https://www.trefis.com/articles/610574/reading-between-the-lines-of-vs-latest-call/2026-08-07",
-    "publisher": "Trefis",
-    "date": "2026-08-07T18:18:03Z",
     "type": "STORY"
   }
 ]

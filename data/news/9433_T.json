@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "7-Eleven Owner Drops Go-It-Alone Strategy for SoftBank Embrace",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/7-eleven-owner-drops-alone-210000338.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-12T21:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Verizon lands significant new deal with auto giant",
     "link": "https://www.thestreet.com/retail/verizon-lands-deal-with-auto-giant-bmw",
     "publisher": "TheStreet",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/monex-articles-shake-kddi-crypto-202040230.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-13T20:20:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nasdaq-listed stock surges 30% on major announcements",
+    "link": "https://www.thestreet.com/crypto/markets/nasdaq-listed-stock-surges-30-on-major-announcements",
+    "publisher": "TheStreet",
+    "date": "2026-05-13T00:10:16Z",
     "type": "STORY"
   }
 ]
