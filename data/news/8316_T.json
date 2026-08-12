@@ -49,13 +49,6 @@
     "type": "STORY"
   },
   {
-    "title": "Warsh’s Balance-Sheet Panel Runs Into Market Reality Check",
-    "link": "https://finance.yahoo.com/economy/policy/articles/warsh-balance-sheet-panel-runs-175035827.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-13T17:50:35Z",
-    "type": "STORY"
-  },
-  {
     "title": "Japanese Banks Collaborate On New Stablecoin",
     "link": "https://www.cryptoprowl.com/releases/japanese-banks-collaborate-on-new-stablecoin-5831",
     "publisher": "CryptoProwl",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-financial-group-tse-140832860.html",
     "publisher": "Simply Wall St.",
     "date": "2026-05-26T14:08:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is It Too Late To Consider Sumitomo Mitsui Financial Group (TSE:8316) After A 67% Rally?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/too-consider-sumitomo-mitsui-financial-171323521.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-09T17:13:23Z",
     "type": "STORY"
   }
 ]

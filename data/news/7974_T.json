@@ -1,9 +1,23 @@
 [
   {
+    "title": "Bear of the Day: Turtle Beach Corporation (TBCH)",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bear-day-turtle-beach-corporation-080000122.html",
+    "publisher": "Zacks",
+    "date": "2026-08-12T08:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nintendo recoups $300M in tariff refunds as memory crunch intensifies",
     "link": "https://www.supplychaindive.com/news/nintendo-recoups-300m-in-tariff-refunds-as-memory-crunch-intensifies/827380/",
     "publisher": "Supply Chain Dive",
     "date": "2026-08-11T09:58:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why does Buc-ee’s keep suing small businesses over a cartoon beaver?",
+    "link": "https://www.fastcompany.com/91587778/why-does-buc-ees-keep-suing-small-businesses-over-a-cartoon-beaver",
+    "publisher": "FastCompany",
+    "date": "2026-08-10T20:30:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.euronews.com/2026/08/06/switch-2-and-mario-movie-send-nintendo-profits-soaring-by-54",
     "publisher": "Euronews",
     "date": "2026-08-06T11:02:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nintendo’s Profit Surges on Stronger Game Software Sales, ‘Mario’ Movie Hit",
-    "link": "https://www.wsj.com/business/earnings/nintendos-quarterly-profit-surges-ea427687?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-06T09:28:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nintendo's Earnings Beat Came With One Big Catch: Memory Costs Are Rising Fast",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nintendo-s-earnings-beat-came-with-one-big-catch-memory-costs-are-rising-fast/cZoJAVcRJ7R",
-    "publisher": "Stocktwits",
-    "date": "2026-08-06T08:45:04Z",
     "type": "STORY"
   }
 ]

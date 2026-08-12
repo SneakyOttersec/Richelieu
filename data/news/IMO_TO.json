@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Earnings Calendar and Analysis for This Week (August 10-14)",
-    "link": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks",
-    "publisher": "Kiplinger",
-    "date": "2026-08-07T15:33:45Z",
-    "type": "STORY"
-  },
-  {
     "title": "Why Imperial Oil Cut Refinery Guidance 6% Despite Strong Q2 Results",
     "link": "https://finance.yahoo.com/energy/articles/why-imperial-oil-cut-refinery-152000529.html",
     "publisher": "Zacks",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/imperial-oil-q2-earnings-beat-165200988.html",
     "publisher": "Zacks",
     "date": "2026-08-06T16:52:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Suncor CEO says ‘a lot of work to do’ on pipeline, carbon MOU",
+    "link": "https://financialpost.com/commodities/energy/suncor-energy-second-quarter-results",
+    "publisher": "Financial Post",
+    "date": "2026-08-05T01:57:36Z",
     "type": "STORY"
   }
 ]

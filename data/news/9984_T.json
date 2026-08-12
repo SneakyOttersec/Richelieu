@@ -1,10 +1,17 @@
 [
   {
-    "title": "Intel's huge rally is helping pay for its AI comeback",
-    "link": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-08-11T16:11:30Z",
-    "type": "VIDEO"
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "link": "https://finance.yahoo.com/technology/ai/articles/openai-backed-thrive-holdings-raises-174129787.html",
+    "publisher": "TechCrunch",
+    "date": "2026-08-12T17:41:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Intel Is Raising Billions in Equity. History Says This Is What the Stock Will Do Next.",
+    "link": "https://www.fool.com/investing/2026/08/12/intel-is-raising-billions-in-equity-history-says-t/",
+    "publisher": "Motley Fool",
+    "date": "2026-08-12T12:29:00Z",
+    "type": "STORY"
   },
   {
     "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
@@ -19,6 +26,13 @@
     "publisher": "GuruFocus.com",
     "date": "2026-08-11T19:18:56Z",
     "type": "STORY"
+  },
+  {
+    "title": "Intel's huge rally is helping pay for its AI comeback",
+    "link": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-08-11T16:11:30Z",
+    "type": "VIDEO"
   },
   {
     "title": "Investors Hated Intel’s $15 Billion Stock Sale, but Wall Street Wanted $100 Billion Worth",
@@ -53,20 +67,6 @@
     "link": "https://qz.com/nvidia-lancium-investment-stargate-power-081026",
     "publisher": "Quartz",
     "date": "2026-08-10T13:06:40Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Amazon behind massive private gas plant for new data centers",
-    "link": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html",
-    "publisher": "AFP",
-    "date": "2026-08-08T02:01:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Data Center Firm Switch to File Confidentially for IPO",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/data-center-firm-switch-file-212300578.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-07T21:23:00Z",
     "type": "STORY"
   }
 ]
