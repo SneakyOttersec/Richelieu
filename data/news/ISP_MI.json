@@ -1,9 +1,23 @@
 [
   {
+    "title": "Italy’s Largest Bank Switched From Bitcoin to SpaceX Stock",
+    "link": "https://beincrypto.com/intesa-sanpaolo-italy-spacex-stake-bitcoin-etf/",
+    "publisher": "BeInCrypto",
+    "date": "2026-08-18T15:36:47Z",
+    "type": "STORY"
+  },
+  {
     "title": "SpaceX Surges as Intesa Reveals a $966 Million Stake",
     "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-surges-intesa-reveals-966-203802474.html",
     "publisher": "GuruFocus.com",
     "date": "2026-08-17T20:38:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Harvard Reveals $2.2 Billion SpaceX Stake",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/harvard-reveals-2-2-billion-202118395.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-17T20:21:18Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/hype-ada-outperform-bitcoin-ethereum-and-xrp-as-strait-of-hormuz-tensions-keep-crypto-markets-on-the-edge/cZo5jJQRJE0",
     "publisher": "Stocktwits",
     "date": "2026-08-04T12:26:55Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sonnedix secures $841m for renewable projects in southern Europe",
-    "link": "https://www.energymonitor.ai/news/sonnedix-841m-renewable-projects-southern-europe/",
-    "publisher": "Energy Monitor",
-    "date": "2026-08-04T08:25:41Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Banco BPM abandons Monte dei Paschi pursuit after Crédit Agricole objection",
-    "link": "https://www.retailbankerinternational.com/news/banco-bpm-abandons-monte-dei-paschi-pursuit/",
-    "publisher": "Retail Banker International",
-    "date": "2026-08-03T11:20:18Z",
     "type": "STORY"
   }
 ]

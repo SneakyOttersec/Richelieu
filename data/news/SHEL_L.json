@@ -1,5 +1,33 @@
 [
   {
+    "title": "McDonald's has a way to save you money at the gas pump",
+    "link": "https://www.thestreet.com/restaurants/mcdonalds-has-a-new-way-to-challenge-costco-on-gas",
+    "publisher": "TheStreet",
+    "date": "2026-08-18T21:05:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Shell's Unit Signs EPC and O&M Contracts for Bataan Battery Project",
+    "link": "https://finance.yahoo.com/energy/articles/shells-unit-signs-epc-o-140200469.html",
+    "publisher": "Zacks",
+    "date": "2026-08-18T14:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Shell taps McDonald’s loyalty base to drive fuel trips, rewards sign-ups",
+    "link": "https://www.cstoredive.com/news/shell-taps-mcdonalds-loyalty-base-to-drive-fuel-trips-rewards-sign-ups/828079/",
+    "publisher": "C-Store Dive",
+    "date": "2026-08-18T09:57:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "This ETF Is Outperforming by Avoiding the S&P 500’s Biggest Problem",
+    "link": "https://www.marketbeat.com/articles/this-etf-is-outperforming-by-avoiding-the-s-and-p-500s-biggest-problem/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "publisher": "MarketBeat",
+    "date": "2026-08-17T17:10:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Stocks Close Lower in Monday Trading Despite Tech, Mining Stocks Rally",
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-lower-monday-154555695.html",
     "publisher": "MT Newswires",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/technology/articles/philips-shell-targeted-hacking-group-160630644.html",
     "publisher": "Reuters",
     "date": "2026-08-13T16:06:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/08/12/c3-ai-vs-crowdstrike-which-tech-stock-is-a-better-buy-in-2026/",
-    "publisher": "Motley Fool",
-    "date": "2026-08-13T04:16:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
-    "link": "https://finance.yahoo.com/energy/articles/5-lng-megaprojects-poised-power-190000387.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-08-12T19:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories",
-    "link": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-08-12T15:15:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell (LSE:SHEL) Cuts Ormen Lange Output 40% After Failure Extends Outage To 2027",
-    "link": "https://finance.yahoo.com/energy/articles/shell-lse-shel-cuts-ormen-001614842.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-12T00:16:14Z",
     "type": "STORY"
   }
 ]
