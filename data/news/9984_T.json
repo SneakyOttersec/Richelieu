@@ -1,5 +1,47 @@
 [
   {
+    "title": "SoftBank Lines Up Another $6.3 Billion for AI",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-lines-another-6-3-215224110.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-19T21:52:24Z",
+    "type": "STORY"
+  },
+  {
+    "title": "New construction robots gain traction on jobsites",
+    "link": "https://www.constructiondive.com/news/construction-robotics-adoption-investment-nvidia-gravis-bedrock-field-ai/828294/",
+    "publisher": "Construction Dive",
+    "date": "2026-08-19T13:52:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia’s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-08-19T12:47:55Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-risk-gauge-hits-095605564.html",
+    "publisher": "Investing.com",
+    "date": "2026-08-19T09:56:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nikkei Falls to Two-Week Low on Risk-Off Sentiment",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/nikkei-falls-to-two-week-low-on-risk-off-sentiment-PkqJMXx0HZFhxFPKPOPM?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-08-19T08:06:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "MU, SNDK Dip Overnight: KOSPI Hits Halt Amid Asian Tech Chip Rout, SoftBank, Samsung, SK Hynix Retreat",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-soft-bank-samsung-sk-hynix-retreat/cZYdEEaRJkB",
+    "publisher": "Stocktwits",
+    "date": "2026-08-19T05:24:38Z",
+    "type": "STORY"
+  },
+  {
     "title": "Bank of America Thinks Nvidia Stock Could Go 50% Higher",
     "link": "https://beincrypto.com/nvidia-stock-bofa-350-target/",
     "publisher": "BeInCrypto",
@@ -26,47 +68,5 @@
     "publisher": "Simply Wall St.",
     "date": "2026-08-18T10:14:57Z",
     "type": "STORY"
-  },
-  {
-    "title": "Autonomous equipment tech firm Gravis Robotics raises $200M",
-    "link": "https://www.constructiondive.com/news/gravis-robotics-raises-200M-zurich-softbank/828123/",
-    "publisher": "Construction Dive",
-    "date": "2026-08-18T09:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Backs 8-GW Ohio AI Campus for OpenAI With $1.5 Billion Investment",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-8-gw-ohio-013000089.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-08-18T01:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
-    "link": "https://www.fool.com/investing/2026/08/17/nvidia-lines-up-105-billion-for-openai-heres-what-it-means-for-investors/",
-    "publisher": "Motley Fool",
-    "date": "2026-08-17T21:50:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia",
-    "link": "https://finance.yahoo.com/technology/ai/articles/openai-lease-massive-ai-data-205913179.html",
-    "publisher": "AFP",
-    "date": "2026-08-17T20:59:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia’s Huang Says OpenAI Data Center Could Generate $600 Billion in Revenue",
-    "link": "https://www.barrons.com/articles/nvidia-stock-price-openai-4466ab53?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-08-17T20:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia to finance $105B for an OpenAI data center: What to know",
-    "link": "https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-08-17T20:25:33Z",
-    "type": "VIDEO"
   }
 ]

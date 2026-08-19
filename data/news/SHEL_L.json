@@ -1,9 +1,65 @@
 [
   {
-    "title": "McDonald's has a way to save you money at the gas pump",
+    "title": "Forget the Mag 7: The phase 2 AI trade is here",
+    "link": "https://finance.yahoo.com/video/forget-mag-7-phase-2-100000233.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-08-19T10:00:00Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "C3.ai vs. Seagate Technology: Which Technology Stock Is a Better Buy in 2026?",
+    "link": "https://www.fool.com/coverage/better-buy/2026/08/19/c3ai-vs-seagate-technology-which-technology-stock-is-a-better-buy-in-2026/",
+    "publisher": "Motley Fool",
+    "date": "2026-08-19T20:22:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
+    "link": "https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-08-19T16:14:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Chevron and Equinor Strengthen Namibia's Offshore Oil Exploration",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-equinor-strengthen-namibias-offshore-140000950.html",
+    "publisher": "Zacks",
+    "date": "2026-08-19T14:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Can Shell (LSE:SHEL) Stay Undervalued After Its 187% Run?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/shell-lse-shel-stay-undervalued-081300083.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-19T08:13:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FTSE 100 Live: Blue-chips open higher as miners gain, UK inflation ticks up",
+    "link": "https://www.proactiveinvestors.com/companies/news/1097239/ftse-100-live-blue-chips-to-slip-as-bonds-exert-pressure-uk-inflation-ticks-up-1097239.html",
+    "publisher": "Proactive",
+    "date": "2026-08-19T06:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "C3.ai vs. Lumentum: What Recent Revenue Trajectories Tell Investors About These Artificial Intelligence Companies",
+    "link": "https://www.fool.com/coverage/charts/2026/08/19/c3-ai-vs-lumentum-what-recent-revenue-trajectories-tell-investors-about-these-artificial-intelligence-companies/",
+    "publisher": "Motley Fool",
+    "date": "2026-08-19T05:29:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "McDonald's puts a gas discount deal on its loyalty menu",
     "link": "https://www.thestreet.com/restaurants/mcdonalds-has-a-new-way-to-challenge-costco-on-gas",
     "publisher": "TheStreet",
-    "date": "2026-08-18T21:05:43Z",
+    "date": "2026-08-19T02:48:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Casey’s CEO receives biggest payday yet",
+    "link": "https://www.cstoredive.com/news/caseys-ceo-receives-biggest-payday-yet/828189/",
+    "publisher": "C-Store Dive",
+    "date": "2026-08-18T15:28:02Z",
     "type": "STORY"
   },
   {
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/shells-unit-signs-epc-o-140200469.html",
     "publisher": "Zacks",
     "date": "2026-08-18T14:02:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Shell taps McDonald’s loyalty base to drive fuel trips, rewards sign-ups",
-    "link": "https://www.cstoredive.com/news/shell-taps-mcdonalds-loyalty-base-to-drive-fuel-trips-rewards-sign-ups/828079/",
-    "publisher": "C-Store Dive",
-    "date": "2026-08-18T09:57:21Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This ETF Is Outperforming by Avoiding the S&P 500’s Biggest Problem",
-    "link": "https://www.marketbeat.com/articles/this-etf-is-outperforming-by-avoiding-the-s-and-p-500s-biggest-problem/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-08-17T17:10:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stocks Close Lower in Monday Trading Despite Tech, Mining Stocks Rally",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-lower-monday-154555695.html",
-    "publisher": "MT Newswires",
-    "date": "2026-08-17T15:45:55Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Brent Crude Nears $89 As Hormuz Stays Disrupted – Exxon, Chevron And Shell Rack Up Record Cash Flow",
-    "link": "https://stocktwits.com/news-articles/markets/equity/brent-crude-nears-89-strait-hormuz-xom-cvx-uso-record-cash-flow/cZo6uIKRJKY",
-    "publisher": "Stocktwits",
-    "date": "2026-08-17T06:52:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How North Koreans Faked Their Way Into U.S. Companies",
-    "link": "https://www.wsj.com/pro/cybersecurity/inside-north-koreas-operation-to-conquer-the-american-job-market-19de201b?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-14T11:33:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BP, XRG Partner on Venezuelan Offshore Gas Development as Oil Majors Tentatively Return",
-    "link": "https://www.wsj.com/business/energy-oil/bp-xrg-partner-on-venezuelan-offshore-gas-development-97559444?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-14T10:12:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gulf Oil Giants Strike Offshore Gas Deal With Venezuela",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026/card/gulf-oil-giants-strike-offshore-gas-deal-with-venezuela-n4FgN9UwPf9R5eO0AXdC?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-13T19:53:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others",
-    "link": "https://finance.yahoo.com/technology/articles/philips-shell-targeted-hacking-group-160630644.html",
-    "publisher": "Reuters",
-    "date": "2026-08-13T16:06:30Z",
     "type": "STORY"
   }
 ]
