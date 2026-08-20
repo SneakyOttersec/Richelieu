@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Indexes Mixed, Autos Rally",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-tracking-wall-streets-gains-20b7f635?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-20T07:26:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "EU approves Mercedes, BMW and Seres joint control of Ionchi",
     "link": "https://www.just-auto.com/news/eu-mercedes-bmw-seres-joint-control-ionchi/",
     "publisher": "Just Auto",
@@ -61,12 +68,5 @@
     "publisher": "Just Auto",
     "date": "2026-08-11T10:46:04Z",
     "type": "STORY"
-  },
-  {
-    "title": "Mercedes Loses Ground in China's Premium Auto Market",
-    "link": "https://finance.yahoo.com/video/mercedes-loses-ground-chinas-premium-062908560.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-11T06:29:08Z",
-    "type": "VIDEO"
   }
 ]
