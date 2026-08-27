@@ -1,9 +1,23 @@
 [
   {
-    "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-    "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+    "title": "Nvidia tops Q2 expectations on revenue of $96.2 billion, offers strong Q3 outlook",
+    "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-tops-q2-expectations-offers-strong-q3-outlook-revenue-96-billion-112502189.html",
     "publisher": "Yahoo Finance",
     "date": "2026-08-23T11:25:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "NVIDIA Corporation (NVDA) & Blackstone (BX): Nvidia Wants Wall Street to Lend Against AI Chips Like They’re Mortgages",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-blackstone-bx-174958402.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-08-26T17:49:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Saudi Brothers Mint Billion-Dollar Fortune From AI Boom",
+    "link": "https://finance.yahoo.com/technology/ai/articles/saudi-brothers-mint-billion-dollar-112226853.html",
+    "publisher": "Bloomberg",
+    "date": "2026-08-26T11:22:26Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/business/rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-7ebf47fc?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-08-20T11:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bloom Energy’s AI Surge Meets a Valuation Reality Check",
-    "link": "https://www.marketbeat.com/articles/bloom-energys-ai-surge-meets-a-valuation-reality-check/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-08-19T19:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "David Sacks Says the Biggest Risk to the AI Buildout Isn’t Demand, ‘If You Had Dark GPUs, That’d Be a Disaster for Everyone’",
-    "link": "https://www.barchart.com/story/news/3933696/david-sacks-says-the-biggest-risk-to-the-ai-buildout-isnt-demand-if-you-had-dark-gpus-thatd-be-a-disaster-for-everyone",
-    "publisher": "Barchart",
-    "date": "2026-08-19T16:42:58Z",
     "type": "STORY"
   }
 ]

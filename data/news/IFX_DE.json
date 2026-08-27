@@ -1,5 +1,19 @@
 [
   {
+    "title": "European Chip Stocks Mixed Ahead of Nvidia Earnings",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-26T09:04:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Chip Stocks Mixed Ahead of Nvidia Earnings",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/chip-stocks-mixed-ahead-of-nvidia-earnings-6DlagbC7A0kH2dlH6KUq?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-08-26T09:02:34Z",
+    "type": "STORY"
+  },
+  {
     "title": "Chip Stocks Edge Higher After Monday Rout",
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-082526/card/chip-stocks-edge-higher-after-monday-rout-zhN3CjIVvgd0iZZCLGAW?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -53,20 +67,6 @@
     "link": "https://www.euronews.com/2026/08/05/infineon-hits-revenue-record-as-ai-data-centres-drive-growth",
     "publisher": "Euronews",
     "date": "2026-08-05T08:15:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand",
-    "link": "https://www.wsj.com/business/earnings/chip-maker-infineon-forecasts-strong-revenue-growth-on-booming-ai-demand-1a75c709?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-05T08:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AI and Chips Are Turning Malaysia Into Asia’s Growth Standout",
-    "link": "https://finance.yahoo.com/economy/articles/ai-chips-turning-malaysia-asia-230000211.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-02T23:00:00Z",
     "type": "STORY"
   }
 ]
