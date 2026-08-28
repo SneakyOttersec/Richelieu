@@ -1,5 +1,12 @@
 [
   {
+    "title": "Nvidia’s results beat expectations again",
+    "link": "https://moneyweek.com/investments/tech-stocks/nvidia-q2-results",
+    "publisher": "Moneyweek",
+    "date": "2026-08-27T11:31:15Z",
+    "type": "STORY"
+  },
+  {
     "title": "Salesforce Inc. Q2 2027 Earnings: Recap of $CRM Earnings Call, Forecast",
     "link": "https://www.thestreet.com/latest-news/salesforce-inc-crm-q2-2027-earnings-call-updates",
     "publisher": "TheStreet",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/coherent-forecasts-upbeat-first-quarter-220230493.html",
     "publisher": "Reuters",
     "date": "2026-08-12T22:02:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nebius Q2 2026 earnings beat revenue estimates on AI cloud demand",
-    "link": "https://qz.com/nebius-stock-earnings-revenue-beat-ai-cloud-081226",
-    "publisher": "Quartz",
-    "date": "2026-08-12T13:00:10Z",
     "type": "STORY"
   }
 ]
