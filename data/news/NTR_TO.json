@@ -7,13 +7,6 @@
     "type": "STORY"
   },
   {
-    "title": "AMD upgraded, Five Below downgraded: Wall Street's top analyst calls",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
-    "publisher": "The Fly",
-    "date": "2026-08-25T13:34:04Z",
-    "type": "STORY"
-  },
-  {
     "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Dynatrace, Five Below, Fortune Brands, Klarna Group, Jersey Mike’s Subs, Moderna, Sherwin-Williams, and More",
     "link": "https://247wallst.com/investing/2026/08/25/here-are-tuesdays-top-wall-street-analyst-research-calls-advanced-micro-devices-dynatrace-five-below-fortune-brands-klarna-group-jersey-mikes-subs-moderna-sherwin-williams-and-more/",
     "publisher": "24/7 Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/nutrien-tsx-ntr-stock-may-043803786.html",
     "publisher": "Simply Wall St.",
     "date": "2026-08-12T04:38:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nutrien's Q2 Earnings Lag, Revenues Beat Estimates on Higher Prices",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nutriens-q2-earnings-lag-revenues-120800709.html",
+    "publisher": "Zacks",
+    "date": "2026-08-11T12:08:00Z",
     "type": "STORY"
   }
 ]

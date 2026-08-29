@@ -1,9 +1,23 @@
 [
   {
+    "title": "Hyundai seeks to diversify revenue with its latest robotics acquisition",
+    "link": "https://www.manufacturingdive.com/news/hyundai-seeks-to-diversify-revenue-with-its-latest-robotics-acquisition/829067/",
+    "publisher": "Manufacturing Dive",
+    "date": "2026-08-28T11:41:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61477237/softbank-1x-6-billion-tesla-optimus?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
     "publisher": "Benzinga Prediction Markets",
     "date": "2026-08-27T18:46:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why the departure of OpenAI’s data center chief is not a good look",
+    "link": "https://www.fastcompany.com/91596512/why-the-departure-of-openais-data-center-chief-is-not-a-good-look",
+    "publisher": "FastCompany",
+    "date": "2026-08-27T16:00:00Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-mulls-20-billion-bond-045551527.html",
     "publisher": "Bloomberg",
     "date": "2026-08-26T04:55:51Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
-    "link": "https://www.thestreet.com/investing/louis-navellier-has-blunt-message-on-nvidias-reign-before-earnings",
-    "publisher": "TheStreet",
-    "date": "2026-08-25T21:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI data center chief exits as 4 executives leave ahead of 2027 IPO",
-    "link": "https://finance.yahoo.com/technology/ai/articles/openai-data-center-chief-exits-201048434.html",
-    "publisher": "Investing.com",
-    "date": "2026-08-25T20:10:48Z",
     "type": "STORY"
   }
 ]

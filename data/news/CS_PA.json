@@ -14,13 +14,6 @@
     "type": "STORY"
   },
   {
-    "title": "Deutsche Bank Traders See Revenue Jump to Beat Wall Street",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-traders-see-revenue-072319846.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-29T07:23:19Z",
-    "type": "STORY"
-  },
-  {
     "title": "RDN or AXAHY: Which Is the Better Value Stock Right Now?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/rdn-axahy-better-value-stock-154002672.html",
     "publisher": "Zacks",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/axa-posts-6-revenue-growth-170025560.html",
     "publisher": "Investing.com",
     "date": "2026-05-05T17:00:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "A Look At AXA (ENXTPA:CS) Valuation After Recent Share Price Pullback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/look-axa-enxtpa-cs-valuation-080902437.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-03-20T08:09:02Z",
     "type": "STORY"
   }
 ]
