@@ -1,5 +1,26 @@
 [
   {
+    "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+    "link": "https://finance.yahoo.com/small-business/articles/india-unacademy-sells-rival-upgrad-135842363.html",
+    "publisher": "TechCrunch",
+    "date": "2026-09-01T13:58:42Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SB Energy IPO filing: Nvidia invests $3B, OpenAI gets warrants",
+    "link": "https://qz.com/sb-energy-ipo-filing-nvidia-softbank-090126",
+    "publisher": "Quartz",
+    "date": "2026-09-01T13:06:14Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SB Energy Files for IPO With Nvidia Backing",
+    "link": "https://www.wsj.com/finance/investing/sb-energy-files-for-ipo-with-nvidia-backing-b17bd1fc?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-01T11:49:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "OpenAI Got $5.5B in SB Energy Warrants to Lease Nvidia-Backed AI Data Centers",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61532442/openai-sb-energy-warrants?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
     "publisher": "Benzinga Prediction Markets",
@@ -46,27 +67,6 @@
     "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61477237/softbank-1x-6-billion-tesla-optimus?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
     "publisher": "Benzinga Prediction Markets",
     "date": "2026-08-27T18:46:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why the departure of OpenAI’s data center chief is not a good look",
-    "link": "https://www.fastcompany.com/91596512/why-the-departure-of-openais-data-center-chief-is-not-a-good-look",
-    "publisher": "FastCompany",
-    "date": "2026-08-27T16:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "OpenAI expansion plans take a big hit with latest departure",
-    "link": "https://www.thestreet.com/technology/openai-expansion-plans-takes-a-big-hit-with-latest-departure",
-    "publisher": "TheStreet",
-    "date": "2026-08-27T14:37:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank May Make a $6 Billion Bet on OpenAI-Backed Humanoid Robots",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-may-6-billion-bet-141920739.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-08-27T14:19:20Z",
     "type": "STORY"
   }
 ]

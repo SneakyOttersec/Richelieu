@@ -1,5 +1,33 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d636242d?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-01T20:56:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Did Palo Alto Networks Drop Today?",
+    "link": "https://www.fool.com/investing/2026/09/01/why-did-palo-alto-networks-drop-today/",
+    "publisher": "Motley Fool",
+    "date": "2026-09-01T14:39:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Scotiabank (BNS) Just Blew Past Its Own Profit Target",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-bns-just-blew-past-133539144.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-09-01T13:35:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Scotiabank (BNS) Q3 2026 Earnings Call Transcript",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/09/01/scotiabank-bns-q3-2026-earnings-call-transcript/",
+    "publisher": "Motley Fool",
+    "date": "2026-09-01T13:15:21Z",
+    "type": "STORY"
+  },
+  {
     "title": "Bank of Nova Scotia (BNS) Reached 14% Adjusted ROE. Is the Improvement Durable?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-bns-reached-031008733.html",
     "publisher": "Insider Monkey",
@@ -35,38 +63,10 @@
     "type": "STORY"
   },
   {
-    "title": "Scotiabank (TSX:BNS) Stock Looks Like A Bargain At Today’s Price",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-tsx-bns-stock-looks-081719106.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-26T08:17:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "News of the day: 'Buy Canadian' consumer guide, bank CEOs on Trump tariffs, BMO and Scotiabank beat expectations, Canadian consumer debt and more",
-    "link": "https://financialpost.com/uncategorized/news-of-the-day-buy-canadian-consumer-guide-bank-ceos-on-trump-tariffs-bmo-and-scotiabank-beat-expectations-canadian-consumer-debt-and-more",
-    "publisher": "Financial Post",
-    "date": "2026-08-25T21:30:06Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank of Nova Scotia (BNS) (Q3 2026) Earnings Call Highlights: Record EPS and ROE Surge Past Targets",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-bns-q3-210100129.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-08-25T21:01:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Scotiabank posts record quarter as capital markets surge lifts profit past estimates",
-    "link": "https://www.proactiveinvestors.com/companies/news/1097582/scotiabank-posts-record-quarter-as-capital-markets-surge-lifts-profit-past-estimates-1097582.html",
-    "publisher": "Proactive",
-    "date": "2026-08-25T15:39:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Canadian Banks Shrug Off Trade Concerns",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/canadian-banks-shrug-off-trade-concerns-U4wP6qQDL2gh8xyLKrou?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-25T15:38:06Z",
+    "title": "The Bank of Nova Scotia Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-bank-of-nova-scotia-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-08-26T12:30:00Z",
     "type": "STORY"
   }
 ]

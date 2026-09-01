@@ -1,16 +1,23 @@
 [
   {
-    "title": "Bank of England governor warns AI could trigger global downturn",
-    "link": "https://finance.yahoo.com/video/bank-england-governor-warns-ai-204200256.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-08-31T20:42:00Z",
-    "type": "VIDEO"
-  },
-  {
     "title": "Can you use a credit card on Venmo?",
     "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-use-a-credit-card-on-venmo-205730213.html",
     "publisher": "Yahoo Personal Finance",
     "date": "2024-01-26T22:26:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Ethena Launches Neobank App on Avalanche",
+    "link": "https://www.bankless.com/read/news/ethena-launches-neobank-app-on-avalanche",
+    "publisher": "Bankless",
+    "date": "2026-09-01T18:11:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Visa (V) Hands Over 6 Million Documents As DOJ Debit Card Case Drags On",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-hands-over-6-141112763.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-09-01T14:11:12Z",
     "type": "STORY"
   },
   {
@@ -19,6 +26,13 @@
     "publisher": "Trefis",
     "date": "2026-08-31T23:44:17Z",
     "type": "STORY"
+  },
+  {
+    "title": "Bank of England governor warns AI could trigger global downturn",
+    "link": "https://finance.yahoo.com/video/bank-england-governor-warns-ai-204200256.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-08-31T20:42:00Z",
+    "type": "VIDEO"
   },
   {
     "title": "Visa, Mastercard, and Fiserv Just Joined a Group Writing the Rules for AI Agent Payments",
@@ -53,20 +67,6 @@
     "link": "https://www.barchart.com/story/news/4337758/is-visa-stock-underperforming-the-dow",
     "publisher": "Barchart",
     "date": "2026-08-29T14:57:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "MarketBeat Week in Review – 08/24 - 08/28",
-    "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-08-24-08-28/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-08-29T11:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Visa’s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/visa-ai-cybersecurity-markets-push-010747642.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-08-29T01:07:47Z",
     "type": "STORY"
   }
 ]

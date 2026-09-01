@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Europe’s Key Rivers Are Drying Up as Extreme Heat Impact Widens",
-    "link": "https://finance.yahoo.com/energy/articles/europe-key-rivers-drying-extreme-080000511.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-02T08:00:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "BASF (XTRA:BAS) Could Be 4% Undervalued As Portfolio Changes Stay In Focus",
     "link": "https://finance.yahoo.com/markets/stocks/articles/basf-xtra-bas-could-4-001529066.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.marketbeat.com/instant-alerts/basf-q2-earnings-call-highlights-2026-07-29/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-07-29T08:03:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "BASF Profit Soars on Sale of Coatings Division, Higher Prices",
+    "link": "https://www.wsj.com/business/earnings/basf-profit-soars-on-sale-of-coatings-division-higher-prices-2fb16817?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-07-29T05:59:00Z",
     "type": "STORY"
   }
 ]

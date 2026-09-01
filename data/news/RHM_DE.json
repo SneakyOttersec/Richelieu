@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Equities Largely Lower Though AI Stocks Gain",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-chip-stocks-f0ceaeae?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-01T07:26:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
     "link": "https://finance.yahoo.com/video/lockheed-martin-europe-ceo-rheinmetall-102456677.html",
     "publisher": "Bloomberg",
@@ -60,13 +67,6 @@
     "link": "https://www.marketbeat.com/instant-alerts/rheinmetall-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-08-06T14:04:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arms Maker Rheinmetall Trims Sales Guidance After Germany Scraps Frigate Project",
-    "link": "https://www.wsj.com/business/arms-maker-rheinmetall-trims-sales-guidance-after-germany-scraps-frigate-project-24f5dadf?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-06T08:27:00Z",
     "type": "STORY"
   }
 ]
