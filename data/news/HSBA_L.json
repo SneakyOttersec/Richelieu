@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Zacks Analyst Blog Highlights NVIDIA, ExxonMobil and HSBC",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-144900918.html",
+    "publisher": "Zacks",
+    "date": "2026-08-31T14:49:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Top Stock Reports for NVIDIA, ExxonMobil & HSBC",
     "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-nvidia-exxonmobil-202200522.html",
     "publisher": "Zacks",
@@ -18,6 +25,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-hsbc-lloyds-expected-120643263.html",
     "publisher": "MT Newswires",
     "date": "2026-08-28T12:06:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "HSBC weighs consolidating Singapore business under one entity – report",
+    "link": "https://www.retailbankerinternational.com/news/hsbc-consolidating-singapore-business/",
+    "publisher": "Retail Banker International",
+    "date": "2026-08-28T05:50:45Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html",
     "publisher": "Bloomberg",
     "date": "2026-08-23T07:35:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-plc-hsbc-vs-191318513.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-08-21T19:13:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "HSBC clears out senior bankers in biggest cull since 2010",
-    "link": "https://www.telegraph.co.uk/business/2026/08/21/hsbc-clears-out-senior-bankers-in-biggest-cull-since-2010/",
-    "publisher": "The Telegraph",
-    "date": "2026-08-21T17:23:54Z",
     "type": "STORY"
   }
 ]

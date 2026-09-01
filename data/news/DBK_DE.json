@@ -1,9 +1,30 @@
 [
   {
+    "title": "Is Deutsche Bank (XTRA:DBK) Still Cheap As It Rebuilds Energy Trading?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-xtra-dbk-still-170538126.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-31T17:05:38Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Google Bets Deutsche Bank Can Make AI Agents Work Inside a Global Bank’s Compliance Framework",
+    "link": "https://finance.yahoo.com/technology/ai/articles/google-bets-deutsche-bank-ai-070022053.html",
+    "publisher": "Forkast News",
+    "date": "2026-08-29T07:00:22Z",
+    "type": "STORY"
+  },
+  {
     "title": "Why Is Deutsche Bank (DB) Up 8.2% Since Last Earnings Report?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/why-deutsche-bank-db-8-153012653.html",
     "publisher": "Zacks",
     "date": "2026-08-28T15:30:12Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank taps Thought Machine for technology overhaul",
+    "link": "https://www.privatebankerinternational.com/news/deutsche-bank-technology-thought-machine/",
+    "publisher": "Private Banker International",
+    "date": "2026-08-28T06:00:36Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/economy/policy/articles/morgan-stanley-khanduja-scales-back-103427881.html",
     "publisher": "Bloomberg",
     "date": "2026-08-26T10:34:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche banker charged with embezzling €600,000 from wealthy clients",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-banker-charged-embezzling-600-104848829.html",
-    "publisher": "Financial Times",
-    "date": "2026-08-25T10:48:48Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
-    "link": "https://finance.yahoo.com/economy/policy/articles/goldman-wells-treasury-buybacks-unlikely-160115810.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-24T16:01:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Europe’s Luxury Giants Discern Green Shoots in Key China Market",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/europe-luxury-giants-discern-green-070000126.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-23T07:00:00Z",
     "type": "STORY"
   }
 ]

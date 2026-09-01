@@ -1,5 +1,12 @@
 [
   {
+    "title": "One Great Chart: Booming Profits",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/one-great-chart-booming-profits-P0czwY4XcHVf3SVduW7b?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-08-31T07:13:33Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nvidia stock price jumps on stunning growth forecast as Hugging Face acquisition rumors swell",
     "link": "https://www.fastcompany.com/91597164/nvidia-stock-price-today-ai-chip-growth-buying-hugging-face-rumors",
     "publisher": "FastCompany",
@@ -60,13 +67,6 @@
     "link": "https://www.barrons.com/articles/sp-500-stocks-earnings-price-targets-c0bbeb8c?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-08-17T05:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway",
-    "link": "https://www.fool.com/investing/2026/08/12/super-micro-guided-fiscal-2027-revenue-16-billion/",
-    "publisher": "Motley Fool",
-    "date": "2026-08-13T03:39:00Z",
     "type": "STORY"
   }
 ]

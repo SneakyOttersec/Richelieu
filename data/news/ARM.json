@@ -1,5 +1,33 @@
 [
   {
+    "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-200045050.html",
+    "publisher": "MT Newswires",
+    "date": "2026-08-31T20:00:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Holdings (ARM) Heads To TestMu Conference, Is The AI Story Fully Priced?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-heads-testmu-190527018.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-31T19:05:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ARM vs. NVDA: Which AI Chip Designer is Worth Investing in?",
+    "link": "https://finance.yahoo.com/technology/ai/articles/arm-vs-nvda-ai-chip-173100394.html",
+    "publisher": "Zacks",
+    "date": "2026-08-31T17:31:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Wall Street May Be Sleeping on This Massive AI CPU Opportunity",
+    "link": "https://247wallst.com/investing/2026/08/31/wall-street-may-be-sleeping-on-this-massive-ai-cpu-opportunity/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-08-31T16:00:13Z",
+    "type": "STORY"
+  },
+  {
     "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
     "link": "https://finance.yahoo.com/technology/articles/ibm-introduces-mainframe-processor-combining-030048930.html",
     "publisher": "Insider Monkey",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/arms-93x-earnings-multiple-overshadows-173500812.html",
     "publisher": "Zacks",
     "date": "2026-08-25T17:35:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Can IBM's Advanced Processor Shape the Future of Enterprise Computing?",
-    "link": "https://finance.yahoo.com/technology/articles/ibms-advanced-processor-shape-future-150000922.html",
-    "publisher": "Zacks",
-    "date": "2026-08-25T15:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "IBM Just Opened Its Mainframes to Arm—Is the Market Missing the Shift?",
-    "link": "https://www.marketbeat.com/articles/ibm-just-opened-its-mainframes-to-armis-the-market-missing-the-shift/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-08-25T15:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings (ARM) Delivers Strong Growth, but Has the Valuation Run Too Far?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-delivers-strong-133635561.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-08-24T13:36:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
-    "link": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-08-24T11:38:25Z",
     "type": "STORY"
   }
 ]

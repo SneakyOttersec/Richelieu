@@ -14,13 +14,6 @@
     "type": "STORY"
   },
   {
-    "title": "Italian Family Clashes Over $46 Billion Ray-Ban Fortune",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/italian-family-clashes-over-46-040023465.html",
-    "publisher": "Bloomberg",
-    "date": "2026-07-30T04:00:23Z",
-    "type": "STORY"
-  },
-  {
     "title": "Financial Services Roundup: Market Talk",
     "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c30ba142?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/assessing-assicurazioni-generali-bit-g-211221977.html",
     "publisher": "Simply Wall St.",
     "date": "2026-02-17T21:12:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Generali Core Tech Launch Puts Technology At Center Of Valuation Story",
+    "link": "https://finance.yahoo.com/news/generali-core-tech-launch-puts-090851783.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-02-17T09:08:51Z",
     "type": "STORY"
   }
 ]
