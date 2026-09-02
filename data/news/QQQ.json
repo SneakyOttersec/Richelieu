@@ -1,5 +1,61 @@
 [
   {
+    "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171033298.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-02T17:10:33Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
+    "link": "https://247wallst.com/investing/2026/09/02/snowflake-drops-4-before-its-earnings-report-datadog-falls-6-is-the-software-selloff-the-real-story/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-09-02T16:41:11Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Magnite Rallies 6%, Trade Desk Climbs 5%, AppLovin Barely Budges: Is Agentic Ad-Tech Broadening Out?",
+    "link": "https://247wallst.com/investing/2026/09/02/magnite-rallies-6-trade-desk-climbs-5-applovin-barely-budges-is-agentic-ad-tech-broadening-out/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-09-02T16:21:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Fed's Goolsbee Flags Dangerous Side of AI Spending",
+    "link": "https://finance.yahoo.com/economy/policy/articles/feds-goolsbee-flags-dangerous-side-150022253.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-02T15:00:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips",
+    "link": "https://247wallst.com/investing/2026/09/02/palo-alto-sinks-8-despite-34-revenue-growth-crowdstrike-falls-3-fortinet-slips/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-09-02T14:13:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up",
+    "link": "https://247wallst.com/investing/2026/09/02/dell-surges-9-on-record-95b-ai-backlog-hewlett-packard-enterprise-climbs-4-super-micro-ticks-up/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-09-02T13:20:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130827604.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-02T13:08:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-flat/cZsAInURJMx",
+    "publisher": "Stocktwits",
+    "date": "2026-09-02T00:01:07Z",
+    "type": "STORY"
+  },
+  {
     "title": "These ETFs Generate the Most Revenue",
     "link": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
     "publisher": "etf.com",
@@ -11,62 +67,6 @@
     "link": "https://247wallst.com/investing/etf/2026/09/01/jepqs-monthly-check-can-push-a-retiree-into-the-85-social-security-tax-zone-the-hidden-cost-of-ordinary-income/",
     "publisher": "24/7 Wall St.",
     "date": "2026-09-01T21:45:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "ETF League Tables: Invesco Inflows Jump",
-    "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-invesco-inflows-jump?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-    "publisher": "etf.com",
-    "date": "2026-09-01T21:00:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Exchange-Traded Funds Decline as US Equities Fall After Midday",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-170929387.html",
-    "publisher": "MT Newswires",
-    "date": "2026-09-01T17:09:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
-    "link": "https://247wallst.com/investing/2026/09/01/sofi-drops-4-affirm-falls-5-as-yields-hit-balance-sheet-lenders-robinhood-holds-steady/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-09-01T16:56:54Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Apple Rises 3% on John Ternus’s First Day as CEO Even While the NASDAQ Skids",
-    "link": "https://247wallst.com/investing/2026/09/01/apple-rises-3-on-john-ternuss-first-day-as-ceo-even-while-nasdaq-skids/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-09-01T16:52:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oracle Falls 4% as Bond Selloff Tests Its Debt-Funded AI Buildout, Nebius Slips",
-    "link": "https://247wallst.com/investing/2026/09/01/oracle-falls-4-as-bond-selloff-tests-its-debt-funded-ai-buildout-nebius-slips/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-09-01T16:13:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CrowdStrike Falls 7% Despite $2 Billion Optiv Milestone, Palo Alto Drops 6%",
-    "link": "https://247wallst.com/investing/2026/09/01/crowdstrike-falls-7-despite-2-billion-optiv-milestone-palo-alto-drops-6/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-09-01T15:58:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Roblox Falls 3% as Cathie Wood’s ARK Keeps Selling, Take-Two Interactive Barely Budges",
-    "link": "https://247wallst.com/investing/2026/09/01/roblox-falls-3-as-cathie-woods-ark-keeps-selling-take-two-interactive-barely-budges/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-09-01T14:47:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Pre-Market Futures Lower to Start September",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/pre-market-futures-lower-start-141700686.html",
-    "publisher": "Zacks",
-    "date": "2026-09-01T14:17:00Z",
     "type": "STORY"
   }
 ]

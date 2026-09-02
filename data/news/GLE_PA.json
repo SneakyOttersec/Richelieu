@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Dip Buyers Need to Heed the Market’s Warning Signs",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dip-buyers-heed-market-warning-120002138.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-03T12:00:02Z",
-    "type": "STORY"
-  },
-  {
     "title": "BRD-Groupe Societe Generale SA (FRA:76B) (Q2 2026) Earnings Call Highlights: Record Net Income ...",
     "link": "https://finance.yahoo.com/markets/stocks/articles/brd-groupe-societe-generale-sa-190421858.html",
     "publisher": "GuruFocus.com",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/look-soci-t-g-n-121303559.html",
     "publisher": "Simply Wall St.",
     "date": "2026-06-09T12:13:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "XTransfer and Societe Generale team up on cross-border payments",
+    "link": "https://www.electronicpaymentsinternational.com/news/xtransfer-societe-generale-cross-border-payments/",
+    "publisher": "Electronic Payments",
+    "date": "2026-06-08T06:34:00Z",
     "type": "STORY"
   }
 ]

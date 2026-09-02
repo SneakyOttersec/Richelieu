@@ -1,5 +1,40 @@
 [
   {
+    "title": "SoftBank's $439 Billion AI Backlog Arrives With a $3.21 Billion Loss",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-439-billion-ai-backlog-220441803.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-02T22:04:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank’s SB Energy IPO filing offers 8.8 GW of contracted AI capacity, with most still unbuilt",
+    "link": "https://blockspace.media/insight/sb-energy-ipo-ai-data-center-capacity/",
+    "publisher": "Blockspace",
+    "date": "2026-09-02T14:59:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Equities Mixed in Muted Trade",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-02T07:26:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank (TSE:9984) Stock Looks Fairly Priced As AI Funding Risk Grows",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-looks-010821570.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-09-02T01:08:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank's SB Energy Files IPO as Backlog Hits $439 Billion",
+    "link": "https://finance.yahoo.com/technology/articles/softbanks-sb-energy-files-ipo-195451316.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-01T19:54:51Z",
+    "type": "STORY"
+  },
+  {
     "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
     "link": "https://finance.yahoo.com/small-business/articles/india-unacademy-sells-rival-upgrad-135842363.html",
     "publisher": "TechCrunch",
@@ -32,41 +67,6 @@
     "link": "https://www.barrons.com/articles/openai-stock-price-sb-energy-2fb0cdd9?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-08-31T16:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank SB Energy gave OpenAI $5.5 billion in stock warrants",
-    "link": "https://qz.com/softbank-sb-energy-openai-warrants-data-center-leases-083126",
-    "publisher": "Quartz",
-    "date": "2026-08-31T11:54:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
-    "link": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-31T03:55:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-31T00:18:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Hyundai seeks to diversify revenue with its latest robotics acquisition",
-    "link": "https://www.manufacturingdive.com/news/hyundai-seeks-to-diversify-revenue-with-its-latest-robotics-acquisition/829067/",
-    "publisher": "Manufacturing Dive",
-    "date": "2026-08-28T11:41:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61477237/softbank-1x-6-billion-tesla-optimus?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-    "publisher": "Benzinga Prediction Markets",
-    "date": "2026-08-27T18:46:13Z",
     "type": "STORY"
   }
 ]

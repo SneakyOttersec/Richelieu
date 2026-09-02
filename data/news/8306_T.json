@@ -1,5 +1,12 @@
 [
   {
+    "title": "Wall Street firms are all in on a stablecoin launch",
+    "link": "https://finance.yahoo.com/video/wall-street-firms-stablecoin-launch-173000092.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-09-02T17:30:00Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "Bond Yields Soar Around the World",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/bond-yields-soar-around-the-world-ptVMp0vL6eG5mIy3dxtm?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -60,13 +67,6 @@
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/gold-slips-ahead-of-fed-meeting-minutes-Up0SmZl5C1gZClW4iuJS?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-08-19T09:55:08Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Global Government Bond Yields Hit Multiyear Highs",
-    "link": "https://www.wsj.com/finance/investing/global-government-bond-yields-hit-multiyear-highs-2b47888a?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-18T19:45:00Z",
     "type": "STORY"
   }
 ]
