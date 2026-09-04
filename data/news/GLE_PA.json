@@ -14,13 +14,6 @@
     "type": "STORY"
   },
   {
-    "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-05T09:26:12Z",
-    "type": "STORY"
-  },
-  {
     "title": "Société Générale Société Anonyme (ENXTPA:GLE) Lifted Earnings And Its Interim Dividend, Is It Fully Priced?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/soci-t-g-n-rale-161540783.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.electronicpaymentsinternational.com/news/xtransfer-societe-generale-cross-border-payments/",
     "publisher": "Electronic Payments",
     "date": "2026-06-08T06:34:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Societe Generale sheds managerial posts in restructuring– report",
+    "link": "https://www.retailbankerinternational.com/news/societe-generale-sheds-managerial-posts/",
+    "publisher": "Retail Banker International",
+    "date": "2026-06-05T13:03:51Z",
     "type": "STORY"
   }
 ]
