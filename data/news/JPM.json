@@ -1,5 +1,61 @@
 [
   {
+    "title": "JPMorgan Slips While Its Canadian Revenue Nearly Doubles",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-slips-while-canadian-revenue-213001963.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-08T21:30:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Corporate Bonds Are Giving Treasuries a Tough Time",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/why-corporate-bonds-are-giving-treasuries-a-tough-time-Y8uKIBCpt07Bd0Vmmjzc?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-09-08T19:05:49Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Goldman Stock Gains 38.6% in a Year: Buy Now or Wait for a Pullback?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-stock-gains-38-6-153300218.html",
+    "publisher": "Zacks",
+    "date": "2026-09-08T15:33:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Micron Stock Can Benefit from Fresh Memory-Chip Price Data",
+    "link": "https://www.barrons.com/articles/micron-stock-price-memory-chips-15d74f8e?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-09-08T14:45:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "JPMorgan starts FedEx Freight at Overweight on post-spin turnaround",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-starts-fedex-freight-overweight-135904363.html",
+    "publisher": "Investing.com",
+    "date": "2026-09-08T13:59:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Here is What to Know Beyond Why JPMorgan Chase & Co. (JPM) is a Trending Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-jpmorgan-chase-130003817.html",
+    "publisher": "Zacks",
+    "date": "2026-09-08T13:00:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Market Chatter: Anthropic to Start Marketing IPO Mid-October",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-start-marketing-091304446.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-08T09:13:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "High Mortgage Rates Keep Multifamily Demand Elevated",
+    "link": "https://www.credaily.com/briefs/high-mortgage-rates-keep-multifamily-demand-elevated/",
+    "publisher": "CRE Daily",
+    "date": "2026-09-08T08:28:18Z",
+    "type": "STORY"
+  },
+  {
     "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
     "link": "https://www.cryptoprowl.com/releases/dbs-citi-complete-first-weekend-cross-border-payment-6955",
     "publisher": "CryptoProwl",
@@ -11,62 +67,6 @@
     "link": "https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-09-07T20:08:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/c-nears-china-brokerage-license-162600894.html",
-    "publisher": "Zacks",
-    "date": "2026-09-07T16:26:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What's Powering Bank of America's Strong Capital Return Strategy?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/whats-powering-bank-americas-strong-150800237.html",
-    "publisher": "Zacks",
-    "date": "2026-09-07T15:08:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Want $10,000 a month in retirement? Here’s what you need saved if you stop working at 55, 62 or 65",
-    "link": "https://finance.yahoo.com/markets/articles/want-10-000-month-retirement-144500789.html",
-    "publisher": "Moneywise",
-    "date": "2026-09-07T14:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Boomer beware: 5 big-ticket buys seniors regret in retirement — and what you can do to avoid making these mistakes",
-    "link": "https://finance.yahoo.com/small-business/articles/boomer-beware-5-big-ticket-110500875.html",
-    "publisher": "Moneywise",
-    "date": "2026-09-07T11:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "3 ETFs That Could Move as Rate Expectations Shift",
-    "link": "https://www.marketbeat.com/articles/3-etfs-that-could-move-as-rate-expectations-shift/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-09-06T16:10:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
-    "link": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html",
-    "publisher": "Moneywise",
-    "date": "2026-09-06T14:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
-    "link": "https://www.fool.com/investing/2026/09/05/jpmorgans-market-value-is-flirting-with-1-trillion/",
-    "publisher": "Motley Fool",
-    "date": "2026-09-06T02:35:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What new data reveals about Americans and AI financial decisions",
-    "link": "https://www.thestreet.com/technology/what-new-data-reveals-about-americans-and-ai-financial-decisions",
-    "publisher": "TheStreet",
-    "date": "2026-09-06T02:03:00Z",
     "type": "STORY"
   }
 ]
