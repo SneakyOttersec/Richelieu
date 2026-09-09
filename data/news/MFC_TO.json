@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Bessent’s Whatever-It-Takes Yen Pledge Masks Limited Firepower",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-whatever-takes-yen-pledge-202958898.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-10T20:29:58Z",
-    "type": "STORY"
-  },
-  {
     "title": "Manulife (TSX:MFC) Stock Looks Reasonable After A Strong Five Year Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-tsx-mfc-stock-looks-161223686.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/slf-q2-earnings-beat-estimates-162200850.html",
     "publisher": "Zacks",
     "date": "2026-08-07T16:22:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Manulife Financial Corp (MFC) (Q2 2026) Earnings Call Highlights: Record Asia Earnings and ...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-financial-corp-mfc-q2-190606133.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-06T19:06:06Z",
     "type": "STORY"
   }
 ]

@@ -1,9 +1,30 @@
 [
   {
+    "title": "European Stocks Tumble in Wednesday Trading as Intensified Middle East Conflict Drives Up Oil Prices",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-tumble-wednesday-trading-155236345.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-09T15:52:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Update: Market Chatter: BP North Sea Operations Garner Interest From Potential Buyers",
+    "link": "https://finance.yahoo.com/energy/articles/market-chatter-bp-north-sea-154353818.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-09T15:43:53Z",
+    "type": "STORY"
+  },
+  {
     "title": "Exxon Stays Flat as Kazakhstan Pauses a $5.06 Billion Threat",
     "link": "https://finance.yahoo.com/energy/articles/exxon-stays-flat-kazakhstan-pauses-212220212.html",
     "publisher": "GuruFocus.com",
     "date": "2026-09-08T21:22:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TotalEnergies, Galp Complete Swap Involving Mopane, Venus Discoveries",
+    "link": "https://finance.yahoo.com/energy/articles/totalenergies-galp-complete-swap-involving-162422239.html",
+    "publisher": "Rigzone.com",
+    "date": "2026-09-08T16:24:22Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/totalenergies-cuts-papua-lng-cost-083000825.html",
     "publisher": "Oilprice.com",
     "date": "2026-09-07T08:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Santos Boosts Papua LNG Stake as ExxonMobil Takes Operatorship",
-    "link": "https://finance.yahoo.com/energy/articles/santos-boosts-papua-lng-stake-082000701.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-09-07T08:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sector Update: Energy Stocks Softer Late Afternoon",
-    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195737210.html",
-    "publisher": "MT Newswires",
-    "date": "2026-09-04T19:57:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TotalEnergies (ENXTPA:TTE) Takes Namibia PEL83 Operatorship And Backs Hydrogen Freight Push",
-    "link": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-takes-namibia-181353109.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-09-04T18:13:53Z",
     "type": "STORY"
   }
 ]

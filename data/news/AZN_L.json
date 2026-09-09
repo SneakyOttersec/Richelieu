@@ -1,5 +1,61 @@
 [
   {
+    "title": "Could AstraZeneca (AZN)’s Stronger Growth Make it a Better Bet than Amgen (AMGN)?",
+    "link": "https://finance.yahoo.com/healthcare/articles/could-astrazeneca-azn-stronger-growth-214801118.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-09-09T21:48:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca Falls 1.3% Despite a 34% COPD Breakthrough",
+    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-falls-1-3-despite-180236027.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-09T18:02:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Amgen's Imdelltra Sales Surge 115% as Lung-Cancer Combination Meets Major Goals",
+    "link": "https://finance.yahoo.com/healthcare/articles/amgens-imdelltra-sales-surge-115-180139628.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-09T18:01:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "ERS 2026: tozorakimab’s groundbreaking exacerbation reduction sets a new bar in COPD",
+    "link": "https://www.clinicaltrialsarena.com/analyst-comment/ers-2026-tozorakimab-exacerbation-reduction-copd/",
+    "publisher": "Clinical Trials Arena",
+    "date": "2026-09-09T15:56:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "VERAXA Biotech Designates Raju Willener as CFO",
+    "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
+    "publisher": "Exec Edge",
+    "date": "2026-09-09T15:46:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca COPD data back Citi's $7b peak sales case",
+    "link": "https://www.proactiveinvestors.com/companies/news/1098291/astrazeneca-copd-data-back-citi-s-7b-peak-sales-case-1098291.html",
+    "publisher": "Proactive",
+    "date": "2026-09-09T13:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Amgen, AstraZeneca combination improves survival measures in late-stage lung cancer study",
+    "link": "https://investorshub.advfn.com/market-news/article/35901/amgen-astrazeneca-combination-improves-survival-measures-in-late-stage-lung-cancer-study",
+    "publisher": "InvestorsHub",
+    "date": "2026-09-09T10:10:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Merck pairs ADCs with Keytruda in women’s cancer push",
+    "link": "https://www.pharmavoice.com/news/merck-adcs-keytruda-womens-cancer/829900/",
+    "publisher": "Pharma Voice",
+    "date": "2026-09-09T09:48:44Z",
+    "type": "STORY"
+  },
+  {
     "title": "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
     "link": "https://247wallst.com/investing/2026/09/08/amgen-falls-10-as-novartis-trial-failure-clouds-a-cholesterol-drug-class-nvs-stock-drops-14/",
     "publisher": "24/7 Wall St.",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-falls-today-even-imfinzi-163542790.html",
     "publisher": "GuruFocus.com",
     "date": "2026-09-08T16:35:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca Ends Phase 3 Lung Cancer Drug Trial After Review",
-    "link": "https://www.wsj.com/health/pharma/astrazeneca-ends-phase-three-lung-cancer-drug-trial-after-review-0b63c1d3?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-09-08T14:54:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy",
-    "link": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
-    "publisher": "BioPharma Dive",
-    "date": "2026-09-08T14:41:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca Says Lung-Disease Drug Shows Benefits Across Patient Groups",
-    "link": "https://www.wsj.com/health/pharma/astrazeneca-says-lung-disease-drug-shows-benefits-across-patient-groups-79618f4c?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-09-08T13:18:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Merck Trading Near 52-Week High: Is the Stock a Buy, Hold or Sell?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/merck-trading-near-52-week-123800885.html",
-    "publisher": "Zacks",
-    "date": "2026-09-08T12:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca tozorakimab COPD Phase 3 trial results 2026",
-    "link": "https://qz.com/astrazeneca-tozorakimab-copd-phase-3-trials-090826",
-    "publisher": "Quartz",
-    "date": "2026-09-08T12:28:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Novartis Trial Failure Serves as Cautionary Tale for Pharma M&A",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/novartis-dealmaking-serves-as-cautionary-tale-for-pharma-m-a-fArh7MwnHS4qbaGDRxym?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-09-08T10:47:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Citi backs AstraZeneca sentiment boost after Etcamah wins accelerated FDA approval",
-    "link": "https://www.proactiveinvestors.com/companies/news/1098167/citi-backs-astrazeneca-sentiment-boost-after-etcamah-wins-accelerated-fda-approval-1098167.html",
-    "publisher": "Proactive",
-    "date": "2026-09-07T14:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca Secures FDA Nod for New Breast Cancer Therapy Etcamah",
-    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-secures-fda-nod-breast-124100423.html",
-    "publisher": "Zacks",
-    "date": "2026-09-07T12:41:00Z",
     "type": "STORY"
   }
 ]
