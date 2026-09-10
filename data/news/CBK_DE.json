@@ -1,5 +1,12 @@
 [
   {
+    "title": "Commerzbank Says Oil Prices Remain High, Treasuries Stabilize, US Equity Futures Flat",
+    "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-remain-101717902.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-10T10:17:17Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Gas Prices Hit Highest Since 2023 as Market Braces for Prolonged LNG Squeeze",
     "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-hit-highest-since-2023-as-market-braces-for-prolonged-lng-squeeze-799356de?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-weaken-on-growing-fed-rate-hike-prospects-14e4f9a1?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-08-31T21:23:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Commerzbank Says Oil Prices Rise Amid Middle East Military Escalation, Treasuries Edge Higher",
-    "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-rise-102514545.html",
-    "publisher": "MT Newswires",
-    "date": "2026-08-31T10:25:14Z",
     "type": "STORY"
   }
 ]
