@@ -1,5 +1,61 @@
 [
   {
+    "title": "Goldman, BofA vie to manage Anthropic employee wealth post-IPO - report",
+    "link": "https://finance.yahoo.com/technology/ai/articles/goldman-bofa-vie-manage-anthropic-213608799.html",
+    "publisher": "Investing.com",
+    "date": "2026-09-11T21:36:08Z",
+    "type": "STORY"
+  },
+  {
+    "title": "JPMorgan Taps Longtime Executives to Run $2.4 Trillion U.S. Private Bank",
+    "link": "https://www.barrons.com/articles/jpmorgan-chase-executives-private-bank-55ebdb44?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-09-11T19:45:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "CPI Inflation Came Hot: Watch These Stocks If Kevin Warsh Hikes Next Week",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61749417/fed-rate-hike-stocks-warsh?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+    "publisher": "Benzinga Prediction Markets",
+    "date": "2026-09-11T19:34:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bank ETFs in Spotlight as Next Week's Fed Rate Hike Odds Hit 70%",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-etfs-spotlight-next-weeks-182000376.html",
+    "publisher": "Zacks",
+    "date": "2026-09-11T18:20:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Renishaw Gets a Semiconductor Upgrade",
+    "link": "https://app.moby.co/home/news/news-renishaw-gets-a-semiconductor-upgrade?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-09-11T15:10:31Z",
+    "type": "STORY"
+  },
+  {
+    "title": "RH Margin Pressure Persists, All Eyes on Estates Rollout, BofA Says",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rh-margin-pressure-persists-eyes-144329798.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-11T14:43:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Can Greece Add Another Growth Lever for JPMorgan in Europe?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/greece-add-another-growth-lever-140900498.html",
+    "publisher": "Zacks",
+    "date": "2026-09-11T14:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bank of America Turns More Bullish on Cboe, CME, ICE Despite Perps Threat",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-turns-more-bullish-235610486.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-10T23:56:10Z",
+    "type": "STORY"
+  },
+  {
     "title": "Quantum Is the ‘Next Fire Moment,’ BofA Says. Why It Could Eclipse the AI Revolution.",
     "link": "https://www.barrons.com/articles/ai-quantum-computing-stocks-bank-of-america-c26d7cf1?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -11,62 +67,6 @@
     "link": "https://www.thestreet.com/investing/bank-of-america-163-billion-forced-selling-stocks",
     "publisher": "TheStreet",
     "date": "2026-09-10T16:03:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Coinbase, Moov Bring Stablecoin Payments to Over 1,000 US Community Banks",
-    "link": "https://www.cryptoprowl.com/releases/coinbase-moov-bring-stablecoin-payments-to-over-1000-us-community-banks-7037",
-    "publisher": "CryptoProwl",
-    "date": "2026-09-10T15:51:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oracle set to report as Street weighs capex risk against cloud growth",
-    "link": "https://www.proactiveinvestors.com/companies/news/1098379/oracle-set-to-report-as-street-weighs-capex-risk-against-cloud-growth-1098379.html",
-    "publisher": "Proactive",
-    "date": "2026-09-10T15:20:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank of America says rising bond yields aren't a threat to AI trade yet",
-    "link": "https://qz.com/bank-of-america-bond-yields-ai-trade-091026",
-    "publisher": "Quartz",
-    "date": "2026-09-10T13:07:13Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Investors Are Nervous About Timing of Potential 'Crash,' BofA Says",
-    "link": "https://finance.yahoo.com/video/investors-nervous-timing-potential-crash-074834774.html",
-    "publisher": "Bloomberg",
-    "date": "2026-09-10T07:48:34Z",
-    "type": "VIDEO"
-  },
-  {
-    "title": "Bank of America’s unique take on Apple stock as Ternus takes reins",
-    "link": "https://www.thestreet.com/investing/bank-of-america-estimated-apple-stock-price-above-consensus-as-ternus-takes-over",
-    "publisher": "TheStreet",
-    "date": "2026-09-09T16:47:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "U.S. Bancorp To Launch Its Own Stablecoin",
-    "link": "https://www.cryptoprowl.com/releases/us-bancorp-to-launch-its-own-stablecoin-7021",
-    "publisher": "CryptoProwl",
-    "date": "2026-09-09T13:38:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Update: Market Chatter: Uber Targets 4 Billion Euros From Five-Tranche Euro Bond Deal, Deal Size Could Increase",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-targets-4-092920356.html",
-    "publisher": "MT Newswires",
-    "date": "2026-09-09T09:29:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bank Preferred Stocks Are Sending a Warning About Interest Rates",
-    "link": "https://www.barrons.com/articles/bank-preferred-stocks-interest-rates-8065180c?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-09-08T18:59:00Z",
     "type": "STORY"
   }
 ]
