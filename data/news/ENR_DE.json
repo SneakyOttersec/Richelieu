@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+    "link": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
+    "publisher": "Quartz",
+    "date": "2026-09-14T11:23:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Stocks Mixed, Chip Stocks Slide",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-6-dragged-by-chip-metals-stocks-b366d914?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-14T07:49:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Abu Dhabi’s Oil Giant Inks Partnerships With German Energy, Industry Groups as Part of UAE’s $46.5 Billion Investment",
     "link": "https://www.wsj.com/business/energy-oil/abu-dhabis-oil-giant-inks-partnerships-with-german-energy-industry-groups-as-part-of-uaes-46-5-billion-investment-03dc5ace?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/business/siemens-energy-plans-to-spin-off-transformation-of-industry-unit-94ae315c?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-08-26T06:17:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Siemens Energy Plans to Carve Out Transformation of Industry Unit",
-    "link": "https://finance.yahoo.com/energy/articles/siemens-energy-plans-carve-transformation-031500771.html",
-    "publisher": "Oilprice.com",
-    "date": "2026-08-26T03:15:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Edge Higher After Monday Rout",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-8-dragged-by-electronics-stocks-961a5697?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-25T08:22:00Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "title": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e3a3c244?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-14T20:53:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+    "link": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
+    "publisher": "Quartz",
+    "date": "2026-09-14T11:23:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Anthropic CEO Urges AI Industry to Slow Development Pace; Chip Stocks Slide",
+    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-urges-ai-industry-101357356.html",
+    "publisher": "MT Newswires",
+    "date": "2026-09-14T10:13:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Chip Stocks Follow Asia Lower Amid AI Worries",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/european-chip-stocks-follow-asia-lower-amid-ai-worries-2pYHTE2Uc5H8vXi7DCQ4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-09-14T08:30:11Z",
+    "type": "STORY"
+  },
+  {
     "title": "Morgan Stanley turns more selective on European chip stocks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-turns-more-selective-152343049.html",
     "publisher": "Investing.com",
@@ -39,34 +67,6 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-chip-stocks-1cae7bf0?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-08-27T08:14:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Mixed Ahead of Nvidia Earnings",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-26T09:04:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Chip Stocks Mixed Ahead of Nvidia Earnings",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/chip-stocks-mixed-ahead-of-nvidia-earnings-6DlagbC7A0kH2dlH6KUq?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-08-26T09:02:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Chip Stocks Edge Higher After Monday Rout",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-082526/card/chip-stocks-edge-higher-after-monday-rout-zhN3CjIVvgd0iZZCLGAW?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-08-25T09:11:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Edge Higher After Monday Rout",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-8-dragged-by-electronics-stocks-961a5697?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-25T08:22:00Z",
     "type": "STORY"
   }
 ]

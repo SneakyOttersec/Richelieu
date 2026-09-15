@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Saint-Gobain Shares Rise on $1.76 Billion Sale of Majority of Dahl Operations",
-    "link": "https://www.wsj.com/business/deals/saint-gobain-to-sell-dahl-business-to-kesko-for-1-76-billion-a2df4d75?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-06-15T10:39:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "3 European Dividend Stocks Yielding Up To 4.4%",
     "link": "https://finance.yahoo.com/markets/stocks/articles/3-european-dividend-stocks-yielding-103157034.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/news/saint-gobain-reports-stable-2025-180007112.html",
     "publisher": "Investing.com",
     "date": "2026-02-26T18:00:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Saint Gobain London Delisting Refocuses Liquidity Dividend And Growth Outlook",
+    "link": "https://finance.yahoo.com/news/saint-gobain-london-delisting-refocuses-120744023.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-02-15T12:07:44Z",
     "type": "STORY"
   }
 ]
