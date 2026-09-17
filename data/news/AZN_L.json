@@ -1,9 +1,37 @@
 [
   {
     "title": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2906f60d?siteid=yhoof2&yptr=yahoo",
+    "link": "https://www.wsj.com/health/healthcare/health-care-roundup-market-talk-13e9a88b?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-09-15T21:02:00Z",
+    "date": "2026-09-16T21:09:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca Shares Rise as J.P. Morgan Stays Overweight",
+    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-shares-rise-j-p-190319124.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-09-16T19:03:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca shares oversold after trial flops and merger talk, says UBS",
+    "link": "https://www.proactiveinvestors.com/companies/news/1098628/astrazeneca-shares-oversold-after-trial-flops-and-merger-talk-says-ubs-1098628.html",
+    "publisher": "Proactive",
+    "date": "2026-09-16T14:37:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is It Worth Investing in Astrazeneca (AZN) Based on Wall Street's Bullish Views?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-astrazeneca-azn-based-133004000.html",
+    "publisher": "Zacks",
+    "date": "2026-09-16T13:30:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca's news flow next year could sustain drugs group beyond 2030, says leading bank",
+    "link": "https://www.proactiveinvestors.com/companies/news/1098618/astrazeneca-s-news-flow-next-year-could-sustain-drugs-group-beyond-2030-says-leading-bank-1098618.html",
+    "publisher": "Proactive",
+    "date": "2026-09-16T11:05:00Z",
     "type": "STORY"
   },
   {
@@ -39,34 +67,6 @@
     "link": "https://www.wsj.com/health/pharma/legend-naming-novartis-executive-as-ceo-6a79fa0c",
     "publisher": "The Wall Street Journal",
     "date": "2026-09-15T11:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "CLLS Stock Heads For 14-Month Low After 40% Rout: Citizens Flags Delayed Cellectis Catalysts After Cancer Pipeline Pivot",
-    "link": "https://stocktwits.com/news-articles/markets/equity/clls-stock-cellectis-cancer-pivot-citizens-downgrade/cZtneLBRBTz",
-    "publisher": "Stocktwits",
-    "date": "2026-09-15T11:11:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "New Strong Sell Stocks for September 15th",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-september-15th-094000915.html",
-    "publisher": "Zacks",
-    "date": "2026-09-15T09:40:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why the Market Dipped But Astrazeneca (AZN) Gained Today",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html",
-    "publisher": "Zacks",
-    "date": "2026-09-14T22:15:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca’s cancer pipeline posts two wins and a loss",
-    "link": "https://www.clinicaltrialsarena.com/news/astrazeneca-oncology-portoflio-posts-two-wins-one-loss/",
-    "publisher": "Clinical Trials Arena",
-    "date": "2026-09-14T16:46:45Z",
     "type": "STORY"
   }
 ]

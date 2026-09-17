@@ -7,13 +7,6 @@
     "type": "VIDEO"
   },
   {
-    "title": "Banks Cheer as Trump’s Regulatory Rollback Spreads to Europe",
-    "link": "https://finance.yahoo.com/economy/policy/articles/banks-cheer-trump-regulatory-rollback-040005762.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-17T04:00:05Z",
-    "type": "STORY"
-  },
-  {
     "title": "Société Générale Société Anonyme (ENXTPA:GLE) Lifted Earnings And Its Interim Dividend, Is It Fully Priced?",
     "link": "https://finance.yahoo.com/markets/stocks/articles/soci-t-g-n-rale-161540783.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.retailbankerinternational.com/news/societe-generale-sheds-managerial-posts/",
     "publisher": "Retail Banker International",
     "date": "2026-06-05T13:03:51Z",
+    "type": "STORY"
+  },
+  {
+    "title": "New Chairman And Buyback Mandate Shape Société Générale Governance Story",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chairman-buyback-mandate-shape-soci-090330744.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-05-30T09:03:30Z",
     "type": "STORY"
   }
 ]
