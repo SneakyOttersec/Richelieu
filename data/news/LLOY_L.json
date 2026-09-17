@@ -42,13 +42,6 @@
     "type": "STORY"
   },
   {
-    "title": "AI Is Starting to Define Bank Internships as Much as Long Hours",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-starting-define-bank-internships-083136011.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-18T08:31:36Z",
-    "type": "STORY"
-  },
-  {
     "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Wednesday Trading",
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151123119.html",
     "publisher": "MT Newswires",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-lse-lloy-111452453.html",
     "publisher": "Simply Wall St.",
     "date": "2026-08-09T11:14:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Lloyds Banking Group (LSE:LLOY) Lifts Interim Dividend As Fair Value Stays In Focus",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-lse-lloy-032103654.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-08-09T03:21:03Z",
     "type": "STORY"
   }
 ]

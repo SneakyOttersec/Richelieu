@@ -28,13 +28,6 @@
     "type": "STORY"
   },
   {
-    "title": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/japan-earnings-surprise-analysts-fuel-224220635.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-18T22:42:20Z",
-    "type": "STORY"
-  },
-  {
     "title": "European Indexes Rise as Earnings Drive Markets",
     "link": "https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/costar-group-q2-earnings-beat-172800543.html",
     "publisher": "Zacks",
     "date": "2026-07-29T17:28:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SWKS Q3 Earnings Beat on Broad Markets, AI Data Center Growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/swks-q3-earnings-beat-broad-151500013.html",
+    "publisher": "Zacks",
+    "date": "2026-07-29T15:15:00Z",
     "type": "STORY"
   }
 ]
