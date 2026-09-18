@@ -35,13 +35,6 @@
     "type": "STORY"
   },
   {
-    "title": "Record Pace of Bond Sales Jolts Europe Out of Its Summer Lull",
-    "link": "https://finance.yahoo.com/markets/articles/record-pace-bond-sales-jolts-112420008.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-19T11:24:20Z",
-    "type": "STORY"
-  },
-  {
     "title": "Europe Indexes Higher as Stoxx 600 Touches New Record",
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-electronics-bank-stocks-d58297ff?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -67,6 +60,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-financial-group-mfg-top-165219045.html",
     "publisher": "Insider Monkey",
     "date": "2026-06-19T16:52:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Oracle Gets Mizuho Backing",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-gets-mizuho-backing-201955756.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-06-15T20:19:55Z",
     "type": "STORY"
   }
 ]
