@@ -1,5 +1,12 @@
 [
   {
+    "title": "US Diesel Tops Record as Global Crunch Feeds Inflation",
+    "link": "https://finance.yahoo.com/video/us-diesel-tops-record-global-150000350.html",
+    "publisher": "Bloomberg",
+    "date": "2026-09-21T15:00:00Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "Agentforce Triggers Renewal Surge, Sparking Salesforce AI Boom: Analyst",
     "link": "https://finance.yahoo.com/markets/stocks/articles/agentforce-triggers-renewal-surge-sparking-102117886.html",
     "publisher": "Benzinga",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/hsbcs-germany-pullback-support-profitability-153700717.html",
     "publisher": "Zacks",
     "date": "2026-09-11T15:37:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
-    "link": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-09-10T11:00:00Z",
     "type": "STORY"
   }
 ]

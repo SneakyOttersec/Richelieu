@@ -1,5 +1,26 @@
 [
   {
+    "title": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-21T20:54:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Chip Stocks Open Week With Early Gains",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/chip-stocks-open-week-with-early-gains-SnhVvwnrAUtgIPETt6jo?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-09-21T09:10:14Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Chip Stocks Open Week With Early Gains",
+    "link": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-21T08:16:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "U.S. AI-Related Stocks Extend Rally Premarket",
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-2b0efbba?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -28,13 +49,6 @@
     "type": "STORY"
   },
   {
-    "title": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e3a3c244?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-09-14T20:53:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
     "link": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
     "publisher": "Quartz",
@@ -53,20 +67,6 @@
     "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/european-chip-stocks-follow-asia-lower-amid-ai-worries-2pYHTE2Uc5H8vXi7DCQ4?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
     "date": "2026-09-14T08:30:11Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Morgan Stanley turns more selective on European chip stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-turns-more-selective-152343049.html",
-    "publisher": "Investing.com",
-    "date": "2026-09-08T15:23:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Morgan Stanley upgrades Synopsys as it turns selective on chip stocks",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-upgrades-synopsys-turns-124607125.html",
-    "publisher": "Investing.com",
-    "date": "2026-09-08T12:46:07Z",
     "type": "STORY"
   }
 ]

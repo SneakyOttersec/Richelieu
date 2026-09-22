@@ -49,13 +49,6 @@
     "type": "STORY"
   },
   {
-    "title": "Monte Paschi Bids  34 Billion for BPM, Banca Generali",
-    "link": "https://finance.yahoo.com/video/monte-paschi-bids-34-billion-055942335.html",
-    "publisher": "Bloomberg",
-    "date": "2026-08-21T05:59:42Z",
-    "type": "VIDEO"
-  },
-  {
     "title": "MPS prepares twin bids for Banco BPM and Banca Generali in Intesa defense - FT",
     "link": "https://finance.yahoo.com/markets/stocks/articles/mps-prepares-twin-bids-banco-181654749.html",
     "publisher": "Investing.com",
@@ -67,6 +60,13 @@
     "link": "https://beincrypto.com/intesa-sanpaolo-italy-spacex-stake-bitcoin-etf/",
     "publisher": "BeInCrypto",
     "date": "2026-08-18T15:36:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SpaceX Surges as Intesa Reveals a $966 Million Stake",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-surges-intesa-reveals-966-203802474.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-08-17T20:38:02Z",
     "type": "STORY"
   }
 ]
