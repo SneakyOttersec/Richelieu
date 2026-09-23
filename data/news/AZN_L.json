@@ -1,5 +1,40 @@
 [
   {
+    "title": "AstraZeneca (LSE:AZN) Gets EU Support For Two Key Drugs",
+    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-lse-azn-gets-eu-221229985.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-09-22T22:12:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca and GSK warn Europe’s drug industry is ‘at risk’",
+    "link": "https://www.telegraph.co.uk/business/2026/09/22/astrazeneca-and-gsk-warn-europes-drug-industry-is-at-risk/",
+    "publisher": "The Telegraph",
+    "date": "2026-09-22T19:26:32Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European drugmakers call for faster trials, more spending to compete with US, China",
+    "link": "https://finance.yahoo.com/news/european-drugmakers-call-faster-trials-134243438.html",
+    "publisher": "Reuters",
+    "date": "2026-09-22T13:47:41Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca (LSE:AZN) Stock May Be 48% Undervalued On Enhertu Trial Progress",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-lse-azn-stock-may-132026495.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-09-22T13:20:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AstraZeneca and Daiichi Sankyo’s Breast Cancer Drug Approved for NHS Use in England",
+    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-daiichi-sankyo-breast-cancer-013802789.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-09-22T01:38:02Z",
+    "type": "STORY"
+  },
+  {
     "title": "Astrazeneca (AZN) Ascends But Remains Behind Market: Some Facts to Note",
     "link": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-azn-ascends-remains-behind-221505578.html",
     "publisher": "Zacks",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152908906.html",
     "publisher": "MT Newswires",
     "date": "2026-09-21T15:29:08Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AZN vs. MRK: Comparing Keytruda, Pipelines and Growth Strategies",
-    "link": "https://finance.yahoo.com/healthcare/articles/azn-vs-mrk-comparing-keytruda-152200773.html",
-    "publisher": "Zacks",
-    "date": "2026-09-21T15:22:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Novo Nordisk Stock Drops 5.6% as 2030 Goals Match Peers",
-    "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-drops-5-122029338.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-09-21T12:20:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "FDA Grants Priority Review to AZN's Filing for Rare Bone Disease Drug",
-    "link": "https://finance.yahoo.com/healthcare/articles/fda-grants-priority-review-azns-170000804.html",
-    "publisher": "Zacks",
-    "date": "2026-09-18T17:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Can AstraZeneca's Broad Pipeline Offset Recent Setbacks?",
-    "link": "https://finance.yahoo.com/healthcare/articles/astrazenecas-broad-pipeline-offset-recent-132300442.html",
-    "publisher": "Zacks",
-    "date": "2026-09-18T13:23:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "AstraZeneca (LSE:AZN) Reported First HER2 Directed Lung Cancer Phase III Success",
-    "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-lse-azn-reported-first-031527438.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-09-18T03:15:27Z",
     "type": "STORY"
   }
 ]
