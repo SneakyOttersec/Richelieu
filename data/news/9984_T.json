@@ -1,9 +1,58 @@
 [
   {
+    "title": "Nasdaq climbs higher, McDonald's investor day updates",
+    "link": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-09-23T14:14:49Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "SoftBank Group (TSE:9984) Lines Up $11 Billion Junk Bond In Record Debt Deal",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-lines-201630784.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-09-23T20:16:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-raising-11-billion-openai-185239787.html",
+    "publisher": "Insider Monkey",
+    "date": "2026-09-23T18:52:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "OpenAI IPO Collapse?",
+    "link": "https://247wallst.com/investing/2026/09/23/openai-ipo-collapse/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-09-23T14:17:37Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Morning Bid: A$ gets a bit part as AI steals the show",
+    "link": "https://finance.yahoo.com/markets/articles/morning-bid-gets-bit-part-043525187.html",
+    "publisher": "Reuters",
+    "date": "2026-09-23T04:35:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-starts-jumbo-high-yield-024210528.html",
+    "publisher": "Bloomberg",
+    "date": "2026-09-23T02:42:10Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html",
     "publisher": "Insider Monkey",
     "date": "2026-09-22T22:17:36Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Meta’s Muse Highlights Arm’s Growing Role in AI Infrastructure",
+    "link": "https://www.marketbeat.com/articles/metas-muse-highlights-arms-growing-role-in-ai-infrastructure/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "publisher": "MarketBeat",
+    "date": "2026-09-22T19:00:00Z",
     "type": "STORY"
   },
   {
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-draws-over-20-billion-084641856.html",
     "publisher": "Bloomberg",
     "date": "2026-09-22T08:46:41Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Junk-Bond Market Gets AI Jolt from SoftBank",
-    "link": "https://www.barrons.com/articles/junk-bond-ai-softbank-36be982c?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-09-21T22:29:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oura Targets $15.6 Billion Valuation in Test of IPO Market",
-    "link": "https://www.barrons.com/articles/oura-ipo-valuation-stock-7ed6de72?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-09-21T18:12:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Borrows Even More Money for OpenAI",
-    "link": "https://app.moby.co/home/news/news-softbank-borrows-even-more-money-for-openai?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-09-21T17:09:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank launches $11 billion bond sale to fund OpenAI investment",
-    "link": "https://www.proactiveinvestors.com/companies/news/1098830/softbank-launches-11-billion-bond-sale-to-fund-openai-investment-1098830.html",
-    "publisher": "Proactive",
-    "date": "2026-09-21T13:58:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Seeks $11 Billion in What Would Be a Record Junk Bond Sale",
-    "link": "https://finance.yahoo.com/markets/options/articles/softbank-seeks-11-billion-record-122341820.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-09-21T12:23:41Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank launches $11 billion junk bond deal for OpenAI bet",
-    "link": "https://qz.com/softbank-junk-bond-openai-investment-092126",
-    "publisher": "Quartz",
-    "date": "2026-09-21T11:53:46Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Market Chatter: Microsoft-backed OpenAI Seeks Valuation Above $1.2 Trillion Despite Projected $278 Billion Cash Burn",
-    "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-090300004.html",
-    "publisher": "MT Newswires",
-    "date": "2026-09-21T09:03:00Z",
     "type": "STORY"
   }
 ]
