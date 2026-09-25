@@ -1,16 +1,23 @@
 [
   {
-    "title": "TC Energy to Divest Guadalajara-Manzanillo Pipeline for $400M",
-    "link": "https://finance.yahoo.com/energy/articles/tc-energy-divest-guadalajara-manzanillo-142500617.html",
-    "publisher": "Zacks",
-    "date": "2026-09-22T14:25:00Z",
+    "title": "U.S. Natural Gas Futures Rise Sharply on Pipeline Outage",
+    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-storage-levels-worry-market-2ac6836d?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-24T20:06:00Z",
     "type": "STORY"
   },
   {
     "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
     "link": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
-    "date": "2026-09-16T14:46:00Z",
+    "date": "2026-09-23T23:25:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "TC Energy to Divest Guadalajara-Manzanillo Pipeline for $400M",
+    "link": "https://finance.yahoo.com/energy/articles/tc-energy-divest-guadalajara-manzanillo-142500617.html",
+    "publisher": "Zacks",
+    "date": "2026-09-22T14:25:00Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/tc-energy-stock-worth-buying-145600351.html",
     "publisher": "Zacks",
     "date": "2026-08-06T14:56:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TC Energy Q2 Earnings Call Highlights",
-    "link": "https://www.marketbeat.com/instant-alerts/tc-energy-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-08-01T03:03:41Z",
     "type": "STORY"
   }
 ]

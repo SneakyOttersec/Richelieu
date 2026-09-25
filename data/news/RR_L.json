@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bentley debuts its first electric car. Starting price: $250,000.",
+    "link": "https://finance.yahoo.com/video/bentley-debuts-first-electric-car-133008316.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-09-24T13:30:08Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
     "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
     "publisher": "Zacks",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/energy/articles/nuscale-advances-key-safety-component-163000127.html",
     "publisher": "Zacks",
     "date": "2026-09-02T16:30:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SK Hynix, Stellantis, Innio and others announce manufacturing investments",
-    "link": "https://www.manufacturingdive.com/news/sk-hynix-stellantis-innio-openings-expansions/829355/",
-    "publisher": "Manufacturing Dive",
-    "date": "2026-09-02T15:09:38Z",
     "type": "STORY"
   }
 ]
