@@ -1,9 +1,23 @@
 [
   {
+    "title": "U.S. Natural-Gas Futures Settle Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-headed-for-5-weekly-loss-but-storage-concerns-remain-in-focus-518cf44c?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-25T19:37:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "U.S. Natural Gas Futures Rise Sharply on Pipeline Outage",
     "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-storage-levels-worry-market-2ac6836d?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-09-24T20:06:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nat-Gas Prices Soar on Pipeline Outage in Appalachia",
+    "link": "https://www.barchart.com/story/news/4785617/nat-gas-prices-soar-on-pipeline-outage-in-appalachia",
+    "publisher": "Barchart",
+    "date": "2026-09-24T19:15:03Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://www.fool.com/earnings/call-transcripts/2026/08/07/tc-energy-trp-q2-2026-earnings-call-transcript/",
     "publisher": "Motley Fool",
     "date": "2026-08-08T01:31:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "TC Energy Q2 Earnings and Revenues Beat Estimates, Rise Y/Y",
-    "link": "https://finance.yahoo.com/energy/articles/tc-energy-q2-earnings-revenues-145800813.html",
-    "publisher": "Zacks",
-    "date": "2026-08-06T14:58:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is TC Energy Stock Worth Buying as Growth Meets a Premium Valuation?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tc-energy-stock-worth-buying-145600351.html",
-    "publisher": "Zacks",
-    "date": "2026-08-06T14:56:00Z",
     "type": "STORY"
   }
 ]
