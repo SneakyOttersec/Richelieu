@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Indexes Largely Higher at Open",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-07fd1af5?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-28T08:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European AI-linked stocks rally After Anthropic’s $11.6 bln computing deal",
     "link": "https://finance.yahoo.com/technology/ai/articles/european-ai-linked-stocks-rally-121430083.html",
     "publisher": "Investing.com",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/infineon-800-vdc-ai-data-231437123.html",
     "publisher": "Simply Wall St.",
     "date": "2026-09-16T23:14:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Chip Stocks Mixed After Monday Rout",
-    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/chip-stocks-mixed-after-monday-rout-OBC97amAO1CtWNmD3ykC?siteid=yhoof2&yptr=yahoo",
-    "publisher": "Barrons.com",
-    "date": "2026-09-15T09:45:34Z",
     "type": "STORY"
   }
 ]

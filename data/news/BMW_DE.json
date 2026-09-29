@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Indexes Largely Higher at Open",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-07fd1af5?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-09-28T08:00:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "CATL starts trial battery cell production at new plant in Hungary",
     "link": "https://www.just-auto.com/news/catl-starts-trial-battery-cell-production-at-new-plant-in-hungary/",
     "publisher": "Just Auto",
@@ -61,12 +68,5 @@
     "publisher": "Bloomberg",
     "date": "2026-09-21T08:16:44Z",
     "type": "VIDEO"
-  },
-  {
-    "title": "Honda's Largest Recall In Recent History Cost Millions",
-    "link": "https://www.moneydigest.com/2257822/honda-airbag-recall-cost-millions/",
-    "publisher": "Money Digest",
-    "date": "2026-09-20T10:30:00Z",
-    "type": "STORY"
   }
 ]
