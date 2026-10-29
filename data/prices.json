@@ -3,1295 +3,1288 @@
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5355210,
+    "volume": 4770870,
     "currency": "USD"
   },
   "VTI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2353984,
+    "volume": 2344241,
     "currency": "USD"
   },
   "QQQ": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 30099074,
+    "volume": 28955146,
     "currency": "USD"
   },
   "VEA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 8102444,
+    "volume": 9062077,
     "currency": "USD"
   },
   "IEFA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5892707,
+    "volume": 6368491,
     "currency": "USD"
   },
   "VUG": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 6249810,
+    "volume": 4616202,
     "currency": "USD"
   },
   "VTV": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3191405,
+    "volume": 3341058,
     "currency": "USD"
   },
   "GLD": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5151791,
+    "volume": 9001436,
     "currency": "USD"
   },
   "BND": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 8007655,
+    "volume": 7640368,
     "currency": "USD"
   },
   "IEMG": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 18498313,
+    "volume": 9346338,
     "currency": "USD"
   },
   "MC.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 764573,
+    "volume": 450762,
     "currency": "EUR"
   },
   "RMS.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 88081,
+    "volume": 59509,
     "currency": "EUR"
   },
   "OR.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 425503,
+    "volume": 340040,
     "currency": "EUR"
   },
   "SU.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1270078,
+    "volume": 943200,
     "currency": "EUR"
   },
   "SAF.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 695954,
+    "volume": 593246,
     "currency": "EUR"
   },
   "TTE.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3638434,
+    "volume": 3065030,
     "currency": "EUR"
   },
   "EL.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1207873,
+    "volume": 740992,
     "currency": "EUR"
   },
   "BNP.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2381705,
+    "volume": 2172661,
     "currency": "EUR"
   },
   "AI.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 853799,
+    "volume": 796567,
     "currency": "EUR"
   },
   "SAN.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1783437,
+    "volume": 2827293,
     "currency": "EUR"
   },
   "CDI.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5417,
+    "volume": 4760,
     "currency": "EUR"
   },
   "CS.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2356933,
+    "volume": 1612865,
     "currency": "EUR"
   },
   "DG.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 770639,
+    "volume": 637525,
     "currency": "EUR"
   },
   "ENGI.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2982985,
+    "volume": 3788276,
     "currency": "EUR"
   },
   "ACA.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4910745,
+    "volume": 4272315,
     "currency": "EUR"
   },
   "GLE.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1359997,
+    "volume": 1495128,
     "currency": "EUR"
   },
   "HO.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 189337,
+    "volume": 139156,
     "currency": "EUR"
   },
   "ORA.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 6261941,
+    "volume": 4161066,
     "currency": "EUR"
   },
   "BN.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1235300,
+    "volume": 2163684,
     "currency": "EUR"
   },
   "SGO.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1081681,
+    "volume": 1549394,
     "currency": "EUR"
   },
   "LR.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 561359,
+    "volume": 933000,
     "currency": "EUR"
   },
   "KER.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 543146,
+    "volume": 463034,
     "currency": "EUR"
   },
   "AM.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 39670,
+    "volume": 21438,
     "currency": "EUR"
   },
   "VIE.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1287689,
+    "volume": 1195663,
     "currency": "EUR"
   },
   "ML.PA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1278539,
+    "volume": 1051571,
     "currency": "EUR"
   },
   "NVDA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 84307573,
+    "volume": 91664984,
     "currency": "USD"
   },
   "AAPL": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 39051747,
+    "volume": 34405006,
     "currency": "USD"
   },
   "GOOGL": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 28434977,
+    "volume": 54011739,
     "currency": "USD"
   },
   "MSFT": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 19419705,
+    "volume": 25128542,
     "currency": "USD"
   },
   "AMZN": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 33975762,
+    "volume": 33783543,
     "currency": "USD"
   },
   "META": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 50659475,
+    "volume": 34485035,
     "currency": "USD"
   },
   "TSLA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 45019044,
+    "volume": 35080523,
     "currency": "USD"
   },
   "AVGO": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 25480570,
+    "volume": 22140399,
     "currency": "USD"
   },
   "BRK-B": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3072197,
+    "volume": 3289124,
     "currency": "USD"
   },
   "WMT": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 15694994,
+    "volume": 14268126,
     "currency": "USD"
   },
   "LLY": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1846530,
+    "volume": 2053898,
     "currency": "USD"
   },
   "JPM": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4584920,
+    "volume": 5224381,
     "currency": "USD"
   },
   "XOM": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 14020214,
+    "volume": 12699980,
     "currency": "USD"
   },
   "V": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 8146153,
+    "volume": 6977024,
     "currency": "USD"
   },
   "JNJ": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5762160,
+    "volume": 6395104,
     "currency": "USD"
   },
   "MU": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 22799290,
+    "volume": 30135209,
     "currency": "USD"
   },
   "MA": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3456827,
+    "volume": 3491625,
     "currency": "USD"
   },
   "COST": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2227116,
+    "volume": 1675523,
     "currency": "USD"
   },
   "ORCL": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 25904273,
+    "volume": 81527008,
     "currency": "USD"
   },
   "ABBV": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3267429,
+    "volume": 3110629,
     "currency": "USD"
   },
   "PG": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 7514437,
+    "volume": 5203300,
     "currency": "USD"
   },
   "BAC": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 24569295,
+    "volume": 25787517,
     "currency": "USD"
   },
   "HD": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3518279,
+    "volume": 3137869,
     "currency": "USD"
   },
   "CVX": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 6431130,
+    "volume": 6345447,
     "currency": "USD"
   },
   "GE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 6886113,
+    "volume": 5712425,
     "currency": "USD"
   },
   "HSBA.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 38247586,
+    "volume": 14455811,
     "currency": "GBP"
   },
   "AZN.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2178329,
+    "volume": 1158441,
     "currency": "GBP"
   },
   "SHEL.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5166996,
+    "volume": 3815375,
     "currency": "GBP"
   },
   "RIO.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1263618,
+    "volume": 1097917,
     "currency": "GBP"
   },
   "ULVR.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2481520,
+    "volume": 5159663,
     "currency": "GBP"
   },
   "RR.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 12803749,
+    "volume": 8931065,
     "currency": "GBP"
   },
   "BATS.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1773172,
+    "volume": 1650741,
     "currency": "GBP"
   },
   "ARM": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3737607,
+    "volume": 3924247,
     "currency": "GBP"
   },
   "GSK.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3981872,
+    "volume": 16828085,
     "currency": "GBP"
   },
   "BP.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 30875803,
+    "volume": 17389460,
     "currency": "GBP"
   },
   "NG.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 7252650,
+    "volume": 6235370,
     "currency": "GBP"
   },
   "BARC.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 25465243,
+    "volume": 63956878,
     "currency": "GBP"
   },
   "LLOY.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 89998557,
+    "volume": 184149852,
     "currency": "GBP"
   },
   "BA.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3844003,
+    "volume": 3589589,
     "currency": "GBP"
   },
   "NWG.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 10972980,
+    "volume": 18342579,
     "currency": "GBP"
   },
   "REL.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2864273,
+    "volume": 2916288,
     "currency": "GBP"
   },
   "LSEG.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1140548,
+    "volume": 865986,
     "currency": "GBP"
   },
   "ANTO.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1421942,
+    "volume": 378837,
     "currency": "GBP"
   },
   "STAN.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 6523463,
+    "volume": 6724164,
     "currency": "GBP"
   },
   "RKT.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2458396,
+    "volume": 1183499,
     "currency": "GBP"
   },
   "AAL.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2373579,
+    "volume": 2077021,
     "currency": "GBP"
   },
   "CPG.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2200612,
+    "volume": 1580916,
     "currency": "GBP"
   },
   "DGE.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2273858,
+    "volume": 2538199,
     "currency": "GBP"
   },
   "GLEN.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 18755738,
+    "volume": 13564391,
     "currency": "GBP"
   },
   "III.L": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1445606,
+    "volume": 1717270,
     "currency": "GBP"
   },
   "SAP.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1575755,
+    "volume": 1438001,
     "currency": "EUR"
   },
   "SIE.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 821226,
+    "volume": 647844,
     "currency": "EUR"
   },
   "DTE.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 7178135,
+    "volume": 6608294,
     "currency": "EUR"
   },
   "ALV.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 292425,
+    "volume": 223750,
     "currency": "EUR"
   },
   "ENR.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2298267,
+    "volume": 3629015,
     "currency": "EUR"
   },
   "RHM.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 126654,
+    "volume": 96166,
     "currency": "EUR"
   },
   "MUV2.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 154613,
+    "volume": 174583,
     "currency": "EUR"
   },
   "IFX.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2812585,
+    "volume": 2861433,
     "currency": "EUR"
   },
   "DBK.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4088226,
+    "volume": 7429784,
     "currency": "EUR"
   },
   "DHL.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 931199,
+    "volume": 1239377,
     "currency": "EUR"
   },
   "MRK.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 185260,
+    "volume": 206619,
     "currency": "EUR"
   },
   "BMW.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1564040,
+    "volume": 979035,
     "currency": "EUR"
   },
   "MBG.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4239210,
+    "volume": 2547499,
     "currency": "EUR"
   },
   "VOW3.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 876060,
+    "volume": 1121792,
     "currency": "EUR"
   },
   "EOAN.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2423203,
+    "volume": 2662425,
     "currency": "EUR"
   },
   "SHL.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 656964,
+    "volume": 812067,
     "currency": "EUR"
   },
   "BAS.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1318067,
+    "volume": 2087500,
     "currency": "EUR"
   },
   "DB1.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 263715,
+    "volume": 210655,
     "currency": "EUR"
   },
   "BAYN.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1800840,
+    "volume": 1786530,
     "currency": "EUR"
   },
   "CBK.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1673785,
+    "volume": 1516727,
     "currency": "EUR"
   },
   "RWE.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 795616,
+    "volume": 832934,
     "currency": "EUR"
   },
   "P911.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1072772,
+    "volume": 865116,
     "currency": "EUR"
   },
   "HEN3.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 527204,
+    "volume": 258899,
     "currency": "EUR"
   },
   "HEI.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 360721,
+    "volume": 360688,
     "currency": "EUR"
   },
   "DTG.DE": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1246553,
+    "volume": 969013,
     "currency": "EUR"
   },
   "UCG.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3223545,
+    "volume": 2368384,
     "currency": "EUR"
   },
   "ISP.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 37081984,
+    "volume": 28370299,
     "currency": "EUR"
   },
   "ENEL.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 10593291,
+    "volume": 8791812,
     "currency": "EUR"
   },
   "ENI.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 8517346,
+    "volume": 7378779,
     "currency": "EUR"
   },
   "RACE.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 307640,
+    "volume": 278400,
     "currency": "EUR"
   },
   "G.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1194001,
+    "volume": 881432,
     "currency": "EUR"
   },
   "LDO.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1053947,
+    "volume": 764088,
     "currency": "EUR"
   },
   "PST.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2539802,
+    "volume": 1695372,
     "currency": "EUR"
   },
   "PRY.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1533864,
+    "volume": 1110168,
     "currency": "EUR"
   },
   "BMPS.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 5223132,
+    "volume": 5549422,
     "currency": "EUR"
   },
   "BPE.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4346807,
+    "volume": 3178649,
     "currency": "EUR"
   },
   "SRG.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 14822873,
+    "volume": 6920782,
     "currency": "EUR"
   },
   "TRN.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3348522,
+    "volume": 1873947,
     "currency": "EUR"
   },
   "BAMI.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 4287209,
+    "volume": 4224236,
     "currency": "EUR"
   },
   "MONC.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1335119,
+    "volume": 783115,
     "currency": "EUR"
   },
   "MB.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 908304,
+    "volume": 522222,
     "currency": "EUR"
   },
   "UNI.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1384789,
+    "volume": 2375182,
     "currency": "EUR"
   },
   "BMED.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 468852,
+    "volume": 550330,
     "currency": "EUR"
   },
   "TIT.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 2666797,
+    "volume": 2020683,
     "currency": "EUR"
   },
   "FBK.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1360726,
+    "volume": 1673341,
     "currency": "EUR"
   },
   "IG.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 3150219,
+    "volume": 2616666,
     "currency": "EUR"
   },
   "TPRO.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1484533,
+    "volume": 1444514,
     "currency": "EUR"
   },
   "EDNR.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 81969,
+    "volume": 62009,
     "currency": "EUR"
   },
   "REC.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 123313,
+    "volume": 141771,
     "currency": "EUR"
   },
   "AMP.MI": {
     "price": NaN,
     "change": NaN,
     "change_pct": NaN,
-    "volume": 1874532,
+    "volume": 1096416,
     "currency": "EUR"
   },
   "7203.T": {
-    "price": 3111.0,
-    "change": 9.0,
-    "change_pct": 0.29,
-    "volume": 3573700,
+    "price": 3083.0,
+    "change": 32.0,
+    "change_pct": 1.05,
+    "volume": 4932500,
     "currency": "JPY"
   },
   "8306.T": {
-    "price": 3363.0,
-    "change": -7.0,
-    "change_pct": -0.21,
-    "volume": 7568000,
+    "price": 3456.0,
+    "change": 79.0,
+    "change_pct": 2.34,
+    "volume": 12050700,
     "currency": "JPY"
   },
   "9984.T": {
-    "price": 4548.0,
-    "change": 74.0,
-    "change_pct": 1.65,
-    "volume": 9651300,
+    "price": 4736.0,
+    "change": 54.0,
+    "change_pct": 1.15,
+    "volume": 18668000,
     "currency": "JPY"
   },
   "6501.T": {
-    "price": 5685.0,
-    "change": 70.0,
-    "change_pct": 1.25,
-    "volume": 2407300,
+    "price": 5204.0,
+    "change": -416.0,
+    "change_pct": -7.4,
+    "volume": 10620700,
     "currency": "JPY"
   },
   "8316.T": {
-    "price": 3165.0,
-    "change": -22.0,
-    "change_pct": -0.69,
-    "volume": 4470900,
+    "price": 3219.0,
+    "change": 60.0,
+    "change_pct": 1.9,
+    "volume": 5040900,
     "currency": "JPY"
   },
   "6758.T": {
-    "price": 4033.0,
-    "change": -37.0,
-    "change_pct": -0.91,
-    "volume": 4069300,
+    "price": 3968.0,
+    "change": 11.0,
+    "change_pct": 0.28,
+    "volume": 5522700,
     "currency": "JPY"
   },
   "9983.T": {
-    "price": 74590.0,
-    "change": 830.0,
-    "change_pct": 1.13,
-    "volume": 176800,
-    "currency": "JPY"
-  },
-  "8035.T": {
-    "price": 9617.0,
-    "change": 227.0,
-    "change_pct": 2.42,
-    "volume": 2776100,
+    "price": 73480.0,
+    "change": -40.0,
+    "change_pct": -0.05,
+    "volume": 267800,
     "currency": "JPY"
   },
   "6857.T": {
-    "price": 34390.0,
-    "change": 530.0,
-    "change_pct": 1.57,
-    "volume": 3737800,
+    "price": 37820.0,
+    "change": 2890.0,
+    "change_pct": 8.27,
+    "volume": 9343700,
     "currency": "JPY"
   },
   "8058.T": {
-    "price": 4921.0,
-    "change": -15.0,
-    "change_pct": -0.3,
-    "volume": 1302700,
+    "price": 4875.0,
+    "change": 28.0,
+    "change_pct": 0.58,
+    "volume": 1405700,
     "currency": "JPY"
   },
   "8411.T": {
-    "price": 7611.0,
-    "change": 19.0,
-    "change_pct": 0.25,
-    "volume": 1558100,
+    "price": 7827.0,
+    "change": 188.0,
+    "change_pct": 2.46,
+    "volume": 2106600,
     "currency": "JPY"
   },
   "4519.T": {
-    "price": 6661.0,
-    "change": -27.0,
-    "change_pct": -0.4,
-    "volume": 961300,
+    "price": 6581.0,
+    "change": -33.0,
+    "change_pct": -0.5,
+    "volume": 906300,
     "currency": "JPY"
   },
   "7011.T": {
-    "price": 3550.0,
-    "change": 23.0,
-    "change_pct": 0.65,
-    "volume": 4324800,
+    "price": 3490.0,
+    "change": -60.0,
+    "change_pct": -1.69,
+    "volume": 7478600,
     "currency": "JPY"
   },
   "8031.T": {
-    "price": 5104.0,
-    "change": -3.0,
-    "change_pct": -0.06,
-    "volume": 1039100,
+    "price": 5056.0,
+    "change": 14.0,
+    "change_pct": 0.28,
+    "volume": 1088600,
     "currency": "JPY"
   },
   "6861.T": {
-    "price": 78770.0,
-    "change": -310.0,
-    "change_pct": -0.39,
-    "volume": 252400,
+    "price": 78640.0,
+    "change": -550.0,
+    "change_pct": -0.69,
+    "volume": 250300,
     "currency": "JPY"
   },
   "8001.T": {
-    "price": 2357.5,
-    "change": -8.5,
-    "change_pct": -0.36,
-    "volume": 2373100,
+    "price": 2314.5,
+    "change": 3.5,
+    "change_pct": 0.15,
+    "volume": 2703600,
     "currency": "JPY"
   },
   "9432.T": {
-    "price": 174.1,
-    "change": 0.1,
-    "change_pct": 0.06,
-    "volume": 29368200,
+    "price": 171.1,
+    "change": -0.8,
+    "change_pct": -0.47,
+    "volume": 44217100,
     "currency": "JPY"
   },
   "8766.T": {
-    "price": 569.1,
-    "change": -9.5,
-    "change_pct": -1.64,
-    "volume": 29764800,
+    "price": 564.9,
+    "change": 9.9,
+    "change_pct": 1.78,
+    "volume": 24711200,
     "currency": "JPY"
   },
   "6503.T": {
-    "price": 4775.0,
-    "change": 43.0,
-    "change_pct": 0.91,
-    "volume": 1362900,
+    "price": 4809.0,
+    "change": -2.0,
+    "change_pct": -0.04,
+    "volume": 1448800,
     "currency": "JPY"
   },
   "4063.T": {
-    "price": 6059.0,
-    "change": 209.0,
-    "change_pct": 3.57,
-    "volume": 4111400,
+    "price": 6030.0,
+    "change": 26.0,
+    "change_pct": 0.43,
+    "volume": 1829500,
     "currency": "JPY"
   },
   "7182.T": {
-    "price": 3023.0,
-    "change": -5.0,
-    "change_pct": -0.17,
-    "volume": 778600,
+    "price": 3033.0,
+    "change": 10.0,
+    "change_pct": 0.33,
+    "volume": 1952200,
     "currency": "JPY"
   },
   "2914.T": {
-    "price": 7440.0,
-    "change": -64.0,
-    "change_pct": -0.85,
-    "volume": 855700,
+    "price": 7387.0,
+    "change": 55.0,
+    "change_pct": 0.75,
+    "volume": 1107100,
     "currency": "JPY"
   },
   "7974.T": {
-    "price": 8457.0,
-    "change": 4.0,
-    "change_pct": 0.05,
-    "volume": 1851000,
+    "price": 8230.0,
+    "change": -81.0,
+    "change_pct": -0.97,
+    "volume": 2369600,
     "currency": "JPY"
   },
   "9433.T": {
-    "price": 2857.0,
-    "change": 6.5,
-    "change_pct": 0.23,
-    "volume": 1492200,
+    "price": 2755.5,
+    "change": -45.0,
+    "change_pct": -1.61,
+    "volume": 2688200,
     "currency": "JPY"
   },
   "7741.T": {
-    "price": 26410.0,
-    "change": 40.0,
-    "change_pct": 0.15,
-    "volume": 218900,
+    "price": 26425.0,
+    "change": 10.0,
+    "change_pct": 0.04,
+    "volume": 269700,
     "currency": "JPY"
   },
   "RY.TO": {
-    "price": 285.46,
-    "change": 1.2,
-    "change_pct": 0.42,
-    "volume": 7590297,
+    "price": 286.41,
+    "change": 0.95,
+    "change_pct": 0.33,
+    "volume": 5172099,
     "currency": "CAD"
   },
   "TD.TO": {
-    "price": 176.57,
-    "change": 0.81,
-    "change_pct": 0.46,
-    "volume": 4638370,
+    "price": 176.89,
+    "change": 0.32,
+    "change_pct": 0.18,
+    "volume": 4413087,
     "currency": "CAD"
   },
   "SHOP.TO": {
-    "price": 232.93,
-    "change": -3.0,
-    "change_pct": -1.27,
-    "volume": 894563,
+    "price": 235.47,
+    "change": 2.54,
+    "change_pct": 1.09,
+    "volume": 1179395,
     "currency": "CAD"
   },
   "AEM.TO": {
-    "price": 253.75,
-    "change": 7.27,
-    "change_pct": 2.95,
-    "volume": 852847,
+    "price": 256.08,
+    "change": 2.33,
+    "change_pct": 0.92,
+    "volume": 701886,
     "currency": "CAD"
   },
   "ENB.TO": {
-    "price": 68.01,
-    "change": 0.36,
-    "change_pct": 0.53,
-    "volume": 9504125,
+    "price": 67.89,
+    "change": -0.12,
+    "change_pct": -0.18,
+    "volume": 8124433,
     "currency": "CAD"
   },
   "BMO.TO": {
-    "price": 241.98,
-    "change": 2.93,
-    "change_pct": 1.23,
-    "volume": 4416729,
+    "price": 243.45,
+    "change": 1.47,
+    "change_pct": 0.61,
+    "volume": 4984548,
     "currency": "CAD"
   },
   "BN.TO": {
-    "price": 53.43,
-    "change": 0.16,
-    "change_pct": 0.3,
-    "volume": 2222762,
+    "price": 53.81,
+    "change": 0.38,
+    "change_pct": 0.71,
+    "volume": 2986076,
     "currency": "CAD"
   },
   "CM.TO": {
-    "price": 163.65,
-    "change": 1.73,
-    "change_pct": 1.07,
-    "volume": 2647590,
+    "price": 164.61,
+    "change": 0.96,
+    "change_pct": 0.59,
+    "volume": 1087827,
     "currency": "CAD"
   },
   "BNS.TO": {
-    "price": 131.82,
-    "change": 1.09,
-    "change_pct": 0.83,
-    "volume": 2886692,
+    "price": 132.27,
+    "change": 0.45,
+    "change_pct": 0.34,
+    "volume": 3582377,
     "currency": "CAD"
   },
   "CNR.TO": {
-    "price": 176.47,
-    "change": 3.47,
-    "change_pct": 2.01,
-    "volume": 1104477,
+    "price": 174.05,
+    "change": -2.42,
+    "change_pct": -1.37,
+    "volume": 852477,
     "currency": "CAD"
   },
   "ABX.TO": {
-    "price": 55.09,
-    "change": 1.49,
-    "change_pct": 2.78,
-    "volume": 3931675,
+    "price": 55.53,
+    "change": 0.44,
+    "change_pct": 0.8,
+    "volume": 5744369,
     "currency": "CAD"
   },
   "BAM.TO": {
-    "price": 65.73,
-    "change": -0.22,
-    "change_pct": -0.33,
-    "volume": 534540,
+    "price": 66.3,
+    "change": 0.57,
+    "change_pct": 0.87,
+    "volume": 895201,
     "currency": "CAD"
   },
   "CP.TO": {
-    "price": 127.99,
-    "change": 2.08,
-    "change_pct": 1.65,
-    "volume": 936147,
+    "price": 125.7,
+    "change": -2.29,
+    "change_pct": -1.79,
+    "volume": 1004945,
     "currency": "CAD"
   },
   "WPM.TO": {
-    "price": 176.85,
-    "change": 5.27,
-    "change_pct": 3.07,
-    "volume": 1013870,
+    "price": 177.02,
+    "change": 0.17,
+    "change_pct": 0.1,
+    "volume": 602733,
     "currency": "CAD"
   },
   "SU.TO": {
-    "price": 106.99,
-    "change": -4.43,
-    "change_pct": -3.98,
-    "volume": 4004636,
+    "price": 108.52,
+    "change": 1.53,
+    "change_pct": 1.43,
+    "volume": 2234363,
     "currency": "CAD"
   },
   "NTR.TO": {
-    "price": 97.46,
-    "change": 1.6,
-    "change_pct": 1.67,
-    "volume": 2920274,
+    "price": 96.52,
+    "change": -0.94,
+    "change_pct": -0.96,
+    "volume": 2637285,
     "currency": "CAD"
   },
   "TRP.TO": {
-    "price": 88.27,
-    "change": 0.69,
-    "change_pct": 0.79,
-    "volume": 4471947,
+    "price": 88.32,
+    "change": 0.05,
+    "change_pct": 0.06,
+    "volume": 5277708,
     "currency": "CAD"
   },
   "MFC.TO": {
-    "price": 63.2,
-    "change": 0.61,
-    "change_pct": 0.97,
-    "volume": 3485586,
+    "price": 62.67,
+    "change": -0.53,
+    "change_pct": -0.84,
+    "volume": 6295496,
     "currency": "CAD"
   },
   "IMO.TO": {
-    "price": 181.04,
-    "change": -7.72,
-    "change_pct": -4.09,
-    "volume": 798433,
+    "price": 183.06,
+    "change": 2.02,
+    "change_pct": 1.12,
+    "volume": 881726,
     "currency": "CAD"
   },
   "ATD.TO": {
-    "price": 81.39,
-    "change": -1.32,
-    "change_pct": -1.6,
-    "volume": 1170508,
+    "price": 80.24,
+    "change": -1.15,
+    "change_pct": -1.41,
+    "volume": 1454420,
     "currency": "CAD"
   },
   "L.TO": {
-    "price": 68.15,
-    "change": -0.77,
-    "change_pct": -1.12,
-    "volume": 799153,
+    "price": 67.98,
+    "change": -0.17,
+    "change_pct": -0.25,
+    "volume": 1328473,
     "currency": "CAD"
   },
   "NA.TO": {
-    "price": 209.95,
-    "change": 2.65,
-    "change_pct": 1.28,
-    "volume": 2768934,
+    "price": 211.73,
+    "change": 1.78,
+    "change_pct": 0.85,
+    "volume": 772767,
     "currency": "CAD"
   },
   "FNV.TO": {
-    "price": 331.93,
-    "change": 8.41,
-    "change_pct": 2.6,
-    "volume": 428608,
+    "price": 334.13,
+    "change": 2.2,
+    "change_pct": 0.66,
+    "volume": 311736,
     "currency": "CAD"
   },
   "CCO.TO": {
-    "price": 115.77,
-    "change": 4.87,
-    "change_pct": 4.39,
-    "volume": 1057793,
+    "price": 117.25,
+    "change": 1.48,
+    "change_pct": 1.28,
+    "volume": 998032,
     "currency": "CAD"
   },
   "TRI.TO": {
-    "price": 163.53,
-    "change": -7.71,
-    "change_pct": -4.5,
-    "volume": 871272,
+    "price": 162.49,
+    "change": -1.04,
+    "change_pct": -0.64,
+    "volume": 697840,
     "currency": "CAD"
   }
 }
