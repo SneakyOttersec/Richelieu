@@ -1,5 +1,40 @@
 [
   {
+    "title": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d4bfa93?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-04T22:03:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why the Gold Rush Is Back On—at Least for Now",
+    "link": "https://www.barrons.com/articles/gold-price-dollar-bond-yields-midterm-elections-25a81dad?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-11-04T20:23:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Agnico Eagle Soars 10%, Wheaton Precious Up 12% as Democratic Midterm Win Lifts Gold",
+    "link": "https://www.tikr.com/blog/agnico-eagle-soars-10-wheaton-precious-up-12-as-democratic-midterm-win-lifts-gold?ref=yahoofinance&tlnk=yf-261104-c9r635jr",
+    "publisher": "TIKR",
+    "date": "2026-11-04T20:03:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Gold Mining Shares Rally as Democratic Midterm Victory Weakens US Dollar and Lifts Bullion Prices",
+    "link": "https://investorshub.advfn.com/market-news/article/39243/gold-mining-shares-rally-as-democratic-midterm-victory-weakens-us-dollar-and-lifts-bullion-prices",
+    "publisher": "InvestorsHub",
+    "date": "2026-11-04T12:02:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Most Investors Own VEA. Few Know About This International Cash Cows ETF",
+    "link": "https://247wallst.com/investing/etf/2026/11/04/most-investors-own-vea-few-know-about-this-international-cash-cows-etf/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-11-04T10:17:34Z",
+    "type": "STORY"
+  },
+  {
     "title": "Barrick Mining (B) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
     "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-earnings-expected-140005066.html",
     "publisher": "Zacks",
@@ -32,41 +67,6 @@
     "link": "https://www.marketbeat.com/articles/newmonts-record-quarter-shows-why-golds-floor-is-the-real-story/?utm_source=yahoofinance&utm_medium=yahoofinance",
     "publisher": "MarketBeat",
     "date": "2026-10-25T16:05:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Barrick Sinks 5.7% as Freedom Broker Cuts Gold Majors to Hold, Slashes Target to $46",
-    "link": "https://www.tikr.com/blog/barrick-sinks-5-7-as-freedom-broker-cuts-gold-majors-to-hold-slashes-target-to-46?ref=yahoofinance",
-    "publisher": "TIKR",
-    "date": "2026-10-22T17:04:27Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-barrick-newmont-fall-following-152349756.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-22T15:23:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "This $40 Gold Mining Stock Could Turn $5,000 Into a Fortune",
-    "link": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/",
-    "publisher": "Motley Fool",
-    "date": "2026-10-21T21:50:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Barrick Mining (B) Earnings Rose 50%, but Is Cash Flow Keeping Up?",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/barrick-mining-b-earnings-rose-172743336.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-10-21T17:27:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SA Expands U.S. Gold Search With Slaughterhouse Project Acquisition",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/sa-expands-u-gold-search-131000446.html",
-    "publisher": "Zacks",
-    "date": "2026-10-20T13:10:00Z",
     "type": "STORY"
   }
 ]

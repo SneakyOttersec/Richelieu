@@ -1,5 +1,54 @@
 [
   {
+    "title": "Sanofi (ENXTPA:SAN) Stock Looks Discounted Despite Its 20% Monthly Run",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sanofi-enxtpa-san-stock-looks-011621706.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-05T01:16:21Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nurix, Sanofi Diverge — And One Breaks Out — On A Shocking Eczema Development",
+    "link": "https://www.investors.com/news/technology/nurix-therapeutics-sanofi-stat6-degrader/?src=A00220&yptr=yahoo",
+    "publisher": "Investor's Business Daily",
+    "date": "2026-11-04T21:19:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "NRIX Stock Clocks Worst Day Ever After Sanofi Discontinues Trial Of Licensed Drug: Wells Fargo Slashes Price Target",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nrix-stock-clocks-worst-day-ever-after-sanofi-discontinues-trial-of-licensed-drug-wells-fargo-slashes-price-target/cNGL8TdR936",
+    "publisher": "Stocktwits",
+    "date": "2026-11-04T21:14:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Was There Any Sign Regeneron Stock Would Run?",
+    "link": "https://www.trefis.com/stock/regn/articles/622582/was-there-any-sign-regeneron-stock-would-run/2026-11-04",
+    "publisher": "Trefis",
+    "date": "2026-11-04T20:59:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sanofi (ENXTPA:SAN) Drops SAR448272 And Backs New Immunology Candidate",
+    "link": "https://finance.yahoo.com/healthcare/articles/sanofi-enxtpa-san-drops-sar448272-191418143.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-04T19:14:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Sanofi stops development of Nurix-partnered immune drug",
+    "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
+    "publisher": "BioPharma Dive",
+    "date": "2026-11-04T17:18:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nurix Therapeutics Shares Plunge 28.4% as Sanofi Terminates STAT6 Drug Development Programme",
+    "link": "https://investorshub.advfn.com/market-news/article/39257/nurix-therapeutics-shares-plunge-28-4-as-sanofi-terminates-stat6-drug-development-programme",
+    "publisher": "InvestorsHub",
+    "date": "2026-11-04T13:47:28Z",
+    "type": "STORY"
+  },
+  {
     "title": "NRIX Slumps 35% After-Hours — What’s Driving The Selloff?",
     "link": "https://stocktwits.com/news-articles/markets/equity/nrix-slumps-35-after-hours-what-s-driving-the-selloff/cNGXjnzR9d1",
     "publisher": "Stocktwits",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/healthcare/articles/nurix-therapeutics-stock-tumbles-sanofi-215420093.html",
     "publisher": "Investing.com",
     "date": "2026-11-03T21:54:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What Recursion Pharmaceuticals (RXRX) Said on Its Q3 Earnings Call",
-    "link": "https://www.marketbeat.com/instant-alerts/transcript-what-recursion-pharmaceuticals-rxrx-said-on-its-q3-earnings-call-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-11-03T19:14:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Recursion's Q3 Earnings Beat Estimates on Sanofi Milestone Revenues",
-    "link": "https://finance.yahoo.com/healthcare/articles/recursions-q3-earnings-beat-estimates-145900137.html",
-    "publisher": "Zacks",
-    "date": "2026-11-03T14:59:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Regeneron's 'Strong Commercial' Q3 Underscores Core Business Health, RBC Capital Markets Says",
-    "link": "https://finance.yahoo.com/healthcare/articles/regeneron-apos-apos-strong-commercial-164005831.html",
-    "publisher": "MT Newswires",
-    "date": "2026-11-02T16:40:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Will These 5 Drug Bigwigs Surpass Q3 Earnings Forecasts?",
-    "link": "https://finance.yahoo.com/healthcare/articles/5-drug-bigwigs-surpass-q3-162200699.html",
-    "publisher": "Zacks",
-    "date": "2026-11-02T16:22:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sanofi (SNY) Q3 2026 Earnings Call Transcript",
-    "link": "https://www.fool.com/earnings/call-transcripts/2026/11/02/sanofi-sny-q3-2026-earnings-call-transcript/",
-    "publisher": "Motley Fool",
-    "date": "2026-11-02T16:17:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The top 5 analyst questions from Regeneron’s Q3 earnings call",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-regeneron-134936444.html",
-    "publisher": "StockStory",
-    "date": "2026-11-02T13:49:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Sanofi (ENXTPA:SAN) Stock Can Q3 Earnings Sustain Its Revenue Strength",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sanofi-enxtpa-san-stock-q3-101417342.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-01T10:14:17Z",
     "type": "STORY"
   }
 ]

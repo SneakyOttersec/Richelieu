@@ -1,9 +1,30 @@
 [
   {
-    "title": "Nikkei Flat, Supported by Financial, Airline Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?siteid=yhoof2&yptr=yahoo",
+    "title": "Investors poised for US gridlock as Democrats projected to win control of House",
+    "link": "https://finance.yahoo.com/news/investors-ready-possible-shake-congress-100659339.html",
+    "publisher": "Reuters",
+    "date": "2026-11-04T14:32:56Z",
+    "type": "STORY"
+  },
+  {
+    "title": "A Big Loser at the Ballot Box: New Data Centers",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/a-big-loser-at-the-ballot-box-new-data-centers-lUJTT0Zz4iGxfrmRUSN4?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-11-04T00:50:00Z",
+    "date": "2026-11-04T14:10:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Kioxia Fell 13% and SoftBank Fell 7% as the Blue Wave Hit Tokyo",
+    "link": "https://247wallst.com/investing/2026/11/04/kioxia-fell-13-and-softbank-fell-7-as-the-blue-wave-hit-tokyo/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-11-04T12:06:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Democratic Wave Hits AI-Dependent Stock Markets in Asia",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/democratic-wave-hits-ai-dependent-stock-markets-in-asia-UnKNspMnasodDAm6C0B4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-04T04:26:35Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://www.constructiondive.com/news/bedrock-robotics-digs-up-new-funding/873065/",
     "publisher": "Construction Dive",
     "date": "2026-10-28T17:40:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Anthropic’s IPO filing lifts stocks across Asia—except for China",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-filing-lifts-stocks-083926680.html",
-    "publisher": "Fortune",
-    "date": "2026-10-27T08:39:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "US futures and Asian stocks advance following a rally on Wall Street",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/us-futures-asian-stocks-advance-040552073.html",
-    "publisher": "Associated Press",
-    "date": "2026-10-27T04:05:52Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank weighs a $50 billion AI bet on Malaysia, equal to a tenth of the country’s GDP",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-weighs-50-billion-ai-113117551.html",
-    "publisher": "Fortune",
-    "date": "2026-10-26T11:31:17Z",
     "type": "STORY"
   }
 ]
