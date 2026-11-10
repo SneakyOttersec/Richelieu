@@ -1,5 +1,47 @@
 [
   {
+    "title": "Stocks to Watch Recap: Nvidia, AMD, Skydance",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/stocks-to-watch-nvidia-coreweave-kkr-z3Xw3Fb0qxdhdyFK3li9?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-09T22:10:01Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European shares climb as banks, defence stocks lead broad-based rally",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-rise-banking-boost-094224615.html",
+    "publisher": "Reuters",
+    "date": "2026-11-09T17:34:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
+    "link": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-09T13:49:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Crédit Agricole proposes merger talks with Banco BPM",
+    "link": "https://www.retailbankerinternational.com/news/credit-agricole-banco-bpm-merger-talks/",
+    "publisher": "Retail Banker International",
+    "date": "2026-11-09T12:01:50Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
+    "link": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-09T07:31:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Crédit Agricole proposes Banco BPM merger, 20% premium and €1 bln dividend",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cr-dit-agricole-proposes-banco-065549294.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-09T06:55:49Z",
+    "type": "STORY"
+  },
+  {
     "title": "Monte dei Paschi Raises Profit Guidance as Intesa Prepares to Launch Takeover Bid",
     "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-profit-rises-as-intesa-takeover-looms-1551efed?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -25,48 +67,6 @@
     "link": "https://www.wsj.com/finance/investing/monte-dei-paschi-investors-reject-defense-plan-against-intesas-bid-0800184a?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-10-30T07:08:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is Banco BPM (BIT:BAMI) Below Fair Value After Bid Resistance?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/banco-bpm-bit-bami-below-131804327.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-10-22T13:18:04Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Monte dei Pasci hits roadblocks in Banco BPM, Banca Generali takeover",
-    "link": "https://www.retailbankerinternational.com/news/monte-dei-pasci-banco-bpm-banca-generali-takeover/",
-    "publisher": "Retail Banker International",
-    "date": "2026-10-09T11:56:42Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bid by Italy's Intesa bank to take over MPS gets boost",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bid-italys-intesa-bank-over-141200198.html",
-    "publisher": "AFP",
-    "date": "2026-10-08T14:12:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "UniCredit (BIT:UCG) Could Be 8% Undervalued On Fresh M And A Talk",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/unicredit-bit-ucg-could-8-100658791.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-09-29T10:06:58Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Italy launches antitrust probe into Intesa bid for Monte dei Paschi",
-    "link": "https://www.retailbankerinternational.com/news/intesa-monte-dei-paschi-italy-antitrust-probe/",
-    "publisher": "Retail Banker International",
-    "date": "2026-09-16T11:53:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Generali Mulling Monte dei Paschi’s $10 Billion Takeover Bid for Banca Generali",
-    "link": "https://www.wsj.com/business/deals/banca-generali-mulling-monte-di-paschis-10-billion-takeover-bid-6f17eaf5?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-08-28T06:49:00Z",
     "type": "STORY"
   }
 ]

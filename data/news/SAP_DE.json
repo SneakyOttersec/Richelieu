@@ -1,5 +1,61 @@
 [
   {
+    "title": "SAP Stocks Rise 1.73% After JPMorgan Upgrade on AI Production Shift",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-stocks-rise-1-73-181034858.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-09T18:10:34Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Descartes Systems Group (TSX:DSG) Has A Fresh Update, So What Is Drawing Attention Now?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-systems-group-tsx-dsg-131040331.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-09T13:10:40Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Descartes Systems Group (TSX:DSG) Stock Could Be 20% Undervalued After Ocean Visibility Integration",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-systems-group-tsx-dsg-120838622.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-09T12:08:38Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-09T11:36:09Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SAP gains after JPMorgan upgrades stock as ’AI moves from pilot to production’",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-gains-jpmorgan-upgrades-stock-085639473.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-09T08:56:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Docusign vs. Monday.com: Absolute Scale vs. Faster Growth in Tech Revenues",
+    "link": "https://www.fool.com/coverage/charts/2026/11/07/docusign-vs-monday-com-absolute-scale-vs-faster-growth-in-tech-revenues/",
+    "publisher": "Motley Fool",
+    "date": "2026-11-07T15:57:02Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is DocuSign (DOCU) Fully Valued As SAP Branded Deal Expands Its Reach?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/docusign-docu-fully-valued-sap-031646005.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-07T03:16:46Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Dnow Inc. Q3 2026 Earnings Call Summary",
+    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-dnow-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+    "publisher": "Moby",
+    "date": "2026-11-06T13:30:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "How A Top-Performing Fund Wins With Foreign Value Stocks",
     "link": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-wins-with-foreign-value-stocks/?src=A00220&yptr=yahoo",
     "publisher": "Investor's Business Daily",
@@ -11,62 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/docusign-docu-stock-trades-premium-071638806.html",
     "publisher": "Simply Wall St.",
     "date": "2026-11-06T07:16:38Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Docusign vs. Monday.com: Which Technology Stock Is a Better Buy for 2027?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/05/docusign-vs-monday-com-which-technology-stock-is-a-better-buy-for-2027/",
-    "publisher": "Motley Fool",
-    "date": "2026-11-05T22:33:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Stocks Rise 4.1% as Sovereign AI Launch Faces Its First Commercial Test",
-    "link": "https://finance.yahoo.com/technology/ai/articles/sap-stocks-rise-4-1-185945004.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-04T18:59:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Docusign vs. Okta: Which Tech Stock Is a Better Buy for 2027?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/04/docusign-vs-okta-which-tech-stock-is-a-better-buy-for-2027/",
-    "publisher": "Motley Fool",
-    "date": "2026-11-04T13:25:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP Stocks Decline as Sovereign AI Faces a Margin Test",
-    "link": "https://finance.yahoo.com/technology/ai/articles/sap-stocks-decline-sovereign-ai-181856399.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-03T18:18:56Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP (XTRA:SAP) Gains Ground In European E Invoicing Compliance",
-    "link": "https://finance.yahoo.com/technology/articles/sap-xtra-sap-gains-ground-091519101.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-03T09:15:19Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP SE (SAP) Could Benefit From AI Integration as Cloud Growth Accelerates, Janus Henderson Says",
-    "link": "https://finance.yahoo.com/technology/ai/articles/sap-se-sap-could-benefit-201143808.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-11-02T20:11:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "IBM vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-    "link": "https://www.fool.com/coverage/better-buy/2026/10/30/ibm-vs-servicenow-which-technology-stock-is-a-better-buy-in-2026/",
-    "publisher": "Motley Fool",
-    "date": "2026-10-30T20:35:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SAP SE (SAP) Combines Decades of Enterprise Data Security with New AI Automation Tools",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/sap-se-sap-combines-decades-154818416.html",
-    "publisher": "Insider Monkey",
-    "date": "2026-10-30T15:48:18Z",
     "type": "STORY"
   }
 ]
