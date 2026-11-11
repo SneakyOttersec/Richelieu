@@ -1,5 +1,12 @@
 [
   {
+    "title": "Nikkei Flat, Supported by Bank, Pharma Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-bank-pharma-stocks-2c6e1b38?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-11T00:25:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Gold Futures Extend Gains as Oil Prices Retreat",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-seeks-3-5-billion-062318897.html",
     "publisher": "Bloomberg",
     "date": "2026-11-02T06:23:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans",
-    "link": "https://finance.yahoo.com/economy/policy/articles/boj-speeds-etf-sales-potentially-044050606.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-31T04:40:50Z",
     "type": "STORY"
   }
 ]

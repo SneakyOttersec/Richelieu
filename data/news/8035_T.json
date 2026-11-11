@@ -1,12 +1,5 @@
 [
   {
-    "title": "Asian stocks rise after technology shares advance on Wall Street",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-technology-shares-034421581.html",
-    "publisher": "Associated Press",
-    "date": "2026-11-10T03:44:21Z",
-    "type": "STORY"
-  },
-  {
     "title": "Tech companies hit by new AI worries on positive day for most markets",
     "link": "https://www.euronews.com/2026/11/05/shares-advance-after-wall-street-rally-following-us-midterm-elections",
     "publisher": "Euronews",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-stocks-bdac1d0a?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-10-01T09:52:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Japanese chipmakers rally as Micron earnings boost AI trade",
+    "link": "https://finance.yahoo.com/technology/ai/articles/japanese-chipmakers-rally-micron-earnings-045459000.html",
+    "publisher": "Investing.com",
+    "date": "2026-10-01T04:54:59Z",
     "type": "STORY"
   }
 ]
