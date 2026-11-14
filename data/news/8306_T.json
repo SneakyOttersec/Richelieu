@@ -1,5 +1,19 @@
 [
   {
+    "title": "MUFG raises annual profit target, announces 200 billion yen buyback",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mufg-raises-annual-profit-target-084706551.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-13T08:47:06Z",
+    "type": "STORY"
+  },
+  {
+    "title": "MUFG: Fiscal Q2 Earnings Snapshot",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mufg-fiscal-q2-earnings-snapshot-075902996.html",
+    "publisher": "Associated Press",
+    "date": "2026-11-13T07:59:02Z",
+    "type": "STORY"
+  },
+  {
     "title": "CoreWeave's $4 Billion Loan Plan Comes With a Catch",
     "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-4-billion-loan-plan-230601586.html",
     "publisher": "GuruFocus.com",
@@ -53,20 +67,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-11-09T19:12:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-05T20:45:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Panamint Capital closes $1.8bn loan for Big Rooter Power project",
-    "link": "https://www.energymonitor.ai/news/panamint-capital-loan-big-rooter-power/",
-    "publisher": "Energy Monitor",
-    "date": "2026-11-05T10:40:17Z",
     "type": "STORY"
   }
 ]

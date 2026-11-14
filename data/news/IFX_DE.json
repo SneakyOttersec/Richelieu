@@ -1,5 +1,12 @@
 [
   {
+    "title": "Nvidia crisis sends AMD up 30%, Broadcom up 24%",
+    "link": "https://finance.yahoo.com/technology/articles/nvidia-crisis-sends-amd-30-120219038.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-13T12:02:19Z",
+    "type": "STORY"
+  },
+  {
     "title": "U.S., Europe chip stocks dip as Nvidia board reportedly weighs ousting Huang",
     "link": "https://finance.yahoo.com/technology/ai/articles/china-chip-stocks-rally-u-063831379.html",
     "publisher": "Investing.com",
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-11-10T10:14:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Germany's Infineon says AI data centre buildout won't slow",
-    "link": "https://finance.yahoo.com/technology/ai/articles/germanys-infineon-says-ai-data-092741964.html",
-    "publisher": "AFP",
-    "date": "2026-11-10T09:27:41Z",
     "type": "STORY"
   }
 ]

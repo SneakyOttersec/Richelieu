@@ -1,5 +1,40 @@
 [
   {
+    "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
+    "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-13T20:02:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Group Stocks Fall 5.11% as Nvidia Shake-Up Hits OpenAI-Linked Investor",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-fall-5-185118197.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-13T18:51:18Z",
+    "type": "STORY"
+  },
+  {
+    "title": "AI Roundup: Nvidia CEO’s Exit Dominates Headlines — CoreWeave, Cisco Results Boost AI Sentiment",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-nvidia-ceo-s-exit-dominates-headlines-core-weave-cisco-results-boost-ai-sentiment/cNbbU35R9Oz",
+    "publisher": "Stocktwits",
+    "date": "2026-11-13T09:14:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Posts a Record Quarter and Slides 12% as BofA Flags “Circular Financing Concerns”",
+    "link": "https://www.tikr.com/blog/arm-posts-a-record-quarter-and-slides-12-as-bofa-flags-circular-financing-concerns?ref=yahoofinance&tlnk=yf-261113-r453fmgw",
+    "publisher": "TIKR",
+    "date": "2026-11-13T07:51:03Z",
+    "type": "STORY"
+  },
+  {
+    "title": "GE Vernova Has Slid Since Summer: Why Evercore ISI Sees 67% Upside",
+    "link": "https://www.tikr.com/blog/ge-vernova-has-slid-since-summer-why-evercore-isi-sees-67-upside?ref=yahoofinance&tlnk=yf-261113-j7pr5q78",
+    "publisher": "TIKR",
+    "date": "2026-11-13T07:25:17Z",
+    "type": "STORY"
+  },
+  {
     "title": "Democrats Open Probe Into Top Trump Fundraiser Meredith O’Rourke",
     "link": "https://www.wsj.com/politics/policy/democrats-open-probe-into-top-trump-fundraiser-meredith-orourke-94f93562?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/german-ai-robotics-start-valued-121529942.html",
     "publisher": "AFP",
     "date": "2026-11-12T12:15:29Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Turmoil Hurts AI Stocks Worldwide",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-turmoil-hurts-ai-stocks-worldwide-DziLFYmgonr6tK2Une6P?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-12T11:00:02Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia’s Crisis Reverberates Across Its Circular Financing Empire",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-crisis-reverberates-across-its-circular-financing-empire-ZkICyO5dWbC3C6HShXGP?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-12T10:39:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Quantinuum (QNT) Stock Looks Expensive After a 33% Year To Date Slide",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-qnt-stock-looks-expensive-090909846.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-12T09:09:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What Is Quantinuum (QNT) Signaling With Its Japan Quantum AI Expansion?",
-    "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-qnt-signaling-japan-quantum-051337757.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-12T05:13:37Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Group (TSE:9984) Lands Malaysia AI Deal, But Is The Valuation Opportunity Real",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-lands-011730096.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-12T01:17:30Z",
     "type": "STORY"
   }
 ]
