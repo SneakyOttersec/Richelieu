@@ -21,13 +21,6 @@
     "type": "STORY"
   },
   {
-    "title": "Stocks to Watch Recap: Robinhood, Alphabet, Microsoft, SK Hynix",
-    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/stocks-to-watch-sk-hynix-robinhood-alphabet-microsoft-RJ7DHjvnMiXrqipk8KlJ?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-10-28T21:41:22Z",
-    "type": "STORY"
-  },
-  {
     "title": "Danone (ENXTPA:BN) Holds 2026 Guidance Following Rebound While Fair Value Still Sits Higher",
     "link": "https://finance.yahoo.com/markets/stocks/articles/danone-enxtpa-bn-holds-2026-200805141.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.just-drinks.com/news/danone-recycling-claims-eu/",
     "publisher": "Just Drinks",
     "date": "2026-10-23T12:28:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Danone partners on $40M facility turning yogurt waste to renewable energy",
+    "link": "https://www.fooddive.com/news/danone-yogurt-ohio-renewable-energy-biogas/833572/",
+    "publisher": "Food Dive",
+    "date": "2026-10-21T14:00:00Z",
     "type": "STORY"
   }
 ]

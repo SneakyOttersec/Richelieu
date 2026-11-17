@@ -1,5 +1,33 @@
 [
   {
+    "title": "Nvidia Export Curbs Could Lift These Semiconductor Stocks With US Fab Exposure",
+    "link": "https://finance.yahoo.com/technology/articles/nvidia-export-curbs-could-lift-211322386.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-16T21:13:22Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-tumble-11-12-185823166.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-16T18:58:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian chip stocks slide ahead of Nvidia earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-16T03:27:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is Tokyo Electron (TSE:8035) Too Expensive After The Chip Sell Off?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-tse-8035-too-020720549.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-15T02:07:20Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank Group Stocks Fall 5.11% as Nvidia Shake-Up Hits OpenAI-Linked Investor",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-fall-5-185118197.html",
     "publisher": "GuruFocus.com",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-slump-ai-044824243.html",
     "publisher": "Investing.com",
     "date": "2026-10-30T04:48:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Global chip, AI stocks surge on Anthropic IPO cheer",
-    "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-ai-stocks-surge-040959441.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-27T04:09:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slip-chipmakers-retreat-044532791.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-26T04:45:32Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tokyo Electron Ltd. Controls 87% of This Semiconductor Equipment Market. Can Smaller Rivals Break In?",
-    "link": "https://247wallst.com/investing/2026/10/22/tokyo-electron-ltd-controls-87-of-this-semiconductor-equipment-market-can-smaller-rivals-break-in/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-10-22T17:20:18Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Global AI stocks sell-off spreads to Wall Street",
-    "link": "https://www.telegraph.co.uk/business/2026/10/15/asian-markets-plunge-amid-tech-sell-off/",
-    "publisher": "The Telegraph",
-    "date": "2026-10-15T06:35:35Z",
     "type": "STORY"
   }
 ]

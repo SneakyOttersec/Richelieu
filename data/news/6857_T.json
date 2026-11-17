@@ -1,5 +1,47 @@
 [
   {
+    "title": "Asian shares decline following stocks tumbled on Wall Street",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html",
+    "publisher": "Associated Press",
+    "date": "2026-11-17T04:01:48Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-tumble-11-12-185823166.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-16T18:58:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stocks-drop-6-14-174505908.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-16T17:45:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Stock Indexes Mixed at Start of Crucial Week",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-1-dragged-by-electronics-metals-stocks-258e75e8?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-16T08:27:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian Equities Drop as U.S. Chip Selloff Spills Over",
+    "link": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-16T06:16:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian chip stocks slide ahead of Nvidia earnings",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-16T03:27:30Z",
+    "type": "STORY"
+  },
+  {
     "title": "Tech companies hit by new AI worries on positive day for most markets",
     "link": "https://www.euronews.com/2026/11/05/shares-advance-after-wall-street-rally-following-us-midterm-elections",
     "publisher": "Euronews",
@@ -25,48 +67,6 @@
     "link": "https://247wallst.com/investing/2026/11/04/kioxia-fell-13-and-softbank-fell-7-as-the-blue-wave-hit-tokyo/",
     "publisher": "24/7 Wall St.",
     "date": "2026-11-04T12:06:39Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Advantest (TSE:6857) Q2 Earnings Power Faces A Rich Valuation",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-tse-6857-q2-earnings-111334015.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-10-30T11:13:34Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tech firms take fresh hit as disappointing earnings fan AI fears",
-    "link": "https://www.euronews.com/2026/10/30/tech-firms-take-fresh-hit-as-disappointing-earnings-fan-ai-fears",
-    "publisher": "Euronews",
-    "date": "2026-10-30T09:36:52Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Japan's Nikkei slumps up to 3% as tech stocks tumble on AI worries",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/japans-nikkei-slumps-3-tech-022028372.html",
-    "publisher": "Reuters",
-    "date": "2026-10-30T06:53:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-slump-ai-044824243.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-30T04:48:24Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tech Outlooks Roil Asian Stock Markets",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-outlooks-roil-asian-stock-103749400.html",
-    "publisher": "MT Newswires",
-    "date": "2026-10-29T10:37:49Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Advantest shares jump as AI chip demand drives earnings outlook upgrade",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-shares-jump-ai-chip-060330752.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-29T06:03:30Z",
     "type": "STORY"
   }
 ]
