@@ -1,12 +1,5 @@
 [
   {
-    "title": "Asian shares decline following stocks tumbled on Wall Street",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html",
-    "publisher": "Associated Press",
-    "date": "2026-11-17T04:01:48Z",
-    "type": "STORY"
-  },
-  {
     "title": "Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-tumble-11-12-185823166.html",
     "publisher": "GuruFocus.com",
@@ -67,6 +60,13 @@
     "link": "https://247wallst.com/investing/2026/11/04/kioxia-fell-13-and-softbank-fell-7-as-the-blue-wave-hit-tokyo/",
     "publisher": "24/7 Wall St.",
     "date": "2026-11-04T12:06:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Advantest (TSE:6857) Q2 Earnings Power Faces A Rich Valuation",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-tse-6857-q2-earnings-111334015.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-10-30T11:13:34Z",
     "type": "STORY"
   }
 ]

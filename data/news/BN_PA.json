@@ -1,5 +1,19 @@
 [
   {
+    "title": "Food, drinks majors sign regenerative agriculture initiative",
+    "link": "https://www.just-food.com/news/food-drinks-majors-sign-regenerative-agriculture-initiative/",
+    "publisher": "Just Food",
+    "date": "2026-11-17T13:45:13Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Food, drinks majors sign regenerative agriculture initiative",
+    "link": "https://www.just-drinks.com/news/food-drinks-majors-sign-regenerative-agriculture-initiative/",
+    "publisher": "Just Drinks",
+    "date": "2026-11-17T13:45:13Z",
+    "type": "STORY"
+  },
+  {
     "title": "Danone changes US leadership in ‘offensive phase’ of its turnaround",
     "link": "https://www.fooddive.com/news/Danone-US-protein-glp1-oikos-production-customer-service-disruption/873125/",
     "publisher": "Food Dive",
@@ -18,6 +32,13 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/danone-enxtpa-bn-stock-may-002047810.html",
     "publisher": "Simply Wall St.",
     "date": "2026-10-29T00:20:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Stocks to Watch Recap: Robinhood, Alphabet, Microsoft, SK Hynix",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/stocks-to-watch-sk-hynix-robinhood-alphabet-microsoft-RJ7DHjvnMiXrqipk8KlJ?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-10-28T21:41:22Z",
     "type": "STORY"
   },
   {
@@ -46,27 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/danone-beats-q3-sales-growth-075112402.html",
     "publisher": "Investing.com",
     "date": "2026-10-28T07:51:12Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Danone joins Nestlé, Coca-Cola in revising recycling labels after EU greenwashing probe",
-    "link": "https://www.esgdive.com/news/danone-joins-nestle-coca-cola-revises-recycling-labels-after-eu-greenwashing-complaint/872771/",
-    "publisher": "ESG Dive",
-    "date": "2026-10-26T16:26:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Danone joins Coca-Cola, Nestlé in agreeing to tweak recycling claims",
-    "link": "https://www.just-drinks.com/news/danone-recycling-claims-eu/",
-    "publisher": "Just Drinks",
-    "date": "2026-10-23T12:28:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Danone partners on $40M facility turning yogurt waste to renewable energy",
-    "link": "https://www.fooddive.com/news/danone-yogurt-ohio-renewable-energy-biogas/833572/",
-    "publisher": "Food Dive",
-    "date": "2026-10-21T14:00:00Z",
     "type": "STORY"
   }
 ]

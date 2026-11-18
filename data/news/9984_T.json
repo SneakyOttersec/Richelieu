@@ -1,9 +1,44 @@
 [
   {
-    "title": "Asian shares decline following stocks tumbled on Wall Street",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html",
-    "publisher": "Associated Press",
-    "date": "2026-11-17T04:01:48Z",
+    "title": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-18T00:34:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia's Complex Orbit",
+    "link": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-huang-departure/card/nvidia-s-complex-web-of-investments-J3IHD1fIW8d7T0Ro4QnX?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-11-17T21:15:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia Bet Big on AI Stocks. Now They’re Getting Hit.",
+    "link": "https://www.barrons.com/articles/nvidia-ai-stock-selloff-3bd126bf?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-11-17T20:15:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
+    "link": "https://247wallst.com/investing/2026/11/17/softbank-had-64-of-its-u-s-stock-portfolio-in-intel-it-has-since-halved/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-11-17T15:52:05Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Why Jensen Huang's absence from Nvidia is 'horrible' for neoclouds",
+    "link": "https://finance.yahoo.com/video/why-jensen-huangs-absence-from-nvidia-is-horrible-for-neoclouds-194629811.html",
+    "publisher": "Yahoo Finance Video",
+    "date": "2026-11-17T13:00:00Z",
+    "type": "VIDEO"
+  },
+  {
+    "title": "AI Pullback Stings SoftBank, With Stock Down 62% Since June",
+    "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/ai-pullback-stings-softbank-with-stock-down-62-since-june-ExQYDkTiSOVMF1ki8uRV?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-17T11:17:03Z",
     "type": "STORY"
   },
   {
@@ -32,41 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html",
     "publisher": "Simply Wall St.",
     "date": "2026-11-14T06:20:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Is SoftBank (TSE:9434) Fully Priced After Its 90% Five Year Run?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9434-fully-priced-042905823.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-14T04:29:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia Board Reportedly Approached Arm CEO Rene Haas To Succeed Jensen Huang As Top Execs Threaten To Quit, Join SpaceX Terafab",
-    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-board-reportedly-approached-arm-ceo-rene-haas-to-succeed-jensen-huang-as-top-execs-threaten-to-quit-join-space-x-terafab/cNbRWJ2R9Qb",
-    "publisher": "Stocktwits",
-    "date": "2026-11-13T20:33:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia approaches boss of Britain’s biggest tech firm to replace Huang",
-    "link": "https://uk.finance.yahoo.com/news/nvidia-approaches-boss-britain-biggest-203243161.html",
-    "publisher": "The Telegraph",
-    "date": "2026-11-13T20:32:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia approaches boss of Britain’s biggest tech firm to replace Huang",
-    "link": "https://www.telegraph.co.uk/business/2026/11/13/nvidia-approaches-boss-of-britains-biggest-tech-firm/",
-    "publisher": "The Telegraph",
-    "date": "2026-11-13T20:32:43Z",
-    "type": "STORY"
-  },
-  {
-    "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
-    "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-13T20:02:00Z",
     "type": "STORY"
   }
 ]
