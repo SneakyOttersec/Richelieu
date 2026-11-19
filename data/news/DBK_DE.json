@@ -1,5 +1,61 @@
 [
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-1e52dbdf?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-18T22:00:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Data watchdog probes massive Deutsche Bank leak of 15M files",
+    "link": "https://www.euronews.com/2026/11/18/data-watchdog-probes-massive-deutsche-bank-leak-of-15m-files",
+    "publisher": "Euronews",
+    "date": "2026-11-18T21:44:27Z",
+    "type": "STORY"
+  },
+  {
+    "title": "In 2008, The “Walmart Recession Signal” Neared A Record As The Market Collapsed. One Economist Says It Is Starting To Rise Again",
+    "link": "https://247wallst.com/investing/2026/11/18/in-2008-the-walmart-recession-signal-neared-a-record-as-the-market-collapsed-one-economist-says-it-is-starting-to-rise-again-2/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-11-18T19:52:47Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Bank Names Top North America Telecom Services Stock",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-names-top-north-160620334.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-18T16:06:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bank Shows Trump’s Tax Details as 15 Million of Its Files Leak",
+    "link": "https://247wallst.com/investing/2026/11/18/bank-shows-trumps-tax-details-as-15-million-of-its-files-leak/",
+    "publisher": "24/7 Wall St.",
+    "date": "2026-11-18T13:53:16Z",
+    "type": "STORY"
+  },
+  {
+    "title": "The Morning Risk Report: SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-3d719200?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-18T12:56:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Leaked files put Deutsche Bank’s historic compliance record under scrutiny",
+    "link": "https://www.privatebankerinternational.com/news/deutsche-bank-leaked-files/",
+    "publisher": "Private Banker International",
+    "date": "2026-11-18T12:02:44Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Market Chatter: Deutsche Bank Internal Review Revealed Gaps in Monitoring at Colombian Unit",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-deutsche-bank-internal-095237091.html",
+    "publisher": "MT Newswires",
+    "date": "2026-11-18T09:52:37Z",
+    "type": "STORY"
+  },
+  {
     "title": "Deutsche Bank Spent $8 Billion Cleaning Up Its Act. A Massive Leak Raises Doubts.",
     "link": "https://www.barrons.com/articles/deutsche-bank-stock-leaks-7aa39985?siteid=yhoof2&yptr=yahoo",
     "publisher": "Barrons.com",
@@ -11,62 +67,6 @@
     "link": "https://www.ibtimes.com/deutsche-bank-epstein-transactions-report-3809866",
     "publisher": "International Business Times",
     "date": "2026-11-17T17:41:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks to Watch: Nvidia, Deutsche Bank, Alibaba",
-    "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/stocks-to-watch-nvidia-deutsche-bank-alibaba-XjfPtmsmoazZCLm8gAhe?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-17T15:17:01Z",
-    "type": "STORY"
-  },
-  {
-    "title": "3 European Bank Stocks With Strong Compliance Records as Deutsche Bank Scrutiny Grows",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-european-bank-stocks-strong-151444811.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-17T15:14:44Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Bank Just Had 15 Million Files Leaked",
-    "link": "https://app.moby.co/home/news/news-deutsche-bank-thought-it-had-buried-its-old-scandals-then-15-million-files-leaked?utm_source=yahoo_finance&utm_medium=rss",
-    "publisher": "Moby",
-    "date": "2026-11-17T15:02:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Are Options Traders Betting on a Big Move in Deutsche Bank Stock?",
-    "link": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-143200641.html",
-    "publisher": "Zacks",
-    "date": "2026-11-17T14:32:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Bank Shares Drop After Leaks Put Spotlight on Troubled Past",
-    "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-17T14:14:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Supermarket Income REIT gets an upgrade as funding outlook improves",
-    "link": "https://www.proactiveinvestors.com/companies/news/1101913/supermarket-income-reit-gets-an-upgrade-as-funding-outlook-improves-1101913.html",
-    "publisher": "Proactive",
-    "date": "2026-11-17T13:00:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Bank Plans US Trading Comeback. It Wants To Challenge Wall Street Giants.",
-    "link": "https://www.ibtimes.com/deutsche-bank-fixed-income-record-revenue-comeback-3809808",
-    "publisher": "International Business Times",
-    "date": "2026-11-16T19:11:36Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Bank sees limited upside in dsm-firmenich after share re-rating",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-limited-upside-125244809.html",
-    "publisher": "Investing.com",
-    "date": "2026-11-16T12:52:44Z",
     "type": "STORY"
   }
 ]

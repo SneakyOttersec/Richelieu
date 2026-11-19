@@ -1,5 +1,19 @@
 [
   {
+    "title": "European Chip Stocks Rise After Strong Nvidia Results",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-18T09:31:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia earnings spark premarket rally in chipmakers, neocloud stocks",
+    "link": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-18T01:05:26Z",
+    "type": "STORY"
+  },
+  {
     "title": "European chip stocks fall after new U.S. curbs on AI chip access",
     "link": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-fall-u-115309611.html",
     "publisher": "Investing.com",
@@ -53,20 +67,6 @@
     "link": "https://www.euronews.com/2026/11/10/infineon-says-ai-data-centre-boom-to-persist-despite-growing-backlash",
     "publisher": "Euronews",
     "date": "2026-11-11T05:54:59Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Vertiv Holdings Co (VRT) Secures Infineon Supply Deal, Is The Valuation Gap Still Compelling?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-10T21:11:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Does Earnings Beat Change The Bull Case For Vertiv Holdings Co (VRT)?",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/does-earnings-beat-change-bull-201034319.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-10T20:10:34Z",
     "type": "STORY"
   }
 ]

@@ -1,9 +1,44 @@
 [
   {
-    "title": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-18T00:34:00Z",
+    "title": "SoftBank Takes a $3.7 Billion Hit to Cancel 13 GW of Turbines, Testing GE Vernova",
+    "link": "https://www.tikr.com/blog/softbank-takes-a-3-7-billion-hit-to-cancel-13-gw-of-turbines-testing-ge-vernova?ref=yahoofinance&tlnk=yf-261118-ch6hmjrm",
+    "publisher": "TIKR",
+    "date": "2026-11-18T16:32:45Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Puts Ohio Under “A Thorough Reassessment.” GE Vernova’s $16 Billion Cash Outlook Rests on Buyers Like It",
+    "link": "https://www.tikr.com/blog/softbank-puts-ohio-under-a-thorough-reassessment-ge-vernovas-16-billion-cash-outlook-rests-on-buyers-like-it?ref=yahoofinance&tlnk=yf-261118-g9w7hhc4",
+    "publisher": "TIKR",
+    "date": "2026-11-18T15:20:23Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Chose OpenAI Over 'Wonderful' Anthropic, Now Masayoshi Son Regrets Picking Only One: 'I Wish I Had Invested Back Then'",
+    "link": "https://www.benzinga.com/markets/tech/26/11/63383952/softbank-chose-openai-over-wonderful-anthropic-now-masayoshi-son-regrets-picking-only-one-i-wish-i-had-invested-back-then?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+    "publisher": "Benzinga Private Markets",
+    "date": "2026-11-18T14:01:39Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Masayoshi Son Reportedly Calls Missing Anthropic Investment A ‘Mistake’ Ahead Of $1.4 Trillion IPO",
+    "link": "https://stocktwits.com/news-articles/markets/equity/masayoshi-son-reportedly-calls-missing-anthropic-investment-a-mistake-ahead-of-1-4-trillion-ipo/cNbXCp9R9L9",
+    "publisher": "Stocktwits",
+    "date": "2026-11-18T11:00:57Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank regrets 'mistake' of not backing Anthropic, says Massayoshi Son",
+    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-regrets-mistake-not-backing-075606412.html",
+    "publisher": "Financial Times",
+    "date": "2026-11-18T07:56:06Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Hyundai acquires full ownership of Boston Dynamics",
+    "link": "https://www.just-auto.com/news/hyundai-acquires-full-ownership-of-boston-dynamics/",
+    "publisher": "Just Auto",
+    "date": "2026-11-18T09:53:31Z",
     "type": "STORY"
   },
   {
@@ -33,40 +68,5 @@
     "publisher": "Yahoo Finance Video",
     "date": "2026-11-17T13:00:00Z",
     "type": "VIDEO"
-  },
-  {
-    "title": "AI Pullback Stings SoftBank, With Stock Down 62% Since June",
-    "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/ai-pullback-stings-softbank-with-stock-down-62-since-june-ExQYDkTiSOVMF1ki8uRV?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-17T11:17:03Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Group Stocks Fall 3.69% as AI Jitters Hit Its $64.6 Billion OpenAI Bet",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-group-stocks-fall-3-181015417.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-16T18:10:15Z",
-    "type": "STORY"
-  },
-  {
-    "title": "How Investors May Respond To SoftBank (TSE:9434) AI Robotics Funding",
-    "link": "https://finance.yahoo.com/technology/ai/articles/investors-may-respond-softbank-tse-121445569.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-14T12:14:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank (TSE:9434) Lifts Guidance As Earnings Strength Puts Valuation Back In Focus",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9434-lifts-guidance-111245994.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-14T11:12:45Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank (TSE:9434) Leads $500 Million Agile Robots Funding Round",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html",
-    "publisher": "Simply Wall St.",
-    "date": "2026-11-14T06:20:35Z",
-    "type": "STORY"
   }
 ]
