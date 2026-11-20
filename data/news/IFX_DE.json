@@ -1,5 +1,19 @@
 [
   {
+    "title": "Global chip stocks rally as Anthropic’s record IPO boosts confidence in AI trade",
+    "link": "https://finance.yahoo.com/technology/ai/articles/global-chip-stocks-rally-anthropic-112707609.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-19T11:27:07Z",
+    "type": "STORY"
+  },
+  {
+    "title": "European Stock Indexes Rise as Tech Sentiment Improves",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-19T08:24:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European Chip Stocks Rise After Strong Nvidia Results",
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/infineon-stock-target-lowered-bofa-111557553.html",
     "publisher": "Investing.com",
     "date": "2026-11-11T11:15:57Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-bank-pharma-stocks-2c6e1b38?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-11T09:25:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Infineon says AI data centre boom to persist despite growing backlash",
-    "link": "https://www.euronews.com/2026/11/10/infineon-says-ai-data-centre-boom-to-persist-despite-growing-backlash",
-    "publisher": "Euronews",
-    "date": "2026-11-11T05:54:59Z",
     "type": "STORY"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "The 25 Biggest US IPOs of All Time",
+    "link": "https://www.kiplinger.com/slideshow/investing/t052-s001-the-25-biggest-ipos-in-u-s-history/index.html",
+    "publisher": "Kiplinger",
+    "date": "2026-11-19T21:38:58Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI",
+    "link": "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-19T09:21:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Google faces renewed challenge over $1.66bn advertising fine",
     "link": "https://www.verdict.co.uk/google-renewed-challenge-1-66bn-advertising-fine/",
     "publisher": "Verdict",
@@ -54,19 +68,5 @@
     "publisher": "Investing.com",
     "date": "2026-11-05T07:16:52Z",
     "type": "STORY"
-  },
-  {
-    "title": "Deutsche Telekom Raises Outlook, Plans Dividend Increase",
-    "link": "https://www.wsj.com/business/earnings/deutsche-telekom-raises-outlook-plans-dividend-increase-cbb6085e?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-05T06:58:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Deutsche Telekom Said to Hit Brakes on T-Mobile Merger",
-    "link": "https://finance.yahoo.com/video/deutsche-telekom-said-hit-brakes-202702492.html",
-    "publisher": "Bloomberg",
-    "date": "2026-11-03T20:27:02Z",
-    "type": "VIDEO"
   }
 ]

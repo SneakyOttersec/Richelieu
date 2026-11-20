@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nikkei Rises 0.2%, Led by Chip, Retail Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-19T00:34:00Z",
-    "type": "STORY"
-  },
-  {
     "title": "Fast Retailing (TSE:9983) Stock Looks Above Fair Value Following Its 240% Run",
     "link": "https://finance.yahoo.com/markets/stocks/articles/fast-retailing-tse-9983-stock-101647674.html",
     "publisher": "Simply Wall St.",
@@ -67,6 +60,13 @@
     "link": "https://www.wsj.com/business/earnings/uniqlo-owner-posts-record-annual-profit-expects-further-growth-27ad2fe8?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-10-08T11:35:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Uniqlo owner Fast Retailing logs 32% jump in FY profit, forecasts slowing growth",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/uniqlo-owner-fast-retailing-logs-072714716.html",
+    "publisher": "Investing.com",
+    "date": "2026-10-08T07:27:14Z",
     "type": "STORY"
   }
 ]

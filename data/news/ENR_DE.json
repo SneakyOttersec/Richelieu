@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Stock Indexes Rise as Tech Sentiment Improves",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-19T08:24:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides",
     "link": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html",
     "publisher": "Reuters",
@@ -60,13 +67,6 @@
     "link": "https://app.moby.co/home/news/news-siemens-energy-has-become-one-of-ais-most-unexpected-winners?utm_source=yahoo_finance&utm_medium=rss",
     "publisher": "Moby",
     "date": "2026-11-11T15:22:47Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Siemens Energy Shares Jump on Steeper Profit Targets Through 2030",
-    "link": "https://www.wsj.com/business/earnings/siemens-energy-targets-steeper-profit-gains-through-2030-269212e1?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-11T10:41:00Z",
     "type": "STORY"
   }
 ]

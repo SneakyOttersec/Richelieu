@@ -1,9 +1,16 @@
 [
   {
-    "title": "Nikkei Rises 0.2%, Led by Chip, Retail Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?siteid=yhoof2&yptr=yahoo",
+    "title": "Nikkei Falls 2.9%, Dragged by Chip, Metals Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
-    "date": "2026-11-19T00:34:00Z",
+    "date": "2026-11-20T00:38:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Is This Still an \"AI\" Driven Market?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/still-ai-driven-market-213300337.html",
+    "publisher": "Zacks",
+    "date": "2026-11-19T21:33:00Z",
     "type": "STORY"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://www.euronews.com/2026/11/05/shares-advance-after-wall-street-rally-following-us-midterm-elections",
     "publisher": "Euronews",
     "date": "2026-11-05T08:54:25Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tokyo Electron Q2 profit jumps 27% as AI demand drives outlook, ¥150 bln buyback",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tokyo-electron-q2-profit-jumps-072721135.html",
-    "publisher": "Investing.com",
-    "date": "2026-10-30T07:27:21Z",
     "type": "STORY"
   }
 ]
