@@ -1,5 +1,54 @@
 [
   {
+    "title": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-23T21:57:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
+    "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-23T20:48:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer shares slip despite judge’s approval of $7.25 bln Roundup settlement",
+    "link": "https://finance.yahoo.com/healthcare/articles/bayer-wins-approval-7-25-080243742.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-23T08:02:43Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer ordered to pay $7.25 billion to Roundup users who developed cancer, with payouts up to $165,000 each",
+    "link": "https://finance.yahoo.com/healthcare/articles/bayer-ordered-pay-7-25-193000859.html",
+    "publisher": "Moneywise",
+    "date": "2026-11-22T19:30:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer (XTRA:BAYN) Shares Just Moved, So What Is Driving Attention Now?",
+    "link": "https://finance.yahoo.com/healthcare/articles/bayer-xtra-bayn-shares-just-140929546.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-21T14:09:29Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Bayer (XTRA:BAYN) Stock Could Be Undervalued After Lifted 2026 Outlook",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bayer-xtra-bayn-stock-could-121506617.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-21T12:15:06Z",
+    "type": "STORY"
+  },
+  {
+    "title": "What Does Bayer (XTRA:BAYN) U.S. SUNHARBO Launch Mean For Stroke Prevention?",
+    "link": "https://finance.yahoo.com/healthcare/articles/does-bayer-xtra-bayn-u-111220820.html",
+    "publisher": "Simply Wall St.",
+    "date": "2026-11-21T11:12:20Z",
+    "type": "STORY"
+  },
+  {
     "title": "Missouri judge approves Bayer's $7.25 billion Roundup settlement",
     "link": "https://finance.yahoo.com/healthcare/articles/missouri-judge-approves-bayers-7-211301815.html",
     "publisher": "Reuters",
@@ -18,55 +67,6 @@
     "link": "https://finance.yahoo.com/healthcare/articles/bayer-pay-7-25-billion-214217018.html",
     "publisher": "Associated Press",
     "date": "2026-11-20T21:42:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bayer’s $7.25 Billion Roundup Settlement Approved by US Judge",
-    "link": "https://finance.yahoo.com/healthcare/articles/bayer-7-25-billion-roundup-204814458.html",
-    "publisher": "Bloomberg",
-    "date": "2026-11-20T20:48:14Z",
-    "type": "STORY"
-  },
-  {
-    "title": "2 Farm ETFs Own What Every Grocery Store Depends On",
-    "link": "https://247wallst.com/investing/etf/2026/11/20/2-farm-etfs-own-what-every-grocery-store-depends-on/",
-    "publisher": "24/7 Wall St.",
-    "date": "2026-11-20T11:36:07Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Cibus BioFragrance Direct-Sales Window Expands to $100 Million – Quarterly Update Report",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cibus-biofragrance-direct-sales-window-231910130.html",
-    "publisher": "Exec Edge",
-    "date": "2026-11-16T23:19:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "What HLS Therapeutics (HLS) Said on Its Q3 Earnings Call",
-    "link": "https://www.marketbeat.com/instant-alerts/transcript-what-hls-therapeutics-hls-said-on-its-q3-earnings-call-2026-11-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-    "publisher": "MarketBeat",
-    "date": "2026-11-13T23:12:50Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Amazon's secret AI plan could change how Americans shop",
-    "link": "https://finance.yahoo.com/technology/ai/articles/amazons-secret-ai-plan-could-170609826.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-13T17:06:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Bayer Wins FDA Approval for Sunharbo for Secondary Stroke Risk Reduction",
-    "link": "https://finance.yahoo.com/healthcare/articles/bayer-wins-fda-approval-sunharbo-183900909.html",
-    "publisher": "Zacks",
-    "date": "2026-11-10T18:39:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Eli Lilly, Novartis and Bayer",
-    "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-highlights-eli-055000179.html",
-    "publisher": "Zacks",
-    "date": "2026-11-10T05:50:00Z",
     "type": "STORY"
   }
 ]

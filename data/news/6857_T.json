@@ -1,5 +1,26 @@
 [
   {
+    "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html",
+    "publisher": "Associated Press",
+    "date": "2026-11-24T03:31:25Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
+    "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-stocks-soar-tracking-021520376.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-24T02:15:20Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nvidia stock posts best day in over 23 years after Jensen Huang’s reinstatement",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-surge-30-board-143330163.html",
+    "publisher": "Investing.com",
+    "date": "2026-11-23T14:33:30Z",
+    "type": "STORY"
+  },
+  {
     "title": "Advantest Stocks Plunge 10.32% to Lead Nikkei Rout Despite Raised AI Forecast",
     "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-plunge-10-32-213856316.html",
     "publisher": "GuruFocus.com",
@@ -46,27 +67,6 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-1-dragged-by-electronics-metals-stocks-258e75e8?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-11-16T08:27:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asian Equities Drop as U.S. Chip Selloff Spills Over",
-    "link": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-16T06:16:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Asian chip stocks slide ahead of Nvidia earnings",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html",
-    "publisher": "Investing.com",
-    "date": "2026-11-16T03:27:30Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Tech companies hit by new AI worries on positive day for most markets",
-    "link": "https://www.euronews.com/2026/11/05/shares-advance-after-wall-street-rally-following-us-midterm-elections",
-    "publisher": "Euronews",
-    "date": "2026-11-05T08:54:25Z",
     "type": "STORY"
   }
 ]
