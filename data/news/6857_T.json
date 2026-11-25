@@ -1,9 +1,30 @@
 [
   {
-    "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
-    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html",
-    "publisher": "Associated Press",
-    "date": "2026-11-24T03:31:25Z",
+    "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
+    "link": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
+    "publisher": "BeInCrypto",
+    "date": "2026-11-25T01:12:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-25T00:21:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-jump-12-45-173630366.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-24T17:36:30Z",
+    "type": "STORY"
+  },
+  {
+    "title": "FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
+    "link": "https://finance.yahoo.com/technology/articles/form-benefits-rising-industry-usage-134800513.html",
+    "publisher": "Zacks",
+    "date": "2026-11-24T13:48:00Z",
     "type": "STORY"
   },
   {
@@ -11,13 +32,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-stocks-soar-tracking-021520376.html",
     "publisher": "Investing.com",
     "date": "2026-11-24T02:15:20Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Nvidia stock posts best day in over 23 years after Jensen Huang’s reinstatement",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-surge-30-board-143330163.html",
-    "publisher": "Investing.com",
-    "date": "2026-11-23T14:33:30Z",
     "type": "STORY"
   },
   {
@@ -53,20 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-tumble-11-12-185823166.html",
     "publisher": "GuruFocus.com",
     "date": "2026-11-16T18:58:23Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stocks-drop-6-14-174505908.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-16T17:45:05Z",
-    "type": "STORY"
-  },
-  {
-    "title": "European Stock Indexes Mixed at Start of Crucial Week",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-1-dragged-by-electronics-metals-stocks-258e75e8?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-16T08:27:00Z",
     "type": "STORY"
   }
 ]

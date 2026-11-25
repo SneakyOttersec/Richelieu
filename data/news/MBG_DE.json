@@ -1,5 +1,12 @@
 [
   {
+    "title": "Tesla Stock Drops as Mercedes-Benz Enters the Self-Driving Race",
+    "link": "https://www.barrons.com/articles/tesla-stock-price-mercedes-benz-self-driving-germany-ec24303a?siteid=yhoof2&yptr=yahoo",
+    "publisher": "Barrons.com",
+    "date": "2026-11-24T12:20:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
     "link": "https://finance.yahoo.com/small-business/articles/bank-challenges-trucking-ceo-8-181637204.html",
     "publisher": "FreightWaves",
@@ -15,14 +22,14 @@
   },
   {
     "title": "German strikes hit Mercedes and BMW",
-    "link": "https://uk.finance.yahoo.com/news/german-strikes-hit-mercedes-bmw-151209946.html",
+    "link": "https://www.telegraph.co.uk/business/2026/11/22/german-strikes-hit-mercedes-and-bmw/",
     "publisher": "The Telegraph",
     "date": "2026-11-22T15:12:09Z",
     "type": "STORY"
   },
   {
     "title": "German strikes hit Mercedes and BMW",
-    "link": "https://www.telegraph.co.uk/business/2026/11/22/german-strikes-hit-mercedes-and-bmw/",
+    "link": "https://uk.finance.yahoo.com/news/german-strikes-hit-mercedes-bmw-151209946.html",
     "publisher": "The Telegraph",
     "date": "2026-11-22T15:12:09Z",
     "type": "STORY"
@@ -61,12 +68,5 @@
     "publisher": "Yahoo Finance Video",
     "date": "2026-11-20T22:22:56Z",
     "type": "VIDEO"
-  },
-  {
-    "title": "Europe's cheap-labour edge fades as emerging markets catch up - IntelliNews Lambda",
-    "link": "http://www.intellinews.com/europe-s-cheap-labour-edge-fades-as-emerging-markets-catch-up-intellinews-lambda-486879/",
-    "publisher": "IntelliNews",
-    "date": "2026-11-20T17:36:16Z",
-    "type": "STORY"
   }
 ]

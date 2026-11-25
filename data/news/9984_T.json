@@ -1,5 +1,26 @@
 [
   {
+    "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
+    "publisher": "Associated Press",
+    "date": "2026-11-25T04:05:26Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
+    "link": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
+    "publisher": "BeInCrypto",
+    "date": "2026-11-25T01:12:52Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-fall-4-172748336.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-24T17:27:48Z",
+    "type": "STORY"
+  },
+  {
     "title": "Nvidia’s Asian Suppliers Rally as Jensen Huang Returns as CEO: SK Hynix Jumps 8%, SoftBank Shares Rise in Tokyo",
     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-asian-suppliers-rally-jensen-012213841.html",
     "publisher": "Benzinga",
@@ -47,26 +68,5 @@
     "publisher": "Investing.com",
     "date": "2026-11-23T19:07:59Z",
     "type": "STORY"
-  },
-  {
-    "title": "Arm Holdings Stocks Soar 13.5% as CEO Rene Haas Commits Through 2033",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-soar-13-175528778.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-23T17:55:28Z",
-    "type": "STORY"
-  },
-  {
-    "title": "The 5 Best Stocks in SoftBank’s Portfolio",
-    "link": "https://www.tikr.com/blog/the-5-best-stocks-in-softbanks-portfolio?ref=yahoofinance&tlnk=yf-261123-qfxc9224",
-    "publisher": "TIKR",
-    "date": "2026-11-23T17:37:26Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-    "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-    "publisher": "Yahoo Finance Video",
-    "date": "2026-11-23T16:13:39Z",
-    "type": "VIDEO"
   }
 ]
