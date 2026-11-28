@@ -1,5 +1,12 @@
 [
   {
+    "title": "European Stock Indexes Rise as Tech Rally Extends",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-27T08:32:00Z",
+    "type": "STORY"
+  },
+  {
     "title": "Siemens Energy Signs Major Deal to Revive Venezuela's Power Grid",
     "link": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html",
     "publisher": "Oilprice.com",
@@ -60,13 +67,6 @@
     "link": "https://finance.yahoo.com/technology/ai/articles/european-shares-ease-tech-stocks-081814187.html",
     "publisher": "Reuters",
     "date": "2026-11-17T17:33:35Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
-    "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
-    "publisher": "Utility Dive",
-    "date": "2026-11-17T13:00:00Z",
     "type": "STORY"
   }
 ]

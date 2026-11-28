@@ -1,5 +1,33 @@
 [
   {
+    "title": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html",
+    "publisher": "GuruFocus.com",
+    "date": "2026-11-27T18:02:19Z",
+    "type": "STORY"
+  },
+  {
+    "title": "This Beaten-Down AI Stock Looks Dirt Cheap at 4 Times Earnings With 130% Upside",
+    "link": "https://www.barchart.com/story/news/9034648/this-beaten-down-ai-stock-looks-dirt-cheap-at-4-times-earnings-with-130-upside",
+    "publisher": "Barchart",
+    "date": "2026-11-27T16:30:04Z",
+    "type": "STORY"
+  },
+  {
+    "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+    "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?siteid=yhoof2&yptr=yahoo",
+    "publisher": "The Wall Street Journal",
+    "date": "2026-11-27T05:53:00Z",
+    "type": "STORY"
+  },
+  {
+    "title": "SoftBank’s “Worst Sell-Off” Since ’08 Is Bad News for Arm. Here’s the Number That Matters",
+    "link": "https://www.tikr.com/blog/softbanks-worst-sell-off-since-08-is-bad-news-for-arm-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261127-3ggwv4gr",
+    "publisher": "TIKR",
+    "date": "2026-11-27T03:08:55Z",
+    "type": "STORY"
+  },
+  {
     "title": "SoftBank Group Stocks Jump 7.32% as AI Rebound Lifts Tokyo After a 14.83% Rout",
     "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-jump-7-184827003.html",
     "publisher": "GuruFocus.com",
@@ -39,34 +67,6 @@
     "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html",
     "publisher": "Associated Press",
     "date": "2026-11-26T05:21:53Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount",
-    "link": "https://finance.yahoo.com/technology/ai/articles/softbank-credit-risk-tops-500-030009520.html",
-    "publisher": "Bloomberg",
-    "date": "2026-11-26T03:00:09Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Stocks to Watch Recap: Nvidia, Anthropic, Dell",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-25T21:47:17Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Why Do Analysts Keep Chopping GE Vernova Stock?",
-    "link": "https://www.investors.com/news/ge-vernova-stock-price-target-baird-erste-bnp/?src=A00220&yptr=yahoo",
-    "publisher": "Investor's Business Daily",
-    "date": "2026-11-25T19:24:10Z",
-    "type": "STORY"
-  },
-  {
-    "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-crash-14-174425817.html",
-    "publisher": "GuruFocus.com",
-    "date": "2026-11-25T17:44:25Z",
     "type": "STORY"
   }
 ]

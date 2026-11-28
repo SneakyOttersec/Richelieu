@@ -1,14 +1,21 @@
 [
   {
+    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+    "link": "https://finance.yahoo.com/video/inside-china-4-billion-secondhand-170600428.html",
+    "publisher": "WSJ",
+    "date": "2026-11-27T17:06:00Z",
+    "type": "VIDEO"
+  },
+  {
     "title": "Europe’s richest man delays retirement until he’s 95",
-    "link": "https://uk.finance.yahoo.com/news/europe-richest-man-delays-retirement-181727120.html",
+    "link": "https://www.telegraph.co.uk/business/2026/11/25/europes-richest-man-delays-retirement-until-hes-95/",
     "publisher": "The Telegraph",
     "date": "2026-11-25T18:17:27Z",
     "type": "STORY"
   },
   {
     "title": "Europe’s richest man delays retirement until he’s 95",
-    "link": "https://www.telegraph.co.uk/business/2026/11/25/europes-richest-man-delays-retirement-until-hes-95/",
+    "link": "https://uk.finance.yahoo.com/news/europe-richest-man-delays-retirement-181727120.html",
     "publisher": "The Telegraph",
     "date": "2026-11-25T18:17:27Z",
     "type": "STORY"
@@ -60,13 +67,6 @@
     "link": "https://www.wsj.com/cmo-today/verizon-trades-network-claims-for-pop-culture-buzz-78295970?siteid=yhoof2&yptr=yahoo",
     "publisher": "The Wall Street Journal",
     "date": "2026-11-16T14:18:00Z",
-    "type": "STORY"
-  },
-  {
-    "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-    "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?siteid=yhoof2&yptr=yahoo",
-    "publisher": "The Wall Street Journal",
-    "date": "2026-11-15T10:30:00Z",
     "type": "STORY"
   }
 ]
